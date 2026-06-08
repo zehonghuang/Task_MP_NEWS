@@ -1,0 +1,47 @@
+{
+  "id": "n_autosport_20260607_b0dafc379c",
+  "layout_code": "STANDARD",
+  "type_code": "DRIVER",
+  "pinned": false,
+  "weight": 0,
+  "tag_text": "Antonelli / 花絮",
+  "tags": ["antonelli", "12", "hamilton", "44", "verstappen", "3", "monaco"],
+  "title": "安东内利摩纳哥夺杆后，汉密尔顿与维斯塔潘用“建议他晚起步”抢走风头（名场面走红）",
+  "summary": "",
+  "cover_url": "https://cdn-3.motorsport.com/images/amp/24QeODNY/s600/lewis-hamilton-ferrari-max-ver.webp",
+  "published_at": "2026-06-07T13:01:42Z",
+  "source": {
+    "name": "Autosport",
+    "url": "https://www.motorsport.com/f1/news/lewis-hamilton-and-max-verstappen-steal-show-after-kimi-antonelli-monaco-gp-pole-with-viral-moment/10827682/"
+  },
+  "content": {
+    "format_code": "RICH_TEXT_NODES",
+    "text": "基米·安东内利（Kimi Antonelli）拿下摩纳哥大奖赛杆位后，马克斯·维斯塔潘（Max Verstappen）与刘易斯·汉密尔顿（Lewis Hamilton）在赛后发布会上开玩笑“建议他晚点起步”，让这一幕迅速走红。\n\n刘易斯·汉密尔顿（法拉利）、马克斯·维斯塔潘（红牛）\n\n摄影：Mark Thompson / Getty Images\n\n梅赛德斯 F1 车手基米·安东内利在 2026 年摩纳哥大奖赛拿下令人惊叹的杆位，但在排位赛后的发布会上，和他一起站在发车前列的几位世界冠军用“打趣式的建议”抢走了风头——给这位 19 岁车手来了一段半开玩笑的“老大哥式指导”。\n\n尽管安东内利目前在车手积分榜上领先队友乔治·拉塞尔（George Russell）43 分，但他的发车环节曾出现一些困难。\n\n在发布会上，当被问到将从第二位起步的维斯塔潘、以及将从第三位起步的汉密尔顿，是否有什么建议可以给这位梅赛德斯车手时，两人都开玩笑说：灯灭之后他应该“等一等”再起步。\n\n谈及自己在发车方面的问题时，安东内利说：“我是说，蒙特利尔那次发车我第一次没有（大幅）丢位置……好吧，周日我还是丢了一个位置，但那是第一次我没有一下子丢掉六七个位置。”\n\n“所以那算是个进步。在摩纳哥，从发车到 1 号弯这段距离很短。我只需要做到一个干净的起步，不要想着来一个‘魔法发车’，然后我们就从那里开始看情况。”\n\n当被要求给出建议时，四届世界冠军维斯塔潘说：“所以灯一灭，你就等一秒，然后这就是我的建议。”随后汉密尔顿补刀：“对，两秒。”\n\n这一幕也被 Autosport 发在社交媒体上： “问到 Max 和 Lewis 明天有没有什么建议给 Kimi 😅”。\n\n不少车迷在社交媒体上夸赞这三人的互动氛围。一位 Reddit 网友评论说：“大哥哥能量（Big brothers energy）。”另一位则写道：“我喜欢这种氛围，只有纯粹赛车手的 vibe。”\n\n还有人发帖说：“我喜欢这三个人有多好笑，他们的化学反应太棒了。”\n\n另一条评论写道：“这三个人的氛围太好了，我们真的很幸运，能看到来自三个不同年代的天赋车手同时在前排竞争。”也有人调侃：“Kimi 的‘好玩叔叔们’。”\n\n更多评论包括：“哈哈他们最近太好笑了，这种感觉就跟加拿大那次 Lewis 学 Max 对迈凯伦换半雨胎比大拇指一样。”以及：“Max 和 Lewis 这样同框真的很有意思。先是双大拇指，现在又来这一出，我希望能看到更多。”",
+    "nodes": [
+      {
+        "name": "img",
+        "attrs": {
+          "src": "https://cdn-3.motorsport.com/images/amp/24QeODNY/s600/lewis-hamilton-ferrari-max-ver.webp",
+          "mode": "widthFix",
+          "style": "width:100%;display:block;",
+          "alt": "刘易斯·汉密尔顿（法拉利）、马克斯·维斯塔潘（红牛）"
+        }
+      },
+      { "name": "p", "children": [{ "type": "text", "text": "基米·安东内利（Kimi Antonelli）拿下摩纳哥大奖赛杆位后，马克斯·维斯塔潘（Max Verstappen）与刘易斯·汉密尔顿（Lewis Hamilton）在赛后发布会上开玩笑“建议他晚点起步”，让这一幕迅速走红。" }] },
+      { "name": "p", "children": [{ "type": "text", "text": "刘易斯·汉密尔顿（法拉利）、马克斯·维斯塔潘（红牛）" }] },
+      { "name": "p", "children": [{ "type": "text", "text": "摄影：Mark Thompson / Getty Images" }] },
+      { "name": "p", "children": [{ "type": "text", "text": "梅赛德斯 F1 车手基米·安东内利在 2026 年摩纳哥大奖赛拿下令人惊叹的杆位，但在排位赛后的发布会上，和他一起站在发车前列的几位世界冠军用“打趣式的建议”抢走了风头——给这位 19 岁车手来了一段半开玩笑的“老大哥式指导”。" }] },
+      { "name": "p", "children": [{ "type": "text", "text": "尽管安东内利目前在车手积分榜上领先队友乔治·拉塞尔（George Russell）43 分，但他的发车环节曾出现一些困难。" }] },
+      { "name": "p", "children": [{ "type": "text", "text": "在发布会上，当被问到将从第二位起步的维斯塔潘、以及将从第三位起步的汉密尔顿，是否有什么建议可以给这位梅赛德斯车手时，两人都开玩笑说：灯灭之后他应该“等一等”再起步。" }] },
+      { "name": "p", "children": [{ "type": "text", "text": "谈及自己在发车方面的问题时，安东内利说：“我是说，蒙特利尔那次发车我第一次没有（大幅）丢位置……好吧，周日我还是丢了一个位置，但那是第一次我没有一下子丢掉六七个位置。”" }] },
+      { "name": "p", "children": [{ "type": "text", "text": "“所以那算是个进步。在摩纳哥，从发车到 1 号弯这段距离很短。我只需要做到一个干净的起步，不要想着来一个‘魔法发车’，然后我们就从那里开始看情况。”" }] },
+      { "name": "p", "children": [{ "type": "text", "text": "当被要求给出建议时，四届世界冠军维斯塔潘说：“所以灯一灭，你就等一秒，然后这就是我的建议。”随后汉密尔顿补刀：“对，两秒。”" }] },
+      { "name": "p", "children": [{ "type": "text", "text": "这一幕也被 Autosport 发在社交媒体上： “问到 Max 和 Lewis 明天有没有什么建议给 Kimi 😅”。" }] },
+      { "name": "p", "children": [{ "type": "text", "text": "不少车迷在社交媒体上夸赞这三人的互动氛围。一位 Reddit 网友评论说：“大哥哥能量（Big brothers energy）。”另一位则写道：“我喜欢这种氛围，只有纯粹赛车手的 vibe。”" }] },
+      { "name": "p", "children": [{ "type": "text", "text": "还有人发帖说：“我喜欢这三个人有多好笑，他们的化学反应太棒了。”" }] },
+      { "name": "p", "children": [{ "type": "text", "text": "另一条评论写道：“这三个人的氛围太好了，我们真的很幸运，能看到来自三个不同年代的天赋车手同时在前排竞争。”也有人调侃：“Kimi 的‘好玩叔叔们’。”" }] },
+      { "name": "p", "children": [{ "type": "text", "text": "更多评论包括：“哈哈他们最近太好笑了，这种感觉就跟加拿大那次 Lewis 学 Max 对迈凯伦换半雨胎比大拇指一样。”以及：“Max 和 Lewis 这样同框真的很有意思。先是双大拇指，现在又来这一出，我希望能看到更多。”" }] }
+    ]
+  }
+}
+

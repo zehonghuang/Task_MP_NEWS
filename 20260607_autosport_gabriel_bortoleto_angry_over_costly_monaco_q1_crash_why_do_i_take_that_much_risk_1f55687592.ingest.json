@@ -1,0 +1,122 @@
+{
+  "id": "n_autosport_20260607_1f55687592",
+  "layout_code": "STANDARD",
+  "type_code": "DRIVER",
+  "pinned": false,
+  "weight": 0,
+  "tag_text": "Bortoleto / 撞车",
+  "tags": ["bortoleto", "5", "audi", "monaco", "crash", "qualifying"],
+  "title": "博托莱托因摩纳哥 Q1 撞车自责发火：“我为什么要冒这么大的风险？”",
+  "summary": "",
+  "cover_url": "https://cdn-2.motorsport.com/images/amp/YBVovAWY/s1100/gabriel-bortoleto-audi-f1-team.webp",
+  "published_at": "2026-06-06T17:21:10Z",
+  "source": {
+    "name": "Autosport",
+    "url": "https://www.motorsport.com/f1/news/gabriel-bortoleto-angry-over-costly-monaco-q1-crash-why-do-i-take-that-much-risk/10827800/"
+  },
+  "content": {
+    "format_code": "RICH_TEXT_NODES",
+    "text": "一向自我苛责的加布里埃尔·博托莱托（Gabriel Bortoleto）将自己在摩纳哥大奖赛排位赛中早早撞车归咎于自身，而这次失误几乎让他失去任何得分机会。\n\n加布里埃尔·博托莱托（奥迪F1车队）\n\n摄影：Andy Hone / LAT Images via Getty Images\n\n由于奥迪的动力短板在摩纳哥这种赛道上不如其他分站那般致命，这个 F1 周末被视为奥迪将其“仅有的两分”继续往上累加的绝佳机会。\n\n博托莱托与经验丰富的队友尼科·霍肯伯格（Nico Hulkenberg）在三节练习赛中都进入前十，预示着车队在排位赛乃至正赛中或许能有所作为。\n\n然而，在完成一圈足以晋级 Q2 的成绩后，博托莱托在 Q1 末段驶入 Nouvelle Chicane（新减速弯）入口时擦到内侧护墙。赛车左前悬挂损坏，他只能停在赛道上并引发红旗。\n\n这位巴西车手确实有些不走运：极其轻微的触碰就导致了退赛。但当 Motorsport.com 提到这一点时，他并不想用运气当借口，而是完全责怪自己没有留出任何余地。\n\n21 岁的二年级车手回应道：“那确实只是很轻微的一下，但问题甚至不在于那一下。”他说：“问题在于——我们过去已经见过车手在那个弯弄断悬挂——我为什么要在那个弯冒这么大的风险？”\n\n（视频栏目）他补充说：“如果这发生在 Q2 或 Q3 的单圈里，当我们把自己推到极限时，我还能理解。但在 Q1 的单圈里，我认为这是一个我很少会犯的错误。我需要重新分析一下，弄清楚为什么我会在排位这么早的阶段就推得那么狠。”\n\n“在 Q1 我推得有点过头了，其实没有必要，因为我们至少是很容易通过 Q1 的。所以你完全可以留一点余量，先建立一些信心。”\n\n加布里埃尔·博托莱托（奥迪）\n\n摄影：Erik Junius\n\n与此同时，霍肯伯格在争夺 Q3 的四车缠斗中落了下风——那场争夺最终由兴奋不已的阿尔派车手皮埃尔·加斯利（Pierre Gasly）胜出。\n\n不过，奥迪也确认：如果周日下午的比赛能“干净利落”地执行，车队本有机会接近前十发车，从而拥有一个不错的得分机会。正因为意识到这一点，博托莱托对自己排位赛的失误更感沮丧。\n\n他坦言：“速度是有的。只是知道自己原本可以去争夺积分，却没做到，这让人很失望。对我们来说这很难，因为眼下我们只有少数几个赛道能经常做到这一点，而摩纳哥就是其中之一。”\n\n他继续说道：“摩纳哥是一条特别的赛道，所以我真的很想为车队交出一份好答卷。我觉得很难立刻翻篇，因为我看到他们工作有多拼。我对自己一直很苛刻，因为当事情不对时，我对他们同样也会很苛刻。”\n\n“很遗憾，我没能交出车队应得的表现。”",
+    "nodes": [
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "一向自我苛责的加布里埃尔·博托莱托（Gabriel Bortoleto）将自己在摩纳哥大奖赛排位赛中早早撞车归咎于自身，而这次失误几乎让他失去任何得分机会。"
+          }
+        ]
+      },
+      {
+        "name": "img",
+        "attrs": {
+          "src": "https://cdn-2.motorsport.com/images/amp/YBVovAWY/s1100/gabriel-bortoleto-audi-f1-team.webp",
+          "mode": "widthFix",
+          "style": "width:100%;display:block;",
+          "alt": "加布里埃尔·博托莱托（奥迪F1车队）"
+        }
+      },
+      { "name": "p", "children": [{ "type": "text", "text": "加布里埃尔·博托莱托（奥迪F1车队）" }] },
+      { "name": "p", "children": [{ "type": "text", "text": "摄影：Andy Hone / LAT Images via Getty Images" }] },
+      {
+        "name": "p",
+        "children": [
+          { "type": "text", "text": "由于奥迪的动力短板在摩纳哥这种赛道上不如其他分站那般致命，这个 F1 周末被视为奥迪将其“仅有的两分”继续往上累加的绝佳机会。" }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          { "type": "text", "text": "博托莱托与经验丰富的队友尼科·霍肯伯格（Nico Hulkenberg）在三节练习赛中都进入前十，预示着车队在排位赛乃至正赛中或许能有所作为。" }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          { "type": "text", "text": "然而，在完成一圈足以晋级 Q2 的成绩后，博托莱托在 Q1 末段驶入 Nouvelle Chicane（新减速弯）入口时擦到内侧护墙。赛车左前悬挂损坏，他只能停在赛道上并引发红旗。" }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          { "type": "text", "text": "这位巴西车手确实有些不走运：极其轻微的触碰就导致了退赛。但当 Motorsport.com 提到这一点时，他并不想用运气当借口，而是完全责怪自己没有留出任何余地。" }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          { "type": "text", "text": "21 岁的二年级车手回应道：“那确实只是很轻微的一下，但问题甚至不在于那一下。”他说：“问题在于——我们过去已经见过车手在那个弯弄断悬挂——我为什么要在那个弯冒这么大的风险？”" }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          { "type": "text", "text": "（视频栏目）他补充说：“如果这发生在 Q2 或 Q3 的单圈里，当我们把自己推到极限时，我还能理解。但在 Q1 的单圈里，我认为这是一个我很少会犯的错误。我需要重新分析一下，弄清楚为什么我会在排位这么早的阶段就推得那么狠。”" }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          { "type": "text", "text": "“在 Q1 我推得有点过头了，其实没有必要，因为我们至少是很容易通过 Q1 的。所以你完全可以留一点余量，先建立一些信心。”" }
+        ]
+      },
+      {
+        "name": "img",
+        "attrs": {
+          "src": "https://cdn.motorsport.com/images/mgl/6x7Znw1Y/s1000/gabriel-bortoleto-audi.jpg",
+          "mode": "widthFix",
+          "style": "width:100%;display:block;",
+          "alt": "加布里埃尔·博托莱托（奥迪）"
+        }
+      },
+      { "name": "p", "children": [{ "type": "text", "text": "加布里埃尔·博托莱托（奥迪）" }] },
+      { "name": "p", "children": [{ "type": "text", "text": "摄影：Erik Junius" }] },
+      {
+        "name": "p",
+        "children": [
+          { "type": "text", "text": "与此同时，霍肯伯格在争夺 Q3 的四车缠斗中落了下风——那场争夺最终由兴奋不已的阿尔派车手皮埃尔·加斯利（Pierre Gasly）胜出。" }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          { "type": "text", "text": "不过，奥迪也确认：如果周日下午的比赛能“干净利落”地执行，车队本有机会接近前十发车，从而拥有一个不错的得分机会。正因为意识到这一点，博托莱托对自己排位赛的失误更感沮丧。" }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          { "type": "text", "text": "他坦言：“速度是有的。只是知道自己原本可以去争夺积分，却没做到，这让人很失望。对我们来说这很难，因为眼下我们只有少数几个赛道能经常做到这一点，而摩纳哥就是其中之一。”" }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          { "type": "text", "text": "他继续说道：“摩纳哥是一条特别的赛道，所以我真的很想为车队交出一份好答卷。我觉得很难立刻翻篇，因为我看到他们工作有多拼。我对自己一直很苛刻，因为当事情不对时，我对他们同样也会很苛刻。”" }
+        ]
+      },
+      { "name": "p", "children": [{ "type": "text", "text": "“很遗憾，我没能交出车队应得的表现。”" }] }
+    ]
+  }
+}
+

@@ -1,0 +1,252 @@
+{
+  "id": "n_autosport_20260608_2e2896ac81",
+  "layout_code": "STANDARD",
+  "type_code": "PADDOCK",
+  "tag_text": "Russell / 处罚",
+  "tags": [
+    "russell",
+    "63",
+    "mercedes",
+    "wolff",
+    "penalty"
+  ],
+  "title": "沃尔夫谈拉塞尔处罚风波：“显然是我们的失误”",
+  "summary": "沃尔夫为摩纳哥站进站沟通失误承担责任，称车队未正确执行拉塞尔的5秒罚时，最终导致直通式处罚并使其名次大幅下滑。",
+  "cover_url": "https://cdn-9.motorsport.com/images/amp/2jEDrjq0/s1000/george-russell-mercedes.webp",
+  "published_at": "2026-06-08T12:00:04Z",
+  "source": {
+    "name": "Autosport",
+    "url": "https://www.motorsport.com/f1/news/toto-wolff-on-george-russells-drive-through-penalty-clearly-our-mistake/10828318/"
+  },
+  "content": {
+    "format_code": "RICH_TEXT_NODES",
+    "text": "乔治·拉塞尔，梅赛德斯\n\n摄影：Guido De Bortoli / LAT Images via Getty Images\n\n梅赛德斯F1车队领队托托·沃尔夫已为乔治·拉塞尔在摩纳哥大奖赛中因进站失误而遭到直通式（drive-through）处罚承担责任。\n\n拉塞尔在这个位于公国的周末表现糟糕：他在排位赛的三个阶段都被队友基米·安东内利明显压制，最终仅以第六名起步。\n\n这位英国车手在发车后因马克斯·维斯塔潘退赛而上升一个位置，但随后被困在伊萨克·哈贾尔身后，而后者的红牛赛车正遭遇可驾驶性问题。\n\n因此，当拉塞尔在第31圈进站试图通过“undercut”超越哈贾尔时，他已经落后领跑者安东内利49秒；但他也是五位有争议地违反维修区限速、因此吃到5秒罚时的车手之一。\n\n“我不太确定这次处罚，以及其他那么多处罚的原因是什么，是不是因为在（维修区入口）切线，然后显然维修区用时过快——因为那会出现十几起维修区超速事件。”沃尔夫略带夸张地评论道——更准确的数字大概是半打左右（约六起）。\n\n乔治·拉塞尔，梅赛德斯\n\n摄影：Sam Bagnall / Sutton Images via Getty Images\n\n这次 undercut 尝试是成功的。但当拉塞尔在兰斯·斯特罗尔撞车、在安全车条件下再次进站时，梅赛德斯的技师并没有执行这次5秒罚时。\n\n“显然是我们的失误。”沃尔夫承认道。“我们需要看看我们的沟通环节：我们是否真的预期他会进站——因为我记得当时是在说要留在赛道上、不进站。但无论如何，你必须盯紧并把他（在本站）留住，我们没有做到。”\n\n因此，拉塞尔被追加判罚直通式通过维修区。恰好比赛在安全车重启时，查尔斯·勒克莱尔在与斯特罗尔相同的安东尼·诺格斯弯发生撞车，赛事出示红旗；所以拉塞尔不得不在第二次静态发车后执行直通式处罚——而在这次二次起步中，他曾经超越哈贾尔升至第三。\n\n这位梅赛德斯车手因此在排名中跌到第14位，不过由于塞尔吉奥·佩雷兹和尼科·霍肯伯格赛后被罚，他在最终成绩中又被“抬”回到第12名。\n\n在被要求解释梅赛德斯这次进站与处罚的混乱时，拉塞尔说：“我之所以被判直通式，是因为最后一刻非常混乱。我本来应该留在赛道上，但随后FIA让所有车从维修区通过。”\n\n乔治·拉塞尔，梅赛德斯\n\n摄影：EYE4images / NurPhoto via Getty Images\n\n“我在问车队：‘我到底要不要进来换胎？’；我没有得到回答，但我看到我的那套轮胎已经摆在那里了。一切发生得太快了，我想技师也没有收到必须让赛车停满5秒的信息。”\n\n“然后我在无线电里说，我愿意在下一圈补罚，因为我身后到加斯利有20秒的差距。但规则说我们没有正确执行罚时……而处罚就是直通式。因为软件故障，我在整个维修区大概只赚了0.1秒，却丢了13个名次，所以……”\n\n拉塞尔连续第二个周日未能得分，意味着他在争冠道路上对安东内利的分差在两周内从18分暴涨到68分，尽管本赛季还剩至少16场大奖赛。\n\nFilip Cleeren 另有补充报道。\n\n你希望在 Motorsport.com 上看到什么？\n\n- Motorsport.com 团队",
+    "nodes": [
+      {
+        "name": "img",
+        "attrs": {
+          "src": "https://cdn-9.motorsport.com/images/amp/2jEDrjq0/s1000/george-russell-mercedes.webp",
+          "mode": "widthFix",
+          "style": "width:100%;display:block;",
+          "alt": "乔治·拉塞尔，梅赛德斯"
+        }
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "乔治·拉塞尔，梅赛德斯"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "摄影：Guido De Bortoli / LAT Images via Getty Images"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "梅赛德斯F1车队领队托托·沃尔夫已为乔治·拉塞尔在摩纳哥大奖赛中因进站失误而遭到直通式（drive-through）处罚承担责任。"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "拉塞尔在这个位于公国的周末表现糟糕：他在排位赛的三个阶段都被队友基米·安东内利明显压制，最终仅以第六名起步。"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "这位英国车手在发车后因马克斯·维斯塔潘退赛而上升一个位置，但随后被困在伊萨克·哈贾尔身后，而后者的红牛赛车正遭遇可驾驶性问题。"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "因此，当拉塞尔在第31圈进站试图通过“undercut”超越哈贾尔时，他已经落后领跑者安东内利49秒；但他也是五位有争议地违反维修区限速、因此吃到5秒罚时的车手之一。"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "“我不太确定这次处罚，以及其他那么多处罚的原因是什么，是不是因为在（维修区入口）切线，然后显然维修区用时过快——因为那会出现十几起维修区超速事件。”沃尔夫略带夸张地评论道——更准确的数字大概是半打左右（约六起）。"
+          }
+        ]
+      },
+      {
+        "name": "img",
+        "attrs": {
+          "src": "https://cdn.motorsport.com/images/mgl/2eZgPm9Y/s1000/george-russell-mercedes.jpg",
+          "mode": "widthFix",
+          "style": "width:100%;display:block;",
+          "alt": "乔治·拉塞尔，梅赛德斯"
+        }
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "乔治·拉塞尔，梅赛德斯"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "摄影：Sam Bagnall / Sutton Images via Getty Images"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "这次 undercut 尝试是成功的。但当拉塞尔在兰斯·斯特罗尔撞车、在安全车条件下再次进站时，梅赛德斯的技师并没有执行这次5秒罚时。"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "“显然是我们的失误。”沃尔夫承认道。“我们需要看看我们的沟通环节：我们是否真的预期他会进站——因为我记得当时是在说要留在赛道上、不进站。但无论如何，你必须盯紧并把他（在本站）留住，我们没有做到。”"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "因此，拉塞尔被追加判罚直通式通过维修区。恰好比赛在安全车重启时，查尔斯·勒克莱尔在与斯特罗尔相同的安东尼·诺格斯弯发生撞车，赛事出示红旗；所以拉塞尔不得不在第二次静态发车后执行直通式处罚——而在这次二次起步中，他曾经超越哈贾尔升至第三。"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "这位梅赛德斯车手因此在排名中跌到第14位，不过由于塞尔吉奥·佩雷兹和尼科·霍肯伯格赛后被罚，他在最终成绩中又被“抬”回到第12名。"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "在被要求解释梅赛德斯这次进站与处罚的混乱时，拉塞尔说：“我之所以被判直通式，是因为最后一刻非常混乱。我本来应该留在赛道上，但随后FIA让所有车从维修区通过。”"
+          }
+        ]
+      },
+      {
+        "name": "img",
+        "attrs": {
+          "src": "https://cdn.motorsport.com/images/mgl/6x7ZnVJY/s1000/george-russell-mercedes.jpg",
+          "mode": "widthFix",
+          "style": "width:100%;display:block;",
+          "alt": "乔治·拉塞尔，梅赛德斯"
+        }
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "乔治·拉塞尔，梅赛德斯"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "摄影：EYE4images / NurPhoto via Getty Images"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "“我在问车队：‘我到底要不要进来换胎？’；我没有得到回答，但我看到我的那套轮胎已经摆在那里了。一切发生得太快了，我想技师也没有收到必须让赛车停满5秒的信息。”"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "“然后我在无线电里说，我愿意在下一圈补罚，因为我身后到加斯利有20秒的差距。但规则说我们没有正确执行罚时……而处罚就是直通式。因为软件故障，我在整个维修区大概只赚了0.1秒，却丢了13个名次，所以……”"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "拉塞尔连续第二个周日未能得分，意味着他在争冠道路上对安东内利的分差在两周内从18分暴涨到68分，尽管本赛季还剩至少16场大奖赛。"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "Filip Cleeren 另有补充报道。"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "你希望在 Motorsport.com 上看到什么？"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "- Motorsport.com 团队"
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "id": "n_autosport_20260608_d911e717b0",
+  "layout_code": "STANDARD",
+  "type_code": "DRIVER",
+  "pinned": false,
+  "weight": 0,
+  "tag_text": "Hamilton / 场外",
+  "tags": ["hamilton", "44", "ferrari", "monaco", "kimkardashian"],
+  "title": "汉密尔顿谈金·卡戴珊在摩纳哥站期间给予的支持",
+  "summary": "",
+  "cover_url": "https://cdn-2.motorsport.com/images/amp/63QmPql2/s1000/lewis-hamilton-ferrari.webp",
+  "published_at": "2026-06-08T14:32:42Z",
+  "source": {
+    "name": "Autosport",
+    "url": "https://www.motorsport.com/f1/news/lewis-hamilton-lifts-lid-on-kim-kardashians-support-after-f1-monaco-gp/10828411/"
+  },
+  "content": {
+    "format_code": "RICH_TEXT_NODES",
+    "text": "刘易斯·汉密尔顿，法拉利\n\n摄影：Alastair Staley / LAT Images via Getty Images\n\n在这位真人秀明星于 2026 年摩纳哥大奖赛周末高调现身法拉利车库之后，刘易斯·汉密尔顿简短谈到了自己与金·卡戴珊之间的关系。\n\n蒙特卡洛的纸醉金迷常常会吸引 A 级明星现身，但卡戴珊这次是以汉密尔顿嘉宾的身份出现，这一点尤其加剧了外界长期以来关于两人疑似存在恋爱关系的猜测。\n\n当汉密尔顿在公国赛道拿到第二名之后，被媒体问到自己整个周末所获得的支持时，这位英国车手解释道：“哦，是啊，她这个周末能来，并给予我支持，真的太棒了；还有我的朋友们，整体上大家的到场都非常不可思议。\n\n“我其实也不知道还能说什么。身边有好的人、有人支持你，这真的很棒，而她每天都会这样支持我。”\n\n汉密尔顿与卡戴珊彼此认识已经很多年了，但在 2025 年年底跨年派对上两人被拍到同场现身之后，外界就开始流传他们正在约会的传闻。\n\n金·卡戴珊出现在领奖台庆典上。\n\n摄影：Alastair Staley / LAT Images via Getty Images\n\n这位法拉利车手在摩纳哥大奖赛中以第二名完赛，拿下本赛季个人第三个领奖台。凭借这 18 个积分，他在车手积分榜上升至第二，超越了梅赛德斯车手乔治·拉塞尔。\n\n赛后他在 Instagram 上写道：“P2，继续冲！！总是很艰难的一站，而今天的条件让比赛变得更具挑战。必须大声感谢车队的辛勤工作，无论是在这里赛道边，还是在马拉内罗基地。\n\n“今天的结果真正展示了我们正在持续取得的进步。要想稳定地去争取胜利，我们还有更多工作要做，但我知道我们会继续努力、直到到达那个位置。谢谢摩纳哥，也谢谢所有车迷的支持。已经等不及下一站了。”\n\n2026 赛季 F1 的第七站比赛巴塞罗那站，将于 6 月 12 日至 14 日举行。\n\n你希望在 Motorsport.com 上看到什么？\n\n- Motorsport.com 团队",
+    "nodes": [
+      {
+        "name": "img",
+        "attrs": {
+          "src": "https://cdn-2.motorsport.com/images/amp/63QmPql2/s1000/lewis-hamilton-ferrari.webp",
+          "mode": "widthFix",
+          "style": "width:100%;display:block;",
+          "alt": "刘易斯·汉密尔顿，法拉利"
+        }
+      },
+      { "name": "p", "children": [{ "type": "text", "text": "刘易斯·汉密尔顿，法拉利" }] },
+      { "name": "p", "children": [{ "type": "text", "text": "摄影：Alastair Staley / LAT Images via Getty Images" }] },
+      { "name": "p", "children": [{ "type": "text", "text": "在这位真人秀明星于 2026 年摩纳哥大奖赛周末高调现身法拉利车库之后，刘易斯·汉密尔顿简短谈到了自己与金·卡戴珊之间的关系。" }] },
+      { "name": "p", "children": [{ "type": "text", "text": "蒙特卡洛的纸醉金迷常常会吸引 A 级明星现身，但卡戴珊这次是以汉密尔顿嘉宾的身份出现，这一点尤其加剧了外界长期以来关于两人疑似存在恋爱关系的猜测。" }] },
+      { "name": "p", "children": [{ "type": "text", "text": "当汉密尔顿在公国赛道拿到第二名之后，被媒体问到自己整个周末所获得的支持时，这位英国车手解释道：“哦，是啊，她这个周末能来，并给予我支持，真的太棒了；还有我的朋友们，整体上大家的到场都非常不可思议。" }] },
+      { "name": "p", "children": [{ "type": "text", "text": "“我其实也不知道还能说什么。身边有好的人、有人支持你，这真的很棒，而她每天都会这样支持我。”" }] },
+      { "name": "p", "children": [{ "type": "text", "text": "汉密尔顿与卡戴珊彼此认识已经很多年了，但在 2025 年年底跨年派对上两人被拍到同场现身之后，外界就开始流传他们正在约会的传闻。" }] },
+      {
+        "name": "img",
+        "attrs": {
+          "src": "https://cdn.motorsport.com/images/mgl/YMX3L1L2/s1000/kim-kardashian-at-the-podium-c.jpg",
+          "mode": "widthFix",
+          "style": "width:100%;display:block;",
+          "alt": "金·卡戴珊出现在领奖台庆典上"
+        }
+      },
+      { "name": "p", "children": [{ "type": "text", "text": "金·卡戴珊出现在领奖台庆典上。" }] },
+      { "name": "p", "children": [{ "type": "text", "text": "摄影：Alastair Staley / LAT Images via Getty Images" }] },
+      { "name": "p", "children": [{ "type": "text", "text": "这位法拉利车手在摩纳哥大奖赛中以第二名完赛，拿下本赛季个人第三个领奖台。凭借这 18 个积分，他在车手积分榜上升至第二，超越了梅赛德斯车手乔治·拉塞尔。" }] },
+      { "name": "p", "children": [{ "type": "text", "text": "赛后他在 Instagram 上写道：“P2，继续冲！！总是很艰难的一站，而今天的条件让比赛变得更具挑战。必须大声感谢车队的辛勤工作，无论是在这里赛道边，还是在马拉内罗基地。" }] },
+      { "name": "p", "children": [{ "type": "text", "text": "“今天的结果真正展示了我们正在持续取得的进步。要想稳定地去争取胜利，我们还有更多工作要做，但我知道我们会继续努力、直到到达那个位置。谢谢摩纳哥，也谢谢所有车迷的支持。已经等不及下一站了。”" }] },
+      { "name": "p", "children": [{ "type": "text", "text": "2026 赛季 F1 的第七站比赛巴塞罗那站，将于 6 月 12 日至 14 日举行。" }] },
+      { "name": "p", "children": [{ "type": "text", "text": "你希望在 Motorsport.com 上看到什么？" }] },
+      { "name": "p", "children": [{ "type": "text", "text": "- Motorsport.com 团队" }] }
+    ]
+  }
+}
