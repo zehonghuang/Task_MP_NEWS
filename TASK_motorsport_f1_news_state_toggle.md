@@ -7,9 +7,11 @@
 
 ## TL;DR（只看这 3 行也能执行）
 
-1. WebFetch 抓取 `https://www.motorsport.com/f1/news/`
-2. 过滤并提取最新 10 个文章 URL（只保留 `motorsport.com/f1/news/`）
-3. 覆盖写入 `motorsport_f1_news_state.json`：`source + fetched_at + count + urls`
+1. 先在任务目录执行 `git pull`
+2. WebFetch 抓取 `https://www.motorsport.com/f1/news/`
+3. 过滤并提取最新 10 个文章 URL（只保留 `motorsport.com/f1/news/`）
+4. 覆盖写入 `motorsport_f1_news_state.json`：`source + fetched_at + count + urls`
+5. 全部确认无误后执行 `git push`
 
 ## 输入
 
@@ -46,9 +48,11 @@
 
 ## 最小执行步骤（参考实现思路）
 
-1. 用 WebFetch/HTTP 抓取 `list_url`。
-2. 从返回内容中提取候选链接，过滤、去重并截取前 10。
-3. 将 `state_file` 覆盖写入为：`source + fetched_at + count + urls`。
+1. 先执行 `git pull`。
+2. 用 WebFetch/HTTP 抓取 `list_url`。
+3. 从返回内容中提取候选链接，过滤、去重并截取前 10。
+4. 将 `state_file` 覆盖写入为：`source + fetched_at + count + urls`。
+5. 检查无误后执行 `git push`。
 
 <details>
 <summary>过滤规则细节（展开）</summary>

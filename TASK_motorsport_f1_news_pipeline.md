@@ -8,9 +8,11 @@
 
 ## TL;DR（推荐执行顺序）
 
-1. 执行 `TASK_motorsport_f1_news_state_toggle.md`：刷新 `motorsport_f1_news_state.json`（覆盖为最新 10 条）
-2. 读取 `motorsport_f1_news_state.json` 的 `urls`
-3. 对每个 `article_url` 执行 `TASK_mp_news_ingest_from_article_url.md`（生成文件 + POST）
+1. 先在任务目录执行 `git pull`
+2. 执行 `TASK_motorsport_f1_news_state_toggle.md`：刷新 `motorsport_f1_news_state.json`（覆盖为最新 10 条）
+3. 读取 `motorsport_f1_news_state.json` 的 `urls`
+4. 对每个 `article_url` 执行 `TASK_mp_news_ingest_from_article_url.md`（生成文件 + POST）
+5. 全部完成并确认无误后，再执行 `git push`
 
 ## 按步骤逐渐式阅读（推荐）
 
@@ -51,6 +53,10 @@
 
 ## 第 1 部分：更新“待处理队列”（状态文件）
 
+开始前先执行：
+
+- `git pull`
+
 直接执行子任务：`TASK_motorsport_f1_news_state_toggle.md`  
 （它负责：抓取 `list_url` → 提取最新 10 条 → 覆盖写入 `state_file`。）
 
@@ -67,6 +73,18 @@
 3. 若 POST 失败：  
    - 不修改 `state_file`（状态文件只做“最新快照”用途）  
    - 记录失败原因（例如抓取失败、POST 失败等）
+
+## 第 3 部分：全部完成后提交远端
+
+只有当以下条件都满足时，才执行：
+
+- 列表快照已更新完成
+- 需要处理的文章已全部处理完成
+- 生成文件与 POST 结果已检查无误
+
+然后执行：
+
+- `git push`
 
 <details>
 <summary>实现提示：如何“跳过已处理”的文章？（展开）</summary>
