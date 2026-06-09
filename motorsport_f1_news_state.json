@@ -1,8 +1,9 @@
 {
   "source": "https://www.motorsport.com/f1/news/",
-  "fetched_at": "2026-06-09T20:00:00+08:00",
+  "fetched_at": "2026-06-09T20:20:00+08:00",
   "count": 10,
   "urls": [
+    "https://www.motorsport.com/f1/news/why-pierre-gasly-vented-his-lost-monaco-p3-with-fake-celebration-i-knew-the-situation/10828582/",
     "https://www.motorsport.com/f1/news/toto-wolff-praises-unbelievable-kimi-antonelli-after-f1-monaco-gp-grand-slam-/10828550/",
     "https://www.motorsport.com/f1/news/carlos-sainz-hits-out-at-stupid-risks-from-f1-rivals-how-can-a-veteran-like-nico-do-this/10828487/",
     "https://www.motorsport.com/f1/news/lewis-hamilton-maiden-ferrari-win-couldnt-be-closer/10828363/",
@@ -11,7 +12,6 @@
     "https://www.motorsport.com/f1/news/why-monaco-magic-is-still-alive-and-well-in-f1-2026/10828407/",
     "https://www.motorsport.com/f1/news/lewis-hamilton-lifts-lid-on-kim-kardashians-support-after-f1-monaco-gp/10828411/",
     "https://www.motorsport.com/f1/news/red-bull-finds-cause-of-max-verstappens-dnf-planned-engine-change-after-monaco/10828370/",
-    "https://www.motorsport.com/f1/news/toto-wolff-on-george-russells-drive-through-penalty-clearly-our-mistake/10828318/",
-    "https://www.motorsport.com/f1/news/mclaren-admits-mercedes-customer-team-status-has-become-a-disadvantage-in-f1-2026/10828340/"
+    "https://www.motorsport.com/f1/news/toto-wolff-on-george-russells-drive-through-penalty-clearly-our-mistake/10828318/"
   ]
 }
