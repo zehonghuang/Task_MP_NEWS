@@ -1,8 +1,10 @@
 {
   "source": "https://www.motorsport.com/f1/news/",
-  "fetched_at": "2026-06-08T23:01:09+08:00",
+  "fetched_at": "2026-06-09T10:00:00+08:00",
   "count": 10,
   "urls": [
+    "https://www.motorsport.com/f1/news/naomi-schiff-spots-major-charles-leclerc-change-after-monaco-gp-frustration/10828494/",
+    "https://www.motorsport.com/f1/news/george-russell-must-beat-kimi-antonelli-in-barcelona-to-save-f1-title-hopes-says-david-coulthard/10828471/",
     "https://www.motorsport.com/f1/news/why-monaco-magic-is-still-alive-and-well-in-f1-2026/10828407/",
     "https://www.motorsport.com/f1/news/lewis-hamilton-lifts-lid-on-kim-kardashians-support-after-f1-monaco-gp/10828411/",
     "https://www.motorsport.com/f1/news/red-bull-finds-cause-of-max-verstappens-dnf-planned-engine-change-after-monaco/10828370/",
@@ -10,8 +12,6 @@
     "https://www.motorsport.com/f1/news/mclaren-admits-mercedes-customer-team-status-has-become-a-disadvantage-in-f1-2026/10828340/",
     "https://www.motorsport.com/f1/news/george-russell-i-can-still-become-f1-world-champion-in-2026/10828310/",
     "https://www.motorsport.com/f1/news/lance-stroll-on-monaco-f1-crash-the-engine-pushed-me-into-the-wall/10828294/",
-    "https://www.motorsport.com/f1/news/max-verstappens-monaco-gp-retirement-sparks-kimi-raikkonen-comparison/10828193/",
-    "https://www.motorsport.com/f1/news/new-king-of-monaco-this-is-what-international-media-are-writing-about-the-f1-monaco-gp/10828250/",
-    "https://www.motorsport.com/f1/news/ferrari-supplier-brembo-astonished-charles-leclerc-blames-monaco-crash-brakes/10828258/"
+    "https://www.motorsport.com/f1/news/max-verstappens-monaco-gp-retirement-sparks-kimi-raikkonen-comparison/10828193/"
   ]
 }
