@@ -1,8 +1,9 @@
 {
   "source": "https://www.motorsport.com/f1/news/",
-  "fetched_at": "2026-06-10T20:55:00+08:00",
+  "fetched_at": "2026-06-10T23:05:00+08:00",
   "count": 10,
   "urls": [
+    "https://www.motorsport.com/f1/news/five-things-to-look-out-for-at-the-f1-barcelona-gp/10828871/",
     "https://www.motorsport.com/f1/news/aston-martin-our-f1-chassis-is-fifth-fastest-at-some-tracks/10828533/",
     "https://www.motorsport.com/f1/news/we-have-not-been-fast-enough-why-mclaren-sees-monaco-as-a-reality-check/10828561/",
     "https://www.motorsport.com/f1/news/alex-albon-to-run-nigel-mansell-tribute-at-f1-barcelona-gp/10828786/",
@@ -11,7 +12,6 @@
     "https://www.motorsport.com/f1/news/kimi-antonelli-hits-back-at-george-russells-mind-games-im-still-the-underdog/10828644/",
     "https://www.motorsport.com/f1/news/fia-announces-hearing-as-alpine-seeks-to-get-gaslys-monaco-podium-back/10828677/",
     "https://www.motorsport.com/f1/news/red-bull-understands-isack-hadjar-radio-outbursts-monaco-f1-podium/10828557/",
-    "https://www.motorsport.com/f1/news/how-f1s-monaco-gp-extended-aston-martins-list-of-weaknesses/10828577/",
-    "https://www.motorsport.com/f1/news/luke-browning-given-williams-fp1-outings-in-barcelona-and-austria-/10828594/"
+    "https://www.motorsport.com/f1/news/how-f1s-monaco-gp-extended-aston-martins-list-of-weaknesses/10828577/"
   ]
 }
