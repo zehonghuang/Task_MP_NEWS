@@ -1,0 +1,134 @@
+{
+  "id": "n_autosport_20260610_2f66d0c029",
+  "layout_code": "STANDARD",
+  "type_code": "DRIVER",
+  "tag_text": "Audi / FP1",
+  "tags": [
+    "audi",
+    "paul-aron",
+    "rookie",
+    "fp1"
+  ],
+  "title": "奥迪将安排阿尔派后备车手保罗·阿隆参加两次 F1 一练",
+  "summary": "奥迪宣布将在西班牙和奥地利两站大奖赛的一练中启用阿尔派后备车手保罗·阿隆，以完成车队本赛季规定的新秀练习配额。",
+  "cover_url": "https://cdn-5.motorsport.com/images/amp/2GdwxklY/s6/paul-aron-alpine.jpg",
+  "published_at": "2026-06-10T09:32:00Z",
+  "source": {
+    "name": "Autosport",
+    "url": "https://www.motorsport.com/f1/news/audi-to-field-alpine-reserve-paul-aaron-in-two-formula-1-fp1-outings/10828745/"
+  },
+  "content": {
+    "format_code": "RICH_TEXT_NODES",
+    "text": "保罗·阿隆，阿尔派\n\n摄影：Jakub Porzycki / NurPhoto via Getty Images\n\n奥迪宣布，阿尔派 F1 后备车手保罗·阿隆将代表车队参加本赛季两次强制性的新秀 FP1 练习，分别是在巴塞罗那和奥地利大奖赛周末。\n\n根据规则，每支车队必须在整个赛季里让每辆赛车完成两次由新秀车手出战的练习赛任务。\n\n奥迪的第一次人员调整会在巴塞罗那-加泰罗尼亚大奖赛进行，届时阿隆将在周五的一练中接替霍肯伯格，驾驶 R26 亮相。两周之后在红牛环举行的奥地利大奖赛上，他还将再度出场，替换博托莱托参加第一次练习。\n\n这位爱沙尼亚车手并不是第一次和奥迪系车队合作。早在 2025 年，当车队仍以索伯名义参赛时，他就已经为该队完成过测试工作并驾驶过赛车。\n\n不过在完成今年为奥迪安排的这两次练习之后，阿隆将重新回到阿尔派，继续担任车队的一名后备车手。\n\n奥迪在声明中表示，这次机会将为阿隆带来“宝贵的赛道时间”。作为一名 F2 分站冠军得主，他将在继续积累一级方程式实战经验的同时，也帮助车队推进周末赛道工作计划。\n\n阿隆不会是本周五巴塞罗那赛道上唯一出战的新秀。威廉姆斯的 Luke Browning 以及迈凯伦的 Leonardo Fornaroli 也都将在这条西班牙赛道上完成各自的 F1 练习任务。\n\n文章还提到，2026 赛季中，每支车队都必须为两辆赛车分别安排两次新秀替换，只有 Racing Bulls 是例外。\n\n这是因为劳森的队友阿维德·林德布拉德本身就已经满足新秀资格，因此 Racing Bulls 只需要完成劳森这一侧的名额要求。",
+    "nodes": [
+      {
+        "name": "img",
+        "attrs": {
+          "src": "https://cdn-5.motorsport.com/images/amp/2GdwxklY/s6/paul-aron-alpine.jpg",
+          "mode": "widthFix",
+          "style": "width:100%;display:block;",
+          "alt": "保罗·阿隆，阿尔派"
+        }
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "保罗·阿隆，阿尔派"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "摄影：Jakub Porzycki / NurPhoto via Getty Images"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "奥迪宣布，阿尔派 F1 后备车手保罗·阿隆将代表车队参加本赛季两次强制性的新秀 FP1 练习，分别是在巴塞罗那和奥地利大奖赛周末。"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "根据规则，每支车队必须在整个赛季里让每辆赛车完成两次由新秀车手出战的练习赛任务。"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "奥迪的第一次人员调整会在巴塞罗那-加泰罗尼亚大奖赛进行，届时阿隆将在周五的一练中接替霍肯伯格，驾驶 R26 亮相。两周之后在红牛环举行的奥地利大奖赛上，他还将再度出场，替换博托莱托参加第一次练习。"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "这位爱沙尼亚车手并不是第一次和奥迪系车队合作。早在 2025 年，当车队仍以索伯名义参赛时，他就已经为该队完成过测试工作并驾驶过赛车。"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "不过在完成今年为奥迪安排的这两次练习之后，阿隆将重新回到阿尔派，继续担任车队的一名后备车手。"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "奥迪在声明中表示，这次机会将为阿隆带来“宝贵的赛道时间”。作为一名 F2 分站冠军得主，他将在继续积累一级方程式实战经验的同时，也帮助车队推进周末赛道工作计划。"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "阿隆不会是本周五巴塞罗那赛道上唯一出战的新秀。威廉姆斯的 Luke Browning 以及迈凯伦的 Leonardo Fornaroli 也都将在这条西班牙赛道上完成各自的 F1 练习任务。"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "文章还提到，2026 赛季中，每支车队都必须为两辆赛车分别安排两次新秀替换，只有 Racing Bulls 是例外。"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "这是因为劳森的队友阿维德·林德布拉德本身就已经满足新秀资格，因此 Racing Bulls 只需要完成劳森这一侧的名额要求。"
+          }
+        ]
+      }
+    ]
+  }
+}
