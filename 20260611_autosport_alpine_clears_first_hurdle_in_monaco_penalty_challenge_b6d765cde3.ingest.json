@@ -1,0 +1,109 @@
+{
+  "id": "n_autosport_20260611_b6d765cde3",
+  "layout_code": "STANDARD",
+  "type_code": "REGULATION",
+  "tag_text": "Alpine / 申诉",
+  "tags": [
+    "alpine",
+    "gasly",
+    "10",
+    "monaco",
+    "review",
+    "penalty"
+  ],
+  "title": "阿尔派在摩纳哥处罚申诉中先过第一关",
+  "summary": "国际汽联赛会干事已受理阿尔派针对皮埃尔·加斯利摩纳哥站两次维修区超速罚时提出的复审申请，接下来将进一步审查这些处罚是否应被撤销。",
+  "cover_url": "https://cdn-2.motorsport.com/images/amp/6Vy7LwLY/s1000/pierre-gasly-alpine.webp",
+  "published_at": "2026-06-11T12:55:36+00:00",
+  "source": {
+    "name": "Autosport",
+    "url": "https://www.motorsport.com/f1/news/alpine/10829123/"
+  },
+  "content": {
+    "format_code": "RICH_TEXT_NODES",
+    "text": "皮埃尔·加斯利，阿尔派\n\n摄影：Alastair Staley / LAT Images via Getty Images\n\n国际汽联赛会干事已经接受阿尔派提出的复审权申请，该申请针对皮埃尔·加斯利在摩纳哥大奖赛中因维修区超速而吃到的两次 5 秒罚时，这两次处罚让这位法国车手在最终成绩中从第三掉到第七。\n\n加斯利在摩纳哥率先以第三名冲过终点，但赛会干事随后因其在维修区超速，对他分别施加了两次 5 秒罚时，因此他被下放至第七名。\n\n加斯利是这场比赛中 6 位因维修区超速受罚的车手之一，这也引发了外界对于用于监管维修区车速的计时环路系统是否存在问题的担忧。其中一些违规出现在相关车手已经格外谨慎避免超速的情况下，包括他们以明显低于 60 公里/小时的速度行驶，并在驶入维修区入口时采用了更大的线路。\n\n阿尔派在周日夜里立即提出复审申请，而赛会干事在周四确认，阿尔派的申请具有可受理性。接下来他们将审查，加斯利所受的处罚是否应当被撤销。\n\n加斯利称这次被降名次是自己职业生涯中最艰难的竞技时刻，而最终站上标志性摩纳哥领奖台庆祝的人，则变成了红牛车手伊萨克·哈贾尔。\n\n后续还有更多进展。",
+    "nodes": [
+      {
+        "name": "img",
+        "attrs": {
+          "src": "https://cdn-2.motorsport.com/images/amp/6Vy7LwLY/s1000/pierre-gasly-alpine.webp",
+          "mode": "widthFix",
+          "style": "width:100%;display:block;",
+          "alt": "皮埃尔·加斯利，阿尔派"
+        }
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "皮埃尔·加斯利，阿尔派"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "摄影：Alastair Staley / LAT Images via Getty Images"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "国际汽联赛会干事已经接受阿尔派提出的复审权申请，该申请针对皮埃尔·加斯利在摩纳哥大奖赛中因维修区超速而吃到的两次 5 秒罚时，这两次处罚让这位法国车手在最终成绩中从第三掉到第七。"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "加斯利在摩纳哥率先以第三名冲过终点，但赛会干事随后因其在维修区超速，对他分别施加了两次 5 秒罚时，因此他被下放至第七名。"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "加斯利是这场比赛中 6 位因维修区超速受罚的车手之一，这也引发了外界对于用于监管维修区车速的计时环路系统是否存在问题的担忧。其中一些违规出现在相关车手已经格外谨慎避免超速的情况下，包括他们以明显低于 60 公里/小时的速度行驶，并在驶入维修区入口时采用了更大的线路。"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "阿尔派在周日夜里立即提出复审申请，而赛会干事在周四确认，阿尔派的申请具有可受理性。接下来他们将审查，加斯利所受的处罚是否应当被撤销。"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "加斯利称这次被降名次是自己职业生涯中最艰难的竞技时刻，而最终站上标志性摩纳哥领奖台庆祝的人，则变成了红牛车手伊萨克·哈贾尔。"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "后续还有更多进展。"
+          }
+        ]
+      }
+    ]
+  }
+}

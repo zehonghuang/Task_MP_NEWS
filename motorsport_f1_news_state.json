@@ -1,8 +1,9 @@
 {
   "source": "https://www.motorsport.com/f1/news/",
-  "fetched_at": "2026-06-11T20:42:12+08:00",
+  "fetched_at": "2026-06-11T21:02:42+08:00",
   "count": 10,
   "urls": [
+    "https://www.motorsport.com/f1/news/alpine/10829123/",
     "https://www.motorsport.com/f1/news/what-is-aduo-f1-engine-system/10828301/",
     "https://www.motorsport.com/f1/news/pierre-gasly-calls-monaco-penalty-ordeal-the-hardest-day-of-his-f1-career/10829093/",
     "https://www.motorsport.com/f1/news/mercedes-pokes-fun-at-viral-kim-kardashian-moment-after-monaco-gp-mix-up/10829102/",
@@ -11,7 +12,6 @@
     "https://www.motorsport.com/f1/news/charles-leclerc-barcelona-f1-brakes/10829070/",
     "https://www.motorsport.com/f1/news/martin-brundle-hails-isack-hadjars-sterling-drive-to-take-monaco-gp-podium/10829066/",
     "https://www.motorsport.com/f1/news/kimi-antonelli-feared-for-f1-future-during-tough-rookie-year/10829044/",
-    "https://www.motorsport.com/f1/news/david-croft-perplexed-by-monaco-gp-penalties-something-was-a-bit-amiss/10829042/",
-    "https://www.motorsport.com/f1/news/why-alpines-attempt-to-dispute-monaco-result-may-open-a-can-of-worms/10828924/"
+    "https://www.motorsport.com/f1/news/david-croft-perplexed-by-monaco-gp-penalties-something-was-a-bit-amiss/10829042/"
   ]
 }
