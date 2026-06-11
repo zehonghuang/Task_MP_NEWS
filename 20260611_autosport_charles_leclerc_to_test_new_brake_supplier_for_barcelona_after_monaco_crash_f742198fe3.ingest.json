@@ -1,0 +1,173 @@
+{
+  "id": "n_autosport_20260611_f742198fe3",
+  "layout_code": "STANDARD",
+  "type_code": "TECH",
+  "tag_text": "Ferrari / 刹车调整",
+  "tags": [
+    "ferrari",
+    "leclerc",
+    "16",
+    "hamilton",
+    "44",
+    "brakes",
+    "barcelona"
+  ],
+  "title": "勒克莱尔摩纳哥撞车后，将在巴塞罗那测试新的刹车供应方案",
+  "summary": "在摩纳哥因制动异常撞车后，勒克莱尔将在巴塞罗那一练测试与汉密尔顿相同的 Carbon Industrie 制动配置；法拉利认为这更多是车手偏好与匹配问题，而非单纯“谁更好”的结论。",
+  "cover_url": "https://cdn-4.motorsport.com/images/amp/2dE7LaLY/s6/charles-leclerc-ferrari-2.jpg",
+  "published_at": "2026-06-11T12:04:13+00:00",
+  "source": {
+    "name": "Autosport",
+    "url": "https://www.motorsport.com/f1/news/charles-leclerc-barcelona-f1-brakes/10829070/"
+  },
+  "content": {
+    "format_code": "RICH_TEXT_NODES",
+    "text": "夏尔·勒克莱尔，法拉利\n\n在摩纳哥遭遇挫败后，夏尔·勒克莱尔决定在本周末的 F1 巴塞罗那大奖赛中，朝着与队友刘易斯·汉密尔顿相近的技术方向进行尝试。\n\n这位法拉利车手在上周末主场作战时，于比赛还剩 14 圈、排名第三的情况下，在最后一个弯撞上护墙，提前退赛。\n\n勒克莱尔赛后对此极为恼火，因为他失去了登上领奖台的机会。这位 28 岁车手随后透露，导致事故的是 SF-26 上的一项技术问题。\n\n他说：“这件事我甚至都不打算背锅。在四个刹车里，我有三个几乎不工作。在一辆 F1 赛车上，这显然绝不是什么好事。”\n\n“左前刹车工作正常，右前只有一半在工作，而两个后刹车则完全不工作。我说的‘完全不工作’，是指从数据上看根本没有任何减速效果，就像卡钳压根没有装在车上一样。”\n\n勒克莱尔后来把这一切形容为一场“噩梦”，不过法拉利已经找到了一个解决思路，那就是使用与队友汉密尔顿赛车相同的刹车配置。\n\n夏尔·勒克莱尔、刘易斯·汉密尔顿，法拉利\n\n摄影：Sam Bagnall / Sutton Images via Getty Images\n\n这位七届世界冠军一直使用的是 Carbon Industrie 的刹车盘和刹车片，而勒克莱尔此前长期采用的是 Brembo 方案，也正是这套配置让他一直有些不适。\n\n因此，在本周末的巴塞罗那大奖赛上，勒克莱尔会先在第一次自由练习中测试 Carbon Industrie 的配置，然后再决定之后几个赛段是继续坚持，还是重新切回原方案。\n\n这件事本质上还是车手偏好的问题，而不是简单地说某一种方案就绝对优于另一种。有人无论如何都不会放弃 Brembo，也有人一直更依赖 Carbon Industrie。\n\n因此，接下来勒克莱尔能否借此走出近期低迷，将会非常值得关注。自三月日本大奖赛以来，他一直没有再登上领奖台。\n\n这也让他在积分榜上滑落到第四位，排在状态回升、连续两站获得亚军的汉密尔顿之后。",
+    "nodes": [
+      {
+        "name": "img",
+        "attrs": {
+          "src": "https://cdn-4.motorsport.com/images/amp/2dE7LaLY/s6/charles-leclerc-ferrari-2.jpg",
+          "mode": "widthFix",
+          "style": "width:100%;display:block;",
+          "alt": "夏尔·勒克莱尔，法拉利"
+        }
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "夏尔·勒克莱尔，法拉利"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "在摩纳哥遭遇挫败后，夏尔·勒克莱尔决定在本周末的 F1 巴塞罗那大奖赛中，朝着与队友刘易斯·汉密尔顿相近的技术方向进行尝试。"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "这位法拉利车手在上周末主场作战时，于比赛还剩 14 圈、排名第三的情况下，在最后一个弯撞上护墙，提前退赛。"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "勒克莱尔赛后对此极为恼火，因为他失去了登上领奖台的机会。这位 28 岁车手随后透露，导致事故的是 SF-26 上的一项技术问题。"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "他说：“这件事我甚至都不打算背锅。在四个刹车里，我有三个几乎不工作。在一辆 F1 赛车上，这显然绝不是什么好事。”"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "“左前刹车工作正常，右前只有一半在工作，而两个后刹车则完全不工作。我说的‘完全不工作’，是指从数据上看根本没有任何减速效果，就像卡钳压根没有装在车上一样。”"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "勒克莱尔后来把这一切形容为一场“噩梦”，不过法拉利已经找到了一个解决思路，那就是使用与队友汉密尔顿赛车相同的刹车配置。"
+          }
+        ]
+      },
+      {
+        "name": "img",
+        "attrs": {
+          "src": "https://cdn.motorsport.com/images/mgl/27NQ91O0/s1200/charles-leclerc-ferrari-lewis-.webp",
+          "mode": "widthFix",
+          "style": "width:100%;display:block;",
+          "alt": "夏尔·勒克莱尔、刘易斯·汉密尔顿，法拉利"
+        }
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "夏尔·勒克莱尔、刘易斯·汉密尔顿，法拉利"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "摄影：Sam Bagnall / Sutton Images via Getty Images"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "这位七届世界冠军一直使用的是 Carbon Industrie 的刹车盘和刹车片，而勒克莱尔此前长期采用的是 Brembo 方案，也正是这套配置让他一直有些不适。"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "因此，在本周末的巴塞罗那大奖赛上，勒克莱尔会先在第一次自由练习中测试 Carbon Industrie 的配置，然后再决定之后几个赛段是继续坚持，还是重新切回原方案。"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "这件事本质上还是车手偏好的问题，而不是简单地说某一种方案就绝对优于另一种。有人无论如何都不会放弃 Brembo，也有人一直更依赖 Carbon Industrie。"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "因此，接下来勒克莱尔能否借此走出近期低迷，将会非常值得关注。自三月日本大奖赛以来，他一直没有再登上领奖台。"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "这也让他在积分榜上滑落到第四位，排在状态回升、连续两站获得亚军的汉密尔顿之后。"
+          }
+        ]
+      }
+    ]
+  }
+}
