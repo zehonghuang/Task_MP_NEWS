@@ -1,8 +1,9 @@
 {
   "source": "https://www.motorsport.com/f1/news/",
-  "fetched_at": "2026-06-11T03:21:38+08:00",
+  "fetched_at": "2026-06-11T17:38:03+08:00",
   "count": 10,
   "urls": [
+    "https://www.motorsport.com/f1/news/why-alpines-attempt-to-dispute-monaco-result-may-open-a-can-of-worms/10828924/",
     "https://www.motorsport.com/f1/news/f1-agrees-on-extra-combustion-power-for-2027-and-2028/10828934/",
     "https://www.motorsport.com/f1/news/red-bull-surprised-by-kimi-antonellis-serious-pace-in-monaco-gp-he-disappeared/10828803/",
     "https://www.motorsport.com/f1/news/five-things-to-look-out-for-at-the-f1-barcelona-gp/10828871/",
@@ -11,7 +12,6 @@
     "https://www.motorsport.com/f1/news/alex-albon-to-run-nigel-mansell-tribute-at-f1-barcelona-gp/10828786/",
     "https://www.motorsport.com/f1/news/williams-blockade-should-team-tactics-be-banned-in-monaco/10828752/",
     "https://www.motorsport.com/f1/news/audi-to-field-alpine-reserve-paul-aaron-in-two-formula-1-fp1-outings/10828745/",
-    "https://www.motorsport.com/f1/news/kimi-antonelli-hits-back-at-george-russells-mind-games-im-still-the-underdog/10828644/",
-    "https://www.motorsport.com/f1/news/fia-announces-hearing-as-alpine-seeks-to-get-gaslys-monaco-podium-back/10828677/"
+    "https://www.motorsport.com/f1/news/kimi-antonelli-hits-back-at-george-russells-mind-games-im-still-the-underdog/10828644/"
   ]
 }
