@@ -1,0 +1,153 @@
+{
+  "id": "n_autosport_20260611_f03208d8c6",
+  "layout_code": "STANDARD",
+  "type_code": "PADDOCK",
+  "tag_text": "Mercedes / 阵容",
+  "tags": [
+    "mercedes",
+    "wolff",
+    "steiner",
+    "lineup",
+    "rumour"
+  ],
+  "title": "斯泰纳称：托托·沃尔夫“太聪明了”，不会让维斯塔潘与安东内利搭档",
+  "summary": "冈瑟·斯泰纳认为，沃尔夫没有理由把维斯塔潘带到安东内利身边制造队内竞争；他指出梅赛德斯已拥有“未来最大的天才”，而沃尔夫此前也已公开重申对现有双车手阵容的信任。",
+  "cover_url": "https://cdn-1.motorsport.com/images/amp/Y9lLPOx2/s1000/toto-wolff-mercedes.webp",
+  "published_at": "2026-06-11T15:58:00Z",
+  "source": {
+    "name": "Autosport",
+    "url": "https://www.motorsport.com/f1/news/toto-wolff-too-smart-to-pair-max-verstappen-with-kimi-antonelli-says-guenther-steiner/10829169/"
+  },
+  "content": {
+    "format_code": "RICH_TEXT_NODES",
+    "text": "托托·沃尔夫，梅赛德斯\n\n摄影：Alastair Staley / LAT Images via Getty Images\n\n前哈斯 Formula 1 领队冈瑟·斯泰纳认为，梅赛德斯老板托托·沃尔夫“太聪明了”，不会考虑让马克斯·维斯塔潘与基米·安东内利搭档。\n\n在《The Red Flags Podcast》节目中，斯泰纳谈到了围绕这位红牛车手与梅赛德斯之间的传闻。在节目“Gas or Brake”环节中，主持人向他抛出了一个假设：这位荷兰车手可能在梅赛德斯取代乔治·拉塞尔。\n\n“我不认为那会发生。马克斯不会取代乔治。托托为什么要在现在引进马克斯？他手里已经拥有未来最大的天才了。”斯泰纳谈到目前的积分榜领跑者安东内利时说。\n\n“我认为马克斯现在是最好的，但到了某个阶段，总会有人比他更好，而基米在某个时候肯定会比他更好。但他为什么要现在引进像马克斯这样的人，然后让他们之间形成竞争，结果可能两个人都输掉？托托不会这么做。托托太聪明了，不会这么做。”\n\n梅赛德斯在 2026 赛季开局强势，到目前为止已经赢下了每一场大奖赛。拉塞尔拿下了澳大利亚大奖赛和中国冲刺赛的胜利，而安东内利则取得了五连胜。\n\n马克斯·维斯塔潘，红牛车队\n\n摄影：Andrea Diodato / NurPhoto via Getty Images\n\n沃尔夫在 3 月接受《OE24》采访时，也重申了自己对布拉克利现有车手阵容的承诺。“最让人惊讶的是，这些愚蠢的传闻竟然在 3 月份就冒出来了，”沃尔夫说。“蠢到这种程度的事，通常你们都是到 7 月才会谈。我不知道这次又是谁把它翻出来的。”\n\n“我们有两位都签了长期、多年合同的车手，我对他们两人再满意不过了。”\n\n“两人都拿出了顶级表现，所以完全没有理由去考虑更换阵容、去想别的车手。我这么说，对马克斯同样抱有最大尊重。”",
+    "nodes": [
+      {
+        "name": "img",
+        "attrs": {
+          "src": "https://cdn-1.motorsport.com/images/amp/Y9lLPOx2/s1000/toto-wolff-mercedes.webp",
+          "mode": "widthFix",
+          "style": "width:100%;display:block;",
+          "alt": "托托·沃尔夫，梅赛德斯"
+        }
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "托托·沃尔夫，梅赛德斯"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "摄影：Alastair Staley / LAT Images via Getty Images"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "前哈斯 Formula 1 领队冈瑟·斯泰纳认为，梅赛德斯老板托托·沃尔夫“太聪明了”，不会考虑让马克斯·维斯塔潘与基米·安东内利搭档。"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "在《The Red Flags Podcast》节目中，斯泰纳谈到了围绕这位红牛车手与梅赛德斯之间的传闻。在节目“Gas or Brake”环节中，主持人向他抛出了一个假设：这位荷兰车手可能在梅赛德斯取代乔治·拉塞尔。"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "“我不认为那会发生。马克斯不会取代乔治。托托为什么要在现在引进马克斯？他手里已经拥有未来最大的天才了。”斯泰纳谈到目前的积分榜领跑者安东内利时说。"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "“我认为马克斯现在是最好的，但到了某个阶段，总会有人比他更好，而基米在某个时候肯定会比他更好。但他为什么要现在引进像马克斯这样的人，然后让他们之间形成竞争，结果可能两个人都输掉？托托不会这么做。托托太聪明了，不会这么做。”"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "梅赛德斯在 2026 赛季开局强势，到目前为止已经赢下了每一场大奖赛。拉塞尔拿下了澳大利亚大奖赛和中国冲刺赛的胜利，而安东内利则取得了五连胜。"
+          }
+        ]
+      },
+      {
+        "name": "img",
+        "attrs": {
+          "src": "https://cdn.motorsport.com/images/mgl/0ZqAPKL6/s1000/max-verstappen-red-bull-racing.jpg",
+          "mode": "widthFix",
+          "style": "width:100%;display:block;",
+          "alt": "马克斯·维斯塔潘，红牛车队"
+        }
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "马克斯·维斯塔潘，红牛车队"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "摄影：Andrea Diodato / NurPhoto via Getty Images"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "沃尔夫在 3 月接受《OE24》采访时，也重申了自己对布拉克利现有车手阵容的承诺。“最让人惊讶的是，这些愚蠢的传闻竟然在 3 月份就冒出来了，”沃尔夫说。“蠢到这种程度的事，通常你们都是到 7 月才会谈。我不知道这次又是谁把它翻出来的。”"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "“我们有两位都签了长期、多年合同的车手，我对他们两人再满意不过了。”"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "“两人都拿出了顶级表现，所以完全没有理由去考虑更换阵容、去想别的车手。我这么说，对马克斯同样抱有最大尊重。”"
+          }
+        ]
+      }
+    ]
+  }
+}

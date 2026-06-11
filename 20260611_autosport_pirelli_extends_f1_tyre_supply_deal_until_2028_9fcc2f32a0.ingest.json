@@ -1,0 +1,171 @@
+{
+  "id": "n_autosport_20260611_9fcc2f32a0",
+  "layout_code": "STANDARD",
+  "type_code": "PADDOCK",
+  "tag_text": "Pirelli / 合同",
+  "tags": [
+    "pirelli",
+    "contract",
+    "official",
+    "f1",
+    "fia"
+  ],
+  "title": "倍耐力将 F1 轮胎供应协议延长至 2028 年",
+  "summary": "倍耐力已触发合同中的一年续约选项，将其作为 F1 独家轮胎供应商的合作延长到 2028 年；FIA 与 F1 管理层均称这一决定将为锦标赛提供稳定性。",
+  "cover_url": "https://cdn-8.motorsport.com/images/amp/YXypnA76/s1000/george-russell-mercedes.webp",
+  "published_at": "2026-06-11T16:40:00Z",
+  "source": {
+    "name": "Autosport",
+    "url": "https://www.motorsport.com/f1/news/pirelli-extends-f1-tyre-supply-deal-until-2028/10829208/"
+  },
+  "content": {
+    "format_code": "RICH_TEXT_NODES",
+    "text": "乔治·拉塞尔，梅赛德斯\n\n摄影：Sam Bloxham / LAT Images via Getty Images\n\n倍耐力在触发一项为期一年的续约选项后，将把自己作为 Formula 1 轮胎供应商的任期延长至 2028 年。\n\n这家意大利品牌于 2011 年取代普利司通开始供胎，而该协议还涵盖 F1 的下级系列 F2 和 F3，以及全女性赛事 F1 Academy 的轮胎供应。\n\n2023 年，倍耐力在 FIA 新一轮招标中击败普利司通，赢得了一份新合同，将其合作延长三年直至 2027 赛季结束。\n\n那份合同中包含一个额外赛季的选项，如今这一选项已经被触发，这意味着倍耐力在 F1 的供胎周期将延长至 18 年。\n\nFIA 主席穆罕默德·本·苏拉耶姆表示：“多年来，倍耐力一直是 FIA 一级方程式世界锦标赛的重要合作伙伴，在这项运动的最高舞台上持续提供高水平的性能、创新与安全保障。”\n\n“这份延续到 2028 年底的续约，为锦标赛提供了稳定性，也反映了 FIA、Formula One Group 与倍耐力之间牢固的合作关系。”\n\n“我们将继续携手推动创新，并为世界各地的车手、车队和车迷带来精彩比赛提供支持。”\n\n倍耐力 2026 款 F1 轮胎\n\n摄影：Pirelli\n\nF1 首席执行官斯特法诺·多梅尼卡利补充道：“多年来，我们与倍耐力建立了一段令人难以置信的历史与合作关系，他们在技术实力以及对性能、创新和可持续性的关注方面始终是我们可以依赖的对象，因此我很高兴 FIA 和我们将把这种关系再延续一年。”\n\n“在我们继续推进技术规则框架边界的同时，倍耐力对品质的承诺让所有受其供货的车队和系列赛事都能够放心，因为他们知道，自己使用的是世界上最先进的轮胎之一。”\n\n最近，达里奥·马拉富斯基接替长期在倍耐力任职的马里奥·伊索拉，出任新的赛车运动负责人，这一职位也包括作为品牌在 F1 围场中的门面人物。",
+    "nodes": [
+      {
+        "name": "img",
+        "attrs": {
+          "src": "https://cdn-8.motorsport.com/images/amp/YXypnA76/s1000/george-russell-mercedes.webp",
+          "mode": "widthFix",
+          "style": "width:100%;display:block;",
+          "alt": "乔治·拉塞尔，梅赛德斯"
+        }
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "乔治·拉塞尔，梅赛德斯"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "摄影：Sam Bloxham / LAT Images via Getty Images"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "倍耐力在触发一项为期一年的续约选项后，将把自己作为 Formula 1 轮胎供应商的任期延长至 2028 年。"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "这家意大利品牌于 2011 年取代普利司通开始供胎，而该协议还涵盖 F1 的下级系列 F2 和 F3，以及全女性赛事 F1 Academy 的轮胎供应。"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "2023 年，倍耐力在 FIA 新一轮招标中击败普利司通，赢得了一份新合同，将其合作延长三年直至 2027 赛季结束。"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "那份合同中包含一个额外赛季的选项，如今这一选项已经被触发，这意味着倍耐力在 F1 的供胎周期将延长至 18 年。"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "FIA 主席穆罕默德·本·苏拉耶姆表示：“多年来，倍耐力一直是 FIA 一级方程式世界锦标赛的重要合作伙伴，在这项运动的最高舞台上持续提供高水平的性能、创新与安全保障。”"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "“这份延续到 2028 年底的续约，为锦标赛提供了稳定性，也反映了 FIA、Formula One Group 与倍耐力之间牢固的合作关系。”"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "“我们将继续携手推动创新，并为世界各地的车手、车队和车迷带来精彩比赛提供支持。”"
+          }
+        ]
+      },
+      {
+        "name": "img",
+        "attrs": {
+          "src": "https://cdn.motorsport.com/images/mgl/0ZqA1No6/s1000/pirelli-2026-f1-tyres.jpg",
+          "mode": "widthFix",
+          "style": "width:100%;display:block;",
+          "alt": "倍耐力 2026 款 F1 轮胎"
+        }
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "倍耐力 2026 款 F1 轮胎"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "摄影：Pirelli"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "F1 首席执行官斯特法诺·多梅尼卡利补充道：“多年来，我们与倍耐力建立了一段令人难以置信的历史与合作关系，他们在技术实力以及对性能、创新和可持续性的关注方面始终是我们可以依赖的对象，因此我很高兴 FIA 和我们将把这种关系再延续一年。”"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "“在我们继续推进技术规则框架边界的同时，倍耐力对品质的承诺让所有受其供货的车队和系列赛事都能够放心，因为他们知道，自己使用的是世界上最先进的轮胎之一。”"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "最近，达里奥·马拉富斯基接替长期在倍耐力任职的马里奥·伊索拉，出任新的赛车运动负责人，这一职位也包括作为品牌在 F1 围场中的门面人物。"
+          }
+        ]
+      }
+    ]
+  }
+}
