@@ -1,0 +1,63 @@
+{
+  "id": "n_autosport_20260612_b7e143f52a",
+  "layout_code": "STANDARD",
+  "type_code": "PADDOCK",
+  "tag_text": "Gasly / 复审",
+  "tags": [
+    "gasly",
+    "10",
+    "alpine",
+    "monaco",
+    "penalty",
+    "review",
+    "fia"
+  ],
+  "title": "加斯利摩纳哥处罚复审结果预计周五出炉",
+  "summary": "阿尔派就加斯利在摩纳哥站两次维修区超速罚时启动复审权程序；FIA 裁判认为其部分可受理，并确认测距系统存在“高估速度”的问题。最终裁决预计将于周五公布。",
+  "cover_url": "https://cdn-6.motorsport.com/images/amp/0kZAzpy6/s700/pierre-gasly-alpine.webp",
+  "published_at": "2026-06-11T17:24:29Z",
+  "source": {
+    "name": "Autosport",
+    "url": "https://www.motorsport.com/f1/news/pierre-gaslys-monaco-gp-penalty-review-outcome-expected-on-friday/10829246/"
+  },
+  "content": {
+    "format_code": "RICH_TEXT_NODES",
+    "text": "皮埃尔·加斯利（阿尔派）\n\n皮埃尔·加斯利与阿尔派预计要等到周五，才能得知针对这位法国车手在 F1 摩纳哥大奖赛处罚所启动的“复审权”（Right of Review）程序结果。\n\n阿尔派已就加斯利两次“维修区超速”所判的两条 5 秒罚时提起复审权申请。两次处罚让他从第三名被降至第七名，错过了在摩纳哥登上领奖台庆祝的机会。\n\n加斯利是同一场比赛中被“抓到”的多位车手之一，这引发了外界猜测：是否有系统性错误导致混乱。\n\n周四，FIA 裁判认定阿尔派的复审权申请在部分内容上可受理（admissible），原因在于车队提交了新的证据，其中包括 F1 管理方的数据，显示确实存在错误。\n\n在阿尔派与裁判的视频会议中（多数车队也出席旁听），会议确认用于判定维修区速度的测距系统“并不准确，且高估了加斯利赛车的速度”。\n\n复审权听证会在周四下午裁判认定可受理后不久便开始，但本案结果预计不会在巴塞罗那当地周五上午之前公布。\n\n复审权的裁定涉及多个环节，也会包含摩纳哥大奖赛裁判组。裁判通常会在对外发布公告前，先向参加听证会的各车队通报裁决结果。\n\n皮埃尔·加斯利（阿尔派）\n\n摄影：Sam Bagnall / Sutton Images via Getty Images\n\n加斯利称，这次名次被改判（从领奖台位置被降至第七）是他职业生涯中“最艰难的体育时刻”，而红牛的伊萨克·哈贾尔则在标志性的摩纳哥领奖台上庆祝。\n\n在经历了几天时间消化失望情绪后，加斯利说：“在听证结束、以及车队与 FIA 的对话完成之前，我不想说太多。我认为车队非常努力，基本上做到了他们能做的最好程度，把新的证据带了出来。”\n\n“这几天我们和车队、律师、以及我们的案件沟通了很多，所以我仍然非常沉浸在发生了什么以及整个情况里。但与此同时，我也很高兴我们马上又有一场比赛。”\n\n“我已经在努力调整心态，确保来到这里时能以 100% 的状态去表现。我想从某种意义上说，我们对表现感到高兴。我们为在摩纳哥取得的成绩感到非常自豪。”\n\n“可以说，这是我在 F1 以及整个运动生涯里，体育层面上最艰难的一天。”",
+    "nodes": [
+      {
+        "name": "img",
+        "attrs": {
+          "src": "https://cdn-6.motorsport.com/images/amp/0kZAzpy6/s700/pierre-gasly-alpine.webp",
+          "mode": "widthFix",
+          "style": "width:100%;display:block;",
+          "alt": "皮埃尔·加斯利（阿尔派）"
+        }
+      },
+      { "name": "p", "children": [ { "type": "text", "text": "皮埃尔·加斯利（阿尔派）" } ] },
+      { "name": "p", "children": [ { "type": "text", "text": "皮埃尔·加斯利与阿尔派预计要等到周五，才能得知针对这位法国车手在 F1 摩纳哥大奖赛处罚所启动的“复审权”（Right of Review）程序结果。" } ] },
+      { "name": "p", "children": [ { "type": "text", "text": "阿尔派已就加斯利两次“维修区超速”所判的两条 5 秒罚时提起复审权申请。两次处罚让他从第三名被降至第七名，错过了在摩纳哥登上领奖台庆祝的机会。" } ] },
+      { "name": "p", "children": [ { "type": "text", "text": "加斯利是同一场比赛中被“抓到”的多位车手之一，这引发了外界猜测：是否有系统性错误导致混乱。" } ] },
+      { "name": "p", "children": [ { "type": "text", "text": "周四，FIA 裁判认定阿尔派的复审权申请在部分内容上可受理（admissible），原因在于车队提交了新的证据，其中包括 F1 管理方的数据，显示确实存在错误。" } ] },
+      { "name": "p", "children": [ { "type": "text", "text": "在阿尔派与裁判的视频会议中（多数车队也出席旁听），会议确认用于判定维修区速度的测距系统“并不准确，且高估了加斯利赛车的速度”。" } ] },
+      { "name": "p", "children": [ { "type": "text", "text": "复审权听证会在周四下午裁判认定可受理后不久便开始，但本案结果预计不会在巴塞罗那当地周五上午之前公布。" } ] },
+      { "name": "p", "children": [ { "type": "text", "text": "复审权的裁定涉及多个环节，也会包含摩纳哥大奖赛裁判组。裁判通常会在对外发布公告前，先向参加听证会的各车队通报裁决结果。" } ] },
+      {
+        "name": "img",
+        "attrs": {
+          "src": "https://cdn.motorsport.com/images/mgl/6Al7oBGY/s1000/pierre-gasly-alpine.jpg",
+          "mode": "widthFix",
+          "style": "width:100%;display:block;",
+          "alt": "皮埃尔·加斯利（阿尔派）"
+        }
+      },
+      { "name": "p", "children": [ { "type": "text", "text": "皮埃尔·加斯利（阿尔派）" } ] },
+      { "name": "p", "children": [ { "type": "text", "text": "摄影：Sam Bagnall / Sutton Images via Getty Images" } ] },
+      { "name": "p", "children": [ { "type": "text", "text": "加斯利称，这次名次被改判（从领奖台位置被降至第七）是他职业生涯中“最艰难的体育时刻”，而红牛的伊萨克·哈贾尔则在标志性的摩纳哥领奖台上庆祝。" } ] },
+      { "name": "p", "children": [ { "type": "text", "text": "在经历了几天时间消化失望情绪后，加斯利说：“在听证结束、以及车队与 FIA 的对话完成之前，我不想说太多。我认为车队非常努力，基本上做到了他们能做的最好程度，把新的证据带了出来。”" } ] },
+      { "name": "p", "children": [ { "type": "text", "text": "“这几天我们和车队、律师、以及我们的案件沟通了很多，所以我仍然非常沉浸在发生了什么以及整个情况里。但与此同时，我也很高兴我们马上又有一场比赛。”" } ] },
+      { "name": "p", "children": [ { "type": "text", "text": "“我已经在努力调整心态，确保来到这里时能以 100% 的状态去表现。我想从某种意义上说，我们对表现感到高兴。我们为在摩纳哥取得的成绩感到非常自豪。”" } ] },
+      { "name": "p", "children": [ { "type": "text", "text": "“可以说，这是我在 F1 以及整个运动生涯里，体育层面上最艰难的一天。”" } ] }
+    ]
+  }
+}
+
