@@ -1,8 +1,9 @@
 {
   "source": "https://www.motorsport.com/f1/news/",
-  "fetched_at": "2026-06-12T09:45:02+08:00",
+  "fetched_at": "2026-06-12T15:50:56+08:00",
   "count": 10,
   "urls": [
+    "https://www.motorsport.com/f1/news/fia-president-targets-nearly-150kg-f1-weight-reduction-by-2031/10829218/",
     "https://www.motorsport.com/f1/news/george-russell-tipped-to-end-kimi-antonellis-winning-run-in-barcelona/10829298/",
     "https://www.motorsport.com/f1/news/martin-brundle-praises-serene-and-unbeatable-kimi-antonelli-after-monaco-gp-win/10829077/",
     "https://www.motorsport.com/f1/news/george-russell-eyes-nascar-run-after-meeting-2023-cup-champion-ryan-blaney/10829152/",
@@ -11,7 +12,6 @@
     "https://www.motorsport.com/f1/news/isack-hadjar-responds-to-monaco-gp-potential-podium-loss/10829235/",
     "https://www.motorsport.com/f1/news/pirelli-extends-f1-tyre-supply-deal-until-2028/10829208/",
     "https://www.motorsport.com/f1/news/why-kimi-antonelli-is-grateful-for-2025-slump-and-still-has-many-questions-that-need-to-be-answered/10829186/",
-    "https://www.motorsport.com/f1/news/toto-wolff-too-smart-to-pair-max-verstappen-with-kimi-antonelli-says-guenther-steiner/10829169/",
-    "https://www.motorsport.com/f1/news/max-verstappen-confused-by-fia-verdict-that-makes-red-bull-engine-f1s-benchmark/10829192/"
+    "https://www.motorsport.com/f1/news/toto-wolff-too-smart-to-pair-max-verstappen-with-kimi-antonelli-says-guenther-steiner/10829169/"
   ]
 }
