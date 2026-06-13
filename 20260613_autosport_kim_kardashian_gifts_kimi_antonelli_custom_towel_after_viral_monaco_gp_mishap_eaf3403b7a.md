@@ -2,7 +2,7 @@
 
 - 原文标题：Kim Kardashian gifts Kimi Antonelli custom towel after viral Monaco GP mishap
 - 原文链接：https://www.motorsport.com/f1/news/kim-kardashian-gifts-kimi-antonelli-custom-towel-after-viral-monaco-gp-mishap/10829793/
-- 发布时间：2026-06-13T00:00:00+08:00（原页时间不可直接抓取，按任务兜底）
+- 发布时间：2026-06-13T09:32:12Z  
 - 抓取说明：原页触发 CloudFront 403，以下根据可访问二级报道与搜索结果进行忠实整理翻译。
 
 梅赛德斯 F1 车手基米·安东内利在巴塞罗那周末收到了一份意外礼物。此前，真人秀明星兼企业家金·卡戴珊在摩纳哥大奖赛颁奖台庆祝后的一个“毛巾乌龙”片段走红网络，而这次她亲自送上了一条定制毛巾作为回应。

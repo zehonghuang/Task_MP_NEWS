@@ -2,7 +2,7 @@
 
 - 原文标题：Karun Chandhok backs McLaren to return to Miami form and challenge Mercedes in Barcelona
 - 原文链接：https://www.motorsport.com/f1/news/karun-chandhok-backs-mclaren-to-return-to-miami-form-and-challenge-mercedes-in-barcelona/10829833/
-- 发布时间：2026-06-13T00:00:00+08:00（原页时间不可直接抓取，按任务兜底）
+- 发布时间：2026-06-13T11:29:50Z  
 - 抓取说明：原页触发 CloudFront 403，以下根据可访问二级报道与搜索结果进行忠实整理翻译。
 
 前 F1 车手、现 Sky Sports F1 评论员卡伦·钱多克认为，迈凯伦有望在巴塞罗那找回迈阿密周末展现出的竞争力，并在本周末向梅赛德斯发起真正挑战。

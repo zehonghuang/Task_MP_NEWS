@@ -2,7 +2,7 @@
 
 - 原文标题：Juan Pablo Montoya names Mercedes' biggest threat in Barcelona
 - 原文链接：https://www.motorsport.com/f1/news/juan-pablo-montoya-names-mercedes-biggest-threat-in-barcelona/10829591/
-- 发布时间：2026-06-13T00:00:00+08:00（原页时间不可直接抓取，按任务兜底）
+- 发布时间：2026-06-13T10:05:01Z  
 - 抓取说明：原页触发 CloudFront 403，以下根据可访问二级报道与搜索结果进行忠实整理翻译。
 
 前 F1 分站冠军胡安·巴勃罗·蒙托亚认为，梅赛德斯仍然是巴塞罗那周末的标杆车队，但真正可能给银箭制造最大麻烦的对手是迈凯伦，尤其是奥斯卡·皮亚斯特里。
