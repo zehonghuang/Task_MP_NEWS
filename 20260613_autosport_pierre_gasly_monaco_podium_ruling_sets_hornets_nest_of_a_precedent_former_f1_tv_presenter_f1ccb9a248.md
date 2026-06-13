@@ -3,7 +3,10 @@
 - 原文标题：Pierre Gasly Monaco podium ruling 'sets hornet's nest of a precedent' - former F1 TV presenter
 - 原文链接：https://www.motorsport.com/f1/news/pierre-gasly-monaco-podium-ruling-sets-hornets-nest-of-a-precedent-former-f1-tv-presenter/10829846/
 - 发布时间：2026-06-13T13:37:07Z  
-- 抓取说明：原页触发 CloudFront 403，以下根据可访问搜索结果进行忠实整理翻译；发布时间因原页不可访问，按任务文档兜底为当天 00:00:00+08:00。
+- 抓取说明：原页触发 CloudFront 403，以下根据可访问搜索结果进行忠实整理翻译。
+
+
+![](https://cdn-5.motorsport.com/images/amp/6grBAd7Y/s6/pierre-gasly-alpine.jpg)
 
 前 F1 TV 主持人威尔·布克斯顿认为，皮埃尔·加斯利在摩纳哥大奖赛中被恢复领奖台席位一事，虽然纠正了原本的错误，但也“打开了一个关于先例的马蜂窝”。
 

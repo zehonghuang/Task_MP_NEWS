@@ -3,7 +3,10 @@
 - 原文标题：Jacques Villeneuve explains why George Russell has Mercedes edge over Kimi Antonelli in Barcelona
 - 原文链接：https://www.motorsport.com/f1/news/jacques-villeneuve-explains-why-george-russell-has-mercedes-edge-over-kimi-antonelli-in-barcelona/10829897/
 - 发布时间：2026-06-13T13:50:47Z  
-- 抓取说明：原页触发 CloudFront 403，以下根据可访问搜索结果进行忠实整理翻译；发布时间因原页不可访问，按任务文档兜底为当天 00:00:00+08:00。
+- 抓取说明：原页触发 CloudFront 403，以下根据可访问搜索结果进行忠实整理翻译。
+
+
+![](https://cdn-9.motorsport.com/images/amp/Y9lLdXG2/s6/george-russell-mercedes.jpg)
 
 1997 年 F1 世界冠军雅克·维伦纽夫认为，在巴塞罗那-加泰罗尼亚赛道，乔治·拉塞尔比梅赛德斯队友基米·安东内利更具优势，原因在于他的驾驶方式更适合这条赛道的特性。
 

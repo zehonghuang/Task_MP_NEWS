@@ -3,7 +3,10 @@
 - 原文标题：F1 confirms fans' suspicions as behind-the-scenes Kimi Antonelli footage is released
 - 原文链接：https://www.motorsport.com/f1/news/f1-confirms-fans-suspicions-as-behind-the-scenes-kimi-antonelli-footage-is-released/10829865/
 - 发布时间：2026-06-13T12:49:17Z  
-- 抓取说明：原页触发 CloudFront 403，以下根据可访问搜索结果进行忠实整理翻译；发布时间因原页不可访问，按任务文档兜底为当天 00:00:00+08:00。
+- 抓取说明：原页触发 CloudFront 403，以下根据可访问搜索结果进行忠实整理翻译。
+
+
+![](https://cdn-8.motorsport.com/images/amp/25d3v3l0/s6/andrea-kimi-antonelli-mercedes.jpg)
 
 Formula 1 官方发布了一段幕后视频，证实了许多车迷在周五已经猜到的事情：基米·安东内利当时确实穿着梅赛德斯连帽衫、戴着蜘蛛侠面具，悄悄混进了巴塞罗那赛道的看台。
 

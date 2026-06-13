@@ -3,7 +3,10 @@
 - 原文标题：Red Bull left "confused" by Pierre Gasly Monaco podium reinstatement
 - 原文链接：https://www.motorsport.com/f1/news/red-bull-left-confused-by-pierre-gasly-monaco-podium-reinstatement/10829930/
 - 发布时间：2026-06-13T15:01:19Z  
-- 抓取说明：原页触发 CloudFront 403，以下根据可访问搜索结果进行忠实整理翻译；发布时间因原页不可访问，按任务文档兜底为当天 00:00:00+08:00。
+- 抓取说明：原页触发 CloudFront 403，以下根据可访问搜索结果进行忠实整理翻译。
+
+
+![](https://cdn-7.motorsport.com/images/amp/0mXRErg6/s6/laurent-mekies-red-bull-racing.jpg)
 
 红牛车队领队洛朗·梅基斯就皮埃尔·加斯利在摩纳哥大奖赛中被恢复的领奖台席位作出回应。随着这一裁定生效，艾萨克·哈贾尔在蒙特卡洛获得的第三名被收回。
 

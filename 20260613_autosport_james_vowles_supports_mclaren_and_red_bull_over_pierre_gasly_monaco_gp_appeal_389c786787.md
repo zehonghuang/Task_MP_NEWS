@@ -3,7 +3,10 @@
 - 原文标题：James Vowles supports McLaren and Red Bull over Pierre Gasly Monaco GP appeal
 - 原文链接：https://www.motorsport.com/f1/news/james-vowles-supports-mclaren-and-red-bull-over-pierre-gasly-monaco-gp-appeal/10829885/
 - 发布时间：2026-06-13T13:04:28Z  
-- 抓取说明：原页触发 CloudFront 403，以下根据可访问搜索结果进行忠实整理翻译；发布时间因原页不可访问，按任务文档兜底为当天 00:00:00+08:00。
+- 抓取说明：原页触发 CloudFront 403，以下根据可访问搜索结果进行忠实整理翻译。
+
+
+![](https://cdn-4.motorsport.com/images/amp/6DGqQRwY/s6/james-vowles-williams.jpg)
 
 威廉姆斯领队詹姆斯·沃尔斯表示，如果迈凯伦和红牛决定就皮埃尔·加斯利在摩纳哥大奖赛中被恢复领奖台一事正式上诉，他会支持这两支车队的做法。
 

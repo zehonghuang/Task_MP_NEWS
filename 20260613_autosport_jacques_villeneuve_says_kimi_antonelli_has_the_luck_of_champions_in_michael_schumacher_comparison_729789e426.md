@@ -3,7 +3,10 @@
 - 原文标题：Jacques Villeneuve says Kimi Antonelli "has the luck of champions" in Michael Schumacher comparison
 - 原文链接：https://www.motorsport.com/f1/news/jacques-villeneuve-says-kimi-antonelli-has-the-luck-of-champions-in-michael-schumacher-comparison/10829909/
 - 发布时间：2026-06-13T14:48:34Z  
-- 抓取说明：原页触发 CloudFront 403，以下根据可访问搜索结果进行忠实整理翻译；发布时间因原页不可访问，按任务文档兜底为当天 00:00:00+08:00。
+- 抓取说明：原页触发 CloudFront 403，以下根据可访问搜索结果进行忠实整理翻译。
+
+
+![](https://cdn-6.motorsport.com/images/amp/0arKeBr2/s6/andrea-kimi-antonelli-mercedes.jpg)
 
 1997 年 F1 世界冠军雅克·维伦纽夫认为，安德烈亚·基米·安东内利如今正处在一种“冠军才有的运气”当中。
 

@@ -3,7 +3,10 @@
 - 原文标题：Colton Herta on first F1 weekend outing: "Every part is faster than anything I've done"
 - 原文链接：https://www.motorsport.com/f1/news/colton-herta-on-first-f1-weekend-outing-every-part-is-faster-than-anything-ive-done/10829838/
 - 发布时间：2026-06-13T12:28:10Z  
-- 抓取说明：原页触发 CloudFront 403，以下根据可访问搜索结果进行忠实整理翻译；发布时间因原页不可访问，按任务文档兜底为当天 00:00:00+08:00。
+- 抓取说明：原页触发 CloudFront 403，以下根据可访问搜索结果进行忠实整理翻译。
+
+
+![](https://cdn-5.motorsport.com/images/amp/Y9lLdMP2/s6/colton-herta-cadillac-racing.jpg)
 
 科尔顿·赫塔表示，自己在巴塞罗那首次以正式大奖赛周末身份代表凯迪拉克参加 F1 练习赛，“意义非常重大”，而一台现役 F1 赛车展现出来的速度也让他留下了深刻印象。
 
