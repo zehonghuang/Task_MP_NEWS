@@ -1,0 +1,45 @@
+{
+  "id": "n_autosport_20260607_68b2133c5f",
+  "layout_code": "STANDARD",
+  "type_code": "DRIVER",
+  "pinned": false,
+  "weight": 0,
+  "tag_text": "Hamilton / 头盔",
+  "tags": ["hamilton", "44", "ferrari", "monaco", "helmet"],
+  "title": "汉密尔顿摩纳哥站闪亮粉色法拉利头盔引发两极评价",
+  "summary": "",
+  "cover_url": "https://cdn-4.motorsport.com/images/amp/6lmdnlx0/s1000/lewis-hamilton-ferrari.webp",
+  "published_at": "2026-06-05T21:05:00Z",
+  "source": {
+    "name": "Autosport",
+    "url": "https://www.motorsport.com/f1/news/lewis-hamilton-divides-f1-fans-with-sparkly-pink-ferrari-helmet-at-monaco-gp/10827304/"
+  },
+  "content": {
+    "format_code": "RICH_TEXT_NODES",
+    "text": "刘易斯·汉密尔顿（Lewis Hamilton）在摩纳哥街头进行 FP1 时，佩戴了一顶全新的金属粉色亮片头盔，引发了 F1 车迷褒贬不一的反应。\n\n刘易斯·汉密尔顿（法拉利）\n\n摄影：Sam Bagnall / Sutton Images via Getty Images\n\n自 2025 年以“重磅转会”加盟法拉利以来，这位七届世界冠军大多沿用他熟悉的荧光黄风格变体，并点缀马拉内罗车队经典红色。但在 2026 年摩纳哥大奖赛上，这位英国车手选择了闪粉设计。\n\n这顶头盔以鲜艳的洋红色为底色，并覆盖了大量金属亮片，在阳光下会反射闪光。\n\n车迷很快就对这一设计给出了自己的“判词”。许多人对此感到意外，因为汉密尔顿并未像往常那样提前在社交媒体上公布。\n\n“我一直在想他在法拉利会怎么做特别版头盔，因为紫色跟法拉利红并不搭；但粉色反而很合适。”一位在 Reddit 上表示惊喜的车迷写道；另一位则补充：“我太喜欢了！！！！更多粉色！！！”\n\n“还不错，比黄头盔好，但我最喜欢的是那顶白色闪亮的。我记得是在拉斯维加斯。”也有人这样评论。\n\n“闪亮的泡泡糖风不是我的菜，但我很高兴大家喜欢它。”另一条评论写道；也有人说：“我的意思是挺好看，但我不会为此激动成那样。”\n\n还有人表示：“说实话我不太喜欢。”以及“我不知道，粉色跟红色还是不太搭，但看起来依然挺酷。”\n\n汉密尔顿目前以 72 分位列车手积分榜第四。他在中国大奖赛拿到第三名，收获了作为法拉利车手的首个领奖台；随后又在加拿大大奖赛以第二名拿到他在跃马的最佳成绩。\n\n这位 41 岁车手把蒙特利尔登台的势头延续到摩纳哥，在蒙特卡洛度过了积极的首个比赛日。他在 FP1 做出第二快的圈速后，又在 FP2 拿到全场第一。",
+    "nodes": [
+      {
+        "name": "img",
+        "attrs": {
+          "src": "https://cdn-4.motorsport.com/images/amp/6lmdnlx0/s1000/lewis-hamilton-ferrari.webp",
+          "mode": "widthFix",
+          "style": "width:100%;display:block;",
+          "alt": "刘易斯·汉密尔顿（法拉利）"
+        }
+      },
+      { "name": "p", "children": [{ "type": "text", "text": "刘易斯·汉密尔顿（Lewis Hamilton）在摩纳哥街头进行 FP1 时，佩戴了一顶全新的金属粉色亮片头盔，引发了 F1 车迷褒贬不一的反应。" }] },
+      { "name": "p", "children": [{ "type": "text", "text": "刘易斯·汉密尔顿（法拉利）" }] },
+      { "name": "p", "children": [{ "type": "text", "text": "摄影：Sam Bagnall / Sutton Images via Getty Images" }] },
+      { "name": "p", "children": [{ "type": "text", "text": "自 2025 年以“重磅转会”加盟法拉利以来，这位七届世界冠军大多沿用他熟悉的荧光黄风格变体，并点缀马拉内罗车队经典红色。但在 2026 年摩纳哥大奖赛上，这位英国车手选择了闪粉设计。" }] },
+      { "name": "p", "children": [{ "type": "text", "text": "这顶头盔以鲜艳的洋红色为底色，并覆盖了大量金属亮片，在阳光下会反射闪光。" }] },
+      { "name": "p", "children": [{ "type": "text", "text": "车迷很快就对这一设计给出了自己的“判词”。许多人对此感到意外，因为汉密尔顿并未像往常那样提前在社交媒体上公布。" }] },
+      { "name": "p", "children": [{ "type": "text", "text": "“我一直在想他在法拉利会怎么做特别版头盔，因为紫色跟法拉利红并不搭；但粉色反而很合适。”一位在 Reddit 上表示惊喜的车迷写道；另一位则补充：“我太喜欢了！！！！更多粉色！！！”" }] },
+      { "name": "p", "children": [{ "type": "text", "text": "“还不错，比黄头盔好，但我最喜欢的是那顶白色闪亮的。我记得是在拉斯维加斯。”也有人这样评论。" }] },
+      { "name": "p", "children": [{ "type": "text", "text": "“闪亮的泡泡糖风不是我的菜，但我很高兴大家喜欢它。”另一条评论写道；也有人说：“我的意思是挺好看，但我不会为此激动成那样。”" }] },
+      { "name": "p", "children": [{ "type": "text", "text": "还有人表示：“说实话我不太喜欢。”以及“我不知道，粉色跟红色还是不太搭，但看起来依然挺酷。”" }] },
+      { "name": "p", "children": [{ "type": "text", "text": "汉密尔顿目前以 72 分位列车手积分榜第四。他在中国大奖赛拿到第三名，收获了作为法拉利车手的首个领奖台；随后又在加拿大大奖赛以第二名拿到他在跃马的最佳成绩。" }] },
+      { "name": "p", "children": [{ "type": "text", "text": "这位 41 岁车手把蒙特利尔登台的势头延续到摩纳哥，在蒙特卡洛度过了积极的首个比赛日。他在 FP1 做出第二快的圈速后，又在 FP2 拿到全场第一。" }] }
+    ]
+  }
+}
+

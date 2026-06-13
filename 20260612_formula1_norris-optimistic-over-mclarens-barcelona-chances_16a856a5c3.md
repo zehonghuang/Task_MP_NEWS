@@ -1,0 +1,35 @@
+# “正朝着正确方向前进”——兰多·诺里斯在周五领跑后看好迈凯伦在巴塞罗那的机会
+
+- 原文标题：'Heading in the right direction' – Lando Norris optimistic over McLaren's 2026 Formula 1 Barcelona-Catalunya Grand Prix chances after setting the pace on Friday
+- 发布时间：2026-06-12T17:21:46.016Z
+- 来源：Formula1.com
+- 原文链接：https://www.formula1.com/en/latest/article/heading-in-the-right-direction-norris-optimistic-over-mclarens-barcelona-chances-after-setting-the-pace-on-friday.7qoF214QOQ4PBrHTqRUd3B
+- tag_text：Norris / 采访
+- tags：norris, 1, mclaren, interview, barcelona
+- 入库JSON：20260612_formula1_norris-optimistic-over-mclarens-barcelona-chances_16a856a5c3.ingest.json
+
+![巴塞罗那周五练习中的诺里斯](https://media.formula1.com/image/upload/t_16by9North/f_auto/q_auto/v1781269118/trackside-images/2026/F1_Grand_Prix_of_Barcelona_Catalunya___Practice/2281229552.jpg)
+
+## 中文全文
+
+尽管错过了一练，兰多·诺里斯仍在周五结束时成为巴塞罗那最快车手。
+
+兰多·诺里斯相信，迈凯伦正“朝着正确的方向前进”，因为这位卫冕世界冠军在本周末巴塞罗那-加泰罗尼亚大奖赛前的二练中排名第一。
+
+这位英国车手在周五第二节一小时练习中以领先梅赛德斯车手乔治·拉塞尔0.009秒的成绩收官，尽管他因新秀、现任F2冠军莱昂纳多·福纳罗利接手他的MCL40而缺席了一练。
+
+队友奥斯卡·皮亚斯特里在一练排名第二、二练排名第三，在后一节中仅落后诺里斯0.057秒。随着F1回到一条被广泛用于测试、更为传统风格的赛道，迈凯伦看起来与梅赛德斯势均力敌。
+
+“这并不是一条容易的赛道，尽管这是我比任何地方都更熟悉的一条赛道，”诺里斯说。
+
+“它速度很快，显然与我们最近几站去过的摩纳哥和蒙特利尔非常不同。它快得多，你是在一种与过去几周不同的工况下去驾驭赛车，而赛车在最近几周也似乎处在一个更好的状态区间。”
+
+诺里斯因技术问题已经连续两场大奖赛未能完赛，尽管西班牙周末开局令人鼓舞，他仍认为，在赛车进入一个舒适的窗口之前，还需要做更多工作。
+
+尤其是在炎热条件下所有车手和车队都受轮胎衰竭困扰的情况下，而周六排位赛预计会更热。
+
+“我们和我们想要对标的人在一起，”诺里斯补充道。“很难知道别人带了多少油、用了什么动力模式，但我想我们只是很高兴，和过去几周相比，我们正朝着正确的方向前进。”
+
+“很明显，这辆车运转得更好了，但它可能仍没有达到我们想要的那么好，而且仍有一些地方让我不满意，我们需要改进，也想要改进。”
+
+“但考虑到过去一个月的情况，我认为我们也不能抱怨太多。今晚我们只会继续努力工作，看看明天能把一切最大化到什么程度。”

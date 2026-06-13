@@ -1,0 +1,51 @@
+{
+  "id": "n_autosport_20260607_2be515eb53",
+  "layout_code": "STANDARD",
+  "type_code": "STRATEGY",
+  "pinned": false,
+  "weight": 0,
+  "tag_text": "F1 / 数据",
+  "tags": ["f1", "qualifying", "headtohead", "monaco"],
+  "title": "F1 2026 排位赛队友对决：摩纳哥站",
+  "summary": "",
+  "cover_url": "https://cdn-9.motorsport.com/images/amp/YN7wPm36/s600/lando-norris-mclaren.webp",
+  "published_at": "2026-06-07T12:35:14Z",
+  "source": {
+    "name": "Autosport",
+    "url": "https://www.motorsport.com/f1/news/f1-2026-qualifying-head-to-head-monaco-gp/10827685/"
+  },
+  "content": {
+    "format_code": "RICH_TEXT_NODES",
+    "text": "在每一场 F1 排位赛后，Motorsport 都会按“队友对决（team-mate battles）”发布各车队的排位记录统计。\n\n该统计仅基于排位赛成绩，以避免发车位罚退等因素改变统计结果。\n\n如果车手因为技术故障或事故而无法做出具有代表性的圈速，会在表格里注明。\n\n迈凯伦：皮亚斯特里 vs 诺里斯（赛季 4-5；不含冲刺 4-2）\n- Australia：皮亚斯特里 5；诺里斯 6（+0.095s in Q3）\n- China (sprint)：皮亚斯特里 5（+0.083s in SQ3）；诺里斯 3\n- China：皮亚斯特里 5；诺里斯 6（+0.058s in Q3）\n- Japan：皮亚斯特里 3；诺里斯 5（+0.277s in Q3）\n- Miami (sprint)：皮亚斯特里 3（+0.239s in SQ3）；诺里斯 1\n- Miami：皮亚斯特里 7（+0.317s in Q3）；诺里斯 4\n- Canada (sprint)：皮亚斯特里 4（+0.019s in SQ3）；诺里斯 3\n- Canada：皮亚斯特里 4（+0.052s in Q3）；诺里斯 3\n- Monaco：皮亚斯特里 7；诺里斯 8（+0.141s in Q3）\n\n梅赛德斯：拉塞尔 vs 安东内利（赛季 4-5；不含冲刺 2-4）\n- Australia：拉塞尔 1；安东内利 2（+0.293s in Q3）\n- China (sprint)：拉塞尔 1；安东内利 2（+0.289s in SQ3）\n- China：拉塞尔 2（+0.222s in Q3）；安东内利 1\n- Japan：拉塞尔 2（+0.298s in Q3）；安东内利 1\n- Miami (sprint)：拉塞尔 6（+0.402s in SQ3）；安东内利 2\n- Miami：拉塞尔 5（+0.399s in Q3）；安东内利 1\n- Canada (sprint)：拉塞尔 1；安东内利 2（+0.068s in SQ3）\n- Canada：拉塞尔 1；安东内利 2（+0.068s in Q3）\n- Monaco：拉塞尔 2（+0.043s in Q3）；安东内利 1\n\n红牛：维斯塔潘 vs 哈贾尔（赛季 7-2；不含冲刺 4-2）\n- Australia：维斯塔潘 Q1 无有效圈速（冲出赛道）；哈贾尔 3\n- China (sprint)：维斯塔潘 8；哈贾尔 10（+0.469s in SQ3）\n- China：维斯塔潘 8；哈贾尔 9（+0.119s in Q3）\n- Japan：维斯塔潘 11（+0.158s in Q2）；哈贾尔 8\n- Miami (sprint)：维斯塔潘 5；哈贾尔 9（+0.961s in SQ3）\n- Miami：维斯塔潘 2；哈贾尔 取消成绩（技术违规）（+0.825s in Q3）\n- Canada (sprint)：维斯塔潘 7；哈贾尔 8（+0.101s in SQ3）\n- Canada：维斯塔潘 6；哈贾尔 7（+0.028s in Q3）\n- Monaco：维斯塔潘 2；哈贾尔 5（+0.340s in Q3）\n\n法拉利：勒克莱尔 vs 汉密尔顿（赛季 4-5；不含冲刺 3-3）\n- Australia：勒克莱尔 4；汉密尔顿 7（+0.151s in Q3）\n- China (sprint)：勒克莱尔 6（+0.367s in SQ3）；汉密尔顿 4\n- China：勒克莱尔 4（+0.013s in Q3）；汉密尔顿 3\n- Japan：勒克莱尔 4；汉密尔顿 6（+0.162s in Q3）\n- Miami (sprint)：勒克莱尔 4；汉密尔顿 7（+0.379s in SQ3）\n- Miami：勒克莱尔 3；汉密尔顿 6（+0.176s in Q3）\n- Canada (sprint)：勒克莱尔 6（+0.084s in SQ3）；汉密尔顿 5\n- Canada：勒克莱尔 8（+0.108s in Q3）；汉密尔顿 5\n- Monaco：勒克莱尔 5（+0.072s in Q3）；汉密尔顿 3\n\n威廉姆斯：阿尔本 vs 塞恩斯（赛季 2-5；不含冲刺 1-4）\n- Australia：阿尔本 15；塞恩斯 DNS（未出赛）\n- China (sprint)：阿尔本 18（+0.544s in SQ1）；塞恩斯 17\n- China：阿尔本 18（+0.455s in Q1）；塞恩斯 17\n- Japan：阿尔本 17（+0.161s in Q1）；塞恩斯 16\n- Miami (sprint)：阿尔本 14；塞恩斯 15（+0.008s in SQ2）\n- Miami：阿尔本 16（+0.378s in Q2）；塞恩斯 14\n- Canada (sprint)：阿尔本 DNS（FP1 撞车）；塞恩斯 10\n- Canada：阿尔本 18（+0.575s in Q1）；塞恩斯 15\n- Monaco：阿尔本 11；塞恩斯 12（+0.028s in Q2）\n\n小红牛（Racing Bulls）：林德布拉德 vs 劳森（赛季 3-5；不含冲刺 2-4）\n- Australia：林德布拉德 9（+1.253s in Q3）；劳森 8\n- China (sprint)：林德布拉德 15（+0.334s in SQ2）；劳森 13\n- China：林德布拉德 15（+0.019s in Q2）；劳森 14\n- Japan：林德布拉德 10；劳森 14（+0.386s in Q2）\n- Miami (sprint)：林德布拉德 16；劳森 17（+0.171s in SQ1）\n- Miami：林德布拉德 17（+0.538s in Q1）；劳森 12\n- Canada (sprint)：林德布拉德 9；劳森 DNS（未出赛）\n- Canada：林德布拉德 9；劳森 12（+0.349s in Q2）\n- Monaco：林德布拉德 15（+0.777s in Q2）；劳森 10\n\n阿斯顿·马丁：斯特罗尔 vs 阿隆索（赛季 0-7；不含冲刺 0-5）\n- Australia：斯特罗尔 DNS（未出赛）；阿隆索 17\n- China (sprint)：斯特罗尔 20（+0.570s in SQ1）；阿隆索 19\n- China：斯特罗尔 21（+0.792s in Q1）；阿隆索 19\n- Japan：斯特罗尔 22（+0.274s in Q1）；阿隆索 21\n- Miami (sprint)：斯特罗尔 无有效圈速；阿隆索 未被列入成绩（not classified）\n- Miami：斯特罗尔 19（+0.066s in Q1）；阿隆索 18\n- Canada (sprint)：斯特罗尔 18（+0.594s in SQ1）；阿隆索 16\n- Canada：斯特罗尔 21（+0.999s in Q1）；阿隆索 19\n- Monaco：斯特罗尔 22（+0.712s in Q1）；阿隆索 21\n\n哈斯：奥康 vs 贝尔曼（赛季 3-6；不含冲刺 2-4）\n- Australia：奥康 13（+0.180s in Q2）；贝尔曼 12\n- China (sprint)：奥康 12（+0.138s in SQ2）；贝尔曼 9\n- China：奥康 13（+0.341s in Q2）；贝尔曼 10\n- Japan：奥康 12；贝尔曼 18（+0.175s in Q1）\n- Miami (sprint)：奥康 18（+0.631s in SQ1）；贝尔曼 13\n- Miami：奥康 15（+0.205s in Q2）；贝尔曼 13\n- Canada (sprint)：奥康 14；贝尔曼 15（+0.269s in SQ2）\n- Canada：奥康 17（+0.396s in Q1）；贝尔曼 16\n- Monaco：奥康 17；贝尔曼 19（+0.092s in Q1）\n\n奥迪：霍肯伯格 vs 博托莱托（赛季 6-3；不含冲刺 4-2）\n- Australia：霍肯伯格 11（+0.082s in Q2）；博托莱托 10\n- China (sprint)：霍肯伯格 11；博托莱托 14（+0.139s in SQ2）\n- China：霍肯伯格 11；博托莱托 16（+0.611s in Q2——撞车）\n- Japan：霍肯伯格 13（+0.397s in Q2）；博托莱托 9\n- Miami (sprint)：霍肯伯格 12（+0.025s in SQ2）；博托莱托 11\n- Miami：霍肯伯格 11；博托莱托 22（Q1 +4.092s——刹车问题）\n- Canada (sprint)：霍肯伯格 11；博托莱托 12（+0.032 in SQ2）\n- Canada：霍肯伯格 11；博托莱托 13（+0.185s in Q2）\n- Monaco：霍肯伯格 13；博托莱托 16（Q2 无有效圈速——Q1 撞车）\n\n阿尔派：加斯利 vs 科拉平托（赛季 5-4；不含冲刺 4-2）\n- Australia：加斯利 14；科拉平托 16（+0.769s in Q2）\n- China (sprint)：加斯利 7；科拉平托 16（+0.922s in SQ2）\n- China：加斯利 7；科拉平托 12（+0.354s in Q2）\n- Japan：加斯利 7；科拉平托 15（+0.753s in Q2）\n- Miami (sprint)：加斯利 10（+0.154s in SQ3）；科拉平托 8\n- Miami：加斯利 9（+0.048s in Q3）；科拉平托 8\n- Canada (sprint)：加斯利 19（+1.158s in SQ1）；科拉平托 13\n- Canada：加斯利 14（+0.330s in Q2）；科拉平托 10\n- Monaco：加斯利 9；科拉平托 14（+0.233s in Q2）\n\n阿尔法·罗密欧：佩雷兹 vs 博塔斯（赛季 6-2；不含冲刺 4-2）\n- Australia：佩雷兹 18；博塔斯 19（+0.639s in Q1）\n- China (sprint)：佩雷兹 DNS（未出赛）；博塔斯 21\n- China：佩雷兹 22（+1.470s in Q1）；博塔斯 20\n- Japan：佩雷兹 19；博塔斯 20（+0.124s in Q1）\n- Miami (sprint)：佩雷兹 19；博塔斯 20（+0.571s in SQ1）\n- Miami：佩雷兹 21（+0.338s in Q1）；博塔斯 20\n- Canada (sprint)：佩雷兹 17；博塔斯 20（+0.864s in SQ1）\n- Canada：佩雷兹 20；博塔斯 22（+0.843s in Q1）\n- Monaco：佩雷兹 18；博塔斯 20（+0.536s in Q1）",
+    "nodes": [
+      {
+        "name": "img",
+        "attrs": {
+          "src": "https://cdn-9.motorsport.com/images/amp/YN7wPm36/s600/lando-norris-mclaren.webp",
+          "mode": "widthFix",
+          "style": "width:100%;display:block;",
+          "alt": "兰多·诺里斯（迈凯伦）"
+        }
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "在每一场 F1 排位赛后，Motorsport 都会按“队友对决（team-mate battles）”发布各车队的排位记录统计。该统计仅基于排位赛成绩，以避免发车位罚退等因素改变统计结果。如果车手因为技术故障或事故而无法做出具有代表性的圈速，会在表格里注明。"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "本文为数据与表格内容，详见上方纯文本区（包含各车队在 Australia / China（含 sprint）/ Japan / Miami（含 sprint）/ Canada（含 sprint）/ Monaco 的排位对比与差距说明）。"
+          }
+        ]
+      }
+    ]
+  }
+}
+

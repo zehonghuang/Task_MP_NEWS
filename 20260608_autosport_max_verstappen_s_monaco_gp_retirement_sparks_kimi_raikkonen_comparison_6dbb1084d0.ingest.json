@@ -1,0 +1,173 @@
+{
+  "id": "n_autosport_20260608_6dbb1084d0",
+  "layout_code": "STANDARD",
+  "type_code": "PADDOCK",
+  "tag_text": "Verstappen / Raikkonen",
+  "tags": [
+    "verstappen",
+    "3",
+    "raikkonen",
+    "antonelli",
+    "12",
+    "redbull",
+    "monaco"
+  ],
+  "title": "维斯塔潘摩纳哥退赛引发“莱科宁式”对比：从赛车到游艇",
+  "summary": "维斯塔潘在摩纳哥因赛车问题退赛后返回游艇，被网友拿来与2006年莱科宁退赛后去泡热水浴缸的画面对比；社交媒体迅速发酵并引发热议。",
+  "cover_url": "https://cdn-9.motorsport.com/images/amp/2GdwPGzY/s1000/max-verstappen-red-bull-racing.webp",
+  "published_at": "2026-06-08T08:52:52Z",
+  "source": {
+    "name": "Autosport",
+    "url": "https://www.motorsport.com/f1/news/max-verstappens-monaco-gp-retirement-sparks-kimi-raikkonen-comparison/10828193/"
+  },
+  "content": {
+    "format_code": "RICH_TEXT_NODES",
+    "text": "马克斯·维斯塔潘（Max Verstappen），红牛车队\n\n摄影：Sam Bloxham / LAT Images via Getty Images\n\n两段画面相隔20年，但在马克斯·维斯塔潘（Max Verstappen）经历了令人失望的2026年摩纳哥大奖赛之后，这位荷兰车手被拿来与传奇车手基米·莱科宁（Kimi Raikkonen）相提并论。\n\n2006年，莱科宁在蒙特卡洛的比赛中因隔热板故障导致迈凯伦赛车起火；在全副赛车装备下，他从燃烧的“残骸”旁悠然走开的一幕，被全球数十万观众看在眼里。\n\n人们原本以为他会回到车库，但随后他被拍到出现在热水浴缸里——一边喝着香槟和啤酒放松，一边看着比赛在他面前继续进行。\n\n而在今天的比赛后，维斯塔潘也做了同样的事：在他的赛车甚至难以完成正赛第一圈之后，他把车停在车库里，然后走回了自己的游艇。互联网立刻注意到了这一点。\n\nX平台上的一个粉丝账号发布了一张两位车手的对比图：一边是赤膊、手里拿着饮料的莱科宁；另一边则是光脚站在游艇柚木甲板上的维斯塔潘。该帖子在数小时内获得了超过10.8万次浏览和5300个点赞。\n\n一位用户在回复中写道：“同样的气场。就在游艇上晃悠。”\n\n在排位赛中以第二名出发、仅落后梅赛德斯年轻车手基米·安东内利（Kimi Antonelli）之后，人们对这位红牛车手从头排能做出什么充满期待。毕竟，这是维斯塔潘本赛季并列最佳的一个周六。然而，对这支米尔顿凯恩斯车队而言，这种感觉很快就消散了。\n\n他说：“我觉得在集结圈时就不太对劲了。但在起步前的操作程序中，发动机的反应已经非常奇怪。通常在某个时刻你能找到目标转速，但发动机基本上做不到。然后当我松开离合器时，它基本上就熄火了。那一刻只有电池在帮我往前走一点点，之后发动机的声音就非常糟糕了。”\n\n当发车灯熄灭时，维斯塔潘几乎没有从发车格移动；他勉强挪到一旁，让车阵一路冲向Sainte Dévote。这是他本赛季的第二次退赛（DNF）。\n\n与“冰人”之间确实存在明显的相似之处：维斯塔潘直来直去、不太在意，也很自在地说出自己所想。但他对余下比赛“无所谓”的那种态度，显然带着莱科宁式的味道。\n\n与此同时，基米·安东内利（Kimi Antonelli）破纪录般的势头仍在继续：在这场充满处罚的比赛中，他安然无恙地拿下了五连胜。\n\n你希望在 Motorsport.com 上看到什么？\n\n- Motorsport.com 团队",
+    "nodes": [
+      {
+        "name": "img",
+        "attrs": {
+          "src": "https://cdn-9.motorsport.com/images/amp/2GdwPGzY/s1000/max-verstappen-red-bull-racing.webp",
+          "mode": "widthFix",
+          "style": "width:100%;display:block;",
+          "alt": "马克斯·维斯塔潘（Max Verstappen），红牛车队"
+        }
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "马克斯·维斯塔潘（Max Verstappen），红牛车队"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "摄影：Sam Bloxham / LAT Images via Getty Images"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "两段画面相隔20年，但在马克斯·维斯塔潘（Max Verstappen）经历了令人失望的2026年摩纳哥大奖赛之后，这位荷兰车手被拿来与传奇车手基米·莱科宁（Kimi Raikkonen）相提并论。"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "2006年，莱科宁在蒙特卡洛的比赛中因隔热板故障导致迈凯伦赛车起火；在全副赛车装备下，他从燃烧的“残骸”旁悠然走开的一幕，被全球数十万观众看在眼里。"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "人们原本以为他会回到车库，但随后他被拍到出现在热水浴缸里——一边喝着香槟和啤酒放松，一边看着比赛在他面前继续进行。"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "而在今天的比赛后，维斯塔潘也做了同样的事：在他的赛车甚至难以完成正赛第一圈之后，他把车停在车库里，然后走回了自己的游艇。互联网立刻注意到了这一点。"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "X平台上的一个粉丝账号发布了一张两位车手的对比图：一边是赤膊、手里拿着饮料的莱科宁；另一边则是光脚站在游艇柚木甲板上的维斯塔潘。该帖子在数小时内获得了超过10.8万次浏览和5300个点赞。"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "一位用户在回复中写道：“同样的气场。就在游艇上晃悠。”"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "在排位赛中以第二名出发、仅落后梅赛德斯年轻车手基米·安东内利（Kimi Antonelli）之后，人们对这位红牛车手从头排能做出什么充满期待。毕竟，这是维斯塔潘本赛季并列最佳的一个周六。然而，对这支米尔顿凯恩斯车队而言，这种感觉很快就消散了。"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "他说：“我觉得在集结圈时就不太对劲了。但在起步前的操作程序中，发动机的反应已经非常奇怪。通常在某个时刻你能找到目标转速，但发动机基本上做不到。然后当我松开离合器时，它基本上就熄火了。那一刻只有电池在帮我往前走一点点，之后发动机的声音就非常糟糕了。”"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "当发车灯熄灭时，维斯塔潘几乎没有从发车格移动；他勉强挪到一旁，让车阵一路冲向Sainte Dévote。这是他本赛季的第二次退赛（DNF）。"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "与“冰人”之间确实存在明显的相似之处：维斯塔潘直来直去、不太在意，也很自在地说出自己所想。但他对余下比赛“无所谓”的那种态度，显然带着莱科宁式的味道。"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "与此同时，基米·安东内利（Kimi Antonelli）破纪录般的势头仍在继续：在这场充满处罚的比赛中，他安然无恙地拿下了五连胜。"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "你希望在 Motorsport.com 上看到什么？"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "- Motorsport.com 团队"
+          }
+        ]
+      }
+    ]
+  }
+}

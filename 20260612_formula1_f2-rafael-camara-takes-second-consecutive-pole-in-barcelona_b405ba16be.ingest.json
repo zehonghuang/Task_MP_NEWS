@@ -1,0 +1,125 @@
+{
+  "id": "n_formula1_20260612_b405ba16be",
+  "layout_code": "STANDARD",
+  "type_code": "PADDOCK",
+  "tag_text": "Invicta Racing / 排位赛",
+  "tags": [
+    "invicta-racing",
+    "qualifying",
+    "fia-formula-2",
+    "barcelona"
+  ],
+  "title": "F2：拉斐尔·卡马拉在巴塞罗那连续第二次夺得杆位",
+  "summary": "拉斐尔·卡马拉在巴塞罗那 F2 排位赛中以 1 分 24.810 秒拿下本赛季第二个杆位，队友约书亚·迪尔克森以略多于十分之一秒之差位列第二。",
+  "cover_url": "https://media.formula1.com/image/upload/t_16by9North/f_auto/q_auto/v1781277753/fom-website/2026/Formula%202/GettyImages-2281244100.jpg",
+  "published_at": "2026-06-12T16:35:06.224Z",
+  "source": {
+    "name": "Formula1.com",
+    "url": "https://www.formula1.com/en/latest/article/f2-rafael-camara-takes-second-consecutive-pole-in-barcelona.UxusoC6P0E2LZaAr1Jnbw"
+  },
+  "content": {
+    "format_code": "RICH_TEXT_NODES",
+    "text": "在巴塞罗那-加泰罗尼亚赛道举行的 F2 排位赛中，拉斐尔·卡马拉再次夺得头名。\n\n拉斐尔·卡马拉在 FIA Formula 2 排位赛中背靠背拿下头名，在巴塞罗那登上成绩榜首，收获了自己本赛季的第二个杆位。\n\n这位法拉利车手学院新秀在第一次尝试中跑出 1 分 24.810 秒，让其余车手只能追赶一个他们无法超越的成绩；队友约书亚·迪尔克森最为接近，落后略多于十分之一秒。\n\n亚历山大·邓恩在本节比赛开局不顺后实现反弹，最终位列第三。这位效力于 Rodin Motorsport、同时也是 Alpine Academy 的年轻车手，首次成绩因超出赛道限制被删除，但在最后一圈做到了第三。\n\n同为 Alpine 青训车手、也是 F2 车手积分榜领跑者的加布里埃莱·米尼，是另一位在巴塞罗那这场排位赛尾声提升成绩的车手，最终为 MP Motorsport 拿到第四。\n\n排在前五最后一席的是 Van Amersfoort Racing 的拉斐尔·比利亚戈麦斯，他拿到了自己迄今为止本赛季最佳的排位赛成绩。\n\n本节比赛在尾声阶段受到红旗影响，因为 Hitech 车手宫田莉朋在最后一个弯道打转，最终陷在砂石缓冲区中。\n\n坎波斯车队的尼古拉·措洛夫最终排名第六，位列 VAR 另一位车手尼科·瓦罗内之前。\n\n刚刚代表凯迪拉克完成 F1 一练出场的科尔顿·赫塔，以第八名录得自己本赛季最佳排位赛成绩，库什·麦尼和诺埃尔·莱昂则补齐前十名。\n\n如需查看巴塞罗那 FIA Formula 2 排位赛的完整报道，请前往官方锦标赛网站查看。",
+    "nodes": [
+      {
+        "name": "img",
+        "attrs": {
+          "src": "https://media.formula1.com/image/upload/t_16by9North/f_auto/q_auto/v1781277753/fom-website/2026/Formula%202/GettyImages-2281244100.jpg",
+          "mode": "widthFix",
+          "style": "width:100%;display:block;",
+          "alt": "拉斐尔·卡马拉在巴塞罗那 F2 排位赛再次夺得头名"
+        }
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "在巴塞罗那-加泰罗尼亚赛道举行的 F2 排位赛中，拉斐尔·卡马拉再次夺得头名。"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "拉斐尔·卡马拉在 FIA Formula 2 排位赛中背靠背拿下头名，在巴塞罗那登上成绩榜首，收获了自己本赛季的第二个杆位。"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "这位法拉利车手学院新秀在第一次尝试中跑出 1 分 24.810 秒，让其余车手只能追赶一个他们无法超越的成绩；队友约书亚·迪尔克森最为接近，落后略多于十分之一秒。"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "亚历山大·邓恩在本节比赛开局不顺后实现反弹，最终位列第三。这位效力于 Rodin Motorsport、同时也是 Alpine Academy 的年轻车手，首次成绩因超出赛道限制被删除，但在最后一圈做到了第三。"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "同为 Alpine 青训车手、也是 F2 车手积分榜领跑者的加布里埃莱·米尼，是另一位在巴塞罗那这场排位赛尾声提升成绩的车手，最终为 MP Motorsport 拿到第四。"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "排在前五最后一席的是 Van Amersfoort Racing 的拉斐尔·比利亚戈麦斯，他拿到了自己迄今为止本赛季最佳的排位赛成绩。"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "本节比赛在尾声阶段受到红旗影响，因为 Hitech 车手宫田莉朋在最后一个弯道打转，最终陷在砂石缓冲区中。"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "坎波斯车队的尼古拉·措洛夫最终排名第六，位列 VAR 另一位车手尼科·瓦罗内之前。"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "刚刚代表凯迪拉克完成 F1 一练出场的科尔顿·赫塔，以第八名录得自己本赛季最佳排位赛成绩，库什·麦尼和诺埃尔·莱昂则补齐前十名。"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "如需查看巴塞罗那 FIA Formula 2 排位赛的完整报道，请前往官方锦标赛网站查看。"
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "id": "n_autosport_20260612_f0d9fc3fa3",
+  "layout_code": "STANDARD",
+  "type_code": "PADDOCK",
+  "tag_text": "Russell / 前瞻",
+  "tags": [
+    "russell",
+    "63",
+    "antonelli",
+    "12",
+    "mercedes",
+    "barcelona",
+    "prediction",
+    "podcast"
+  ],
+  "title": "库特哈德看好拉塞尔在巴塞罗那终结安东内利连胜",
+  "summary": "在巴塞罗那-加泰罗尼亚大奖赛周末前，前 F1 车手大卫·库特哈德预测乔治·拉塞尔将迎来“反弹”并在巴塞罗那取胜；但《Up To Speed》播客联合主持人威尔·巴克斯顿认为基米·安东内利将延续连胜势头。文章也回顾了目前积分形势：安东内利领跑，汉密尔顿第二，拉塞尔第三。",
+  "cover_url": "https://cdn-1.motorsport.com/images/amp/6x7ZnVJY/s700/george-russell-mercedes.webp",
+  "published_at": "2026-06-11T21:49:42Z",
+  "source": {
+    "name": "Autosport",
+    "url": "https://www.motorsport.com/f1/news/george-russell-tipped-to-end-kimi-antonellis-winning-run-in-barcelona/10829298/"
+  },
+  "content": {
+    "format_code": "RICH_TEXT_NODES",
+    "text": "乔治·拉塞尔（梅赛德斯）\n\nF1 围场本周来到西班牙，迎来巴塞罗那-加泰罗尼亚大奖赛。前 F1 车手大卫·库特哈德认为，在一连串的坏运气与不理想的成绩之后，乔治·拉塞尔有望在本周末迎来“反弹时刻”。\n\n尽管拉塞尔拿下了赛季揭幕战澳大利亚大奖赛以及中国站冲刺赛的胜利，但他眼看着 19 岁的队友基米·安东内利以连续五场大奖赛胜利拉开车手积分榜领先优势。如果库特哈德的判断正确，这一局面可能很快就会改变。\n\n库特哈德在《Up To Speed》播客中表示：“我觉得这会是乔治的反弹。乔治会在巴塞罗那赢下比赛，他会带着强势姿态杀回来，就像《洛奇 3》一样。”\n\n不过，前 F1 电视主持人、同为《Up To Speed》播客主持人的威尔·巴克斯顿并不同意库特哈德的看法。他认为，安东内利很可能会在巴塞罗那拿到赛季第六胜。\n\n巴克斯顿说：“基米会赢。基米六连胜。他现在呼吸着那种‘稀薄的高空气’，状态非常特别。此刻的他有一种松弛感、一种喜悦，整个人仿佛与赛车融为一体。我认为要把他从这个位置上拉下来，会非常非常难。”\n\n乔治·拉塞尔（梅赛德斯 AMG W17）\n\n摄影：Erik Junius\n\n巴克斯顿补充道：“他带着接近队友两倍的积分来到巴塞罗那。你不可能在摩纳哥那样驾驶，除非你处在一个非常、非常舒适的状态里。”\n\n巴塞罗那-加泰罗尼亚大奖赛的赛道活动将于 6 月 12 日（周五）从两节练习赛开始。进入本周末时，安东内利以 156 分领跑车手积分榜。七届世界冠军刘易斯·汉密尔顿以 90 分排名第二，拉塞尔以 88 分位列第三。\n\n法拉利的查尔斯·勒克莱尔与迈凯伦的奥斯卡·皮亚斯特里分列第四、第五，积分分别为 75 分与 60 分。",
+    "nodes": [
+      {
+        "name": "img",
+        "attrs": {
+          "src": "https://cdn-1.motorsport.com/images/amp/6x7ZnVJY/s700/george-russell-mercedes.webp",
+          "mode": "widthFix",
+          "style": "width:100%;display:block;",
+          "alt": "乔治·拉塞尔（梅赛德斯）"
+        }
+      },
+      { "name": "p", "children": [ { "type": "text", "text": "乔治·拉塞尔（梅赛德斯）" } ] },
+      { "name": "p", "children": [ { "type": "text", "text": "F1 围场本周来到西班牙，迎来巴塞罗那-加泰罗尼亚大奖赛。前 F1 车手大卫·库特哈德认为，在一连串的坏运气与不理想的成绩之后，乔治·拉塞尔有望在本周末迎来“反弹时刻”。" } ] },
+      { "name": "p", "children": [ { "type": "text", "text": "尽管拉塞尔拿下了赛季揭幕战澳大利亚大奖赛以及中国站冲刺赛的胜利，但他眼看着 19 岁的队友基米·安东内利以连续五场大奖赛胜利拉开车手积分榜领先优势。如果库特哈德的判断正确，这一局面可能很快就会改变。" } ] },
+      { "name": "p", "children": [ { "type": "text", "text": "库特哈德在《Up To Speed》播客中表示：“我觉得这会是乔治的反弹。乔治会在巴塞罗那赢下比赛，他会带着强势姿态杀回来，就像《洛奇 3》一样。”" } ] },
+      { "name": "p", "children": [ { "type": "text", "text": "不过，前 F1 电视主持人、同为《Up To Speed》播客主持人的威尔·巴克斯顿并不同意库特哈德的看法。他认为，安东内利很可能会在巴塞罗那拿到赛季第六胜。" } ] },
+      { "name": "p", "children": [ { "type": "text", "text": "巴克斯顿说：“基米会赢。基米六连胜。他现在呼吸着那种‘稀薄的高空气’，状态非常特别。此刻的他有一种松弛感、一种喜悦，整个人仿佛与赛车融为一体。我认为要把他从这个位置上拉下来，会非常非常难。”" } ] },
+      {
+        "name": "img",
+        "attrs": {
+          "src": "https://cdn.motorsport.com/images/mgl/0ZqAP7V6/s1000/george-russell-mercedes-amg-w1.jpg",
+          "mode": "widthFix",
+          "style": "width:100%;display:block;",
+          "alt": "乔治·拉塞尔（梅赛德斯 AMG W17）"
+        }
+      },
+      { "name": "p", "children": [ { "type": "text", "text": "乔治·拉塞尔（梅赛德斯 AMG W17）" } ] },
+      { "name": "p", "children": [ { "type": "text", "text": "摄影：Erik Junius" } ] },
+      { "name": "p", "children": [ { "type": "text", "text": "巴克斯顿补充道：“他带着接近队友两倍的积分来到巴塞罗那。你不可能在摩纳哥那样驾驶，除非你处在一个非常、非常舒适的状态里。”" } ] },
+      { "name": "p", "children": [ { "type": "text", "text": "巴塞罗那-加泰罗尼亚大奖赛的赛道活动将于 6 月 12 日（周五）从两节练习赛开始。进入本周末时，安东内利以 156 分领跑车手积分榜。七届世界冠军刘易斯·汉密尔顿以 90 分排名第二，拉塞尔以 88 分位列第三。" } ] },
+      { "name": "p", "children": [ { "type": "text", "text": "法拉利的查尔斯·勒克莱尔与迈凯伦的奥斯卡·皮亚斯特里分列第四、第五，积分分别为 75 分与 60 分。" } ] }
+    ]
+  }
+}
+
