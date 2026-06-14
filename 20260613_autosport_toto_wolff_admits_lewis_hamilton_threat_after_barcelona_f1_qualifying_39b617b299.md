@@ -10,7 +10,7 @@
 
 
 
-![](https://cdn-4.motorsport.com/images/0JXwLyMY/s1000/lewis-hamilton-ferrari-toto-wo.jpg)
+![](https://cdn-4.motorsport.com/images/amp/0JXwLyMY/s1000/lewis-hamilton-ferrari-toto-wo.webp)
 
 
 

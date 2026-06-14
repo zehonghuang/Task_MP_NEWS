@@ -10,7 +10,7 @@
 
 
 
-![](https://cdn-8.motorsport.com/images/24QeKvzY/s1000/fernando-alonso-aston-martin-r.jpg)
+![](https://cdn-8.motorsport.com/images/amp/24QeKvzY/s1000/fernando-alonso-aston-martin-r.webp)
 
 
 

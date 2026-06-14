@@ -10,7 +10,7 @@
 
 
 
-![](https://cdn-1.motorsport.com/images/2y7ANJg6/s1000/charles-leclerc-ferrari.jpg)
+![](https://cdn-1.motorsport.com/images/amp/2y7ANJg6/s1000/charles-leclerc-ferrari.webp)
 
 
 

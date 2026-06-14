@@ -14,7 +14,7 @@
 
 阿隆索在主场巴塞罗那排位垫底后直言，阿斯顿·马丁目前拥有最差的赛车、最差的引擎、变速箱与空气动力学问题并存，而一遍遍解释这些困境已经让他身心俱疲。文章还交代了车队把资源集中到夏季升级包，以及本田也计划同期推出引擎升级的背景。
 
-![费尔南多·阿隆索与阿斯顿·马丁赛车](https://cdn-6.motorsport.com/images/YP7rMxA2/s1000/fernando-alonso-aston-martin-r.jpg)
+![费尔南多·阿隆索与阿斯顿·马丁赛车](https://cdn-6.motorsport.com/images/amp/YP7rMxA2/s1000/fernando-alonso-aston-martin-r.webp)
 
 ## 全文中文翻译
 

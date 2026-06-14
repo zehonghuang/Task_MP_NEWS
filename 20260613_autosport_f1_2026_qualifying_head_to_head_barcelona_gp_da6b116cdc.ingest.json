@@ -11,7 +11,7 @@
   ],
   "title": "F1 2026排位赛队友对决：巴塞罗那站",
   "summary": "Motorsport更新了2026年F1巴塞罗那站排位赛后的各队队友排位对决统计。该统计仅以排位赛成绩为基础，不受发车罚退影响；若车手因技术故障或事故无法做出代表性圈速，则会在表格中注明。",
-  "cover_url": "https://cdn-6.motorsport.com/images/YE9wg7KY/s1000/lewis-hamilton-ferrari-george-.jpg",
+  "cover_url": "https://cdn-6.motorsport.com/images/amp/YE9wg7KY/s1000/lewis-hamilton-ferrari-george-.webp",
   "published_at": "2026-06-13T17:35:00Z",
   "source": {
     "name": "Autosport",
@@ -24,7 +24,7 @@
       {
         "name": "img",
         "attrs": {
-          "src": "https://cdn-6.motorsport.com/images/YE9wg7KY/s1000/lewis-hamilton-ferrari-george-.jpg",
+          "src": "https://cdn-6.motorsport.com/images/amp/YE9wg7KY/s1000/lewis-hamilton-ferrari-george-.webp",
           "mode": "widthFix",
           "style": "width:100%;display:block;",
           "alt": "2026年F1巴塞罗那站排位赛队友对决统计"

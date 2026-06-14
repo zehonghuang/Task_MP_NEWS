@@ -6,7 +6,7 @@
 
 ---
 
-![2026年F1巴塞罗那站排位赛队友对决统计](https://cdn-6.motorsport.com/images/YE9wg7KY/s1000/lewis-hamilton-ferrari-george-.jpg)
+![2026年F1巴塞罗那站排位赛队友对决统计](https://cdn-6.motorsport.com/images/amp/YE9wg7KY/s1000/lewis-hamilton-ferrari-george-.webp)
 
 在每一场F1排位赛后，Motorsport都会发布各车队在“队友对决”维度上的排位纪录统计。
 

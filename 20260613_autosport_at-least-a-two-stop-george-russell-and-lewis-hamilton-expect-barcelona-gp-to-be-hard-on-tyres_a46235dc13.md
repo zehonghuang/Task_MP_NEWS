@@ -14,7 +14,7 @@
 
 拉塞尔与汉密尔顿都认为，倍耐力在巴塞罗那带来的更软配方使三种轮胎性能差距缩小、衰减却明显高于预期，比赛很可能至少两停甚至接近三停。文章围绕长距离数据、脏空气影响与各车队可能采取的策略分化展开。
 
-![乔治·拉塞尔在巴塞罗那站周末](https://cdn-4.motorsport.com/images/2eZgBq3Y/s1000/george-russell-mercedes-4.jpg)
+![乔治·拉塞尔在巴塞罗那站周末](https://cdn-4.motorsport.com/images/amp/2eZgBq3Y/s1000/george-russell-mercedes-4.webp)
 
 ## 全文中文翻译
 

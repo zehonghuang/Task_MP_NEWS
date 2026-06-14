@@ -14,7 +14,7 @@
 
 维斯塔潘认为末段抓地力流失和勒克莱尔引发的红旗打乱了自己争取头排的机会，但他也承认红牛在巴塞罗那把与梅赛德斯的差距缩小到周五的一半以上，表现超出预期。文章同时引述了哈贾尔的看法：尽管赛车手感仍不理想，第三名本来并非遥不可及。
 
-![马克斯·维斯塔潘与红牛赛车](https://cdn-9.motorsport.com/images/6n7AB5M0/s1000/max-verstappen-red-bull-racing.jpg)
+![马克斯·维斯塔潘与红牛赛车](https://cdn-9.motorsport.com/images/amp/6n7AB5M0/s1000/max-verstappen-red-bull-racing.webp)
 
 ## 全文中文翻译
 

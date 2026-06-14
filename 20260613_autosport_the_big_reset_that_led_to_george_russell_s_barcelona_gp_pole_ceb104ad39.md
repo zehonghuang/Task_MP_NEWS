@@ -6,7 +6,7 @@
 
 ---
 
-![刘易斯·汉密尔顿（法拉利）、乔治·拉塞尔（梅赛德斯）、安德烈亚·基米·安东内利（梅赛德斯）](https://cdn-7.motorsport.com/images/25d3vRn0/s1000/george-russell-mercedes-andrea.jpg)
+![刘易斯·汉密尔顿（法拉利）、乔治·拉塞尔（梅赛德斯）、安德烈亚·基米·安东内利（梅赛德斯）](https://cdn-7.motorsport.com/images/amp/25d3vRn0/s1000/george-russell-mercedes-andrea.webp)
 
 刘易斯·汉密尔顿（法拉利）、乔治·拉塞尔（梅赛德斯）、安德烈亚·基米·安东内利（梅赛德斯）
 
@@ -26,7 +26,7 @@
 
 “能把结果兑现出来，我真的非常感谢车队，也感谢这几周里一直站在我这边的每一个人。”
 
-![乔治·拉塞尔（梅赛德斯）](https://cdn-7.motorsport.com/images/2jED9Vb0/s1000/george-russell-mercedes.webp)
+![乔治·拉塞尔（梅赛德斯）](https://cdn-7.motorsport.com/images/amp/2jED9Vb0/s1000/george-russell-mercedes.webp)
 
 乔治·拉塞尔（梅赛德斯）
 

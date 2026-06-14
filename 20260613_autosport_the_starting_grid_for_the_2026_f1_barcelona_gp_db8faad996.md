@@ -6,7 +6,7 @@
 
 ---
 
-![2026年F1巴塞罗那大奖赛发车顺位](https://cdn-2.motorsport.com/images/2jED9Mp0/s1000/lewis-hamilton-ferrari-george--2.jpg)
+![2026年F1巴塞罗那大奖赛发车顺位](https://cdn-2.motorsport.com/images/amp/2jED9Mp0/s1000/lewis-hamilton-ferrari-george--2.webp)
 
 乔治·拉塞尔在2026年F1巴塞罗那大奖赛中拿到杆位，法拉利车手刘易斯·汉密尔顿将从第二位发车。
 

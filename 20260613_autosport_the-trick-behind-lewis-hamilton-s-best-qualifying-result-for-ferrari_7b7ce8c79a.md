@@ -14,7 +14,7 @@
 
 汉密尔顿在错过巴塞罗那站一练后一路追赶，却在排位赛前通过短暂离开赛道完成状态重置，最终为法拉利拿下加盟以来最佳排位第二。文章还交代了他对升级版 SF-26 速度的意外，以及法拉利在正赛中把争胜希望押在他身上的背景。
 
-![刘易斯·汉密尔顿驾驶法拉利赛车](https://cdn-7.motorsport.com/images/6Vy7q8GY/s1000/lewis-hamilton-ferrari.jpg)
+![刘易斯·汉密尔顿驾驶法拉利赛车](https://cdn-7.motorsport.com/images/amp/6Vy7q8GY/s1000/lewis-hamilton-ferrari.webp)
 
 ## 全文中文翻译
 
