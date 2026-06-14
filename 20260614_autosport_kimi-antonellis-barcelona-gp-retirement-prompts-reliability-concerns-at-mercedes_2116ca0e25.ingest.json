@@ -1,0 +1,56 @@
+{
+  "id": "n_autosport_20260614_2116ca0e25",
+  "layout_code": "STANDARD",
+  "type_code": "PADDOCK",
+  "pinned": false,
+  "weight": 0,
+  "tag_text": "Mercedes / 可靠性",
+  "tags": [
+    "mercedes",
+    "reliability",
+    "antonelli",
+    "12",
+    "barcelona"
+  ],
+  "title": "安东内利在巴塞罗那大奖赛退赛，引发梅赛德斯对可靠性的担忧",
+  "summary": "安东内利在巴塞罗那大奖赛末段因发动机故障退赛，令梅赛德斯在最近三场比赛中第二次遭遇动力单元问题，车队的可靠性隐忧再度浮现。",
+  "cover_url": "https://cdn-6.motorsport.com/images/amp/6zoJdnk0/s6/andrea-kimi-antonelli-mercedes.webp",
+  "published_at": "2026-06-14T16:27:55Z",
+  "time_text": "",
+  "source": {
+    "name": "Autosport",
+    "url": "https://www.motorsport.com/f1/news/kimi-antonellis-barcelona-gp-retirement-prompts-reliability-concerns-at-mercedes/10830346/"
+  },
+  "content": {
+    "format_code": "RICH_TEXT_NODES",
+    "text": "一级方程式锦标赛领跑者基米·安东内利在巴塞罗那大奖赛末段退赛后感到“情绪被掏空”，这也引发了梅赛德斯对于可靠性的担忧。\n\n这位19岁的车手当时在周日的比赛中排名第二、落后于刘易斯·汉密尔顿，随后却遭遇发动机故障，导致安东内利在还剩三圈时退赛。",
+    "nodes": [
+      {
+        "name": "img",
+        "attrs": {
+          "src": "https://cdn-6.motorsport.com/images/amp/6zoJdnk0/s6/andrea-kimi-antonelli-mercedes.webp",
+          "mode": "widthFix",
+          "style": "width:100%;display:block;"
+        }
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "一级方程式锦标赛领跑者基米·安东内利在巴塞罗那大奖赛末段退赛后感到“情绪被掏空”，这也引发了梅赛德斯对于可靠性的担忧。"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "这位19岁的车手当时在周日的比赛中排名第二、落后于刘易斯·汉密尔顿，随后却遭遇发动机故障，导致安东内利在还剩三圈时退赛。"
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "id": "n_autosport_20260614_f7683bbff7",
+  "layout_code": "FEATURE",
+  "type_code": "DRIVER",
+  "pinned": false,
+  "weight": 0,
+  "tag_text": "Hamilton / 专题",
+  "tags": [
+    "hamilton",
+    "44",
+    "ferrari",
+    "wolff",
+    "feature"
+  ],
+  "title": "“也许是女朋友帮了忙”——托托·沃尔夫谈刘易斯·汉密尔顿在法拉利的复苏",
+  "summary": "梅赛德斯领队托托·沃尔夫认为，技术、个人和情绪等多重因素，共同促成了刘易斯·汉密尔顿在2026赛季的回暖。",
+  "cover_url": "https://cdn-8.motorsport.com/images/amp/25d3vAk0/s6/lewis-hamilton-ferrari.webp",
+  "published_at": "2026-06-14T17:06:00Z",
+  "time_text": "",
+  "source": {
+    "name": "Autosport",
+    "url": "https://www.motorsport.com/f1/news/maybe-the-girlfriend-helps-toto-wolffs-take-on-lewis-hamiltons-ferrari-revival/10830369/"
+  },
+  "content": {
+    "format_code": "RICH_TEXT_NODES",
+    "text": "很少有人比托托·沃尔夫更了解刘易斯·汉密尔顿。两人在梅赛德斯携手走过十多年，期间共同赢得了六个车手总冠军，成就了这项运动历史上最成功的合作关系之一。\n\n汉密尔顿在2025赛季前转投法拉利后，未能立刻取得成功；这位七届世界冠军在跃马的首个赛季步履维艰，甚至一次领奖台都没有登上。但到了2026年，局面看起来已经大不相同。",
+    "nodes": [
+      {
+        "name": "img",
+        "attrs": {
+          "src": "https://cdn-8.motorsport.com/images/amp/25d3vAk0/s6/lewis-hamilton-ferrari.webp",
+          "mode": "widthFix",
+          "style": "width:100%;display:block;",
+          "alt": "文章头图"
+        }
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "很少有人比托托·沃尔夫更了解刘易斯·汉密尔顿。两人在梅赛德斯携手走过十多年，期间共同赢得了六个车手总冠军，成就了这项运动历史上最成功的合作关系之一。"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "汉密尔顿在2025赛季前转投法拉利后，未能立刻取得成功；这位七届世界冠军在跃马的首个赛季步履维艰，甚至一次领奖台都没有登上。但到了2026年，局面看起来已经大不相同。"
+          }
+        ]
+      }
+    ]
+  }
+}
