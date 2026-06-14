@@ -1,0 +1,56 @@
+{
+  "id": "n_autosport_20260614_e1945f6cab",
+  "layout_code": "FEATURE",
+  "type_code": "DRIVER",
+  "pinned": false,
+  "weight": 0,
+  "tag_text": "Hamilton / 首胜",
+  "tags": [
+    "hamilton",
+    "44",
+    "ferrari",
+    "first-win"
+  ],
+  "title": "“你们帮我实现了这个梦想”——刘易斯·汉密尔顿谈首个法拉利大奖赛冠军时的动情发言",
+  "summary": "欣喜若狂且情绪激动的汉密尔顿在第31次代表法拉利出战大奖赛时，拿下了自己的首个法拉利大奖赛冠军，这也是他两年来的首胜。",
+  "cover_url": "https://cdn-3.motorsport.com/images/amp/6lmdjvj0/s6/lewis-hamilton-ferrari.webp",
+  "published_at": "2026-06-14T14:52:17Z",
+  "time_text": "",
+  "source": {
+    "name": "Autosport",
+    "url": "https://www.motorsport.com/f1/news/lewis-hamilton/10830268/"
+  },
+  "content": {
+    "format_code": "RICH_TEXT_NODES",
+    "text": "刘易斯·汉密尔顿在以法拉利车手身份拿下自己的首个大奖赛冠军后，感谢法拉利帮助他“实现了一个梦想”。\n\n在炎热难耐的巴塞罗那-加泰罗尼亚赛道上，面对这场F1轮胎战，汉密尔顿与法拉利采取了进攻策略。与包括杆位得主乔治·拉塞尔在内的大多数前列竞争者不同，汉密尔顿选择以软胎起步，而过高的轮胎衰减几乎把他钉死在三停策略上。",
+    "nodes": [
+      {
+        "name": "img",
+        "attrs": {
+          "src": "https://cdn-3.motorsport.com/images/amp/6lmdjvj0/s6/lewis-hamilton-ferrari.webp",
+          "mode": "widthFix",
+          "style": "width:100%;display:block;",
+          "alt": "刘易斯·汉密尔顿与法拉利"
+        }
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "刘易斯·汉密尔顿在以法拉利车手身份拿下自己的首个大奖赛冠军后，感谢法拉利帮助他“实现了一个梦想”。"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "在炎热难耐的巴塞罗那-加泰罗尼亚赛道上，面对这场F1轮胎战，汉密尔顿与法拉利采取了进攻策略。与包括杆位得主乔治·拉塞尔在内的大多数前列竞争者不同，汉密尔顿选择以软胎起步，而过高的轮胎衰减几乎把他钉死在三停策略上。"
+          }
+        ]
+      }
+    ]
+  }
+}

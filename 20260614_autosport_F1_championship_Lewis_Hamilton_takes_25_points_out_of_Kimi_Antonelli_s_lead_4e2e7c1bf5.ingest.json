@@ -1,0 +1,60 @@
+{
+  "layout_code": "STANDARD",
+  "hero_display_code": "",
+  "type_code": "DRIVER",
+  "pinned": false,
+  "weight": 0,
+  "tag_text": "汉密尔顿 / 积分榜",
+  "tags": [
+    "autosport",
+    "hamilton",
+    "44",
+    "antonelli",
+    "12",
+    "championship",
+    "barcelona"
+  ],
+  "title": "F1积分榜：刘易斯·汉密尔顿从基米·安东内利手中追回25分",
+  "summary": "汉密尔顿在巴塞罗那大奖赛取胜、安东内利退赛之后，一举追回25个积分，把积分差距从66分缩小到41分；排名第三的拉塞尔也把自己与队友的差距缩小到了50分。",
+  "cover_url": "https://cdn-1.motorsport.com/images/amp/6n7AVXM0/s6/andrea-kimi-antonelli-mercedes-2.webp",
+  "published_at": "2026-06-14T15:19:41Z",
+  "time_text": "",
+  "source": {
+    "name": "Autosport",
+    "url": "https://www.motorsport.com/f1/news/championship-hamilton-takes-25-points-back-from-antonelli/10830302/"
+  },
+  "content": {
+    "format_code": "RICH_TEXT_NODES",
+    "text": "随着路易斯·汉密尔顿赢下F1巴塞罗那大奖赛，而积分榜领跑者基米·安东内利退赛，汉密尔顿从这位意大利车手的领先优势中追回了25分；双方差距如今缩小到41分，而来到西班牙时这一数字还是66分。\n\n排名第三的乔治·拉塞尔则重新把自己与队友之间的差距缩小到了50分。",
+    "nodes": [
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "随着路易斯·汉密尔顿赢下F1巴塞罗那大奖赛，而积分榜领跑者基米·安东内利退赛，汉密尔顿从这位意大利车手的领先优势中追回了25分；双方差距如今缩小到41分，而来到西班牙时这一数字还是66分。"
+          }
+        ]
+      },
+      {
+        "name": "img",
+        "attrs": {
+          "src": "https://cdn-1.motorsport.com/images/amp/6n7AVXM0/s6/andrea-kimi-antonelli-mercedes-2.webp",
+          "mode": "widthFix",
+          "style": "width:100%;display:block;",
+          "alt": "基米·安东内利（梅赛德斯）"
+        }
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "排名第三的乔治·拉塞尔则重新把自己与队友之间的差距缩小到了50分。"
+          }
+        ]
+      }
+    ]
+  },
+  "id": "n_autosport_20260614_4e2e7c1bf5"
+}

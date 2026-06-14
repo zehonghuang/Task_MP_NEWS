@@ -1,0 +1,57 @@
+{
+  "id": "n_autosport_20260614_5ade8d4188",
+  "layout_code": "STANDARD",
+  "type_code": "PADDOCK",
+  "pinned": false,
+  "weight": 0,
+  "tag_text": "Barcelona GP / 赛报",
+  "tags": [
+    "barcelona-gp",
+    "race-report",
+    "hamilton",
+    "44",
+    "ferrari"
+  ],
+  "title": "F1巴塞罗那大奖赛：刘易斯·汉密尔顿在基米·安东内利末段退赛后收获法拉利首胜",
+  "summary": "这位七届世界冠军终于为法拉利拿下个人首个大奖赛冠军，而安东内利则在比赛尾声退赛。",
+  "cover_url": "https://cdn-7.motorsport.com/images/amp/6Vy7qkNY/s6/lewis-hamilton-ferrari-2.webp",
+  "published_at": "2026-06-14T14:45:55Z",
+  "time_text": "",
+  "source": {
+    "name": "Autosport",
+    "url": "https://www.motorsport.com/f1/news/f1-barcelona-gp-race-report/10830256/"
+  },
+  "content": {
+    "format_code": "RICH_TEXT_NODES",
+    "text": "一场堪称策略大师课的比赛，让刘易斯·汉密尔顿在巴塞罗那大奖赛为法拉利拿下个人首个分站冠军，而F1积分榜领跑者基米·安东内利则在比赛末段退赛。\n\n这位梅赛德斯车手原本将以第二名、落后于汉密尔顿完赛，但在还剩三圈时遭遇引擎故障，于是亚军位置交到了队友乔治·拉塞尔手中。",
+    "nodes": [
+      {
+        "name": "img",
+        "attrs": {
+          "src": "https://cdn-7.motorsport.com/images/amp/6Vy7qkNY/s6/lewis-hamilton-ferrari-2.webp",
+          "mode": "widthFix",
+          "style": "width:100%;display:block;",
+          "alt": "刘易斯·汉密尔顿驾驶法拉利夺冠"
+        }
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "一场堪称策略大师课的比赛，让刘易斯·汉密尔顿在巴塞罗那大奖赛为法拉利拿下个人首个分站冠军，而F1积分榜领跑者基米·安东内利则在比赛末段退赛。"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "这位梅赛德斯车手原本将以第二名、落后于汉密尔顿完赛，但在还剩三圈时遭遇引擎故障，于是亚军位置交到了队友乔治·拉塞尔手中。"
+          }
+        ]
+      }
+    ]
+  }
+}
