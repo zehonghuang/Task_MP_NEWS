@@ -1,0 +1,271 @@
+{
+  "id": "n_autosport_20260613_db8faad996",
+  "layout_code": "BULLETIN",
+  "type_code": "DRIVER",
+  "tag_text": "Barcelona GP / 发车",
+  "tags": [
+    "barcelona",
+    "grid",
+    "russell",
+    "63",
+    "hamilton",
+    "44"
+  ],
+  "title": "2026年F1巴塞罗那大奖赛发车顺位",
+  "summary": "乔治·拉塞尔将在2026年F1巴塞罗那大奖赛中从杆位发车，刘易斯·汉密尔顿位列第二，以下为等待FIA最终确认的暂定发车顺位。",
+  "cover_url": "https://cdn-2.motorsport.com/images/2jED9Mp0/s1000/lewis-hamilton-ferrari-george--2.jpg",
+  "published_at": "2026-06-13T16:36:00Z",
+  "source": {
+    "name": "Autosport",
+    "url": "https://www.motorsport.com/f1/news/the-starting-grid-for-the-2026-f1-barcelona-grand-prix/10829991/"
+  },
+  "content": {
+    "format_code": "RICH_TEXT_NODES",
+    "text": "乔治·拉塞尔在2026年F1巴塞罗那大奖赛中拿到杆位，法拉利车手刘易斯·汉密尔顿将从第二位发车。\n\n以下为等待FIA最终确认的暂定发车顺位：\n\n| 发车位 | 车手（车队） |\n\n|---|---|\n\n| 1 | 乔治·拉塞尔（梅赛德斯） |\n\n| 2 | 刘易斯·汉密尔顿（法拉利） |\n\n| 3 | 基米·安东内利（梅赛德斯） |\n\n| 4 | 兰多·诺里斯（迈凯伦） |\n\n| 5 | 马克斯·维斯塔潘（红牛） |\n\n| 6 | 伊萨克·哈贾尔（红牛） |\n\n| 7 | 奥斯卡·皮亚斯特里（迈凯伦） |\n\n| 8 | 利亚姆·劳森（小红牛） |\n\n| 9 | 尼科·霍肯伯格（奥迪） |\n\n| 10 | 夏尔·勒克莱尔（法拉利） |\n\n| 11 | 阿维德·林德布拉德（小红牛） |\n\n| 12 | 加布里埃尔·博托莱托（奥迪） |\n\n| 13 | 弗朗哥·科拉平托（阿尔派） |\n\n| 14 | 皮埃尔·加斯利（阿尔派） |\n\n| 15 | 奥利弗·贝尔曼（哈斯） |\n\n| 16 | 卡洛斯·塞恩斯（威廉姆斯） |\n\n| 17 | 埃斯特班·奥康（哈斯） |\n\n| 18 | 亚历山大·阿尔本（威廉姆斯） |\n\n| 19 | 塞尔吉奥·佩雷兹（凯迪拉克） |\n\n| 20 | 瓦尔特里·博塔斯（凯迪拉克） |\n\n| 21 | 兰斯·斯特罗尔（阿斯顿·马丁） |\n\n| 22 | 费尔南多·阿隆索（阿斯顿·马丁） |",
+    "nodes": [
+      {
+        "name": "img",
+        "attrs": {
+          "src": "https://cdn-2.motorsport.com/images/2jED9Mp0/s1000/lewis-hamilton-ferrari-george--2.jpg",
+          "mode": "widthFix",
+          "style": "width:100%;display:block;",
+          "alt": "2026年F1巴塞罗那大奖赛发车顺位"
+        }
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "乔治·拉塞尔在2026年F1巴塞罗那大奖赛中拿到杆位，法拉利车手刘易斯·汉密尔顿将从第二位发车。"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "以下为等待FIA最终确认的暂定发车顺位："
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "| 发车位 | 车手（车队） |"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "|---|---|"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "| 1 | 乔治·拉塞尔（梅赛德斯） |"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "| 2 | 刘易斯·汉密尔顿（法拉利） |"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "| 3 | 基米·安东内利（梅赛德斯） |"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "| 4 | 兰多·诺里斯（迈凯伦） |"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "| 5 | 马克斯·维斯塔潘（红牛） |"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "| 6 | 伊萨克·哈贾尔（红牛） |"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "| 7 | 奥斯卡·皮亚斯特里（迈凯伦） |"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "| 8 | 利亚姆·劳森（小红牛） |"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "| 9 | 尼科·霍肯伯格（奥迪） |"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "| 10 | 夏尔·勒克莱尔（法拉利） |"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "| 11 | 阿维德·林德布拉德（小红牛） |"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "| 12 | 加布里埃尔·博托莱托（奥迪） |"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "| 13 | 弗朗哥·科拉平托（阿尔派） |"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "| 14 | 皮埃尔·加斯利（阿尔派） |"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "| 15 | 奥利弗·贝尔曼（哈斯） |"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "| 16 | 卡洛斯·塞恩斯（威廉姆斯） |"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "| 17 | 埃斯特班·奥康（哈斯） |"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "| 18 | 亚历山大·阿尔本（威廉姆斯） |"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "| 19 | 塞尔吉奥·佩雷兹（凯迪拉克） |"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "| 20 | 瓦尔特里·博塔斯（凯迪拉克） |"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "| 21 | 兰斯·斯特罗尔（阿斯顿·马丁） |"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "| 22 | 费尔南多·阿隆索（阿斯顿·马丁） |"
+          }
+        ]
+      }
+    ]
+  }
+}

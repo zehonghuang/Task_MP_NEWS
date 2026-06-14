@@ -1,0 +1,62 @@
+{
+  "id": "n_autosport_20260613_731121fe36",
+  "layout_code": "BULLETIN",
+  "type_code": "PADDOCK",
+  "tag_text": "Barcelona GP / 赛程",
+  "tags": [
+    "barcelona",
+    "schedule",
+    "weather",
+    "watch"
+  ],
+  "title": "F1 巴塞罗那站周日赛程、天气预报与观赛方式一览",
+  "summary": "在拉塞尔拿下杆位、安东内利的五连杆被终结之后，巴塞罗那周日预计炎热且干燥，轮胎寿命将成为正赛胜负关键。本文汇总了比赛日前需要掌握的核心背景信息。",
+  "cover_url": "https://cdn-8.motorsport.com/images/24QeKvzY/s1000/fernando-alonso-aston-martin-r.jpg",
+  "published_at": "2026-06-13T16:08:37Z",
+  "source": {
+    "name": "Autosport",
+    "url": "https://www.motorsport.com/f1/news/f1-barcelona-gp-sunday-race-schedule-weather-forecast-and-how-to-watch/10829926/"
+  },
+  "content": {
+    "format_code": "RICH_TEXT_NODES",
+    "text": "乔治·拉塞尔拿下周日巴塞罗那-加泰罗尼亚大奖赛杆位后，让自己在 2026 年 F1 争冠战中重新看到了反击机会。他也终结了基米·安东内利此前连续五场拿杆位的势头，而刘易斯·汉密尔顿则夹在两位梅赛德斯车手之间占据头排另一席。\n\n预计周日天气炎热且干燥，气温大约在 27°C 左右，因此在经历了一个让多支车队都感到棘手的练习赛和排位赛日后，轮胎寿命很可能成为决定比赛走势的关键因素。安东内利将从第三位起步，冲击个人六连胜；而对拉塞尔来说，这也是他缩小积分差距的最好机会。\n\n以下就是你在 F1 巴塞罗那-加泰罗尼亚大奖赛周日比赛开始前需要知道的全部关键信息。",
+    "nodes": [
+      {
+        "name": "img",
+        "attrs": {
+          "src": "https://cdn-8.motorsport.com/images/24QeKvzY/s1000/fernando-alonso-aston-martin-r.jpg",
+          "mode": "widthFix",
+          "style": "width:100%;display:block;",
+          "alt": "费尔南多·阿隆索，阿斯顿·马丁"
+        }
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "乔治·拉塞尔拿下周日巴塞罗那-加泰罗尼亚大奖赛杆位后，让自己在 2026 年 F1 争冠战中重新看到了反击机会。他也终结了基米·安东内利此前连续五场拿杆位的势头，而刘易斯·汉密尔顿则夹在两位梅赛德斯车手之间占据头排另一席。"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "预计周日天气炎热且干燥，气温大约在 27°C 左右，因此在经历了一个让多支车队都感到棘手的练习赛和排位赛日后，轮胎寿命很可能成为决定比赛走势的关键因素。安东内利将从第三位起步，冲击个人六连胜；而对拉塞尔来说，这也是他缩小积分差距的最好机会。"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "以下就是你在 F1 巴塞罗那-加泰罗尼亚大奖赛周日比赛开始前需要知道的全部关键信息。"
+          }
+        ]
+      }
+    ]
+  }
+}
