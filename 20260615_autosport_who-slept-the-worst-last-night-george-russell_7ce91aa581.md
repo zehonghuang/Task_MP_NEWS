@@ -8,6 +8,12 @@
 
 ![安德烈亚·基米·安东内利（梅赛德斯）](https://cdn.motorsport.com/images/mgl/27NQAnx0/s1000/andrea-kimi-antonelli-mercedes.jpg)
 
+![专栏配图：乔治·拉塞尔](https://cdn-5.motorsport.com/images/amp/56l4QvD6/s1000/wer-letzte-nacht-am-schlechtesten-geschlafen-hat-george-russell-26061501.webp)
+
+![梅赛德斯仍是热门（尽管法拉利赢下比赛）](https://cdn.motorsport.com/images/mgl/YvKQMpe6/s1000/lewis-hamilton-ferrari.jpg)
+
+![安东内利是否是周日更快的梅赛德斯车手？](https://cdn.motorsport.com/images/mgl/27NQAMm0/s1000/andrea-kimi-antonelli-mercedes.jpg)
+
 ## 中文摘要
 
 拉塞尔在巴塞罗那周末拿到杆位、比赛也从队友安东内利的退赛中“捡回”大量积分，但形势并不乐观：安东内利依旧在多数场合更快，而沃尔夫甚至开始谈论“让更快的车手先行”的潜在团队指令。随着法拉利与汉密尔顿重新进入争冠视野，梅赛德斯内部竞争带来的时间损失也可能进一步挤压拉塞尔的空间。
@@ -89,4 +95,3 @@
 你希望在 Motorsport.com 上看到什么内容？
 
 - Motorsport.com 团队
-

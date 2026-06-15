@@ -8,6 +8,8 @@
 
 ![尼科·霍肯伯格（奥迪 F1 车队）](https://cdn.motorsport.com/images/mgl/6lmdj8j0/s1000/nico-hulkenberg-audi-f1-team-l.jpg)
 
+![尼科·霍肯伯格（奥迪 F1 车队）](https://cdn-1.motorsport.com/images/amp/6DGq9A7Y/s1000/nico-hulkenberg-audi-f1-team.webp)
+
 ## 中文摘要
 
 霍肯伯格在巴塞罗那大奖赛第 28 圈与劳森缠斗时突然退赛，原因并非传统机械故障，而是一颗被劳森带起的碎石击中了奥迪赛车的 ERS 紧急断电开关，导致车辆瞬间断电停机。对正冲击赛季首个积分的奥迪而言，这是一次极其倒霉且罕见的意外。
@@ -45,4 +47,3 @@
 你希望在 Motorsport.com 上看到什么内容？
 
 - Motorsport.com 团队
-

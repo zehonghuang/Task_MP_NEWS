@@ -34,6 +34,15 @@
         }
       },
       {
+        "name": "img",
+        "attrs": {
+          "src": "https://cdn-1.motorsport.com/images/amp/6DGq9A7Y/s1000/nico-hulkenberg-audi-f1-team.webp",
+          "mode": "widthFix",
+          "style": "width:100%;display:block;",
+          "alt": "尼科·霍肯伯格（奥迪 F1 车队）"
+        }
+      },
+      {
         "name": "p",
         "children": [
           {
@@ -180,4 +189,3 @@
     ]
   }
 }
-

@@ -36,6 +36,51 @@
         }
       },
       {
+        "name": "img",
+        "attrs": {
+          "src": "https://cdn.motorsport.com/images/mgl/0qX7Eqw6/s1000/open-uri20120929-8872-1v952dt.jpg",
+          "mode": "widthFix",
+          "style": "width:100%;display:block;",
+          "alt": "汉密尔顿在瓦塞尔车队早年的胜利"
+        }
+      },
+      {
+        "name": "img",
+        "attrs": {
+          "src": "https://cdn.motorsport.com/images/mgl/6n7AQjl0/s1000/lewis-hamilton-ferrari.jpg",
+          "mode": "widthFix",
+          "style": "width:100%;display:block;",
+          "alt": "2025 年很难想象汉密尔顿能为法拉利赢下一场比赛"
+        }
+      },
+      {
+        "name": "img",
+        "attrs": {
+          "src": "https://cdn.motorsport.com/images/mgl/6D1ON140/s1000/carlos-santi-race-engineer-f-1.jpg",
+          "mode": "widthFix",
+          "style": "width:100%;display:block;",
+          "alt": "卡洛·桑蒂（汉密尔顿比赛工程师）"
+        }
+      },
+      {
+        "name": "img",
+        "attrs": {
+          "src": "https://cdn.motorsport.com/images/mgl/2Gdw5n1Y/s1000/lewis-hamilton-ferrari.jpg",
+          "mode": "widthFix",
+          "style": "width:100%;display:block;",
+          "alt": "汉密尔顿与“意大利版博诺”卡洛·桑蒂"
+        }
+      },
+      {
+        "name": "img",
+        "attrs": {
+          "src": "https://cdn.motorsport.com/images/mgl/2wlE71eY/s1000/lewis-hamilton-ferrari.jpg",
+          "mode": "widthFix",
+          "style": "width:100%;display:block;",
+          "alt": "汉密尔顿：法拉利分站冠军"
+        }
+      },
+      {
         "name": "p",
         "children": [
           {

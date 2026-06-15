@@ -35,6 +35,33 @@
         }
       },
       {
+        "name": "img",
+        "attrs": {
+          "src": "https://cdn-5.motorsport.com/images/amp/56l4QvD6/s1000/wer-letzte-nacht-am-schlechtesten-geschlafen-hat-george-russell-26061501.webp",
+          "mode": "widthFix",
+          "style": "width:100%;display:block;",
+          "alt": "专栏配图：乔治·拉塞尔"
+        }
+      },
+      {
+        "name": "img",
+        "attrs": {
+          "src": "https://cdn.motorsport.com/images/mgl/YvKQMpe6/s1000/lewis-hamilton-ferrari.jpg",
+          "mode": "widthFix",
+          "style": "width:100%;display:block;",
+          "alt": "梅赛德斯仍是热门（尽管法拉利赢下比赛）"
+        }
+      },
+      {
+        "name": "img",
+        "attrs": {
+          "src": "https://cdn.motorsport.com/images/mgl/27NQAMm0/s1000/andrea-kimi-antonelli-mercedes.jpg",
+          "mode": "widthFix",
+          "style": "width:100%;display:block;",
+          "alt": "安东内利是否是周日更快的梅赛德斯车手？"
+        }
+      },
+      {
         "name": "p",
         "children": [
           {
@@ -379,4 +406,3 @@
     ]
   }
 }
-

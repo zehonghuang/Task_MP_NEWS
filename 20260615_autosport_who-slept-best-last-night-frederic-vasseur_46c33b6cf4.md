@@ -8,6 +8,16 @@
 
 ![弗雷德里克·瓦塞尔（法拉利）、刘易斯·汉密尔顿（法拉利）](https://cdn-6.motorsport.com/images/amp/YBVoDWKY/s1000/frederic-vasseur-ferrari-lewis.webp)
 
+![汉密尔顿在瓦塞尔车队早年的胜利](https://cdn.motorsport.com/images/mgl/0qX7Eqw6/s1000/open-uri20120929-8872-1v952dt.jpg)
+
+![2025 年很难想象汉密尔顿能为法拉利赢下一场比赛](https://cdn.motorsport.com/images/mgl/6n7AQjl0/s1000/lewis-hamilton-ferrari.jpg)
+
+![卡洛·桑蒂（汉密尔顿比赛工程师）](https://cdn.motorsport.com/images/mgl/6D1ON140/s1000/carlos-santi-race-engineer-f-1.jpg)
+
+![汉密尔顿与“意大利版博诺”卡洛·桑蒂](https://cdn.motorsport.com/images/mgl/2Gdw5n1Y/s1000/lewis-hamilton-ferrari.jpg)
+
+![汉密尔顿：法拉利分站冠军](https://cdn.motorsport.com/images/mgl/2wlE71eY/s1000/lewis-hamilton-ferrari.jpg)
+
 ## 中文摘要
 
 汉密尔顿在法拉利的首胜不仅是车手个人的“重启”，也是车队领队瓦塞尔长期押注的阶段性回报：在外界普遍质疑 40 岁以上车手还能否保持巅峰之际，瓦塞尔仍选择围绕汉密尔顿推动组织与技术调整，并在关键岗位（如比赛工程师）上做出改变。巴塞罗那的胜利，让这位长期在意大利文化中“做法国经理”的领队得到一次重要的现实验证。
@@ -121,4 +131,3 @@
 你希望在 Motorsport.com 上看到什么内容？
 
 - Motorsport.com 团队
-
