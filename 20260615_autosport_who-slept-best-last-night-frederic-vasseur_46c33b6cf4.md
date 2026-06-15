@@ -8,16 +8,6 @@
 
 ![弗雷德里克·瓦塞尔（法拉利）、刘易斯·汉密尔顿（法拉利）](https://cdn-6.motorsport.com/images/amp/YBVoDWKY/s1000/frederic-vasseur-ferrari-lewis.webp)
 
-![汉密尔顿在瓦塞尔车队早年的胜利](https://cdn.motorsport.com/images/mgl/0qX7Eqw6/s1000/open-uri20120929-8872-1v952dt.jpg)
-
-![2025 年很难想象汉密尔顿能为法拉利赢下一场比赛](https://cdn.motorsport.com/images/mgl/6n7AQjl0/s1000/lewis-hamilton-ferrari.jpg)
-
-![卡洛·桑蒂（汉密尔顿比赛工程师）](https://cdn.motorsport.com/images/mgl/6D1ON140/s1000/carlos-santi-race-engineer-f-1.jpg)
-
-![汉密尔顿与“意大利版博诺”卡洛·桑蒂](https://cdn.motorsport.com/images/mgl/2Gdw5n1Y/s1000/lewis-hamilton-ferrari.jpg)
-
-![汉密尔顿：法拉利分站冠军](https://cdn.motorsport.com/images/mgl/2wlE71eY/s1000/lewis-hamilton-ferrari.jpg)
-
 ## 中文摘要
 
 汉密尔顿在法拉利的首胜不仅是车手个人的“重启”，也是车队领队瓦塞尔长期押注的阶段性回报：在外界普遍质疑 40 岁以上车手还能否保持巅峰之际，瓦塞尔仍选择围绕汉密尔顿推动组织与技术调整，并在关键岗位（如比赛工程师）上做出改变。巴塞罗那的胜利，让这位长期在意大利文化中“做法国经理”的领队得到一次重要的现实验证。
@@ -40,7 +30,7 @@
 
 在他加入法拉利的第一年之前，刘易斯就已经年满 40 岁。客观说，他在梅赛德斯的最后两年并非他状态最好的时期。是的，他在银石赢过一场，又因为乔治·拉塞尔被取消资格而在斯帕“继承”过一场胜利，但在那两年里，更年轻的那位英国人更多时候都占了上风。
 
-刘易斯·汉密尔顿在 20 年前就为瓦塞尔的车队赢下过很多比赛
+![刘易斯·汉密尔顿在 20 年前就为瓦塞尔的车队赢下过很多比赛](https://cdn.motorsport.com/images/mgl/0qX7Eqw6/s1000/open-uri20120929-8872-1v952dt.jpg)
 
 图片来源：Lorenzo Bellanca / Motorsport Images
 
@@ -54,7 +44,7 @@
 
 不管怎样，汉密尔顿看起来越来越像一位伟大的冠军、正走向职业生涯末段。有点像瓦伦蒂诺·罗西在 MotoGP 旅程最后几年；或像迈克尔·舒马赫在梅赛德斯复出时期。原始速度似乎正在流失，而动力往往也会随之减少。
 
-在 2025 年，人们很难想象汉密尔顿还能为法拉利赢下一场比赛
+![在 2025 年，人们很难想象汉密尔顿还能为法拉利赢下一场比赛](https://cdn.motorsport.com/images/mgl/6n7AQjl0/s1000/lewis-hamilton-ferrari.jpg)
 
 图片来源：Guido De Bortoli / LAT Images via Getty Images
 
@@ -72,7 +62,7 @@
 
 因为，是的，这些改变来自七届世界冠军、F1 历史上最成功的车手。但这些改变也来自一位 40 岁的车手，他很可能已经过了巅峰；而他加盟法拉利的第一个赛季，也并没有太多证据推翻这种猜测。
 
-卡洛·桑蒂曾在 2018 年美国奥斯汀站，陪同基米·莱科宁完成法拉利最后一次胜利登台
+![卡洛·桑蒂曾在 2018 年美国奥斯汀站，陪同基米·莱科宁完成法拉利最后一次胜利登台](https://cdn.motorsport.com/images/mgl/6D1ON140/s1000/carlos-santi-race-engineer-f-1.jpg)
 
 图片来源：Glenn Dunbar / Motorsport Images
 
@@ -94,7 +84,7 @@
 
 考虑到目前的趋势，再加上刘易斯甚至在巴塞罗那之前就称桑蒂是他的“意大利版博诺”，他短期内大概不会再回到工厂了。
 
-刘易斯·汉密尔顿与他的“意大利版博诺”卡洛·桑蒂在巴塞罗那庆祝胜利
+![刘易斯·汉密尔顿与他的“意大利版博诺”卡洛·桑蒂在巴塞罗那庆祝胜利](https://cdn.motorsport.com/images/mgl/2Gdw5n1Y/s1000/lewis-hamilton-ferrari.jpg)
 
 图片来源：Steven Tee / LAT Images via Getty Images
 
@@ -110,7 +100,7 @@
 
 “而且，你知道，他是一个法国人，在一种意大利文化里。这对他来说要处理的事情很多，我觉得非常、非常艰难，因为显然他还要面对媒体。但他依旧选择相信，依旧是个好朋友，依旧是个很棒的队友、盟友，而且真的非常支持我。”
 
-刘易斯·汉密尔顿，如今也是法拉利分站冠军得主
+![刘易斯·汉密尔顿：法拉利分站冠军](https://cdn.motorsport.com/images/mgl/2wlE71eY/s1000/lewis-hamilton-ferrari.jpg)
 
 图片来源：Sam Bagnall / Sutton Images via Getty Images
 

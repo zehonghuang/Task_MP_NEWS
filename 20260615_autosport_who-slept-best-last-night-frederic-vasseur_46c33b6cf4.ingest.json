@@ -36,51 +36,6 @@
         }
       },
       {
-        "name": "img",
-        "attrs": {
-          "src": "https://cdn.motorsport.com/images/mgl/0qX7Eqw6/s1000/open-uri20120929-8872-1v952dt.jpg",
-          "mode": "widthFix",
-          "style": "width:100%;display:block;",
-          "alt": "汉密尔顿在瓦塞尔车队早年的胜利"
-        }
-      },
-      {
-        "name": "img",
-        "attrs": {
-          "src": "https://cdn.motorsport.com/images/mgl/6n7AQjl0/s1000/lewis-hamilton-ferrari.jpg",
-          "mode": "widthFix",
-          "style": "width:100%;display:block;",
-          "alt": "2025 年很难想象汉密尔顿能为法拉利赢下一场比赛"
-        }
-      },
-      {
-        "name": "img",
-        "attrs": {
-          "src": "https://cdn.motorsport.com/images/mgl/6D1ON140/s1000/carlos-santi-race-engineer-f-1.jpg",
-          "mode": "widthFix",
-          "style": "width:100%;display:block;",
-          "alt": "卡洛·桑蒂（汉密尔顿比赛工程师）"
-        }
-      },
-      {
-        "name": "img",
-        "attrs": {
-          "src": "https://cdn.motorsport.com/images/mgl/2Gdw5n1Y/s1000/lewis-hamilton-ferrari.jpg",
-          "mode": "widthFix",
-          "style": "width:100%;display:block;",
-          "alt": "汉密尔顿与“意大利版博诺”卡洛·桑蒂"
-        }
-      },
-      {
-        "name": "img",
-        "attrs": {
-          "src": "https://cdn.motorsport.com/images/mgl/2wlE71eY/s1000/lewis-hamilton-ferrari.jpg",
-          "mode": "widthFix",
-          "style": "width:100%;display:block;",
-          "alt": "汉密尔顿：法拉利分站冠军"
-        }
-      },
-      {
         "name": "p",
         "children": [
           {
@@ -153,13 +108,13 @@
         ]
       },
       {
-        "name": "p",
-        "children": [
-          {
-            "type": "text",
-            "text": "刘易斯·汉密尔顿在 20 年前就为瓦塞尔的车队赢下过很多比赛"
-          }
-        ]
+        "name": "img",
+        "attrs": {
+          "src": "https://cdn.motorsport.com/images/mgl/0qX7Eqw6/s1000/open-uri20120929-8872-1v952dt.jpg",
+          "mode": "widthFix",
+          "style": "width:100%;display:block;",
+          "alt": "刘易斯·汉密尔顿在 20 年前就为瓦塞尔的车队赢下过很多比赛"
+        }
       },
       {
         "name": "p",
@@ -216,13 +171,13 @@
         ]
       },
       {
-        "name": "p",
-        "children": [
-          {
-            "type": "text",
-            "text": "在 2025 年，人们很难想象汉密尔顿还能为法拉利赢下一场比赛"
-          }
-        ]
+        "name": "img",
+        "attrs": {
+          "src": "https://cdn.motorsport.com/images/mgl/6n7AQjl0/s1000/lewis-hamilton-ferrari.jpg",
+          "mode": "widthFix",
+          "style": "width:100%;display:block;",
+          "alt": "在 2025 年，人们很难想象汉密尔顿还能为法拉利赢下一场比赛"
+        }
       },
       {
         "name": "p",
@@ -297,13 +252,13 @@
         ]
       },
       {
-        "name": "p",
-        "children": [
-          {
-            "type": "text",
-            "text": "卡洛·桑蒂曾在 2018 年美国奥斯汀站，陪同基米·莱科宁完成法拉利最后一次胜利登台"
-          }
-        ]
+        "name": "img",
+        "attrs": {
+          "src": "https://cdn.motorsport.com/images/mgl/6D1ON140/s1000/carlos-santi-race-engineer-f-1.jpg",
+          "mode": "widthFix",
+          "style": "width:100%;display:block;",
+          "alt": "卡洛·桑蒂曾在 2018 年美国奥斯汀站，陪同基米·莱科宁完成法拉利最后一次胜利登台"
+        }
       },
       {
         "name": "p",
@@ -396,13 +351,13 @@
         ]
       },
       {
-        "name": "p",
-        "children": [
-          {
-            "type": "text",
-            "text": "刘易斯·汉密尔顿与他的“意大利版博诺”卡洛·桑蒂在巴塞罗那庆祝胜利"
-          }
-        ]
+        "name": "img",
+        "attrs": {
+          "src": "https://cdn.motorsport.com/images/mgl/2Gdw5n1Y/s1000/lewis-hamilton-ferrari.jpg",
+          "mode": "widthFix",
+          "style": "width:100%;display:block;",
+          "alt": "刘易斯·汉密尔顿与他的“意大利版博诺”卡洛·桑蒂在巴塞罗那庆祝胜利"
+        }
       },
       {
         "name": "p",
@@ -468,13 +423,13 @@
         ]
       },
       {
-        "name": "p",
-        "children": [
-          {
-            "type": "text",
-            "text": "刘易斯·汉密尔顿，如今也是法拉利分站冠军得主"
-          }
-        ]
+        "name": "img",
+        "attrs": {
+          "src": "https://cdn.motorsport.com/images/mgl/2wlE71eY/s1000/lewis-hamilton-ferrari.jpg",
+          "mode": "widthFix",
+          "style": "width:100%;display:block;",
+          "alt": "刘易斯·汉密尔顿：法拉利分站冠军"
+        }
       },
       {
         "name": "p",

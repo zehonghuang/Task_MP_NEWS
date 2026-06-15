@@ -14,7 +14,7 @@
   ],
   "title": "谁昨晚睡得最差：乔治·拉塞尔",
   "summary": "拉塞尔在巴塞罗那周末拿到杆位、比赛也从队友安东内利的退赛中“捡回”大量积分，但形势并不乐观：安东内利依旧在多数场合更快，而沃尔夫甚至开始谈论“让更快的车手先行”的潜在团队指令。随着法拉利与汉密尔顿重新进入争冠视野，梅赛德斯内部竞争带来的时间损失也可能进一步挤压拉塞尔的空间。",
-  "cover_url": "https://cdn.motorsport.com/images/mgl/27NQAnx0/s1000/andrea-kimi-antonelli-mercedes.jpg",
+  "cover_url": "https://cdn-5.motorsport.com/images/amp/56l4QvD6/s1000/wer-letzte-nacht-am-schlechtesten-geschlafen-hat-george-russell-26061501.webp",
   "published_at": "2026-06-15T07:22:34+00:00",
   "time_text": "",
   "source": {
@@ -28,37 +28,10 @@
       {
         "name": "img",
         "attrs": {
-          "src": "https://cdn.motorsport.com/images/mgl/27NQAnx0/s1000/andrea-kimi-antonelli-mercedes.jpg",
-          "mode": "widthFix",
-          "style": "width:100%;display:block;",
-          "alt": "安德烈亚·基米·安东内利（梅赛德斯）"
-        }
-      },
-      {
-        "name": "img",
-        "attrs": {
           "src": "https://cdn-5.motorsport.com/images/amp/56l4QvD6/s1000/wer-letzte-nacht-am-schlechtesten-geschlafen-hat-george-russell-26061501.webp",
           "mode": "widthFix",
           "style": "width:100%;display:block;",
           "alt": "专栏配图：乔治·拉塞尔"
-        }
-      },
-      {
-        "name": "img",
-        "attrs": {
-          "src": "https://cdn.motorsport.com/images/mgl/YvKQMpe6/s1000/lewis-hamilton-ferrari.jpg",
-          "mode": "widthFix",
-          "style": "width:100%;display:block;",
-          "alt": "梅赛德斯仍是热门（尽管法拉利赢下比赛）"
-        }
-      },
-      {
-        "name": "img",
-        "attrs": {
-          "src": "https://cdn.motorsport.com/images/mgl/27NQAMm0/s1000/andrea-kimi-antonelli-mercedes.jpg",
-          "mode": "widthFix",
-          "style": "width:100%;display:block;",
-          "alt": "安东内利是否是周日更快的梅赛德斯车手？"
         }
       },
       {
@@ -152,13 +125,13 @@
         ]
       },
       {
-        "name": "p",
-        "children": [
-          {
-            "type": "text",
-            "text": "尽管法拉利终于赢了一场，梅赛德斯仍是争冠热门"
-          }
-        ]
+        "name": "img",
+        "attrs": {
+          "src": "https://cdn.motorsport.com/images/mgl/YvKQMpe6/s1000/lewis-hamilton-ferrari.jpg",
+          "mode": "widthFix",
+          "style": "width:100%;display:block;",
+          "alt": "梅赛德斯仍是热门（尽管法拉利赢下比赛）"
+        }
       },
       {
         "name": "p",
@@ -224,13 +197,13 @@
         ]
       },
       {
-        "name": "p",
-        "children": [
-          {
-            "type": "text",
-            "text": "基米·安东内利在超越乔治·拉塞尔后不久退赛"
-          }
-        ]
+        "name": "img",
+        "attrs": {
+          "src": "https://cdn.motorsport.com/images/mgl/27NQAnx0/s1000/andrea-kimi-antonelli-mercedes.jpg",
+          "mode": "widthFix",
+          "style": "width:100%;display:block;",
+          "alt": "基米·安东内利在超越乔治·拉塞尔后不久退赛"
+        }
       },
       {
         "name": "p",
@@ -305,13 +278,13 @@
         ]
       },
       {
-        "name": "p",
-        "children": [
-          {
-            "type": "text",
-            "text": "周日，基米·安东内利是否是更快的梅赛德斯车手？"
-          }
-        ]
+        "name": "img",
+        "attrs": {
+          "src": "https://cdn.motorsport.com/images/mgl/27NQAMm0/s1000/andrea-kimi-antonelli-mercedes.jpg",
+          "mode": "widthFix",
+          "style": "width:100%;display:block;",
+          "alt": "周日，基米·安东内利是否是更快的梅赛德斯车手？"
+        }
       },
       {
         "name": "p",

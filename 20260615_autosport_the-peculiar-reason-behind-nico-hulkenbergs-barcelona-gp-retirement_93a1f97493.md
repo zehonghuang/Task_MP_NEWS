@@ -6,8 +6,6 @@
 - 发布时间：2026-06-15T07:56:12+00:00
 - 作者：Ed Hardy、Cihangir Perperik
 
-![尼科·霍肯伯格（奥迪 F1 车队）](https://cdn.motorsport.com/images/mgl/6lmdj8j0/s1000/nico-hulkenberg-audi-f1-team-l.jpg)
-
 ![尼科·霍肯伯格（奥迪 F1 车队）](https://cdn-1.motorsport.com/images/amp/6DGq9A7Y/s1000/nico-hulkenberg-audi-f1-team.webp)
 
 ## 中文摘要
@@ -28,7 +26,7 @@
 
 这家德国车队目前唯一的积分来自加布里埃尔·博托莱托在墨尔本站获得第九名；而这一次他们原本也有望收获不错的分数，因为劳森最终在周日拿到第八名。
 
-尼科·霍肯伯格（奥迪 F1 车队）、利亚姆·劳森（Racing Bulls）
+![尼科·霍肯伯格（奥迪 F1 车队）、利亚姆·劳森（Racing Bulls）](https://cdn.motorsport.com/images/mgl/6lmdj8j0/s1000/nico-hulkenberg-audi-f1-team-l.jpg)
 
 图片来源：Simon Galloway / LAT Images via Getty Images
 

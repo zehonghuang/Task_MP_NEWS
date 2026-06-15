@@ -6,13 +6,7 @@
 - 发布时间：2026-06-15T07:22:34+00:00
 - 作者：Ruben Zimmermann
 
-![安德烈亚·基米·安东内利（梅赛德斯）](https://cdn.motorsport.com/images/mgl/27NQAnx0/s1000/andrea-kimi-antonelli-mercedes.jpg)
-
 ![专栏配图：乔治·拉塞尔](https://cdn-5.motorsport.com/images/amp/56l4QvD6/s1000/wer-letzte-nacht-am-schlechtesten-geschlafen-hat-george-russell-26061501.webp)
-
-![梅赛德斯仍是热门（尽管法拉利赢下比赛）](https://cdn.motorsport.com/images/mgl/YvKQMpe6/s1000/lewis-hamilton-ferrari.jpg)
-
-![安东内利是否是周日更快的梅赛德斯车手？](https://cdn.motorsport.com/images/mgl/27NQAMm0/s1000/andrea-kimi-antonelli-mercedes.jpg)
 
 ## 中文摘要
 
@@ -40,7 +34,7 @@
 
 当然，一只燕子不成夏；而且法拉利周日的胜利（顺便说一句，这是他们自 2024 年以来的首胜）之前，梅赛德斯已经连赢六场。所以，争冠格局中“谁是最大热门”依然相当明确。
 
-尽管法拉利终于赢了一场，梅赛德斯仍是争冠热门
+![梅赛德斯仍是热门（尽管法拉利赢下比赛）](https://cdn.motorsport.com/images/mgl/YvKQMpe6/s1000/lewis-hamilton-ferrari.jpg)
 
 图片来源：Sam Bloxham / LAT Images via Getty Images
 
@@ -56,7 +50,7 @@
 
 因为这位英国人也正在逐渐耗尽解释：为什么他又一次落在安东内利后面。或者说，如果不是另一台梅赛德斯“熄火罢工”，他很可能又会落在安东内利后面。
 
-基米·安东内利在超越乔治·拉塞尔后不久退赛
+![基米·安东内利在超越乔治·拉塞尔后不久退赛](https://cdn.motorsport.com/images/mgl/27NQAnx0/s1000/andrea-kimi-antonelli-mercedes.jpg)
 
 图片来源：Sam Bloxham / LAT Images via Getty Images
 
@@ -74,7 +68,7 @@
 
 但即便不考虑这一点，这个周日安东内利依旧是更快的那位梅赛德斯车手。而拉塞尔正越来越缺少解释。
 
-周日，基米·安东内利是否是更快的梅赛德斯车手？
+![周日，基米·安东内利是否是更快的梅赛德斯车手？](https://cdn.motorsport.com/images/mgl/27NQAMm0/s1000/andrea-kimi-antonelli-mercedes.jpg)
 
 图片来源：Andy Hone/ LAT Images via Getty Images
 
