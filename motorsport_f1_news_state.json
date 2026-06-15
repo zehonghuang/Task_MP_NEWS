@@ -1,17 +1,17 @@
 {
   "source": "https://www.motorsport.com/f1/news/",
-  "fetched_at": "2026-06-15T09:52:43+08:00",
+  "fetched_at": "2026-06-15T16:49:03+08:00",
   "count": 10,
   "urls": [
+    "https://www.motorsport.com/f1/news/the-peculiar-reason-behind-nico-hulkenbergs-barcelona-gp-retirement/10830437/",
+    "https://www.motorsport.com/f1/news/who-slept-the-worst-last-night-george-russell/10830487/",
+    "https://www.motorsport.com/f1/news/who-slept-best-last-night-frederic-vasseur/10830463/",
     "https://www.motorsport.com/f1/news/lewis-hamiltons-first-ferrari-win-leaves-f1-fans-in-tears-true-masterclass/10830466/",
     "https://www.motorsport.com/f1/news/winners-and-losers-from-a-cathartic-barcelona-f1-grand-prix/10830418/",
     "https://www.motorsport.com/f1/news/lewis-hamilton-win-a-middle-finger-to-doubters-lando-norris/10830413/",
     "https://www.motorsport.com/f1/news/kimi-antonelli-receives-post-race-penalty-despite-retirement-in-barcelona/10830421/",
     "https://www.motorsport.com/f1/news/franco-colapinto-demoted-after-yellow-flag-breach-in-f1-barcelona-gp/10830411/",
     "https://www.motorsport.com/f1/news/mercedes-beaten-by-hamilton-wolff-slams-his-teams-pointless-race/10830403/",
-    "https://www.motorsport.com/f1/news/ferrari-chairman-releases-emotional-lewis-hamilton-statement-after-first-win-with-team/10830396/",
-    "https://www.motorsport.com/f1/news/vasseur-hamilton-would-have-won-barcelona-gp-without-vsc-help/10830382/",
-    "https://www.motorsport.com/f1/news/maybe-the-girlfriend-helps-toto-wolffs-take-on-lewis-hamiltons-ferrari-revival/10830369/",
-    "https://www.motorsport.com/f1/news/lewis-hamilton-ferrari-win-sparks-charles-leclerc-warning-from-jacques-villeneuve/10830349/"
+    "https://www.motorsport.com/f1/news/ferrari-chairman-releases-emotional-lewis-hamilton-statement-after-first-win-with-team/10830396/"
   ]
 }
