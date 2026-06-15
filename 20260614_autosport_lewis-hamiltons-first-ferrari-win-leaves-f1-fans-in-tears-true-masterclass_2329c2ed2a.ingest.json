@@ -1,0 +1,165 @@
+{
+  "id": "n_autosport_20260614_2329c2ed2a",
+  "layout_code": "STANDARD",
+  "type_code": "PADDOCK",
+  "pinned": false,
+  "weight": 0,
+  "tag_text": "Hamilton / 反应",
+  "tags": [
+    "hamilton",
+    "44",
+    "ferrari",
+    "reaction"
+  ],
+  "title": "汉密尔顿法拉利首胜让F1车迷落泪：“真正的大师课”",
+  "summary": "汉密尔顿在巴塞罗那为法拉利拿下个人首胜引发车迷热烈反响，社交媒体上充满祝贺与感慨。",
+  "cover_url": "https://cdn.motorsport.com/images/mgl/YXypkLo6/s1000/lewis-hamilton-ferrari.jpg",
+  "published_at": "2026-06-14T18:01:08Z",
+  "time_text": "",
+  "source": {
+    "name": "Autosport",
+    "url": "https://www.motorsport.com/f1/news/lewis-hamiltons-first-ferrari-win-leaves-f1-fans-in-tears-true-masterclass/10830466/"
+  },
+  "content": {
+    "format_code": "RICH_TEXT_NODES",
+    "text": "F1车迷欢庆刘易斯·汉密尔顿以法拉利车手身份在巴塞罗那-加泰罗尼亚大奖赛拿下首胜。\n\n这位七届世界冠军从第二位发车，将其转化为在巴塞罗那代表马拉内罗车队的首场胜利；他成功执行三停策略，以19秒优势领先第二名乔治·拉塞尔冲线。\n\n车迷很快在社交媒体上对这一里程碑时刻作出反应。一位车迷在 Reddit 上评论道：“伟大的刘易斯。今天是个好日子。”另一位则补充说：“哥们这个周末真的把头发放下来了，太狠了。”\n\n还有人发帖写道：“汉密尔顿同时在‘前十最年轻’和‘前十最年长’的夺冠车手榜单上。脑子都炸了，哈哈。”\n\n更多反应包括：“我在哭”“我要为此开我那瓶‘特殊场合’的酒”，以及“我没想到这一天会到来，但他做到了”。\n\n当汉密尔顿站上最高领奖台庆祝时，他的队友查尔斯·勒克莱尔因遭遇助力转向问题而被迫退赛。\n\n另一位车迷评论道：“作为勒克莱尔的粉丝我很难过，但首先我是一名法拉利车迷。这种感觉有点苦乐参半，但拜托，赢了就是赢了。看到刘易斯状态回来了真好，而且我又充满了希望。FORZA FERRARI！我们真的回来了！！！！继续努力、继续尝试，我相信我们会做到的。天啊这让我眼眶都湿了。”\n\n刘易斯·汉密尔顿，法拉利\n\n图片来源：Michael Potts / LAT Images via Getty Images\n\n汉密尔顿在 2025 年结束了在梅赛德斯长达 12 年的效力后加盟法拉利。他在由弗雷德·瓦塞尔领导的车队度过的首个赛季中，这位英国车手一直在努力适应车队，但 2026 年至今，41 岁的他已经实现反弹。\n\n另一位车迷发帖说：“大叔（Unc）还是有的。你没法为此生气。没有任何车迷能为此生气。”还有人将这场胜利形容为“真正的大师课”。\n\n他们写道：“刘易斯爵士真正的大师课。用速度和策略击败了整个车阵。”\n\n你希望在 Motorsport.com 上看到什么内容？\n\n- Motorsport.com 团队",
+    "nodes": [
+      {
+        "name": "img",
+        "attrs": {
+          "src": "https://cdn.motorsport.com/images/mgl/YXypkLo6/s1000/lewis-hamilton-ferrari.jpg",
+          "mode": "widthFix",
+          "style": "width:100%;display:block;",
+          "alt": "刘易斯·汉密尔顿（法拉利）"
+        }
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "F1车迷欢庆刘易斯·汉密尔顿以法拉利车手身份在巴塞罗那-加泰罗尼亚大奖赛拿下首胜。"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "这位七届世界冠军从第二位发车，将其转化为在巴塞罗那代表马拉内罗车队的首场胜利；他成功执行三停策略，以19秒优势领先第二名乔治·拉塞尔冲线。"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "车迷很快在社交媒体上对这一里程碑时刻作出反应。一位车迷在 Reddit 上评论道：“伟大的刘易斯。今天是个好日子。”另一位则补充说：“哥们这个周末真的把头发放下来了，太狠了。”"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "还有人发帖写道：“汉密尔顿同时在‘前十最年轻’和‘前十最年长’的夺冠车手榜单上。脑子都炸了，哈哈。”"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "更多反应包括：“我在哭”“我要为此开我那瓶‘特殊场合’的酒”，以及“我没想到这一天会到来，但他做到了”。"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "当汉密尔顿站上最高领奖台庆祝时，他的队友查尔斯·勒克莱尔因遭遇助力转向问题而被迫退赛。"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "另一位车迷评论道：“作为勒克莱尔的粉丝我很难过，但首先我是一名法拉利车迷。这种感觉有点苦乐参半，但拜托，赢了就是赢了。看到刘易斯状态回来了真好，而且我又充满了希望。FORZA FERRARI！我们真的回来了！！！！继续努力、继续尝试，我相信我们会做到的。天啊这让我眼眶都湿了。”"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "刘易斯·汉密尔顿，法拉利"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "图片来源：Michael Potts / LAT Images via Getty Images"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "汉密尔顿在 2025 年结束了在梅赛德斯长达 12 年的效力后加盟法拉利。他在由弗雷德·瓦塞尔领导的车队度过的首个赛季中，这位英国车手一直在努力适应车队，但 2026 年至今，41 岁的他已经实现反弹。"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "另一位车迷发帖说：“大叔（Unc）还是有的。你没法为此生气。没有任何车迷能为此生气。”还有人将这场胜利形容为“真正的大师课”。"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "他们写道：“刘易斯爵士真正的大师课。用速度和策略击败了整个车阵。”"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "你希望在 Motorsport.com 上看到什么内容？"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "- Motorsport.com 团队"
+          }
+        ]
+      }
+    ]
+  }
+}
+
