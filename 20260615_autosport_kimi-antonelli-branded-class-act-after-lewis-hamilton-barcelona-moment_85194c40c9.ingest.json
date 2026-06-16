@@ -1,0 +1,157 @@
+{
+  "id": "n_autosport_20260615_85194c40c9",
+  "layout_code": "STANDARD",
+  "type_code": "PADDOCK",
+  "pinned": false,
+  "weight": 0,
+  "tag_text": "Barcelona GP / 车手互动",
+  "tags": [
+    "barcelona-gp",
+    "antonelli",
+    "hamilton",
+    "fans",
+    "mercedes",
+    "sportsmanship"
+  ],
+  "title": "巴塞罗那一幕后，基米·安东内利被赞“真正有风度”",
+  "summary": "尽管因梅赛德斯赛车电气故障退赛，积分领跑者安东内利仍在赛后第一时间向刚为法拉利夺冠的汉密尔顿表示祝贺。这一幕被镜头捕捉后，车迷纷纷称赞这位年轻意大利车手在冠军争夺背景下依然展现出难得的尊重与风度。",
+  "cover_url": "https://cdn.motorsport.com/images/mgl/6Al7ZjwY/s1000/andrea-kimi-antonelli-mercedes.jpg",
+  "published_at": "2026-06-15T11:37:00+00:00",
+  "time_text": "",
+  "source": {
+    "name": "Autosport",
+    "url": "https://www.motorsport.com/f1/news/kimi-antonelli-branded-class-act-after-lewis-hamilton-barcelona-moment/10830579/"
+  },
+  "content": {
+    "format_code": "RICH_TEXT_NODES",
+    "text": "现任积分榜领跑者基米·安东内利，因为赛后与刘易斯·汉密尔顿的一次互动被镜头拍下，赢得了车迷的广泛称赞。\n\n这位七届世界冠军从发车位第二位一路杀到终点，为法拉利拿下自己的首个大奖赛冠军。尽管安东内利因梅赛德斯赛车的电气故障被迫退赛，但他仍然特地在赛后前去向这位英国车手表示祝贺。\n\n在摩纳哥大奖赛之后，汉密尔顿已经在积分榜上超越了安东内利的队友乔治·拉塞尔，而如今他与这位意大利新星之间的差距也缩小到了 41 分。\n\n车迷们很快就对这两位冠军争夺对手之间的这一幕给出称赞。“对大多数车手来说，他都是童年英雄！”一位车迷在 Reddit 上写道；另一位则补充说：“我只希望即便他们最后真的争冠，这种关系也能一直保持下去。”\n\n“基米这个举动太有风度了，尤其考虑到他还这么年轻。”还有人这样评论；另一条留言写道：“这个年轻人真是有风度，年纪轻轻却有一颗成熟冷静的头脑。”\n\n还有更多评论写道：“他当然会为退赛感到难过，但他也是真心为刘易斯高兴”“他是在回报这份善意，因为刘易斯一直都会祝贺他”“基米在自己退赛后，仍然为刘易斯感到开心并送上祝贺，他真是个很可爱的孩子。”\n\n安德里亚·基米·安东内利（梅赛德斯）、刘易斯·汉密尔顿（法拉利）\n\n图片来源：Jayce Illman / Getty Images\n\n同样获得第四名的红牛车手马克斯·维斯塔潘，也被拍到向汉密尔顿表示祝贺。有人评论道：“围场里大家对刘易斯的尊重，真的让人看得很感动！”\n\n“马克斯特地走过去祝贺，结果还是会有人说他们之间有嫌隙。”另一位车迷写道；还有人评论说：“看到他们彼此之间那种共同的尊重真的很棒。他们显然都很清楚彼此的能力，也都对对方心怀敬意。”\n\n本赛季第八站将于 6 月 26 日至 28 日进行，为奥地利大奖赛。\n\n你希望在 Motorsport.com 上看到什么内容？\n\nMotorsport.com 团队",
+    "nodes": [
+      {
+        "name": "img",
+        "attrs": {
+          "src": "https://cdn.motorsport.com/images/mgl/6Al7ZjwY/s1000/andrea-kimi-antonelli-mercedes.jpg",
+          "mode": "widthFix",
+          "style": "width:100%;display:block;",
+          "alt": "安德里亚·基米·安东内利（梅赛德斯）、刘易斯·汉密尔顿（法拉利）"
+        }
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "现任积分榜领跑者基米·安东内利，因为赛后与刘易斯·汉密尔顿的一次互动被镜头拍下，赢得了车迷的广泛称赞。"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "这位七届世界冠军从发车位第二位一路杀到终点，为法拉利拿下自己的首个大奖赛冠军。尽管安东内利因梅赛德斯赛车的电气故障被迫退赛，但他仍然特地在赛后前去向这位英国车手表示祝贺。"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "在摩纳哥大奖赛之后，汉密尔顿已经在积分榜上超越了安东内利的队友乔治·拉塞尔，而如今他与这位意大利新星之间的差距也缩小到了 41 分。"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "车迷们很快就对这两位冠军争夺对手之间的这一幕给出称赞。“对大多数车手来说，他都是童年英雄！”一位车迷在 Reddit 上写道；另一位则补充说：“我只希望即便他们最后真的争冠，这种关系也能一直保持下去。”"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "“基米这个举动太有风度了，尤其考虑到他还这么年轻。”还有人这样评论；另一条留言写道：“这个年轻人真是有风度，年纪轻轻却有一颗成熟冷静的头脑。”"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "还有更多评论写道：“他当然会为退赛感到难过，但他也是真心为刘易斯高兴”“他是在回报这份善意，因为刘易斯一直都会祝贺他”“基米在自己退赛后，仍然为刘易斯感到开心并送上祝贺，他真是个很可爱的孩子。”"
+          }
+        ]
+      },
+      {
+        "name": "img",
+        "attrs": {
+          "src": "https://cdn.motorsport.com/images/mgl/6Al7ZjwY/s1000/andrea-kimi-antonelli-mercedes.jpg",
+          "mode": "widthFix",
+          "style": "width:100%;display:block;",
+          "alt": "安德里亚·基米·安东内利（梅赛德斯）、刘易斯·汉密尔顿（法拉利）"
+        }
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "图片来源：Jayce Illman / Getty Images"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "同样获得第四名的红牛车手马克斯·维斯塔潘，也被拍到向汉密尔顿表示祝贺。有人评论道：“围场里大家对刘易斯的尊重，真的让人看得很感动！”"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "“马克斯特地走过去祝贺，结果还是会有人说他们之间有嫌隙。”另一位车迷写道；还有人评论说：“看到他们彼此之间那种共同的尊重真的很棒。他们显然都很清楚彼此的能力，也都对对方心怀敬意。”"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "本赛季第八站将于 6 月 26 日至 28 日进行，为奥地利大奖赛。"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "你希望在 Motorsport.com 上看到什么内容？"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "Motorsport.com 团队"
+          }
+        ]
+      }
+    ]
+  }
+}
