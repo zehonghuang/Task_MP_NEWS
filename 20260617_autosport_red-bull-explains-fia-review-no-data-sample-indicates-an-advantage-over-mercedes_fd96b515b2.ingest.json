@@ -1,0 +1,55 @@
+{
+  "id": "n_autosport_20260617_fd96b515b2",
+  "layout_code": "STANDARD",
+  "type_code": "TECH",
+  "tag_text": "Red Bull / 技术",
+  "tags": [
+    "red-bull",
+    "fia",
+    "aduo",
+    "engine",
+    "mercedes"
+  ],
+  "title": "红牛解释 FIA 发动机复核：“没有任何数据样本显示其相较梅赛德斯占优”",
+  "summary": "劳伦特·梅基斯澄清称，红牛并不反对 ADUO 的整体结构，但表示“没有任何单一数据样本”显示其内燃机优于梅赛德斯。",
+  "cover_url": "https://cdn-6.motorsport.com/images/amp/24Qe4LzY/s6/isack-hadjar-red-bull-racing.webp",
+  "published_at": "2026-06-17T13:08:21Z",
+  "time_text": "",
+  "source": {
+    "name": "Autosport",
+    "url": "https://www.motorsport.com/f1/news/red-bull-explains-fia-review-no-data-sample-indicates-an-advantage-over-mercedes/10830998/"
+  },
+  "content": {
+    "format_code": "RICH_TEXT_NODES",
+    "text": "围绕一级方程式首个“额外研发与升级机会期”（ADUO）的执行方式——该周期覆盖至加拿大大奖赛前的各场比赛——仍在围场内持续主导讨论。FIA 已在摩纳哥将结果通知所有制造商，但公开公告仍未发布。\n\n这是因为有一家制造商——按逻辑判断即红牛-福特动力总成——对初步结果极为不满，并已要求 FIA 进行额外核查。该流程主要是事实性核验，以确保所使用的所有传感器和数据点都是正确的。",
+    "nodes": [
+      {
+        "name": "img",
+        "attrs": {
+          "src": "https://cdn-6.motorsport.com/images/amp/24Qe4LzY/s6/isack-hadjar-red-bull-racing.webp",
+          "mode": "widthFix",
+          "style": "width:100%;display:block;",
+          "alt": "红牛赛车相关配图"
+        }
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "围绕一级方程式首个“额外研发与升级机会期”（ADUO）的执行方式——该周期覆盖至加拿大大奖赛前的各场比赛——仍在围场内持续主导讨论。FIA 已在摩纳哥将结果通知所有制造商，但公开公告仍未发布。"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "这是因为有一家制造商——按逻辑判断即红牛-福特动力总成——对初步结果极为不满，并已要求 FIA 进行额外核查。该流程主要是事实性核验，以确保所使用的所有传感器和数据点都是正确的。"
+          }
+        ]
+      }
+    ]
+  }
+}

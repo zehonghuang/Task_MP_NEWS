@@ -1,0 +1,63 @@
+{
+  "id": "n_autosport_20260617_6756715fc3",
+  "layout_code": "STANDARD",
+  "type_code": "REGULATION",
+  "tag_text": "Mercedes / 申诉",
+  "tags": [
+    "mercedes",
+    "fia",
+    "review",
+    "monaco"
+  ],
+  "title": "Mercedes 获准就乔治·拉塞尔摩纳哥 F1 处罚举行 FIA 听证会",
+  "summary": "FIA 已确认接受梅赛德斯对摩纳哥大奖赛结果复核的请求，并将于本周六、奥地利大奖赛开始前，就此举行听证会。",
+  "cover_url": "https://cdn-5.motorsport.com/images/amp/0rVxR3d0/s6/george-russell-mercedes.webp",
+  "published_at": "2026-06-17T14:27:08Z",
+  "time_text": "",
+  "source": {
+    "name": "Autosport",
+    "url": "https://www.motorsport.com/f1/news/mercedes-granted-right-of-review-hearing-over-george-russells-monaco-gp-penalty/10831046/"
+  },
+  "content": {
+    "format_code": "RICH_TEXT_NODES",
+    "text": "在 Alpine 成功推翻皮埃尔·加斯利所受处罚之后，FIA 已接受梅赛德斯对摩纳哥大奖赛结果以及乔治·拉塞尔处罚提出的复核请求，并将于本周六举行听证会。\n\nFIA 于周三发布的一份文件确认，继 Alpine 成功挑战比赛期间作出的处罚决定之后，梅赛德斯已就摩纳哥赛会干事所作决定提出“复核权”申请。\n\n这使得摩纳哥大奖赛的最终结果再次陷入不确定之中，因为该结果上周已经被修改过一次。",
+    "nodes": [
+      {
+        "name": "img",
+        "attrs": {
+          "src": "https://cdn-5.motorsport.com/images/amp/0rVxR3d0/s6/george-russell-mercedes.webp",
+          "mode": "widthFix",
+          "style": "width:100%;display:block;",
+          "alt": "乔治·拉塞尔与梅赛德斯"
+        }
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "在 Alpine 成功推翻皮埃尔·加斯利所受处罚之后，FIA 已接受梅赛德斯对摩纳哥大奖赛结果以及乔治·拉塞尔处罚提出的复核请求，并将于本周六举行听证会。"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "FIA 于周三发布的一份文件确认，继 Alpine 成功挑战比赛期间作出的处罚决定之后，梅赛德斯已就摩纳哥赛会干事所作决定提出“复核权”申请。"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "这使得摩纳哥大奖赛的最终结果再次陷入不确定之中，因为该结果上周已经被修改过一次。"
+          }
+        ]
+      }
+    ]
+  }
+}
