@@ -33,11 +33,15 @@ As the under construction Madring opened its doors to select media, we explored 
 
 组织方明白，任何一条F1赛道都需要一个足够鲜明的标志性特色。在马德里，这个特色就是壮观的 Monumental——一处带有倾角的弯道，其倾斜度达到规则允许的24%上限。这条长达550米的弯比赞德沃特最后一个弯长得多，因为它沿着赛道北侧专门修建的区域，画出一个270度的大弧线。
 
+![](https://cdn.motorsport.com/images/mgl/0mXR54G6/s1000/madring.jpg)
+
 Monumental 的倾角达到了规则允许的最大值。
 
 图片来源：Filip Cleeren。
 
 全油门冲过这一段，在视频和效果图里看上去已经足够震撼，但真正近距离看到它，仍会让人对其规模有更直观的认识。它并不是那种你会在制式化椭圆弯里看到的、坡度均匀且海拔变化恒定的弯角。相反，这个弯会在三维空间中不断变化，线路逐步展开，随后又伴随着明显的高度落差。出口是上坡，因此对车手来说是盲出的。F1里不会再有任何一个弯与它相似。
+
+![](https://cdn.motorsport.com/images/mgl/6grBZljY/s1000/carlos-sainz-williams.jpg)
 
 塞恩斯表示：“我大概得借助模拟器，才能准确告诉你它会带来怎样的感觉和细节，但我现在已经可以说，它看起来非常震撼，因为我们进入这个弯时的速度就会很高，大约在280公里/小时左右。我的感觉是，这个弯会是全油门通过，并且会在后面那个紧左弯创造出超车机会。这个倾角会让你在想要获得干净气流时，可以把赛车放到更高或更低的位置；但如果你始终贴在前车后面，也会制造出相当可观的尾流。”
 
@@ -46,6 +50,8 @@ Monumental 的倾角达到了规则允许的最大值。
 威廉姆斯车手卡洛斯·塞恩斯是本次赛事的大使。“我对马德里赛道管理方提出的要求，就是造出一条有个性、有气质的赛道。”
 
 图片来源：Madrid Grand Prix。
+
+![](https://cdn.motorsport.com/images/mgl/YP7rMv42/s1000/madring-inauguration.jpg)
 
 组织方显然把 La Monumental 作为整条赛道的标志性符号重点塑造。他们委托宾尼法利纳设计奖杯，造型优雅地呼应了这段倾角弯，同时它也出现在周二发布的官方赛事海报上。
 
@@ -59,6 +65,8 @@ Monumental 的倾角达到了规则允许的最大值。
 
 Madring 将在短短三个月后迎来首场F1比赛。
 
+![](https://cdn.motorsport.com/images/mgl/YK13ODO0/s1000/madring.jpg)
+
 图片来源：Madrid Grand Prix。
 
 这并不是整条赛道最富灵感、也不是最漂亮的部分，因为赛车将在众多混凝土展馆之间穿行，所以在电视转播中，如何让最后一个区段看上去更具观赏性，将需要下一番工夫。
@@ -71,11 +79,15 @@ Madring 将在短短三个月后迎来首场F1比赛。
 
 塞恩斯说：“我从未见过一条赛道具有城市化的感觉，然后突然翻过一个坡顶，前方就豁然开朗，变成一大片开阔、更加流畅的区域。两者的结合让这条赛道变得很有意思。”
 
+![](https://cdn.motorsport.com/images/mgl/2eZgBoPY/s1000/madring.jpg)
+
 出于物流原因，这条赛道在观众体验上也会被实际分成两个部分：大多数看台位于更为开阔的“公路赛道”区域，而发车-终点直道周边则会更强调 hospitality 接待体验。
 
 当 Motorsport.com 向 IFEMA 首席运营官卡洛斯·希门尼斯询问这种独特分区时，他表示：“北侧会是更传统的观赛体验，南侧则是更偏VIP的体验。在观众分布上，超过60%会在北侧，那里有巨大的车迷区和大量可用于营造娱乐体验的空间；南侧则不到40%，包括 Paddock Club 和其他 hospitality 区域。”
 
 Madring 开场连续弯将是一个紧凑的左-右减速弯组合。
+
+![](https://cdn.motorsport.com/images/mgl/2wlE79bY/s1000/madring.jpg)
 
 图片来源：Filip Cleeren。
 

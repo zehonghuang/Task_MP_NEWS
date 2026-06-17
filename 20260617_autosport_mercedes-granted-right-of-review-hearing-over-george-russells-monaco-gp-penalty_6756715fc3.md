@@ -16,3 +16,10 @@ FIA 已确认接受梅赛德斯对摩纳哥大奖赛结果复核的请求，并�
 FIA 于周三发布的一份文件确认，继 Alpine 成功挑战比赛期间作出的处罚决定之后，梅赛德斯已就摩纳哥赛会干事所作决定提出“复核权”申请。
 
 这使得摩纳哥大奖赛的最终结果再次陷入不确定之中，因为该结果上周已经被修改过一次。
+
+
+![](https://cdn.motorsport.com/images/mgl/2y7Abrm6/s1000/george-russell-mercedes-lando-.jpg)
+
+![](https://cdn.motorsport.com/images/mgl/25d3vbk0/s1000/george-russell-mercedes.jpg)
+
+![](https://cdn.motorsport.com/images/mgl/6DGqQwJY/s1000/pierre-gasly-alpine.jpg)

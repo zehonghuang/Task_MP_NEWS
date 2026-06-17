@@ -69,6 +69,14 @@
         ]
       },
       {
+        "name": "img",
+        "attrs": {
+          "src": "https://cdn.motorsport.com/images/mgl/0mXR54G6/s1000/madring.jpg",
+          "mode": "widthFix",
+          "style": "width:100%;display:block;"
+        }
+      },
+      {
         "name": "p",
         "children": [
           {
@@ -94,6 +102,14 @@
             "text": "全油门冲过这一段，在视频和效果图里看上去已经足够震撼，但真正近距离看到它，仍会让人对其规模有更直观的认识。它并不是那种你会在制式化椭圆弯里看到的、坡度均匀且海拔变化恒定的弯角。相反，这个弯会在三维空间中不断变化，线路逐步展开，随后又伴随着明显的高度落差。出口是上坡，因此对车手来说是盲出的。F1里不会再有任何一个弯与它相似。"
           }
         ]
+      },
+      {
+        "name": "img",
+        "attrs": {
+          "src": "https://cdn.motorsport.com/images/mgl/6grBZljY/s1000/carlos-sainz-williams.jpg",
+          "mode": "widthFix",
+          "style": "width:100%;display:block;"
+        }
       },
       {
         "name": "p",
@@ -130,6 +146,14 @@
             "text": "图片来源：Madrid Grand Prix。"
           }
         ]
+      },
+      {
+        "name": "img",
+        "attrs": {
+          "src": "https://cdn.motorsport.com/images/mgl/YP7rMv42/s1000/madring-inauguration.jpg",
+          "mode": "widthFix",
+          "style": "width:100%;display:block;"
+        }
       },
       {
         "name": "p",
@@ -186,6 +210,14 @@
         ]
       },
       {
+        "name": "img",
+        "attrs": {
+          "src": "https://cdn.motorsport.com/images/mgl/YK13ODO0/s1000/madring.jpg",
+          "mode": "widthFix",
+          "style": "width:100%;display:block;"
+        }
+      },
+      {
         "name": "p",
         "children": [
           {
@@ -240,6 +272,14 @@
         ]
       },
       {
+        "name": "img",
+        "attrs": {
+          "src": "https://cdn.motorsport.com/images/mgl/2eZgBoPY/s1000/madring.jpg",
+          "mode": "widthFix",
+          "style": "width:100%;display:block;"
+        }
+      },
+      {
         "name": "p",
         "children": [
           {
@@ -265,6 +305,14 @@
             "text": "Madring 开场连续弯将是一个紧凑的左-右减速弯组合。"
           }
         ]
+      },
+      {
+        "name": "img",
+        "attrs": {
+          "src": "https://cdn.motorsport.com/images/mgl/2wlE79bY/s1000/madring.jpg",
+          "mode": "widthFix",
+          "style": "width:100%;display:block;"
+        }
       },
       {
         "name": "p",

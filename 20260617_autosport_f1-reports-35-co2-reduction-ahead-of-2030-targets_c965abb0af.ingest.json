@@ -96,6 +96,14 @@
         ]
       },
       {
+        "name": "img",
+        "attrs": {
+          "src": "https://cdn.motorsport.com/static/img/news/whatsapp-image-2026-06-03-at-1.jpg",
+          "mode": "widthFix",
+          "style": "width:100%;display:block;"
+        }
+      },
+      {
         "name": "p",
         "children": [
           {

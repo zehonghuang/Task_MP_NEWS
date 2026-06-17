@@ -39,6 +39,8 @@ F1也一直通过加大对可持续航空燃料的投资、扩大远程运营规
 
 在2023年奥地利大奖赛进行试点之后，F1如今已在所有欧洲分站的围场运营中全面采用可再生能源，使用太阳能与 HVO（加氢处理植物油）的组合方案。
 
+![](https://cdn.motorsport.com/static/img/news/whatsapp-image-2026-06-03-at-1.jpg)
+
 梅赛德斯已在2026欧洲赛季部署全电动的 Mercedes-Benz eActros 600，同时配合一支更大规模、使用 HVO100 生物燃料的卡车车队。
 
 图片来源：Mercedes。

@@ -49,6 +49,14 @@
             "text": "这是因为有一家制造商——按逻辑判断即红牛-福特动力总成——对初步结果极为不满，并已要求 FIA 进行额外核查。该流程主要是事实性核验，以确保所使用的所有传感器和数据点都是正确的。"
           }
         ]
+      },
+      {
+        "name": "img",
+        "attrs": {
+          "src": "https://cdn.motorsport.com/images/mgl/0mXRErg6/s1000/laurent-mekies-red-bull-racing.jpg",
+          "mode": "widthFix",
+          "style": "width:100%;display:block;"
+        }
       }
     ]
   }

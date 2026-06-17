@@ -57,6 +57,30 @@
             "text": "这使得摩纳哥大奖赛的最终结果再次陷入不确定之中，因为该结果上周已经被修改过一次。"
           }
         ]
+      },
+      {
+        "name": "img",
+        "attrs": {
+          "src": "https://cdn.motorsport.com/images/mgl/6DGqQwJY/s1000/pierre-gasly-alpine.jpg",
+          "mode": "widthFix",
+          "style": "width:100%;display:block;"
+        }
+      },
+      {
+        "name": "img",
+        "attrs": {
+          "src": "https://cdn.motorsport.com/images/mgl/25d3vbk0/s1000/george-russell-mercedes.jpg",
+          "mode": "widthFix",
+          "style": "width:100%;display:block;"
+        }
+      },
+      {
+        "name": "img",
+        "attrs": {
+          "src": "https://cdn.motorsport.com/images/mgl/2y7Abrm6/s1000/george-russell-mercedes-lando-.jpg",
+          "mode": "widthFix",
+          "style": "width:100%;display:block;"
+        }
       }
     ]
   }
