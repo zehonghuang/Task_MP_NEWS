@@ -1,0 +1,55 @@
+{
+  "id": "n_autosport_20260618_01d77a7f91",
+  "layout_code": "STANDARD",
+  "type_code": "PADDOCK",
+  "tag_text": "Ferrari / 争冠",
+  "tags": [
+    "ferrari",
+    "hamilton",
+    "44",
+    "antonelli",
+    "12",
+    "title"
+  ],
+  "title": "“两周前还是一场灾难”——弗雷德·瓦塞尔淡化刘易斯·汉密尔顿争冠话题",
+  "summary": "尽管汉密尔顿凭借巴塞罗那站胜利缩小了与安东内利的积分差距，但法拉利领队瓦塞尔并不愿讨论车队和汉密尔顿的争冠前景。",
+  "cover_url": "https://cdn-7.motorsport.com/images/amp/YP7rMwQ2/s6/lewis-hamilton-ferrari.webp",
+  "published_at": "2026-06-18T07:27:08Z",
+  "source": {
+    "name": "Autosport",
+    "url": "https://www.motorsport.com/f1/news/two-weeks-ago-it-was-a-disaster-fred-vasseur-brushes-aside-lewis-hamilton-title-talk/10831129/"
+  },
+  "content": {
+    "format_code": "RICH_TEXT_NODES",
+    "text": "尽管刘易斯·汉密尔顿在巴塞罗那取胜后缩小了基米·安东内利在积分榜上的领先优势，但法拉利领队弗雷德·瓦塞尔并不愿评估车队以及这位英国车手的争冠前景。\n\n汉密尔顿在摩纳哥站后就已升至积分榜第二，而在西班牙站，借助自己的胜利以及这位意大利车手的退赛，他又将安东内利的领先优势缩小了25分。",
+    "nodes": [
+      {
+        "name": "img",
+        "attrs": {
+          "src": "https://cdn-7.motorsport.com/images/amp/YP7rMwQ2/s6/lewis-hamilton-ferrari.webp",
+          "mode": "widthFix",
+          "style": "width:100%;display:block;",
+          "alt": "刘易斯·汉密尔顿，法拉利"
+        }
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "尽管刘易斯·汉密尔顿在巴塞罗那取胜后缩小了基米·安东内利在积分榜上的领先优势，但法拉利领队弗雷德·瓦塞尔并不愿评估车队以及这位英国车手的争冠前景。"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "汉密尔顿在摩纳哥站后就已升至积分榜第二，而在西班牙站，借助自己的胜利以及这位意大利车手的退赛，他又将安东内利的领先优势缩小了25分。"
+          }
+        ]
+      }
+    ]
+  }
+}
