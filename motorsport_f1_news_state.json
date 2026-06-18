@@ -1,8 +1,9 @@
 {
   "source": "https://www.motorsport.com/f1/news/",
-  "fetched_at": "2026-06-18T00:24:41+08:00",
+  "fetched_at": "2026-06-18T10:03:58+08:00",
   "count": 10,
   "urls": [
+    "https://www.motorsport.com/f1/news/the-10-most-bizarre-retirements-in-formula-1-history/10830885/",
     "https://www.motorsport.com/f1/news/mercedes-granted-right-of-review-hearing-over-george-russells-monaco-gp-penalty/10831046/",
     "https://www.motorsport.com/f1/news/red-bull-explains-fia-review-no-data-sample-indicates-an-advantage-over-mercedes/10830998/",
     "https://www.motorsport.com/f1/news/our-first-impressions-of-the-madring-f1-newest-circuit/10830899/",
@@ -11,7 +12,6 @@
     "https://www.motorsport.com/f1/news/mclaren-and-red-bull-appeal-decision-to-overturn-pierre-gaslys-monaco-gp-penalty/10830838/",
     "https://www.motorsport.com/f1/news/george-russell-put-in-a-tough-spot-by-mercedes-claims-juan-pablo-montoya/10830685/",
     "https://www.motorsport.com/f1/news/why-one-of-mclarens-world-beating-strengths-hasnt-carried-over-from-2025/10830759/",
-    "https://www.motorsport.com/f1/news/leonardo-fornaroli-set-for-haas-f1-test-at-jerez/10830809/",
-    "https://www.motorsport.com/f1/news/serena-williams-celebrates-lewis-hamilton-after-milestone-ferrari-f1-win/10830689/"
+    "https://www.motorsport.com/f1/news/leonardo-fornaroli-set-for-haas-f1-test-at-jerez/10830809/"
   ]
 }
