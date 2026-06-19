@@ -1,0 +1,64 @@
+{
+  "id": "n_autosport_20260618_1bc3f35b1c",
+  "layout_code": "STANDARD",
+  "type_code": "PADDOCK",
+  "tag_text": "Mercedes / 申诉",
+  "tags": [
+    "mercedes",
+    "russell",
+    "63",
+    "monaco",
+    "review",
+    "penalty"
+  ],
+  "title": "梅赛德斯撤回乔治·拉塞尔摩纳哥处罚复审申请",
+  "summary": "国际汽联确认，梅赛德斯已经放弃继续推进针对乔治·拉塞尔摩纳哥大奖赛罚时的复审程序；这起事件源于当时摩纳哥维修区入口计时系统的错误触发。",
+  "cover_url": "https://cdn-9.motorsport.com/images/amp/25d3xqn0/s6/george-russell-mercedes-amg-w1.webp",
+  "published_at": "2026-06-18T19:10:00+00:00",
+  "source": {
+    "name": "Autosport",
+    "url": "https://www.motorsport.com/f1/news/mercedes-withdraws-its-right-of-review-request/10831386/"
+  },
+  "content": {
+    "format_code": "RICH_TEXT_NODES",
+    "text": "国际汽联宣布，梅赛德斯 F1 车队已经撤回其针对乔治·拉塞尔摩纳哥大奖赛罚时的复审申请。\n\n拉塞尔是多位因维修区超速而被处以罚时的车手之一，后来人们发现，摩纳哥维修区入口的计时系统存在错误，导致出现了错误触发的信号。\n\n因此，在随后未能正确执行处罚后，拉塞尔失去了争夺领奖台的机会，迈凯伦车手奥斯卡·皮亚斯特里也因此受损。与此同时，阿尔派车手皮埃尔·加斯利直到赛后才执行自己的两次罚时，这也让他失去了原本继承到手的领奖台席位。",
+    "nodes": [
+      {
+        "name": "img",
+        "attrs": {
+          "src": "https://cdn-9.motorsport.com/images/amp/25d3xqn0/s6/george-russell-mercedes-amg-w1.webp",
+          "mode": "widthFix",
+          "style": "width:100%;display:block;",
+          "alt": "乔治·拉塞尔，梅赛德斯"
+        }
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "国际汽联宣布，梅赛德斯 F1 车队已经撤回其针对乔治·拉塞尔摩纳哥大奖赛罚时的复审申请。"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "拉塞尔是多位因维修区超速而被处以罚时的车手之一，后来人们发现，摩纳哥维修区入口的计时系统存在错误，导致出现了错误触发的信号。"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "因此，在随后未能正确执行处罚后，拉塞尔失去了争夺领奖台的机会，迈凯伦车手奥斯卡·皮亚斯特里也因此受损。与此同时，阿尔派车手皮埃尔·加斯利直到赛后才执行自己的两次罚时，这也让他失去了原本继承到手的领奖台席位。"
+          }
+        ]
+      }
+    ]
+  }
+}
