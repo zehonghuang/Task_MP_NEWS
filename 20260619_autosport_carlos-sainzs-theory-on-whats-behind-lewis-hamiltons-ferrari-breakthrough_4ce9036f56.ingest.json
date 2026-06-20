@@ -1,0 +1,61 @@
+{
+  "id": "n_autosport_20260619_4ce9036f56",
+  "layout_code": "FEATURE",
+  "type_code": "DRIVER",
+  "tag_text": "Ferrari / 分析",
+  "tags": [
+    "ferrari",
+    "feature",
+    "regulation"
+  ],
+  "title": "卡洛斯·塞恩斯对刘易斯·汉密尔顿法拉利突破的解释",
+  "summary": "围绕汉密尔顿在法拉利的状态回升，文章提出疑问：这究竟来自他推动的改变，还是新规下新车更契合他的驾驶风格。",
+  "cover_url": "https://cdn-4.motorsport.com/images/amp/0Ld5bON0/s6/lewis-hamilton-ferrari.webp",
+  "published_at": "2026-06-19T11:16:16Z",
+  "source": {
+    "name": "Autosport",
+    "url": "https://www.motorsport.com/f1/news/carlos-sainzs-theory-on-whats-behind-lewis-hamiltons-ferrari-breakthrough/10831459/"
+  },
+  "content": {
+    "format_code": "RICH_TEXT_NODES",
+    "text": "刘易斯·汉密尔顿在巴塞罗那为法拉利拿下了自己的首场胜利——那是在他加盟车队一年半之后——如今他在F1车手积分榜上排名第二。\n\n在巴塞罗那取胜之前，汉密尔顿本赛季已经三次登上领奖台，因此他再次成为头条人物。\n\n这位41岁的车手已多次谈到自己去年推动法拉利做出的改变，以及这些努力如今如何开始见到成效。但事情会不会其实像表面看起来那样简单：在最新规则下法拉利打造的新车，只是更适合他的驾驶风格而已？",
+    "nodes": [
+      {
+        "name": "img",
+        "attrs": {
+          "src": "https://cdn-4.motorsport.com/images/amp/0Ld5bON0/s6/lewis-hamilton-ferrari.webp",
+          "mode": "widthFix",
+          "style": "width:100%;display:block;",
+          "alt": "刘易斯·汉密尔顿驾驶法拉利"
+        }
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "刘易斯·汉密尔顿在巴塞罗那为法拉利拿下了自己的首场胜利——那是在他加盟车队一年半之后——如今他在F1车手积分榜上排名第二。"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "在巴塞罗那取胜之前，汉密尔顿本赛季已经三次登上领奖台，因此他再次成为头条人物。"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "这位41岁的车手已多次谈到自己去年推动法拉利做出的改变，以及这些努力如今如何开始见到成效。但事情会不会其实像表面看起来那样简单：在最新规则下法拉利打造的新车，只是更适合他的驾驶风格而已？"
+          }
+        ]
+      }
+    ]
+  }
+}
