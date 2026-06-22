@@ -54,6 +54,22 @@
             "text": "到目前为止，哈贾尔的表现令人鼓舞。虽然维斯塔潘对自己此前历任队友的优势毫无争议，但这位法国年轻车手已经两次在排位赛中击败车队领军人物，另外还有四次单圈差距缩小到 0.12 秒以内。"
           }
         ]
+      },
+      {
+        "name": "img",
+        "attrs": {
+          "src": "https://cdn.motorsport.com/images/amp/YE9wg7KY/s1000/lewis-hamilton-ferrari-george-.jpg",
+          "mode": "widthFix",
+          "style": "width:100%;display:block;"
+        }
+      },
+      {
+        "name": "img",
+        "attrs": {
+          "src": "https://cdn.motorsport.com/images/amp/01Qd1Vv0/s1000/red-bull-racing-rb22.jpg",
+          "mode": "widthFix",
+          "style": "width:100%;display:block;"
+        }
       }
     ]
   }

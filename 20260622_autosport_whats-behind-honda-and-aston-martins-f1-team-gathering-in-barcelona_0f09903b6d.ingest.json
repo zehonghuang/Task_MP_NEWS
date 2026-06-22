@@ -178,6 +178,15 @@
         ]
       },
       {
+        "name": "img",
+        "attrs": {
+          "src": "https://cdn.motorsport.com/images/amp/Yv87PXL0/s1000/adrian-newey-chief-technical-o.jpg",
+          "mode": "widthFix",
+          "style": "width:100%;display:block;",
+          "alt": "尽管在这些方面已经取得进展，但这家位于佐仓的制造商在绝对性能上仍然存在明显缺口，尤其是在内燃机一侧。"
+        }
+      },
+      {
         "name": "p",
         "children": [
           {

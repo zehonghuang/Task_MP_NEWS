@@ -12,3 +12,6 @@
 伊萨克·哈贾尔在与四届 F1 世界冠军马克斯·维斯塔潘一同加盟红牛后，回顾了自己与这位队友之间的关系。
 哈贾尔在 F1 处子赛季中令人信服的表现，让他得以升入这支总部位于米尔顿凯恩斯的车队。此前，多位车手都一次次难以接近维斯塔潘的水准，其中就包括 2025 年的利亚姆·劳森和角田裕毅。
 到目前为止，哈贾尔的表现令人鼓舞。虽然维斯塔潘对自己此前历任队友的优势毫无争议，但这位法国年轻车手已经两次在排位赛中击败车队领军人物，另外还有四次单圈差距缩小到 0.12 秒以内。
+![](https://cdn.motorsport.com/images/amp/YE9wg7KY/s1000/lewis-hamilton-ferrari-george-.jpg)
+![](https://cdn.motorsport.com/images/mgl/2eZgz8bY/s1000/max-verstappen-red-bull-racing.jpg)
+![](https://cdn.motorsport.com/images/amp/01Qd1Vv0/s1000/red-bull-racing-rb22.jpg)

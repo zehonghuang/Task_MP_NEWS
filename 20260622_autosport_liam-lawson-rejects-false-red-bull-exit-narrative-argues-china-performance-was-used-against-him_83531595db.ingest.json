@@ -99,6 +99,15 @@
         ]
       },
       {
+        "name": "img",
+        "attrs": {
+          "src": "https://cdn.motorsport.com/images/mgl/0RrXLgv0/s1000/max-verstappen-red-bull-racing.jpg",
+          "mode": "widthFix",
+          "style": "width:100%;display:block;",
+          "alt": "马克斯·维斯塔潘，红牛车队；利亚姆·劳森，红牛车队"
+        }
+      },
+      {
         "name": "p",
         "children": [
           {

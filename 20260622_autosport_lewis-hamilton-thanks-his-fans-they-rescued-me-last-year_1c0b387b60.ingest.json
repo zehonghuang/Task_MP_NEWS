@@ -117,6 +117,15 @@
         ]
       },
       {
+        "name": "img",
+        "attrs": {
+          "src": "https://cdn.motorsport.com/images/amp/0arKPa42/s1000/andrea-kimi-antonelli-mercedes-3.jpg",
+          "mode": "widthFix",
+          "style": "width:100%;display:block;",
+          "alt": "“而我是从一个相当低谷的地方重新回到这里的。所以我觉得，这一切真正说明的，就是永远不要放弃，永远不要怀疑自己，永远不要放"
+        }
+      },
+      {
         "name": "p",
         "children": [
           {
@@ -133,6 +142,15 @@
             "text": "冲击第八冠？"
           }
         ]
+      },
+      {
+        "name": "img",
+        "attrs": {
+          "src": "https://cdn.motorsport.com/images/mgl/YBVoDnJY/s1000/andrea-kimi-antonelli-mercedes.jpg",
+          "mode": "widthFix",
+          "style": "width:100%;display:block;",
+          "alt": "目前汉密尔顿在车手积分榜上排名第二，很多人都把他视为总冠军竞争者，其中包括他此前在梅赛德斯的老板托托·沃尔夫。接替这位英"
+        }
       },
       {
         "name": "p",

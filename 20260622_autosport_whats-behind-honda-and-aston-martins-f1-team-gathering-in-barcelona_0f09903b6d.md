@@ -40,5 +40,7 @@ ADUO 提供了一线生机，但并非速效解方。
 需要改进的事项仍然很多。正如车队大使佩德罗·德拉罗萨在摩纳哥所承认的那样，就目前而言，这条隧道尽头还看不到光。
 
 就本田的动力单元而言，赛季初阶段严重的振动问题掩盖了一切。在解决这些问题后，本田才得以逐步把重点转向可驾驶性，而这同样也是过去几个月困扰阿隆索和兰斯·斯特罗尔的问题。
+![](https://cdn.motorsport.com/images/amp/Yv87PXL0/s1000/adrian-newey-chief-technical-o.jpg)
+![](https://cdn.motorsport.com/images/amp/6DGq9WKY/s1000/fernando-alonso-aston-martin-r.jpg)
 
 尽管在这些方面已经取得进展，但这家位于佐仓的制造商在绝对性能上仍然存在明显缺口，尤其是在内燃机一侧。

@@ -84,6 +84,15 @@
         ]
       },
       {
+        "name": "img",
+        "attrs": {
+          "src": "https://cdn.motorsport.com/images/mgl/0ZqAJO56/s1000/fernando-alonso-aston-martin-r.jpg",
+          "mode": "widthFix",
+          "style": "width:100%;display:block;",
+          "alt": "费尔南多·阿隆索、阿斯顿·马丁车队、塞尔吉奥·佩雷兹、凯迪拉克车队"
+        }
+      },
+      {
         "name": "p",
         "children": [
           {
@@ -127,6 +136,15 @@
             "text": "在德拉罗萨看来，纽维成功的关键因素之一，是他能够把车手的反馈转化为赛车解决方案。而在这一点上，这位西班牙人认为，到现在为止仍然无人能与之匹敌。"
           }
         ]
+      },
+      {
+        "name": "img",
+        "attrs": {
+          "src": "https://cdn.motorsport.com/images/mgl/6gpAX8l0/s1000/fernando-alonso-aston-martin-a-1.jpg",
+          "mode": "widthFix",
+          "style": "width:100%;display:block;",
+          "alt": "“在我合作过的所有工程师里，他是那种比任何人都更愿意倾听车手的人。作为前车手，看到这一点真的很美妙，因为在今天这个数据几"
+        }
       },
       {
         "name": "p",
@@ -181,6 +199,24 @@
             "text": "“接着他说，‘在风洞里，我们不能超过 6 度，因为一旦超过 6 度，我们就没法把车转过来，也没法产生那样的偏航和转向。’然后他说，‘不过我有一些想法。’”"
           }
         ]
+      },
+      {
+        "name": "img",
+        "attrs": {
+          "src": "https://cdn.motorsport.com/images/amp/27NQw5K0/s1000/gettyimages-2273854852-5.jpg",
+          "mode": "widthFix",
+          "style": "width:100%;display:block;",
+          "alt": "“总之，他把这些记下来后就离开了。到了下一场比赛，他对前翼做出了一些改动，于是那辆车对转向输入的敏感度小了很多。这就是阿"
+        }
+      },
+      {
+        "name": "img",
+        "attrs": {
+          "src": "https://cdn.motorsport.com/images/amp/0rVxyb70/s1000/liam-lawson-racing-bulls-sergi.jpg",
+          "mode": "widthFix",
+          "style": "width:100%;display:block;",
+          "alt": "“总之，他把这些记下来后就离开了。到了下一场比赛，他对前翼做出了一些改动，于是那辆车对转向输入的敏感度小了很多。这就是阿"
+        }
       },
       {
         "name": "p",

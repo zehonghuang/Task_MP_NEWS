@@ -75,6 +75,15 @@
         ]
       },
       {
+        "name": "img",
+        "attrs": {
+          "src": "https://cdn.motorsport.com/images/mgl/YP7rqwX2/s1000/lewis-hamilton-practices-karti.jpg",
+          "mode": "widthFix",
+          "style": "width:100%;display:block;",
+          "alt": "8 岁时驾驶卡丁车的刘易斯·汉密尔顿"
+        }
+      },
+      {
         "name": "p",
         "children": [
           {
@@ -136,6 +145,24 @@
             "text": "“也许 70% 的模拟器训练，加上 30% 的真实卡丁车驾驶，会是正确方向。但问题是，年轻车手必须能以一个负担得起的价格去驾驶真正的赛车，而在今天，这极其困难。”"
           }
         ]
+      },
+      {
+        "name": "img",
+        "attrs": {
+          "src": "https://cdn.motorsport.com/images/amp/6n7Ap1o0/s1000/max-verstappen-red-bull-racing.jpg",
+          "mode": "widthFix",
+          "style": "width:100%;display:block;",
+          "alt": "针对成本螺旋式上升的问题，FIA 已经迈出了第一步，推出为期三年的全球卡丁车计划，目标是为年轻人才提供替代晋升路径，并降"
+        }
+      },
+      {
+        "name": "img",
+        "attrs": {
+          "src": "https://cdn.motorsport.com/images/amp/Yv87PXL0/s1000/adrian-newey-chief-technical-o.jpg",
+          "mode": "widthFix",
+          "style": "width:100%;display:block;",
+          "alt": "针对成本螺旋式上升的问题，FIA 已经迈出了第一步，推出为期三年的全球卡丁车计划，目标是为年轻人才提供替代晋升路径，并降"
+        }
       },
       {
         "name": "p",
