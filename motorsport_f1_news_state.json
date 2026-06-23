@@ -1,8 +1,10 @@
 {
   "source": "https://www.motorsport.com/f1/news/",
-  "fetched_at": "2026-06-23T00:23:49+08:00",
+  "fetched_at": "2026-06-23T10:59:23+08:00",
   "count": 10,
   "urls": [
+    "https://www.motorsport.com/f1/news/lewis-hamiltons-emotional-ferrari-win-captured-in-behind-the-scenes-video/10832551/",
+    "https://www.motorsport.com/f1/news/williams-f1-facing-delayed-fix-as-james-vowles-outlines-upgrade-plan/10832356/",
     "https://www.motorsport.com/f1/news/what-happens-next-as-appeal-against-pierre-gaslys-f1-monaco-decision-goes-to-court/10832473/",
     "https://www.motorsport.com/f1/news/lewis-hamilton-thanks-his-fans-they-rescued-me-last-year/10832405/",
     "https://www.motorsport.com/f1/news/liam-lawson-rejects-false-red-bull-exit-narrative-argues-china-performance-was-used-against-him/10832465/",
@@ -10,8 +12,6 @@
     "https://www.motorsport.com/f1/news/oliver-bearman-explains-why-haas-targets-have-boosted-his-f1-motivation/10831631/",
     "https://www.motorsport.com/f1/news/whats-behind-honda-and-aston-martins-f1-team-gathering-in-barcelona/10832438/",
     "https://www.motorsport.com/f1/news/james-vowles-explains-how-alex-albons-barcelona-gp-became-a-test-session/10832272/",
-    "https://www.motorsport.com/f1/news/lewis-hamilton-urges-more-action-to-tackle-ridiculous-cost-of-motorsport/10832393/",
-    "https://www.motorsport.com/f1/news/isack-hadjar-reveals-what-his-team-mate-relationship-with-max-verstappen-is-like/10832369/",
-    "https://www.motorsport.com/f1/news/the-adrian-newey-quality-that-keeps-aston-martin-believing/10831909/"
+    "https://www.motorsport.com/f1/news/lewis-hamilton-urges-more-action-to-tackle-ridiculous-cost-of-motorsport/10832393/"
   ]
 }
