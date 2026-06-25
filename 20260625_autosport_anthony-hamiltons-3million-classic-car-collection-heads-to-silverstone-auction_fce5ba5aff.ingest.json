@@ -1,0 +1,372 @@
+{
+  "id": "n_autosport_20260625_fce5ba5aff",
+  "layout_code": "STANDARD",
+  "type_code": "PADDOCK",
+  "pinned": false,
+  "weight": 0,
+  "tag_text": "Anthony Hamilton / 拍卖",
+  "tags": [
+    "anthony-hamilton",
+    "auction",
+    "silverstone",
+    "classic-cars",
+    "collection"
+  ],
+  "title": "安东尼·汉密尔顿价值 300 万英镑的经典车收藏将亮相银石拍卖",
+  "summary": "七届世界冠军刘易斯·汉密尔顿之父安东尼·汉密尔顿将于 7 月在银石拍卖其 27 辆私人经典车收藏，整批拍品估值超过 300 万英镑，其中包括捷豹 XJ220、XKSS 复刻版等多辆高价值英系名车。",
+  "cover_url": "https://cdn-5.motorsport.com/images/amp/YBeAMgn2/s6/anthony-hamilton.jpg",
+  "published_at": "2026-06-25T12:00:43+00:00",
+  "time_text": "",
+  "source": {
+    "name": "Autosport",
+    "url": "https://www.motorsport.com/f1/news/anthony-hamiltons-3million-classic-car-collection-heads-to-silverstone-auction/10833098/"
+  },
+  "content": {
+    "format_code": "RICH_TEXT_NODES",
+    "text": "七届 F1 世界冠军刘易斯·汉密尔顿的父亲兼前经纪人安东尼·汉密尔顿，即将拍卖他的 27 辆私人经典车收藏，估值超过 300 万英镑。\n\n这场拍卖将由 Iconic Auctioneers 操盘，于 7 月 25 日在银石举行，时间正值英国赛车手俱乐部经典周末活动期间；银石同时也是英国大奖赛的举办地。\n\n这 27 辆藏车中的大多数都是英国经典车型，其中包括一辆 Jaguar XJ220、一辆极其罕见的 Jaguar XKSS，以及两辆 C-type 复刻车——XKC001 和 XKC003。\n\n这份令人印象深刻的清单中还包括一辆 1960 年款 Mercedes-Benz 190 SL、一辆 2013 年款 Mercedes-Benz C63 AMG Edition 507，以及一辆 1989 年款 Mercedes-Benz 300SL——这辆车此前曾归重量级拳击手 Billy Walker 所有。\n\nIconic Auctioneers 的汽车专家莱昂内尔·阿博特表示：“安东尼·汉密尔顿收藏是一组策展水准极高的车辆组合，兼具深度、品质与个性。”\n\n“从 Jaguar XJ220 和 XKSS 复刻版，到 Triumph 原型车、Aston Martin，以及多辆 Mini Cooper S 车型，这组收藏体现出对最具魅力的英式汽车文化的鲜明热爱。能在银石、在汉密尔顿直道旁展示这些车辆，实在再合适不过。”\n\n安东尼·汉密尔顿\n\n摄影：Jerry Andre / Motorsport Images\n\n安东尼·汉密尔顿收藏中的全部 27 辆汽车如下：\n\n1994 Jaguar XJ220 —— 550,000 英镑\n\n2007 Jaguar XKSS 复刻版 —— 375,000 英镑\n\n2016 David Brown Automotive Speedback GT —— 240,000 英镑\n\n2016（1951）Jaguar C-type（XKC003 复刻版）—— 225,000 英镑\n\n2016（1951）Jaguar C-type（XKC001 复刻版）—— 225,000 英镑\n\n1960 Mercedes-Benz 190 SL —— 120,000 英镑\n\n1974 Aston Martin V8 Series 3 Auto —— 100,000 英镑\n\n1982 Aston Martin Lagonda Series 2 —— 100,000 英镑\n\n1967 Jaguar E-type Series I 4.2-Litre Roadster —— 100,000 英镑\n\n1967 Jaguar E-type Series I 4.2-Litre Roadster —— 100,000 英镑\n\n1960 Triumph Italia 2000 Coupé —— 100,000 英镑\n\n1968 Triumph TR5（#X755 原型车）—— 90,000 英镑\n\n1997 David Brown Mini Remastered #29 —— 80,000 英镑\n\n约 1997 年 David Brown Mini Remastered —— 80,000 英镑\n\n1955 Swallow Doretti —— 65,000 英镑\n\n1998 Aston Martin V8 Coupé —— 65,000 英镑\n\n1973 Jaguar E-type Series 3 V12 Coupé（手动挡）—— 60,000 英镑\n\n1989 Mercedes-Benz 300SL（R107）—— 50,000 英镑\n\n1985 BMW Alpina B10 3.5（E28）—— 50,000 英镑\n\n1964 Austin Mini Cooper 1071 S —— 38,000 英镑\n\n2013 Mercedes-Benz C63 AMG Edition 507（W204）—— 38,000 英镑\n\n1964 Austin Mini Cooper 970 S —— 38,000 英镑\n\n1968 Morris Mini Cooper S Mk I 1,275cc —— 35,000 英镑\n\n1960 Austin-Healey Sprite Supercharged —— 30,000 英镑\n\n1966 Mini Moke —— 30,000 英镑\n\n1963 Triumph Spitfire 4（Mk 1）—— 24,000 英镑\n\n1964 Triumph Spitfire 4（Mk1）—— 22,000 英镑",
+    "nodes": [
+      {
+        "name": "img",
+        "attrs": {
+          "src": "https://cdn-5.motorsport.com/images/amp/YBeAMgn2/s6/anthony-hamilton.jpg",
+          "mode": "widthFix",
+          "style": "width:100%;display:block;",
+          "alt": "安东尼·汉密尔顿"
+        }
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "七届 F1 世界冠军刘易斯·汉密尔顿的父亲兼前经纪人安东尼·汉密尔顿，即将拍卖他的 27 辆私人经典车收藏，估值超过 300 万英镑。"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "这场拍卖将由 Iconic Auctioneers 操盘，于 7 月 25 日在银石举行，时间正值英国赛车手俱乐部经典周末活动期间；银石同时也是英国大奖赛的举办地。"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "这 27 辆藏车中的大多数都是英国经典车型，其中包括一辆 Jaguar XJ220、一辆极其罕见的 Jaguar XKSS，以及两辆 C-type 复刻车——XKC001 和 XKC003。"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "这份令人印象深刻的清单中还包括一辆 1960 年款 Mercedes-Benz 190 SL、一辆 2013 年款 Mercedes-Benz C63 AMG Edition 507，以及一辆 1989 年款 Mercedes-Benz 300SL——这辆车此前曾归重量级拳击手 Billy Walker 所有。"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "Iconic Auctioneers 的汽车专家莱昂内尔·阿博特表示：“安东尼·汉密尔顿收藏是一组策展水准极高的车辆组合，兼具深度、品质与个性。”"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "“从 Jaguar XJ220 和 XKSS 复刻版，到 Triumph 原型车、Aston Martin，以及多辆 Mini Cooper S 车型，这组收藏体现出对最具魅力的英式汽车文化的鲜明热爱。能在银石、在汉密尔顿直道旁展示这些车辆，实在再合适不过。”"
+          }
+        ]
+      },
+      {
+        "name": "img",
+        "attrs": {
+          "src": "https://cdn.motorsport.com/images/mgl/2GzANG10/s8/anthony-hamilton-1.jpg",
+          "mode": "widthFix",
+          "style": "width:100%;display:block;",
+          "alt": "安东尼·汉密尔顿"
+        }
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "安东尼·汉密尔顿"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "摄影：Jerry Andre / Motorsport Images"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "安东尼·汉密尔顿收藏中的全部 27 辆汽车如下："
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "1994 Jaguar XJ220 —— 550,000 英镑"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "2007 Jaguar XKSS 复刻版 —— 375,000 英镑"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "2016 David Brown Automotive Speedback GT —— 240,000 英镑"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "2016（1951）Jaguar C-type（XKC003 复刻版）—— 225,000 英镑"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "2016（1951）Jaguar C-type（XKC001 复刻版）—— 225,000 英镑"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "1960 Mercedes-Benz 190 SL —— 120,000 英镑"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "1974 Aston Martin V8 Series 3 Auto —— 100,000 英镑"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "1982 Aston Martin Lagonda Series 2 —— 100,000 英镑"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "1967 Jaguar E-type Series I 4.2-Litre Roadster —— 100,000 英镑"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "1967 Jaguar E-type Series I 4.2-Litre Roadster —— 100,000 英镑"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "1960 Triumph Italia 2000 Coupé —— 100,000 英镑"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "1968 Triumph TR5（#X755 原型车）—— 90,000 英镑"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "1997 David Brown Mini Remastered #29 —— 80,000 英镑"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "约 1997 年 David Brown Mini Remastered —— 80,000 英镑"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "1955 Swallow Doretti —— 65,000 英镑"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "1998 Aston Martin V8 Coupé —— 65,000 英镑"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "1973 Jaguar E-type Series 3 V12 Coupé（手动挡）—— 60,000 英镑"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "1989 Mercedes-Benz 300SL（R107）—— 50,000 英镑"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "1985 BMW Alpina B10 3.5（E28）—— 50,000 英镑"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "1964 Austin Mini Cooper 1071 S —— 38,000 英镑"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "2013 Mercedes-Benz C63 AMG Edition 507（W204）—— 38,000 英镑"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "1964 Austin Mini Cooper 970 S —— 38,000 英镑"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "1968 Morris Mini Cooper S Mk I 1,275cc —— 35,000 英镑"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "1960 Austin-Healey Sprite Supercharged —— 30,000 英镑"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "1966 Mini Moke —— 30,000 英镑"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "1963 Triumph Spitfire 4（Mk 1）—— 24,000 英镑"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "1964 Triumph Spitfire 4（Mk1）—— 22,000 英镑"
+          }
+        ]
+      }
+    ]
+  }
+}
