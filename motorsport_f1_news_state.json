@@ -1,8 +1,9 @@
 {
   "source": "https://www.motorsport.com/f1/news/",
-  "fetched_at": "2026-06-25T22:54:52+08:00",
+  "fetched_at": "2026-06-25T23:11:08+08:00",
   "count": 10,
   "urls": [
+    "https://www.motorsport.com/f1/news/fia-abolishes-presidential-term-limits-at-macau-meetings/10833205/",
     "https://www.motorsport.com/f1/news/pierre-gasly-finally-receives-monaco-gp-trophy-after-alpine-penalty-appeal/10833167/",
     "https://www.motorsport.com/f1/news/george-russell-ferrari-and-lewis-hamilton-a-huge-threat-to-f1-2026-title-bid/10833179/",
     "https://www.motorsport.com/f1/news/no-real-strengths-mclaren-f1-car-waiting-for-updates-opportunities-oscar-piastri/10833184/",
@@ -11,7 +12,6 @@
     "https://www.motorsport.com/f1/news/anthony-hamiltons-3million-classic-car-collection-heads-to-silverstone-auction/10833098/",
     "https://www.motorsport.com/f1/news/why-honda-will-just-use-one-of-its-two-upgrade-opportunities-in-f1-2026/10833092/",
     "https://www.motorsport.com/f1/news/neymar-jr-shares-lewis-hamilton-inspired-message-after-emotional-world-cup-comeback-/10833079/",
-    "https://www.motorsport.com/f1/news/why-audi-and-ferrari-can-already-upgrade-their-f1-engines-despite-aduo-delay/10833069/",
-    "https://www.motorsport.com/f1/news/fia-declares-heat-hazard-for-f1-austrian-grand-prix/10833036/"
+    "https://www.motorsport.com/f1/news/why-audi-and-ferrari-can-already-upgrade-their-f1-engines-despite-aduo-delay/10833069/"
   ]
 }
