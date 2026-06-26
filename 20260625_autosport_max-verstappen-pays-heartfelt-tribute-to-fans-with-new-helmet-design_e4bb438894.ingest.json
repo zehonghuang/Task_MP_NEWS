@@ -1,0 +1,85 @@
+{
+  "id": "n_autosport_20260625_e4bb438894",
+  "layout_code": "STANDARD",
+  "type_code": "DRIVER",
+  "pinned": false,
+  "weight": 0,
+  "tag_text": "Verstappen / 头盔",
+  "tags": [
+    "verstappen",
+    "3",
+    "helmet",
+    "fans",
+    "austria",
+    "red-bull"
+  ],
+  "title": "维斯塔潘以全新头盔向车迷致意",
+  "summary": "维斯塔潘发布了将在奥地利、比利时和匈牙利三站使用的“Orange Lion”特别版头盔，借此向一路支持自己的车迷表达感谢。这款设计延续了他与“橙色军团”之间的强烈联系。",
+  "cover_url": "https://www.total-motorsport.com/wp-content/uploads/2026/06/hat-Max-Verstappen-Austria-2026-Red-Bull-Ring.webp",
+  "published_at": "2026-06-25T12:01:00Z",
+  "time_text": "",
+  "source": {
+    "name": "Autosport",
+    "url": "https://www.motorsport.com/f1/news/max-verstappen-pays-heartfelt-tribute-to-fans-with-new-helmet-design/10833323/"
+  },
+  "content": {
+    "format_code": "RICH_TEXT_NODES",
+    "text": "马克斯·维斯塔潘公布了一款醒目的全新头盔设计，并将在接下来的三场大奖赛周末佩戴它，以此向长期支持自己的车迷致意。\n\n这位四届 F1 世界冠军将在本周末的奥地利大奖赛首次启用名为“Orange Lion（橙色雄狮）”的新设计。随后，他还会在比利时站和匈牙利站继续使用这款头盔。\n\n在赛前展望中，维斯塔潘说道：“我们会带来一套新套件，所以很期待看看它能在单圈时间上带来多大帮助。我也会在奥地利、比利时和匈牙利佩戴我的‘橙色雄狮’头盔，向整个职业生涯里一直支持我的车迷致敬。”\n\n橙色一直是维斯塔潘最鲜明的个人标识之一。它既呼应了他的荷兰背景，也象征着一路追随他的“橙色军团”。在施皮尔贝格，这种联系尤为明显，大批荷兰车迷常常把红牛环周围的看台与山坡染成一片橙色。\n\n可访问回退源披露，这款特别版头盔采用大胆的橙色主调，并配有橙色调面罩、内衬细节以及代表他四个世界冠军头衔的四颗星，进一步强化了这次向车迷致敬的主题。",
+    "nodes": [
+      {
+        "name": "img",
+        "attrs": {
+          "src": "https://www.total-motorsport.com/wp-content/uploads/2026/06/hat-Max-Verstappen-Austria-2026-Red-Bull-Ring.webp",
+          "mode": "widthFix",
+          "style": "width:100%;display:block;",
+          "alt": "马克斯·维斯塔潘的 Orange Lion 头盔"
+        }
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "马克斯·维斯塔潘公布了一款醒目的全新头盔设计，并将在接下来的三场大奖赛周末佩戴它，以此向长期支持自己的车迷致意。"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "这位四届 F1 世界冠军将在本周末的奥地利大奖赛首次启用名为“Orange Lion（橙色雄狮）”的新设计。随后，他还会在比利时站和匈牙利站继续使用这款头盔。"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "在赛前展望中，维斯塔潘说道：“我们会带来一套新套件，所以很期待看看它能在单圈时间上带来多大帮助。我也会在奥地利、比利时和匈牙利佩戴我的‘橙色雄狮’头盔，向整个职业生涯里一直支持我的车迷致敬。”"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "橙色一直是维斯塔潘最鲜明的个人标识之一。它既呼应了他的荷兰背景，也象征着一路追随他的“橙色军团”。在施皮尔贝格，这种联系尤为明显，大批荷兰车迷常常把红牛环周围的看台与山坡染成一片橙色。"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "可访问回退源披露，这款特别版头盔采用大胆的橙色主调，并配有橙色调面罩、内衬细节以及代表他四个世界冠军头衔的四颗星，进一步强化了这次向车迷致敬的主题。"
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,24 @@
+# 伊萨克·哈贾尔与红牛 2026 年糟糕起步背后的惊人统计
+
+- id: `n_autosport_20260626_7697c09836`
+- source.name: `Autosport`
+- source.url: https://www.motorsport.com/f1/news/the-staggering-statistic-behind-isack-hadjars-and-red-bulls-poor-f1-2026-starts/10833419/
+- published_at: `2026-06-26T00:00:00+08:00`
+- published_at_note: 原站 403，按任务兜底时间写入；内容以 PlanetF1 可访问同题报道与 Motorsport 摘要交叉整理。
+- article.image: https://cdn.images.express.co.uk/img/dynamic/73/750x445/5876980.jpg
+- original_title: The staggering statistic behind Isack Hadjar's and Red Bull's poor F1 2026 starts
+- mirror_url: https://www.planetf1.com/news/isack-hadjar-red-bull-starts-not-working
+
+## 中文全文翻译
+
+![](https://cdn.images.express.co.uk/img/dynamic/73/750x445/5876980.jpg)
+
+红牛 2026 赛季开局低迷，其中最直观、也最反复出现的问题之一，就是起步阶段不断丢位置。围场里已经把这件事视作奥地利大奖赛周末必须优先解决的课题，而伊萨克·哈贾尔本人给出的数据，更凸显了问题的严重程度。
+
+据统计，在赛季前七场大奖赛中，哈贾尔在首圈总共丢掉了 21 个位置；马克斯·维斯塔潘同期也丢了 10 个。这样的数字意味着，红牛往往还没进入比赛节奏，就已经在发车和第一圈阶段把本就有限的竞争力进一步耗掉。
+
+哈贾尔本人也承认，起步流程至今都不稳定。他说：“发车位上我想要找点别的办法。加拿大冲刺赛的起步是好的，摩纳哥第一圈也不错，但除此之外，它并不真正奏效。”
+
+红牛领队洛朗·梅基斯的解释是，问题并不在于动力单元完全没有潜力，而在于这是车队第一套自研动力单元，离合器、扭矩释放与起步流程之间可用的工作窗口太窄，导致每次都很难稳定复现最佳状态。
+
+梅基斯表示，红牛很清楚自己的潜力并没有被完全释放出来，但目前仍受制于一些限制，无法把这套系统在起步阶段稳定地发挥出来。也正因为如此，哈贾尔和维斯塔潘在 2026 年屡次遭遇的糟糕发车，已经成为这支车队必须尽快修补的关键短板。

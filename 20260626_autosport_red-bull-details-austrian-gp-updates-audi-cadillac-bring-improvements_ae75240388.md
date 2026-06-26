@@ -1,0 +1,23 @@
+# 红牛详解奥地利站升级，奥迪与凯迪拉克也带来改进
+
+- id: `n_autosport_20260626_ae75240388`
+- source.name: `Autosport`
+- source.url: https://www.motorsport.com/f1/news/red-bull-details-austrian-gp-updates-audi-cadillac-bring-improvements/10833448/
+- published_at: `2026-06-26T13:06:31Z`
+- published_at_note: 原站 403，published_at 采用可访问回退源 Formula1.com 的明确发布时间。
+- article.image: https://media.formula1.com/image/upload/t_16by9South/f_auto/q_auto/v1782475289/fom-website/2026/Austria/GettyImages-2283410240.jpg
+- original_title: Red Bull details Austrian GP updates; Audi, Cadillac bring improvements
+- fallback_source: https://www.formula1.com/en/latest/article/all-the-details-on-red-bulls-significant-upgrade-package-and-every-other-teams-updates-in-austria.HWTF5D6l7LfVlTD9PX59K
+
+## 中文全文翻译
+
+红牛为奥地利大奖赛登记了一整套升级，希望借此重新追赶目前处在前方的三支顶级车队，并对车身与地板多处区域进行了调整。
+由于当前这台 RB22 仍存在一些可驾驶性方面的问题，红牛此次首先重新修整了侧箱入口，使其与赛车前段此前已经实施的改动更好匹配，同时略微调整了位置，以确保流向散热器的空气质量流量维持在最佳水平。
+为了配合这一点，车队还制作了新的引擎盖/侧箱车身外壳，并让其与新版地板协同工作；考虑到奥地利周末预期会出现的高温，冷却百叶窗也进行了若干小幅修改。
+除此之外，赛车还有几处相对细小的变化，包括新的引擎盖鳍片、头顶进气口下方支撑腿的修订版本，以及新的后视镜支架。
+赛车尾部同样得到了进一步开发，新的尾翼支柱旨在降低其与尾翼下表面连接区域的敏感性，从而改善该区域的工作窗口。
+除红牛之外，围场里其他车队也有动作。小红牛修改了扩散器，而它与梅赛德斯都因为 FIA 最新技术指令开始禁止锯齿状扩散器延伸件，不得不对原有方案作出调整；阿尔派则带来了新的前翼。
+奥迪同样在奥地利推出了一套相当有分量的更新，希望藉此提升竞争力。其变更项目包括前翼端板、地板、后悬挂、梁翼和尾翼，同时前角与后角区域也有所改动，以改善这些位置的气流条件。
+其中，奥迪对地板前段区域做了细部调整，涉及底盘前隔板下方的 bib 区域，以及前轮后方的外侧地板边缘。车队在赛前技术说明中表示，这应当有助于提升局部载荷，并改善流向侧箱及更后方区域的下游气流条件。
+凯迪拉克则相信自己的更新能够为 MAC-26 带来几十分之一秒级别的收益。新套件包括带有全新入口与外形的侧箱，进一步增加下切空间，同时还对扩散器表面和地板前缘进行了修改。
+按照车队赛前技术说明，这些改动将有助于提升局部载荷，并改善流向侧箱及其后方区域的气流条件；与此同时，凯迪拉克还调整了引擎盖、冷却百叶窗以及若干与流场管理相关的部件，继续寻找更稳定的空气动力学平台。

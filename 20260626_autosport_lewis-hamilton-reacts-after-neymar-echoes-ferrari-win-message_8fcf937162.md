@@ -1,0 +1,26 @@
+# 内马尔复述法拉利夺冠寄语后，汉密尔顿作出回应
+
+- id: `n_autosport_20260626_8fcf937162`
+- source.name: `Autosport`
+- source.url: https://www.motorsport.com/f1/news/lewis-hamilton-reacts-after-neymar-echoes-ferrari-win-message/10833541/
+- published_at: `2026-06-26T00:00:00+08:00`
+- published_at_note: 原站 403，按任务兜底时间写入；内容以 ESPN 可访问同题稿为主进行全文翻译。
+- article.image: https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0625%2Fr1679257_1296x729_16%2D9.jpg
+- original_title: Lewis Hamilton reacts after Neymar echoes Ferrari win message
+- mirror_url: https://www.espn.com/f1/story/_/id/49173865/austrian-grand-prix-formula-1-lewis-hamilton-praises-neymar-sharing-positivity-inspiring-world-cup-post
+
+## 中文全文翻译
+
+![](https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0625%2Fr1679257_1296x729_16%2D9.jpg)
+
+在奥地利大奖赛前的媒体日上，刘易斯·汉密尔顿谈到了内马尔在世界杯伤愈复出后再次写下“Remember who you are（记住你是谁）”这句话一事。这正是汉密尔顿一周前在巴塞罗那为法拉利赢得个人首胜后，面对镜头留下的那句寄语。
+
+内马尔是在巴西 3 比 0 击败苏格兰、锁定淘汰赛席位之后发出那条动态的。汉密尔顿随后在自己的 Instagram story 上转发，并配上“Always（一直如此）”作为回应。两位跨界巨星之间的互动，也让这句短短的话再次发酵。
+
+汉密尔顿说：“看到他发那条内容真的很酷。我一直都很欣赏他。他拥有一个很大的平台，也有属于他自己的故事。”
+
+这位七届世界冠军继续表示：“当他刚进入大众视野时，我就开始关注他了。显然，作为有色人种，在我们所处的这些运动和这些平台里，这样的人还是太少了。所以我很喜欢他会主动去使用自己的影响力。”
+
+汉密尔顿还说，自己并不是最狂热的足球迷，但一直都很欣赏内马尔，也希望对方知道他的努力与表达并没有被忽略。“我知道有时候外界环境会很艰难，所以我只是想让他知道，他所做的一切并没有被人忽视。”
+
+对汉密尔顿而言，这次互动不仅是一次社交媒体上的呼应，也是一种跨项目、跨文化的惺惺相惜：一句原本属于法拉利首胜时刻的话，如今又被世界杯赛场上的内马尔重新说出，并得到他的正面回应。
