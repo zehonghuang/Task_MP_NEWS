@@ -1,0 +1,216 @@
+{
+  "id": "n_autosport_20260626_637a7ec03c",
+  "layout_code": "STANDARD",
+  "type_code": "TECH",
+  "tag_text": "Cadillac / 升级",
+  "tags": [
+    "cadillac",
+    "upgrade",
+    "electrical",
+    "floor",
+    "power_unit"
+  ],
+  "title": "凯迪拉克迄今最大 F1 升级包遭遇周五乱局打击",
+  "summary": "凯迪拉克在奥地利站带来 10 项升级，但佩雷兹的电气故障和博塔斯赛车地板前缘起火，严重限制了评估进度。技术总监切斯特解释了故障原因，并表示新套件初看仍有提升。",
+  "cover_url": "https://cdn-7.motorsport.com/images/amp/6lmdXJN0/s1000/sergio-perez-cadillac-racing.webp",
+  "published_at": "2026-06-26T19:05:56Z",
+  "source": {
+    "name": "Autosport",
+    "url": "https://www.motorsport.com/f1/news/cadillacs-biggest-f1-upgrade-yet-was-hit-by-friday-chaos/10833741/"
+  },
+  "content": {
+    "format_code": "RICH_TEXT_NODES",
+    "text": "瓦尔特里·博塔斯（凯迪拉克 F1 车队）\n\n摄影：Pauline Ballet / Formula 1 via Getty Images\n\n2026 年奥地利大奖赛的周五，对凯迪拉克而言是问题重重的一天。这支美国车队带着对 MAC-26 上 10 项升级包的高期待来到斯皮尔伯格，但这些部件的评估最终没能顺利完成。\n\n尽管外界对这套全场幅度最大的升级包寄予厚望，塞尔吉奥·佩雷兹和瓦尔特里·博塔斯仍双双在红牛环遭遇挫折。为说明情况，凯迪拉克技术总监尼克·切斯特详细解释了困扰两位车手首日赛道运行的问题。\n\n佩雷兹的 11 号赛车在一练触发红旗，在二练又引发虚拟安全车，即便技师已经为他整套更换了电子控制单元（ECU）。\n\n瓦尔特里·博塔斯（凯迪拉克车队）\n\n摄影：Sam Bloxham / LAT Images via Getty Images\n\n就此，切斯特解释道：\n\n“是的，情况很棘手。这是一个电气问题，会导致赛车动力中断。我们正在处理，所以已经更换了一些部件。现在我们还在继续检查更多部件，好让我们能为 FP3 做好准备。”\n\n问题并不只发生在佩雷兹一侧的车库。博塔斯在一练中本来完成了对这些部件的正常评估，但在二练早段，他赛车地板前缘发生了起火。切斯特指出，事故根源是装配问题：\n\n“瓦尔特里的那辆车，地板前中段在装配上出了问题，所以赛车下沉得太多了。”他表示，这正是导致小范围起火的原因。\n\n最后，当被问及为何没有在这个周末、尤其是在高温条件下引入备受期待的法拉利动力单元升级时，切斯特解释说，大规模空力升级已经占用了工厂全部资源：\n\n“部分原因就是我们这次带来的升级。为了让两辆车都用上这套升级，工作量实在太大了。如果再同时推进动力单元更换，就会超出承受范围。至于引擎何时会引入，现在还不能确定。可能是银石，也可能是斯帕。”\n\n凯迪拉克技术细节\n\n摄影：Getty Images\n\n凯迪拉克这 10 项升级的目标是什么？\n\n车队这次引入的进化方案集中于车身外形、地板、扩散器和尾翼，目标是减轻轮胎衰减。虽然机械故障极大限制了“Checo”佩雷兹的里程，并迫使凯迪拉克本周末只能搭配更新后的燃油规格运行，但博塔斯在一练中呈现出的初步迹象仍带来了乐观情绪。\n\n切斯特说：“现在显然还太早。我们只有一节 FP1，而且圈数并不多。是的，从我们目前看到的情况来看，它像是向前迈出了一小步。但还是要看明天的 FP3 和排位赛之后，我们究竟处在什么位置。”",
+    "nodes": [
+      {
+        "name": "img",
+        "attrs": {
+          "src": "https://cdn-7.motorsport.com/images/amp/6lmdXJN0/s1000/sergio-perez-cadillac-racing.webp",
+          "mode": "widthFix",
+          "style": "width:100%;display:block;",
+          "alt": "瓦尔特里·博塔斯（凯迪拉克 F1 车队）"
+        }
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "瓦尔特里·博塔斯（凯迪拉克 F1 车队）"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "摄影：Pauline Ballet / Formula 1 via Getty Images"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "2026 年奥地利大奖赛的周五，对凯迪拉克而言是问题重重的一天。这支美国车队带着对 MAC-26 上 10 项升级包的高期待来到斯皮尔伯格，但这些部件的评估最终没能顺利完成。"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "尽管外界对这套全场幅度最大的升级包寄予厚望，塞尔吉奥·佩雷兹和瓦尔特里·博塔斯仍双双在红牛环遭遇挫折。为说明情况，凯迪拉克技术总监尼克·切斯特详细解释了困扰两位车手首日赛道运行的问题。"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "佩雷兹的 11 号赛车在一练触发红旗，在二练又引发虚拟安全车，即便技师已经为他整套更换了电子控制单元（ECU）。"
+          }
+        ]
+      },
+      {
+        "name": "img",
+        "attrs": {
+          "src": "https://cdn.motorsport.com/images/mgl/YP7rwlG2/s1000/valtteri-bottas-cadillac-racin.jpg",
+          "mode": "widthFix",
+          "style": "width:100%;display:block;",
+          "alt": "瓦尔特里·博塔斯（凯迪拉克车队）"
+        }
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "瓦尔特里·博塔斯（凯迪拉克车队）"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "摄影：Sam Bloxham / LAT Images via Getty Images"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "就此，切斯特解释道："
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "“是的，情况很棘手。这是一个电气问题，会导致赛车动力中断。我们正在处理，所以已经更换了一些部件。现在我们还在继续检查更多部件，好让我们能为 FP3 做好准备。”"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "问题并不只发生在佩雷兹一侧的车库。博塔斯在一练中本来完成了对这些部件的正常评估，但在二练早段，他赛车地板前缘发生了起火。切斯特指出，事故根源是装配问题："
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "“瓦尔特里的那辆车，地板前中段在装配上出了问题，所以赛车下沉得太多了。”他表示，这正是导致小范围起火的原因。"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "最后，当被问及为何没有在这个周末、尤其是在高温条件下引入备受期待的法拉利动力单元升级时，切斯特解释说，大规模空力升级已经占用了工厂全部资源："
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "“部分原因就是我们这次带来的升级。为了让两辆车都用上这套升级，工作量实在太大了。如果再同时推进动力单元更换，就会超出承受范围。至于引擎何时会引入，现在还不能确定。可能是银石，也可能是斯帕。”"
+          }
+        ]
+      },
+      {
+        "name": "img",
+        "attrs": {
+          "src": "https://cdn.motorsport.com/images/mgl/YK13MRz0/s1000/cadillac-technical-detail.jpg",
+          "mode": "widthFix",
+          "style": "width:100%;display:block;",
+          "alt": "凯迪拉克技术细节"
+        }
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "凯迪拉克技术细节"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "摄影：Getty Images"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "凯迪拉克这 10 项升级的目标是什么？"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "车队这次引入的进化方案集中于车身外形、地板、扩散器和尾翼，目标是减轻轮胎衰减。虽然机械故障极大限制了“Checo”佩雷兹的里程，并迫使凯迪拉克本周末只能搭配更新后的燃油规格运行，但博塔斯在一练中呈现出的初步迹象仍带来了乐观情绪。"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "切斯特说：“现在显然还太早。我们只有一节 FP1，而且圈数并不多。是的，从我们目前看到的情况来看，它像是向前迈出了一小步。但还是要看明天的 FP3 和排位赛之后，我们究竟处在什么位置。”"
+          }
+        ]
+      }
+    ]
+  }
+}
