@@ -1,0 +1,38 @@
+# 拉塞尔解释沃尔夫“专心开”无线电的真正含义
+
+- id: `n_autosport_20260628_7e5858fe9f`
+- source.name: `Autosport`
+- source.url: https://www.motorsport.com/f1/news/george-russell-explains-toto-wolffs-just-drive-radio-message/10834126/
+- published_at: `2026-06-28T04:24:41.6Z`
+- article.image: https://www.tsn.ca/resizer/v2/UHTXNCVQKVBRVJNBH7Q44FC26I.jpg?smart=true&auth=63740e6cfb8a214e8328780fba5144eae24fabc4f5b1aa9f2ec805489d05dfed&width=1200&height=630
+- original_title: George Russell explains Toto Wolff's "just drive" radio message
+- original_subtitle: George Russell has revealed the mid-qualifying radio messages from Mercedes team principal Toto Wolff at the Austrian Grand Prix helped him to refocus ahead of his pole position lap on Saturday.
+- mirror_url: https://www.tsn.ca/motorsports/formula-1/article/russell-settles-just-drive-qualifying-radio-message-from-mercedes-boss-wolff-n1-49173938/
+
+## 中文全文翻译
+
+![](https://www.tsn.ca/resizer/v2/UHTXNCVQKVBRVJNBH7Q44FC26I.jpg?smart=true&auth=63740e6cfb8a214e8328780fba5144eae24fabc4f5b1aa9f2ec805489d05dfed&width=1200&height=630)
+
+乔治·拉塞尔透露，在奥地利大奖赛排位赛期间，梅赛德斯领队托托·沃尔夫通过无线电发来的几句提醒，帮助他在冲击杆位前重新找回了专注。
+
+这位梅赛德斯车手最终以领先法拉利车手夏尔·勒克莱尔 0.236 秒的优势拿下杆位。尽管在 9 号弯入口处遭遇黄旗，他仍通过收油损失部分时间后完成了这一圈。
+
+拉塞尔在 Q2 的第一圈出现失误，随后世界转播信号播出了沃尔夫对他说的一句无线电：“专心开。”
+
+拿到杆位之后，拉塞尔表示，实际传达给他的内容比转播里播出的那几秒更多，而这些话帮助他在最后的 Q3 中把表现完全释放出来。
+
+拉塞尔在新闻发布会上表示：“托托在 Q2 里对我说的是，‘享受它，享受这次驾驶。’到了 Q3 前，他又说了同样的话：‘出去，好好享受。’我也不断这样对自己说，‘别太用力，去享受它吧’，因为我们做的这件事其实真的很酷。”
+
+当被问到这些话有时听起来会不会更像命令而不是支持时，拉塞尔开玩笑说：“老实说，大概是因为奥地利口音吧。”
+
+随后他补充道：“不，我觉得那更像是知道你的老板百分之百信任你、相信你。这个赛季当事情进展不顺的时候，他总是第一个来鼓励我的人，提醒我，‘你没有忘记怎么开车，我知道你有怎样的速度。’”
+
+“我们每天都会交流，而这些简短的信息，会一下把我拉回到我们在两站比赛之间那些更私人层面的谈话里。所以也许对外界听众来说，在不了解语境的情况下，它只是几句话；但对我来说，它意义很大，会让我想起我们聊过的那些内容，也提醒我，没错，我能做到。”
+
+“我整个职业生涯都做到过。没有任何理由说明我今天就不能再做到一次。”
+
+目前，拉塞尔在车手积分榜上落后队友基米·安东内利 50 分。他表示，争冠局势带来的压力，确实偶尔会让自己出现“过度驾驶”的情况。
+
+他说：“这绝对是一个因素。但这真的很难，因为如果你处在下风，圈速慢了十分之一、两十分之一甚至三十分之一，你再对自己说‘我要稍微少用力一点’，这在思维上根本说不通。”
+
+“当事情不按你的方向发展时，你总会想做得更多、更多、更多。而当你坐在车里时，要告诉自己‘这个弯我要比上一圈提前五米刹车’，这根本不是我们大脑运作的方式。但有时候，恰恰那样反而更快。”

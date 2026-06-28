@@ -1,0 +1,201 @@
+{
+  "id": "n_autosport_20260627_690e80c2e8",
+  "layout_code": "STANDARD",
+  "type_code": "DRIVER",
+  "pinned": false,
+  "weight": 0,
+  "tag_text": "Verstappen / 排位事故",
+  "tags": [
+    "verstappen",
+    "3",
+    "crash",
+    "qualifying",
+    "redbull"
+  ],
+  "title": "维斯塔潘谈奥地利站排位“诡异”撞车：“我一打方向，车就没了”",
+  "summary": "维斯塔潘表示，自己在红牛环排位Q3最后一圈于9号弯的事故来得毫无征兆，更早在6号弯就已出现异常甩尾；他认为若不撞车本可争到第三，但也坦言红牛起步仍是短板，而奥地利升级效果还需等到银石再验证。",
+  "cover_url": "https://cdn-7.motorsport.com/images/amp/0JXwggOY/s1000/max-verstappen-red-bull-racing.webp",
+  "published_at": "2026-06-27T16:12:22Z",
+  "time_text": "",
+  "source": {
+    "name": "Autosport",
+    "url": "https://www.motorsport.com/f1/news/max-verstappen-explains-odd-austria-f1-qualifying-crash/10834072/"
+  },
+  "content": {
+    "format_code": "RICH_TEXT_NODES",
+    "text": "马克斯·维斯塔潘（红牛）撞车\n\n摄影：Clive Rose / Formula 1 via Getty Images\n\n红牛车手马克斯·维斯塔潘表示，他在F1奥地利大奖赛排位赛中的这次事故来得非常突然，赛车“瞬间就彻底失去了控制”，让他付出了高昂代价。\n\n在那一圈最后时刻，维斯塔潘为了跟上本质上更快的梅赛德斯赛车而全力一搏，看起来原本有机会在杆位得主乔治·拉塞尔之后争夺头排发车。然而，他在9号弯丢掉了红牛RB22的尾部，旋转后撞上护墙。\n\n维斯塔潘表示，这是他整个斯皮尔伯格周末第一次在9号弯遇到问题，不过更早在那一圈的6号弯，赛车就已经开始发飘。\n\n他说：“那一圈，其实在6号弯入弯时我就出现了一次非常奇怪的甩尾，因为那基本是第二高速的弯角。等我进入9号弯时，我一打方向，车就没了。”\n\n“感觉像是下压力少了一点，或者说有点转向过度。我甚至没有对赛车做任何改动。某些地方确实还有余量，所以你会想再多推一点点，但同时也不会傻到多推太多。可就在我打方向的那一刻，赛车的抓地力完全消失了。”\n\n马克斯·维斯塔潘（红牛）\n\n摄影：Peter Fox / Getty Images\n\n维斯塔潘认为，这次事故让他在发车位上损失了两个位置，但考虑到红牛众所周知的起步问题，他原本也预计自己在周日正赛里会往后掉。\n\n这位荷兰车手对天空体育表示：“我觉得现实点说，我们本来本可以拿到P3，比P5稍微好一点。但现实是，就算我们拿到P3，发车对我们来说也很困难，所以你大概率还是会掉回P5，不过目前情况就是这样。”\n\n红牛在母公司主场奥地利带来了大规模升级套件，看起来确实让车队向前迈出了一步。不过，维斯塔潘仍保留判断，认为要等到下周银石这类赛道获得更大的样本后再下结论。\n\n马克斯·维斯塔潘（红牛）\n\n摄影：Peter Fox / Getty Images\n\n他说：“我觉得还得再看看。这条赛道单圈很短，对吧？实际上很多人都挤得很近。我觉得这个升级包里，仍有一些发挥不错的部分，也可能有一些地方没那么理想，我们接下来就从这里继续研究。”\n\n队友伊萨克·哈贾尔在1号和3号弯频繁前轮抱死的情况下，最终排位第八，落后维斯塔潘0.15秒，落后杆位的拉塞尔0.5秒。",
+    "nodes": [
+      {
+        "name": "img",
+        "attrs": {
+          "src": "https://cdn-7.motorsport.com/images/amp/0JXwggOY/s1000/max-verstappen-red-bull-racing.webp",
+          "mode": "widthFix",
+          "style": "width:100%;display:block;",
+          "alt": "马克斯·维斯塔潘（红牛）撞车"
+        }
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "马克斯·维斯塔潘（红牛）撞车"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "摄影：Clive Rose / Formula 1 via Getty Images"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "红牛车手马克斯·维斯塔潘表示，他在F1奥地利大奖赛排位赛中的这次事故来得非常突然，赛车“瞬间就彻底失去了控制”，让他付出了高昂代价。"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "在那一圈最后时刻，维斯塔潘为了跟上本质上更快的梅赛德斯赛车而全力一搏，看起来原本有机会在杆位得主乔治·拉塞尔之后争夺头排发车。然而，他在9号弯丢掉了红牛RB22的尾部，旋转后撞上护墙。"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "维斯塔潘表示，这是他整个斯皮尔伯格周末第一次在9号弯遇到问题，不过更早在那一圈的6号弯，赛车就已经开始发飘。"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "他说：“那一圈，其实在6号弯入弯时我就出现了一次非常奇怪的甩尾，因为那基本是第二高速的弯角。等我进入9号弯时，我一打方向，车就没了。”"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "“感觉像是下压力少了一点，或者说有点转向过度。我甚至没有对赛车做任何改动。某些地方确实还有余量，所以你会想再多推一点点，但同时也不会傻到多推太多。可就在我打方向的那一刻，赛车的抓地力完全消失了。”"
+          }
+        ]
+      },
+      {
+        "name": "img",
+        "attrs": {
+          "src": "https://cdn.motorsport.com/images/mgl/6Al7j1DY/s1000/max-verstappen-red-bull-racing.jpg",
+          "mode": "widthFix",
+          "style": "width:100%;display:block;",
+          "alt": "马克斯·维斯塔潘（红牛）"
+        }
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "马克斯·维斯塔潘（红牛）"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "摄影：Peter Fox / Getty Images"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "维斯塔潘认为，这次事故让他在发车位上损失了两个位置，但考虑到红牛众所周知的起步问题，他原本也预计自己在周日正赛里会往后掉。"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "这位荷兰车手对天空体育表示：“我觉得现实点说，我们本来本可以拿到P3，比P5稍微好一点。但现实是，就算我们拿到P3，发车对我们来说也很困难，所以你大概率还是会掉回P5，不过目前情况就是这样。”"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "红牛在母公司主场奥地利带来了大规模升级套件，看起来确实让车队向前迈出了一步。不过，维斯塔潘仍保留判断，认为要等到下周银石这类赛道获得更大的样本后再下结论。"
+          }
+        ]
+      },
+      {
+        "name": "img",
+        "attrs": {
+          "src": "https://cdn.motorsport.com/images/mgl/0o5Pb3lY/s1000/max-verstappen-red-bull-racing.jpg",
+          "mode": "widthFix",
+          "style": "width:100%;display:block;",
+          "alt": "马克斯·维斯塔潘（红牛）"
+        }
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "马克斯·维斯塔潘（红牛）"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "摄影：Peter Fox / Getty Images"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "他说：“我觉得还得再看看。这条赛道单圈很短，对吧？实际上很多人都挤得很近。我觉得这个升级包里，仍有一些发挥不错的部分，也可能有一些地方没那么理想，我们接下来就从这里继续研究。”"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "队友伊萨克·哈贾尔在1号和3号弯频繁前轮抱死的情况下，最终排位第八，落后维斯塔潘0.15秒，落后杆位的拉塞尔0.5秒。"
+          }
+        ]
+      }
+    ]
+  }
+}

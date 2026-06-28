@@ -1,0 +1,122 @@
+{
+  "id": "n_autosport_20260627_c4deafde18",
+  "layout_code": "STANDARD",
+  "type_code": "PADDOCK",
+  "pinned": false,
+  "weight": 0,
+  "tag_text": "Mercedes / 阵容",
+  "tags": [
+    "mercedes",
+    "wolff",
+    "lineup",
+    "russell",
+    "63",
+    "antonelli",
+    "12"
+  ],
+  "title": "沃尔夫谈梅赛德斯车手阵容的言论引发 F1 车迷分歧",
+  "summary": "托托·沃尔夫在奥地利站排位赛前重申梅赛德斯无意调整拉塞尔与安东内利的组合，但这番话在社交媒体上引发了两极化反应：有人支持维持现状，也有人认为只要维斯塔潘可得，车队仍可能改变主意。",
+  "cover_url": "https://s.yimg.com/ny/api/res/1.2/TcZAIUerRKF1zxmcx_c8GA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTI0MDA7aD0xNjAwO2NmPXdlYnA-/https://media.zenfs.com/en/motorsport_articles_445/bd927eba3d5ffc0df8d55be8bd660347",
+  "published_at": "2026-06-27T22:12:54Z",
+  "time_text": "",
+  "source": {
+    "name": "Autosport",
+    "url": "https://www.motorsport.com/f1/news/toto-wolffs-mercedes-driver-line-up-comments-divide-f1-fans/10834252/"
+  },
+  "content": {
+    "format_code": "RICH_TEXT_NODES",
+    "text": "托托·沃尔夫试图给围绕 Formula 1 车手市场的种种传闻降温，并明确表示，梅赛德斯无意调整目前由乔治·拉塞尔和基米·安东内利组成的车手搭档。不过，这位梅赛德斯掌门人的言论还是让 F1 车迷出现了明显分歧。\n\n在奥地利站排位赛前接受 Sky Sports F1 采访时，沃尔夫明确表达了自己对现有车手阵容的支持。他说：“我们不想做出改变。我们也已经把这一点告诉了乔治。我认为，这套阵容对我们来说是合适的。我对他们两个人都非常满意。”\n\n沃尔夫的这番表态随后成为社交媒体上的讨论焦点。对相当一部分车迷来说，沃尔夫不愿涉足车手市场——而这个市场里甚至可能包括四届世界冠军马克斯·维斯塔潘——是完全合理的。\n\n一位车迷在 Reddit 上写道：“这很合理。对托托来说，最理想的情况就是基米占据主导，而乔治稳稳待着。他肯定不想再来一次 2016 年那样的局面，而让马克斯加入则是以极高成本重温那些年。” 另一位车迷则发帖说：“他现在拥有一位很好的头号车手和一位很好的二号车手，没必要去折腾改变。”\n\n还有人写道：“对啊，当然如此。他们两个人都非常优秀，而且已经为梅赛德斯效力很久了。我不希望基米离开，也不希望乔治离开。真希望大家能稍微冷静一点，别再无限放大这件事了。”\n\n但也有人认为，尽管沃尔夫目前淡化了这些传闻，但他并没有把更换车手的大门彻底关上。\n\n一位车迷评论道：“‘我们没有改变的计划’并不等于‘我们绝不会改变’。我相信他们现在并没有积极打算替换拉塞尔，但如果出现计划外的情况，他们还是会这么做。” 另一位则补充道：“‘我们不想改变现状，但如果有某位车手突然可以签下，我们还是会变。’”\n\n也有人表达了类似观点。另一位车迷评论说：“他们现在不想改变，但如果两位车手表现都不够好，他们还是会变。” 还有人发帖写道：“翻译一下：只要马克斯还签不到手，我们就不想换掉乔治。”",
+    "nodes": [
+      {
+        "name": "img",
+        "attrs": {
+          "src": "https://s.yimg.com/ny/api/res/1.2/TcZAIUerRKF1zxmcx_c8GA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTI0MDA7aD0xNjAwO2NmPXdlYnA-/https://media.zenfs.com/en/motorsport_articles_445/bd927eba3d5ffc0df8d55be8bd660347",
+          "mode": "widthFix",
+          "style": "width:100%;display:block;",
+          "alt": ""
+        }
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "托托·沃尔夫试图给围绕 Formula 1 车手市场的种种传闻降温，并明确表示，梅赛德斯无意调整目前由乔治·拉塞尔和基米·安东内利组成的车手搭档。不过，这位梅赛德斯掌门人的言论还是让 F1 车迷出现了明显分歧。"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "在奥地利站排位赛前接受 Sky Sports F1 采访时，沃尔夫明确表达了自己对现有车手阵容的支持。他说：“我们不想做出改变。我们也已经把这一点告诉了乔治。我认为，这套阵容对我们来说是合适的。我对他们两个人都非常满意。”"
+          }
+        ]
+      },
+      {
+        "name": "img",
+        "attrs": {
+          "src": "https://s.yimg.com/ny/api/res/1.2/F9_N0pO6j7gcLXciaKCzNw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTk2MDtoPTY4NztjZj13ZWJw/https://media.zenfs.com/en/motorsport_articles_445/96c0d7b250b6dd542268a0b7316dd494",
+          "mode": "widthFix",
+          "style": "width:100%;display:block;",
+          "alt": "乔治·拉塞尔、基米·安东内利（梅赛德斯）"
+        }
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "沃尔夫的这番表态随后成为社交媒体上的讨论焦点。对相当一部分车迷来说，沃尔夫不愿涉足车手市场——而这个市场里甚至可能包括四届世界冠军马克斯·维斯塔潘——是完全合理的。"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "一位车迷在 Reddit 上写道：“这很合理。对托托来说，最理想的情况就是基米占据主导，而乔治稳稳待着。他肯定不想再来一次 2016 年那样的局面，而让马克斯加入则是以极高成本重温那些年。” 另一位车迷则发帖说：“他现在拥有一位很好的头号车手和一位很好的二号车手，没必要去折腾改变。”"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "还有人写道：“对啊，当然如此。他们两个人都非常优秀，而且已经为梅赛德斯效力很久了。我不希望基米离开，也不希望乔治离开。真希望大家能稍微冷静一点，别再无限放大这件事了。”"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "但也有人认为，尽管沃尔夫目前淡化了这些传闻，但他并没有把更换车手的大门彻底关上。"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "一位车迷评论道：“‘我们没有改变的计划’并不等于‘我们绝不会改变’。我相信他们现在并没有积极打算替换拉塞尔，但如果出现计划外的情况，他们还是会这么做。” 另一位则补充道：“‘我们不想改变现状，但如果有某位车手突然可以签下，我们还是会变。’”"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "也有人表达了类似观点。另一位车迷评论说：“他们现在不想改变，但如果两位车手表现都不够好，他们还是会变。” 还有人发帖写道：“翻译一下：只要马克斯还签不到手，我们就不想换掉乔治。”"
+          }
+        ]
+      }
+    ]
+  }
+}
