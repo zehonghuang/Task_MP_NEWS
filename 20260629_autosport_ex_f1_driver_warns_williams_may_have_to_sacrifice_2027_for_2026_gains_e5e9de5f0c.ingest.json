@@ -1,0 +1,166 @@
+{
+  "id": "n_autosport_20260629_e5e9de5f0c",
+  "layout_code": "STANDARD",
+  "type_code": "PADDOCK",
+  "pinned": false,
+  "weight": 0,
+  "tag_text": "Williams / 评述",
+  "tags": [
+    "williams",
+    "analysis",
+    "montoya",
+    "sainz",
+    "55",
+    "albon",
+    "23"
+  ],
+  "title": "蒙托亚警告：威廉姆斯若想扭转 2026 困局，可能不得不“牺牲”2027 研发",
+  "summary": "前 F1 车手胡安·巴勃罗·蒙托亚认为，威廉姆斯若想修复 2026 规则下暴露出的根本问题，可能需要牺牲 2027 赛季的研发计划。",
+  "cover_url": "https://cdn-2.motorsport.com/images/amp/25d384n0/s6/alexander-albon-williams.jpg",
+  "published_at": "2026-06-29T12:18:01Z",
+  "source": {
+    "name": "Autosport",
+    "url": "https://www.motorsport.com/f1/news/ex-f1-driver-warns-williams-may-have-to-sacrifice-2027-for-2026-gains/10834829/"
+  },
+  "content": {
+    "format_code": "RICH_TEXT_NODES",
+    "text": "前 F1 车手胡安·巴勃罗·蒙托亚表示，威廉姆斯可能被迫“牺牲”2027 年的研发计划，以修复现有赛车在基础层面存在的缺陷。\n\n亚历山大·阿尔本（威廉姆斯）\n\n摄影：Anni Graf - Formula 1 via Getty Images\n\n在 2025 年车队积分榜拿到第 5 名后，威廉姆斯在 2026 规则时代却遭遇了噩梦般的开局。这支来自格罗夫的车队在奥地利大奖赛周末仍然深陷挣扎。卡洛斯·塞恩斯与亚历山大·阿尔本双双止步 Q1，正赛分别从第 17 和第 18 位起步。\n\n比赛中，塞恩斯因疑似电气故障退赛，阿尔本则只拿到第 17 名。\n\n蒙托亚在 F1 TV 赛后节目中出镜时，对老东家当前的处境给出了相当直接的判断。\n\n当主持人、前 IndyCar 车手詹姆斯·欣奇克利夫问及这支英国车队能否在主场银石反弹时，蒙托亚回答说：“除非他们开始带来升级，否则不能。每支车队都在带升级，我觉得到了某个节点，他们必须下定决心：‘我们要全力解决这个问题，继续升级这台车，哪怕要牺牲明年，也得想办法把差距缩小。’”\n\n亚历山大·阿尔本（威廉姆斯）\n\n摄影：Steven Tee / LAT Images via Getty Images\n\n“我确实为他们感到难受，因为他们真的在努力。他们几乎把所有筹码都压在了今年，但目前看来并没有真正奏效。不过，他们已经具备成为一支顶级强队所需要的一切条件。”\n\n“所以我不认为他们距离成功还很遥远。作为车手，如果你为他们效力，你会有一种感觉：‘天啊，要是我现在离开，也许就会错过这一切。’”\n\n目前威廉姆斯以 11 分排名车队积分榜第 8，落后第 7 名 Haas 10 分，但也领先第 9 名 Audi 9 分。\n\n英国大奖赛将于 7 月 3 日至 5 日在银石举行。",
+    "nodes": [
+      {
+        "name": "img",
+        "attrs": {
+          "src": "https://cdn-2.motorsport.com/images/amp/25d384n0/s6/alexander-albon-williams.jpg",
+          "mode": "widthFix",
+          "style": "width:100%;display:block;",
+          "alt": "亚历山大·阿尔本（威廉姆斯）"
+        }
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "前 F1 车手胡安·巴勃罗·蒙托亚表示，威廉姆斯可能被迫“牺牲”2027 年的研发计划，以修复现有赛车在基础层面存在的缺陷。"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "亚历山大·阿尔本（威廉姆斯）"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "摄影：Anni Graf - Formula 1 via Getty Images"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "在 2025 年车队积分榜拿到第 5 名后，威廉姆斯在 2026 规则时代却遭遇了噩梦般的开局。这支来自格罗夫的车队在奥地利大奖赛周末仍然深陷挣扎。卡洛斯·塞恩斯与亚历山大·阿尔本双双止步 Q1，正赛分别从第 17 和第 18 位起步。"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "比赛中，塞恩斯因疑似电气故障退赛，阿尔本则只拿到第 17 名。"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "蒙托亚在 F1 TV 赛后节目中出镜时，对老东家当前的处境给出了相当直接的判断。"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "当主持人、前 IndyCar 车手詹姆斯·欣奇克利夫问及这支英国车队能否在主场银石反弹时，蒙托亚回答说：“除非他们开始带来升级，否则不能。每支车队都在带升级，我觉得到了某个节点，他们必须下定决心：‘我们要全力解决这个问题，继续升级这台车，哪怕要牺牲明年，也得想办法把差距缩小。’”"
+          }
+        ]
+      },
+      {
+        "name": "img",
+        "attrs": {
+          "src": "https://cdn.motorsport.com/images/mgl/0mXRpLG6/s8/alexander-albon-williams.jpg",
+          "mode": "widthFix",
+          "style": "width:100%;display:block;",
+          "alt": "亚历山大·阿尔本（威廉姆斯）"
+        }
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "亚历山大·阿尔本（威廉姆斯）"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "摄影：Steven Tee / LAT Images via Getty Images"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "“我确实为他们感到难受，因为他们真的在努力。他们几乎把所有筹码都压在了今年，但目前看来并没有真正奏效。不过，他们已经具备成为一支顶级强队所需要的一切条件。”"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "“所以我不认为他们距离成功还很遥远。作为车手，如果你为他们效力，你会有一种感觉：‘天啊，要是我现在离开，也许就会错过这一切。’”"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "目前威廉姆斯以 11 分排名车队积分榜第 8，落后第 7 名 Haas 10 分，但也领先第 9 名 Audi 9 分。"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "英国大奖赛将于 7 月 3 日至 5 日在银石举行。"
+          }
+        ]
+      }
+    ]
+  }
+}

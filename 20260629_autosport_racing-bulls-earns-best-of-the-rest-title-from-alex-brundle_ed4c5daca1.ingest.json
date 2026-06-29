@@ -1,0 +1,148 @@
+{
+  "id": "n_autosport_20260629_ed4c5daca1",
+  "layout_code": "STANDARD",
+  "type_code": "PADDOCK",
+  "pinned": false,
+  "weight": 0,
+  "tag_text": "Racing Bulls / 表现",
+  "tags": [
+    "racingbulls",
+    "performance",
+    "lawson",
+    "30",
+    "lindblad",
+    "41"
+  ],
+  "title": "布伦德尔称Racing Bulls已坐稳“其他车队中的最佳”位置",
+  "summary": "亚历克斯·布伦德尔认为，Racing Bulls在奥地利站双车拿分后，不仅继续坐稳“其他车队中的最佳”，而且罕见地连正赛速度也达到了这一层级；劳森也表示，车队在比赛中的节奏越跑越好。",
+  "cover_url": "https://cdn-5.motorsport.com/images/amp/25d38GJ0/s1000/liam-lawson-racing-bulls.webp",
+  "published_at": "2026-06-29T09:34:36Z",
+  "time_text": "",
+  "source": {
+    "name": "Autosport",
+    "url": "https://www.motorsport.com/f1/news/racing-bulls-earns-best-of-the-rest-title-from-alex-brundle/10834709/"
+  },
+  "content": {
+    "format_code": "RICH_TEXT_NODES",
+    "text": "利亚姆·劳森（Racing Bulls）\n\nF1 TV分析师亚历克斯·布伦德尔认为，Racing Bulls已经在当前这届F1锦标赛中确立了“除顶级车队外最佳”的位置。\n\n这支来自法恩扎的车队在红牛环度过了一个成功的周末，两台赛车双双拿分。利亚姆·劳森和阿维德·林德布拉德在奥地利大奖赛中分别获得第九和第十名，为车队拿到3分。\n\n在F1 TV赛后节目中，联合主持人、前印地赛车手詹姆斯·欣奇克利夫向布伦德尔提到，围场中很多人原本都认为这支车队在大奖赛里会后退，担心他们的排位赛速度可能无法转化为正赛节奏。\n\n“其他所有人的表现都起起伏伏。他们两停，在第九和第十的位置附近跑完全场，最后还是把比赛带回了积分区末端，”布伦德尔说。\n\n“但这也不差，不是吗？他们就是‘其他车队中最好的’，而且看起来，这是他们很长时间以来第一次在正赛速度层面也同样是‘其他车队中最好的’，这很不错。”\n\n阿维德·林德布拉德（Racing Bulls）、利亚姆·劳森（Racing Bulls）\n\n“两位车手都干得不错。就他们这场比赛本身而言，其实相对没什么波澜。他们兑现了排位赛展现出的速度，并把结果顺利带到了终点。”\n\n劳森在赛后告诉天空体育F1，他在比赛开始前就对Racing Bulls赛车很有信心，而随着71圈比赛推进，赛车节奏甚至还在持续提升。\n\n“大概在第一个stint结束后，我们就知道自己相较于中游其他对手有不错的速度，”劳森告诉天空体育F1，“我认为我们当时就知道，这会是一场相当不错的比赛。说实话，我觉得随着比赛进行，我们的节奏相较其他人还变得更好了，所以我挺满意的。”\n\n目前，劳森在车手积分榜上以30分排名第10，而他的新秀队友林德布拉德以14分位列第13。因此，Racing Bulls目前在车队积分榜上以44分排第六，落后第五名Alpine 13分。",
+    "nodes": [
+      {
+        "name": "img",
+        "attrs": {
+          "src": "https://cdn-5.motorsport.com/images/amp/25d38GJ0/s1000/liam-lawson-racing-bulls.webp",
+          "mode": "widthFix",
+          "style": "width:100%;display:block;",
+          "alt": "利亚姆·劳森（Racing Bulls）"
+        }
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "利亚姆·劳森（Racing Bulls）"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "F1 TV分析师亚历克斯·布伦德尔认为，Racing Bulls已经在当前这届F1锦标赛中确立了“除顶级车队外最佳”的位置。"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "这支来自法恩扎的车队在红牛环度过了一个成功的周末，两台赛车双双拿分。利亚姆·劳森和阿维德·林德布拉德在奥地利大奖赛中分别获得第九和第十名，为车队拿到3分。"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "在F1 TV赛后节目中，联合主持人、前印地赛车手詹姆斯·欣奇克利夫向布伦德尔提到，围场中很多人原本都认为这支车队在大奖赛里会后退，担心他们的排位赛速度可能无法转化为正赛节奏。"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "“其他所有人的表现都起起伏伏。他们两停，在第九和第十的位置附近跑完全场，最后还是把比赛带回了积分区末端，”布伦德尔说。"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "“但这也不差，不是吗？他们就是‘其他车队中最好的’，而且看起来，这是他们很长时间以来第一次在正赛速度层面也同样是‘其他车队中最好的’，这很不错。”"
+          }
+        ]
+      },
+      {
+        "name": "img",
+        "attrs": {
+          "src": "https://cdn.motorsport.com/images/mgl/YWKwn7BY/s1000/arvid-lindblad-racing-bulls-li.jpg",
+          "mode": "widthFix",
+          "style": "width:100%;display:block;",
+          "alt": "阿维德·林德布拉德（Racing Bulls）、利亚姆·劳森（Racing Bulls）"
+        }
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "阿维德·林德布拉德（Racing Bulls）、利亚姆·劳森（Racing Bulls）"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "“两位车手都干得不错。就他们这场比赛本身而言，其实相对没什么波澜。他们兑现了排位赛展现出的速度，并把结果顺利带到了终点。”"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "劳森在赛后告诉天空体育F1，他在比赛开始前就对Racing Bulls赛车很有信心，而随着71圈比赛推进，赛车节奏甚至还在持续提升。"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "“大概在第一个stint结束后，我们就知道自己相较于中游其他对手有不错的速度，”劳森告诉天空体育F1，“我认为我们当时就知道，这会是一场相当不错的比赛。说实话，我觉得随着比赛进行，我们的节奏相较其他人还变得更好了，所以我挺满意的。”"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "目前，劳森在车手积分榜上以30分排名第10，而他的新秀队友林德布拉德以14分位列第13。因此，Racing Bulls目前在车队积分榜上以44分排第六，落后第五名Alpine 13分。"
+          }
+        ]
+      }
+    ]
+  }
+}
