@@ -1,0 +1,39 @@
+# 维斯塔潘称赞红牛在奥地利的进步，但对比赛中段赛车问题感到遗憾
+
+- id: `n_autosport_20260628_0022661868`
+- source.name: `Autosport`
+- source.url: https://www.motorsport.com/f1/news/max-verstappen-hails-red-bulls-austria-progress-rues-mid-race-car-issues/10834596/
+- published_at: `2026-06-28T16:28:24Z`
+- article.image: https://cdn-5.motorsport.com/images/amp/2dE79deY/s1000/max-verstappen-red-bull-racing-2.webp
+- original_title: Max Verstappen hails Red Bull's Austria progress, rues mid-race car issues
+- original_subtitle: Max Verstappen says a car issue prevented him from mounting a proper challenge for victory against George Russell in Formula 1's Austrian Grand Prix
+
+## 中文全文翻译
+
+![](https://cdn-5.motorsport.com/images/amp/2dE79deY/s1000/max-verstappen-red-bull-racing-2.webp)
+
+![](https://cdn.motorsport.com/images/mgl/YE9wx7wY/s1000/lewis-hamilton-ferrari-max-ver.jpg)
+
+红牛车手马克斯·维斯塔潘表示，在一级方程式奥地利大奖赛中，自己终于真正处在争胜行列，这让人感到满意；同时他也详细说明了那些让他最终无法向冠军乔治·拉塞尔发起真正挑战的赛车问题。
+
+在经过大幅修改的红牛 RB22 赛车上，维斯塔潘和车队在主场奥地利站展现出了更强的竞争力。这位四届世界冠军原本有望在拿下杆位的拉塞尔之后排在第二或第三，但在倒数第二个弯发生的撞车让他最终只排到第五。
+
+不过在正赛中，维斯塔潘很快反弹，重新加入对领先集团梅赛德斯赛车的争夺。在与法拉利车手刘易斯·汉密尔顿经历了一段延长的轮对轮缠斗并完成超越后，维斯塔潘得以向拉塞尔施加压力，这也迫使这位英国车手提前完成自己最后一次进站，以避免被红牛利用进站策略反超。
+
+维斯塔潘推迟了自己的最后一次停站，试图建立轮胎优势，但他在此过程中损失了过多时间，最终无法在这场 71 圈的比赛末段真正形成挑战。
+
+赛车后轴的操控问题也进一步影响了他的发挥，使他无法完全放手去冲击赛季首胜。尽管如此，这位荷兰车手仍然对拿到自己 2026 赛季迄今最佳成绩、以及本赛季第二个领奖台感到满意。
+
+维斯塔潘说：“让我满意的是，这是我第一次真正感觉到自己可以去争夺胜利。”
+
+“比赛前半段我们的竞争力更强，因为不知为什么，到了后半段，赛车尾部感觉有些不对劲。无论是通过颠簸、压路肩，还是牵引力表现，一切都变得极其困难，完全消失了。
+
+“这多少有些遗憾，但能够如此接近一场胜利，我认为已经是车队非常出色的努力了。为了把这些升级带到这里，他们真的付出了很多努力，而这是我第一次在正赛里感觉自己真的很有竞争力，也能稍微更大胆地去推进。” 
+
+当时维斯塔潘曾通过无线电告诉自己的比赛工程师詹皮耶罗·兰比亚塞，在最后一次进站前多留在赛道几圈“并不是正确的决定”，而事后看来，他也没有改变这个看法。
+
+他解释道：“我确实认为自己在轮胎衰减方面比乔治更有优势，但我也知道，距离终点还有一段非常长的赛程。
+
+“我个人感觉，在我继续留在赛道上的那几圈里，我损失的时间可能比后来靠那几圈新胎追回来的收益还要更多一些。
+
+“但现在回头说当然很容易。老实说，我们依然跑了一场非常好的比赛。能够来到这里，站上领奖台，并真正拥有争胜机会，这一路走来已经相当漫长。而这本身就已经是积极的信号了。” 
