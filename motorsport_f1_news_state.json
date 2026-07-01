@@ -1,8 +1,9 @@
 {
   "source": "https://www.motorsport.com/f1/news/",
-  "fetched_at": "2026-07-01T00:00:00+08:00",
+  "fetched_at": "2026-07-01T09:55:00+08:00",
   "count": 10,
   "urls": [
+    "https://www.motorsport.com/f1/news/mclaren-launched-google-gemini-livery-for-f1-british-gp/10835158/",
     "https://www.motorsport.com/f1/news/valtteri-bottas-calls-for-cadillac-reliability-fixes-we-cant-learn-if-we-dont-finish/10835114/",
     "https://www.motorsport.com/f1/news/toto-wolff-kimi-antonellis-mistakes-in-austrian-gp-will-never-happen-again/10834921/",
     "https://www.motorsport.com/f1/news/max-verstappens-f1-future-are-mclaren-talks-serious-or-a-way-to-put-pressure-on-red-bull/10835109/",
@@ -11,7 +12,6 @@
     "https://www.motorsport.com/f1/news/adrian-newey-hopes-aston-martin-upgrade-will-keep-fernando-alonso-in-the-cockpit-for-another-season/10835019/",
     "https://www.motorsport.com/f1/news/could-max-verstappen-mount-f1-title-challenge-2026/10834958/",
     "https://www.motorsport.com/f1/news/red-bulls-austrian-gp-upgrade-package-compared-to-b-spec-f1-car-by-former-mechanic/10834941/",
-    "https://www.motorsport.com/f1/news/arvid-lindblad-reveals-emotional-hand-drawn-helmet-for-first-f1-british-gp/10834923/",
-    "https://www.motorsport.com/f1/news/no-reliability-and-no-pace-carlos-sainz-admits-williams-doesnt-have-a-car-capable-of-scoring-points/10834823/"
+    "https://www.motorsport.com/f1/news/arvid-lindblad-reveals-emotional-hand-drawn-helmet-for-first-f1-british-gp/10834923/"
   ]
 }
