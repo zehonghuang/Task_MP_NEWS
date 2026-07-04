@@ -1,0 +1,36 @@
+# 2026 F1 英国大奖赛冲刺赛发车顺位
+
+- 原文标题："This is the starting grid for the 2026 F1 British GP sprint"
+- 来源：Autosport
+- 原文链接：https://www.motorsport.com/f1/news/the-starting-grid-for-the-sprint-at-the-2026-f1-british-grand-prix/10835915/
+- 发布时间：2026-07-04T01:17:25+00:00
+- 作者：Fabien Gaillard
+- tag_text：British GP / 发车
+- tags：britishgp, sprint-grid, grid, silverstone, lineup
+- 类型：PADDOCK
+- 布局：STANDARD
+- 对应 JSON：20260704_autosport_the_starting_grid_for_the_sprint_at_the_2026_f1_british_grand_prix_01e1b96571.ingest.json
+
+## 摘要
+
+汉密尔顿在英国站冲刺排位中拿下最快单圈，因此将从冲刺赛杆位起步。文章列出了 FIA 最终确认前的暂定发车顺位，其中安东内利与维斯塔潘排在前二排，迈凯伦两车则位列第三、四排。
+
+## 全文中文翻译
+
+![刘易斯·汉密尔顿，法拉利](https://cdn-4.motorsport.com/images/mgl/6zoJ5Qp0/s800/lewis-hamilton-ferrari.webp)
+
+在 2026 年英国大奖赛冲刺排位赛中，刘易斯·汉密尔顿做出了最快成绩，因此将从冲刺赛杆位发车。以下是这场冲刺赛在 FIA 最终确认前的暂定发车顺位。
+
+第 1 位：刘易斯·汉密尔顿（法拉利）；第 2 位：基米·安东内利（梅赛德斯）。
+
+第 3 位：马克斯·维斯塔潘（红牛）；第 4 位：查尔斯·勒克莱尔（法拉利）。
+
+第 5 位：乔治·拉塞尔（梅赛德斯）；第 6 位：兰多·诺里斯（迈凯伦）。
+
+第 7 位：奥斯卡·皮亚斯特里（迈凯伦）；第 8 位：伊萨克·哈贾尔（红牛二队）。
+
+第 9 位：利亚姆·劳森（红牛二队）；第 10 位：阿维德·林德布拉德（红牛二队）。
+
+第 11 位起依次为：加布里埃尔·博托莱托（奥迪）、尼科·霍肯伯格（奥迪）、佛朗哥·科拉平托（Alpine）、卡洛斯·塞恩斯（威廉姆斯）、亚历山大·阿尔本（威廉姆斯）。
+
+最后五位依次为：两辆哈斯、塞尔吉奥·佩雷兹（凯迪拉克）、瓦尔特里·博塔斯（凯迪拉克）、费尔南多·阿隆索（阿斯顿·马丁）与兰斯·斯特罗尔（阿斯顿·马丁）。

@@ -1,0 +1,111 @@
+{
+  "id": "n_autosport_20260704_6871f17c3b",
+  "layout_code": "STANDARD",
+  "type_code": "PADDOCK",
+  "pinned": false,
+  "weight": 0,
+  "tag_text": "Mercedes / 场外",
+  "tags": [
+    "mercedes",
+    "toto-wolff",
+    "silverstone",
+    "classic-car",
+    "offtrack"
+  ],
+  "title": "沃尔夫驾驶稀有经典奔驰亮相银石，引发围场围观",
+  "summary": "梅赛德斯 F1 领队托托·沃尔夫驾驶一辆经典奔驰 300 SL Gullwing 抵达银石围场，引起大量关注。这辆 1950 年代的经典车型估值最高可达 350 万美元，车迷一边惊叹其优雅，一边调侃以沃尔夫的身高塞进这样一辆老车并不轻松。",
+  "cover_url": "https://cdn-2.motorsport.com/images/amp/2wlEeoMY/s1000/toto-wolff-mercedes.webp",
+  "published_at": "2026-07-04T01:19:26+00:00",
+  "time_text": "",
+  "source": {
+    "name": "Autosport",
+    "url": "https://www.motorsport.com/f1/news/toto-wolff-turns-heads-at-silverstone-with-rare-classic-mercedes-estimated-at-35million/10835999/"
+  },
+  "content": {
+    "format_code": "RICH_TEXT_NODES",
+    "text": "在英国大奖赛唯一一节练习赛和冲刺排位开始前，梅赛德斯一级方程式掌门人托托·沃尔夫以一场极具存在感的“入场秀”吸引了银石围场的目光。\n\n沃尔夫和他的妻子、F1 Academy 总经理苏茜·沃尔夫，平时经常被人看到开着奔驰 300 SL Roadster 穿行在蒙特卡洛街头。而这一次，沃尔夫为英国大奖赛周末选择的是它更早的硬顶前辈车型。\n\n这款 Gullwing 鸥翼跑车生产于 1954 至 1957 年间，搭载一台 3.0 升直列六缸发动机，最大输出可达 215 马力，0 到 62 英里/小时加速只需 8.9 秒，最高时速可达 160 英里。网上给出的估值大约在 130 万到 350 万美元之间。\n\n这台经典 300 SL 也只是沃尔夫车库中豪华收藏的一部分。据称，梅赛德斯领队还拥有 Mercedes-AMG ONE、Ferrari F40、Ferrari Enzo、LaFerrari 和 Mercedes-Benz SL 65 等名车。\n\n沃尔夫的这次亮相毫不意外地引发了大量车迷讨论。“对我来说，这绝对是有史以来最美的车之一，”一位 Reddit 用户评论道；另一位则补充说：“这台、E-type、250 GTO 和 DB5 都是我心中最顶级的候选。美得离谱。”\n\n也有人把沃尔夫的气场和这辆车联系起来开玩笑：“他简直像个邦德反派。再加上这类气场，以及他总穿黑色高领毛衣拍视频，完全就是邦德电影里会威胁世界的那种人。”\n\n不过也有不少人指出，沃尔夫的身高可能会让这辆经典车的驾驶体验相当局促。“他对这辆车来说实在太高了，看着就非常不舒服，”一位网友写道。\n\n其他评论还包括：“很酷的车，但他真的太高了，根本不适合坐进去”；“他的膝盖和头部看起来都已经顶到极限了，哈哈”；以及“以他的身高还能塞进这辆车，实在令人佩服。”",
+    "nodes": [
+      {
+        "name": "img",
+        "attrs": {
+          "src": "https://cdn-2.motorsport.com/images/amp/2wlEeoMY/s1000/toto-wolff-mercedes.webp",
+          "mode": "widthFix",
+          "style": "width:100%;display:block;",
+          "alt": "托托·沃尔夫，梅赛德斯"
+        }
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "在英国大奖赛唯一一节练习赛和冲刺排位开始前，梅赛德斯一级方程式掌门人托托·沃尔夫以一场极具存在感的“入场秀”吸引了银石围场的目光。"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "沃尔夫和他的妻子、F1 Academy 总经理苏茜·沃尔夫，平时经常被人看到开着奔驰 300 SL Roadster 穿行在蒙特卡洛街头。而这一次，沃尔夫为英国大奖赛周末选择的是它更早的硬顶前辈车型。"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "这款 Gullwing 鸥翼跑车生产于 1954 至 1957 年间，搭载一台 3.0 升直列六缸发动机，最大输出可达 215 马力，0 到 62 英里/小时加速只需 8.9 秒，最高时速可达 160 英里。网上给出的估值大约在 130 万到 350 万美元之间。"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "这台经典 300 SL 也只是沃尔夫车库中豪华收藏的一部分。据称，梅赛德斯领队还拥有 Mercedes-AMG ONE、Ferrari F40、Ferrari Enzo、LaFerrari 和 Mercedes-Benz SL 65 等名车。"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "沃尔夫的这次亮相毫不意外地引发了大量车迷讨论。“对我来说，这绝对是有史以来最美的车之一，”一位 Reddit 用户评论道；另一位则补充说：“这台、E-type、250 GTO 和 DB5 都是我心中最顶级的候选。美得离谱。”"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "也有人把沃尔夫的气场和这辆车联系起来开玩笑：“他简直像个邦德反派。再加上这类气场，以及他总穿黑色高领毛衣拍视频，完全就是邦德电影里会威胁世界的那种人。”"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "不过也有不少人指出，沃尔夫的身高可能会让这辆经典车的驾驶体验相当局促。“他对这辆车来说实在太高了，看着就非常不舒服，”一位网友写道。"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "其他评论还包括：“很酷的车，但他真的太高了，根本不适合坐进去”；“他的膝盖和头部看起来都已经顶到极限了，哈哈”；以及“以他的身高还能塞进这辆车，实在令人佩服。”"
+          }
+        ]
+      }
+    ]
+  }
+}
