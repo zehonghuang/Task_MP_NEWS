@@ -5,10 +5,8 @@
 - 原始链接：https://www.motorsport.com/f1/news/jessica-hawkins-predicts-female-f1-driver-within-few-years/10845481/
 - 发布时间：2026-08-10T11:00:00Z
 - 时间说明：搜索结果可见 `Published: Aug 10, 2026, 11:00 AM`，但未提供时区，因此按任务文档兜底写为 `Z`
-- 图片提取说明：
-  - 页面可识别到 2 张正文图，但在原站 403 反爬限制下未能稳定取得图片原始 URL，因此本次入库 JSON 未写入 `cover_url` 与 `img` 节点
-  - 图 1 题注：Jessica Hawkins, Aston Martin Racing（Photo by: Aston Martin Racing）
-  - 图 2 题注：Podium: Doriane Pin, PREMA Racing, Maya Weug, MP Motorsport（Photo by: Sam Bagnall / Sutton Images via Getty Images）
+
+![杰西卡·霍金斯（阿斯顿·马丁）](https://cdn-7.motorsport.com/images/amp/6DGqRJVY/s1100/jessica-hawkins-aston-martin-r.webp)
 
 ## 全文中文翻译
 

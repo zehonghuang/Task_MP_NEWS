@@ -4,7 +4,7 @@
 - 原文链接：https://www.motorsport.com/f1/news/mclaren-disappointed-not-to-pick-up-rotating-rear-wing-as-quickly-as-ferrari/10845447/
 - 发布时间：2026-08-10T09:30:00Z
 
-![](https://p16-cc-image-search-sign-sg.ibyteimg.com/tos-alisg-i-h9hire4aei-sg/image/a8c657431b3890b9018e02858ed6287b~tplv-h9hire4aei-image.jpeg?rk3s=add9cc80&x-expires=1791556507&x-signature=scZgm27qGauA91pBZYm%2BzQBYL%2Bg%3D)
+![刘易斯·汉密尔顿（法拉利）、奥斯卡·皮亚斯特里（迈凯伦）](https://cdn-5.motorsport.com/images/amp/2jEAAgp0/s600/lewis-hamilton-ferrari-oscar-p.webp)
 
 迈凯伦F1技术总监尼尔·豪尔迪承认，车队对于没能像开创这一方向的法拉利那样更早发现这种“倒置式”尾翼概念感到“失望”；与此同时，车队仍在继续开发自己的版本，计划在夏休后投入使用。
 

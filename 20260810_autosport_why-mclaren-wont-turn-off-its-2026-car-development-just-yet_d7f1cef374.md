@@ -5,7 +5,7 @@
 - 原文链接：https://www.motorsport.com/f1/news/why-mclaren-wont-turn-off-its-2026-car-development-just-yet/10845412/
 - 发布时间：2026-08-10T10:18:44+02:00
 
-![迈凯伦 2026 款 F1 赛车相关配图](http://s.f1reader.com/thumbnails/bb71b82b2a7fdb1f7d0ab47f471e8feb.jpg)
+![兰多·诺里斯（迈凯伦）](https://cdn-3.motorsport.com/images/amp/6DGgVkJY/s1100/lando-norris-mclaren.webp)
 
 ## 中文摘要
 
