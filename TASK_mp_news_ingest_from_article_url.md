@@ -12,7 +12,7 @@
 ## 输入
 
 - `article_url`（必填）：文章地址（例如 Autosport URL）
-- `ingest_endpoint`（可选，默认）：`https://winpc-f1.normal-person.icu/api/v1/mp/news/ingest`
+- `ingest_endpoint`（可选，默认）：`https://f1ink.normal-person.icu/api/v1/mp/news/ingest`
 - `token`（可选）：若接口需要鉴权，则作为 query 参数 `?token=...`
 
 ## 输出（写入本目录）
@@ -104,6 +104,6 @@
 https://www.autosport.com/f1/news/xxx/12345678/
 需要入库：是
 接口：
-https://winpc-f1.normal-person.icu/api/v1/mp/news/ingest
+https://f1ink.normal-person.icu/api/v1/mp/news/ingest
 token：无
 ```
