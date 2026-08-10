@@ -179,7 +179,7 @@
 
 GET：
 
-`https://winpc-f1.normal-person.icu/api/v1/mp/session-results?latest=1`
+`https://f1ink.normal-person.icu/api/v1/mp/session-results?latest=1`
 
 返回示例（节选）：
 
