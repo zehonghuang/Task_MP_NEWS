@@ -37,7 +37,7 @@
 - `list_url`：`https://www.motorsport.com/f1/news/`
 - `state_file`：本目录 `motorsport_f1_news_state.json`
 - `limit`：10
-- `ingest_endpoint`：`https://winpc-f1.normal-person.icu/api/v1/mp/news/ingest`
+- `ingest_endpoint`：`https://f1ink.normal-person.icu/api/v1/mp/news/ingest`
 - `token`：无
 
 ## 状态文件结构
