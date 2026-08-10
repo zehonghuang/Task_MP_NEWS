@@ -4,8 +4,6 @@
 - 原文链接：https://www.motorsport.com/f1/news/gabriel-bortoleto-refutes-idea-of-f1-2026-cars-clashing-with-driving-styles/10844776/  
 - 发布时间：2026-08-09T08:06:00Z  
 
-![](https://cdn-5.motorsport.com/images/amp/YE9EED1Y/s6/gabriel-bortoleto-audi-f1-team.jpg)
-
 加布里埃尔·博托莱托（ Gabriel Bortoleto ）强烈认为，一级方程式车手“应该能够 适应”任何机械， 驳斥了2026赛车与驾驶风格冲突的观点。
 
 今年出现了转变 更多的电气机械与47-53分裂对抗内燃机 发动机 导致不同风格的比赛，因为电池管理是关键。
@@ -21,6 +19,8 @@
 “我们应该能够适应，即使它不是自然的， 但我们应该能够适应任何类型的汽车以及您需要的驾驶方式， 这就是为什么我们做我们所做的事情 这就是为什么我们是世界上22位F1车手的原因。
 
 “我认为这只是您拥有的汽车以及您需要如何驾驶它们的问题。 我认为从去年开始，我没有改变太多开车的方式， 但显然你在这里和那里进行了一些微调， 你知道能量是如何从某些角落分散出来的， 因此，您知道是否可以更多地推动入口，而更少地关心出口， 因为那里没有能源。
+
+![](https://cdn.motorsport.com/images/mgl/0Zq8wZM6/s1000/gabriel-bortoleto-audi-f1-team.jpg)
 
 奥迪F1车队Gabriel Bortoleto
 

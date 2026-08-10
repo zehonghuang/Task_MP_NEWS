@@ -21,15 +21,6 @@
     "text": "去年冬天，当奥迪在柏林展示其F1项目时， 它设定了到2030年赢得世界锦标赛的明确目标。 这家德国巨头习惯于在它进入的任何赛车运动领域取得成功， 无论是耐力赛还是达喀尔拉力赛， 但它也承认要走很长的路才能到达那里。\n\n奥迪以12分的成绩进入暑假第八名 在7月份开始将其节奏转换为积分后。\n\n在瑞士资金不足的索伯团队的基础上， 奥迪迎接了生产其首款F1动力装置的额外挑战 在纽堡。\n\n2026年的季节始终是建立这些基础的季节。 但是，在墨尔本的得分之间经历了一段漫长的无意义的过程， 赛季揭幕战 奥迪在英国第10轮中排名第八，整体包装有所改善 在中场前面的耗电电路中具有竞争力，比如 银石 和Spa-Francorchamps ，这对球队来说是一次真正的射门。\n\nITS的选择 将经验与老将尼科·胡肯伯格（ Nico Hulkenberg ）令人兴奋的年轻人才相 到目前为止，杰出的加布里埃尔·博托莱托（ Gabriel Bortoleto ）也支付了股息。\n\n奥迪F1车队Gabriel Bortoleto\n\n摄影： Michael Potts/LAT Images via Getty Images\n\n这并不奇怪 对于奥迪动力单元的任何人–虽然第一次的努力值得尊敬– is not up 与梅赛德斯相提并论。 滚雪球进入更高的电池部署， 而整个上半场球队也经历了糟糕的开局 在这里工作。\n\n它还遭受了一些早期严重的可靠性问题，这些问题 阻止了它的两个司机 比赛的开始。 Hulkenberg尤其不走运， 在奥地利发生的一起反常事件中，一块砾石撞上了他的 汽车的杀戮开关。\n\n奥迪F1车队Gabriel Bortoleto\n\n摄影： Andy Hone/LAT Images via Getty Images\n\n奥迪F1项目首席执行官Mattia Binotto ： “我们正在按照我们为自己设定的计划行事 一切都按预期进行。 如果您还没有足够的人员、工具和空间， 你不能指望一夜之间取得非凡的成果。 今天，实际上，我们仍然是去年的索伯， 我们在顶部构建的一切。 仅改变所有权、品牌或车身标识是不够的 突然发现自己又多了300个人，新设施， 以及更好的工具。\n\n“一方面，野心很大，另一方面，我们需要 接受成长需要时间。 在这里，你需要有耐心，学会管理一些挫折感。 关于动力机组，这是一个长期项目 我相信奥迪将在几周内拥有一流的动力装置， 季节 不过，关于底盘，我很满意。”",
     "nodes": [
       {
-        "name": "img",
-        "attrs": {
-          "src": "https://cdn-5.motorsport.com/images/amp/2GdKDEzY/s6/team-report-card-audi.jpg",
-          "mode": "widthFix",
-          "style": "width:100%;display:block;",
-          "alt": ""
-        }
-      },
-      {
         "name": "p",
         "children": [
           {
@@ -75,6 +66,15 @@
         ]
       },
       {
+        "name": "img",
+        "attrs": {
+          "src": "https://cdn.motorsport.com/images/mgl/YpbAQaW0/s1000/gabriel-bortoleto-audi-f1-team.jpg",
+          "mode": "widthFix",
+          "style": "width:100%;display:block;",
+          "alt": "奥迪F1车队Gabriel Bortoleto"
+        }
+      },
+      {
         "name": "p",
         "children": [
           {
@@ -109,6 +109,15 @@
             "text": "它还遭受了一些早期严重的可靠性问题，这些问题 阻止了它的两个司机 比赛的开始。 Hulkenberg尤其不走运， 在奥地利发生的一起反常事件中，一块砾石撞上了他的 汽车的杀戮开关。"
           }
         ]
+      },
+      {
+        "name": "img",
+        "attrs": {
+          "src": "https://cdn.motorsport.com/images/mgl/YMXbDeK2/s1000/gabriel-bortoleto-audi-f1-team.jpg",
+          "mode": "widthFix",
+          "style": "width:100%;display:block;",
+          "alt": "奥迪F1车队Gabriel Bortoleto"
+        }
       },
       {
         "name": "p",

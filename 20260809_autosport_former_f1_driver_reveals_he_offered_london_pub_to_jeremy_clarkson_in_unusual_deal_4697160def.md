@@ -4,8 +4,6 @@
 - 原文链接：https://www.motorsport.com/f1/news/former-f1-driver-reveals-he-offered-london-pub-to-jeremy-clarkson-in-unusual-deal/10845369/  
 - 发布时间：2026-08-09T22:40:00Z  
 
-![](https://cdn-7.motorsport.com/images/amp/6grBgznY/s6/jeremy-clarkson-enters-the-pad.jpg)
-
 前一级方程式车手David Coulthard透露，他曾经 苦苦挣扎的伦敦西南部酒吧 免费发给前Top Gear主持人Jeremy Clarkson 来挽救这家合资企业。
 
 在与主持人Jodie Kidd的随车采访中， 前威廉姆斯、迈凯轮 红牛车手解释了他是如何联系克拉克森的 酒吧、 棕色的狗，做生意。
@@ -17,6 +15,8 @@ Coulthard说： “我在巴恩斯买了一家酒吧，但没用。” “是棕
 “我实际上把它给了杰里米·克拉克森，”库特哈德解释说。 “我说， '杰里米，我会给你酒吧。 这是你的，地契，但如果你赚钱， 你开始把我们扯进来。”
 
 不过，这笔交易并没有取得成果， 因为这家酒吧的位置不适合克拉克森。 前Grand Tour体验达人 clarkson's Farm的明星自此开设了自己的酒吧The Farmer's Dog ， 牛津郡
+
+![](https://cdn.motorsport.com/images/mgl/25dLeex0/s1000/david-coulthard.jpg)
 
 David Coulthard
 

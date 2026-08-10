@@ -4,8 +4,6 @@
 - 原文链接：https://www.motorsport.com/f1/news/f1-2026-mid-season-grades-audi-gets-off-to-solid-start-on-works-debut/10845164/  
 - 发布时间：2026-08-09T11:04:00Z  
 
-![](https://cdn-5.motorsport.com/images/amp/2GdKDEzY/s6/team-report-card-audi.jpg)
-
 去年冬天，当奥迪在柏林展示其F1项目时， 它设定了到2030年赢得世界锦标赛的明确目标。 这家德国巨头习惯于在它进入的任何赛车运动领域取得成功， 无论是耐力赛还是达喀尔拉力赛， 但它也承认要走很长的路才能到达那里。
 
 奥迪以12分的成绩进入暑假第八名 在7月份开始将其节奏转换为积分后。
@@ -16,6 +14,8 @@
 
 ITS的选择 将经验与老将尼科·胡肯伯格（ Nico Hulkenberg ）令人兴奋的年轻人才相 到目前为止，杰出的加布里埃尔·博托莱托（ Gabriel Bortoleto ）也支付了股息。
 
+![](https://cdn.motorsport.com/images/mgl/YpbAQaW0/s1000/gabriel-bortoleto-audi-f1-team.jpg)
+
 奥迪F1车队Gabriel Bortoleto
 
 摄影： Michael Potts/LAT Images via Getty Images
@@ -23,6 +23,8 @@ ITS的选择 将经验与老将尼科·胡肯伯格（ Nico Hulkenberg ）令人
 这并不奇怪 对于奥迪动力单元的任何人–虽然第一次的努力值得尊敬– is not up 与梅赛德斯相提并论。 滚雪球进入更高的电池部署， 而整个上半场球队也经历了糟糕的开局 在这里工作。
 
 它还遭受了一些早期严重的可靠性问题，这些问题 阻止了它的两个司机 比赛的开始。 Hulkenberg尤其不走运， 在奥地利发生的一起反常事件中，一块砾石撞上了他的 汽车的杀戮开关。
+
+![](https://cdn.motorsport.com/images/mgl/YMXbDeK2/s1000/gabriel-bortoleto-audi-f1-team.jpg)
 
 奥迪F1车队Gabriel Bortoleto
 

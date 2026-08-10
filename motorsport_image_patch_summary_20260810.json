@@ -1,0 +1,126 @@
+{
+  "patched": [
+    {
+      "url": "https://www.motorsport.com/f1/news/former-f1-driver-reveals-he-offered-london-pub-to-jeremy-clarkson-in-unusual-deal/10845369/",
+      "json": "c:\\Task_MP_NEWS\\20260809_autosport_former_f1_driver_reveals_he_offered_london_pub_to_jeremy_clarkson_in_unusual_deal_4697160def.ingest.json",
+      "img_count": 1,
+      "p_count": 12
+    },
+    {
+      "url": "https://www.motorsport.com/f1/news/george-russell-announces-engagement-to-long-term-partner-carmen-montero-mundt/10845327/",
+      "json": "c:\\Task_MP_NEWS\\20260809_autosport_george_russell_announces_engagement_to_long_term_partner_carmen_montero_mundt_49af61fd87.ingest.json",
+      "img_count": 1,
+      "p_count": 9
+    },
+    {
+      "url": "https://www.motorsport.com/f1/news/otmar-szafnauer-tells-ferrari-to-leave-charles-leclerc-alone-amid-lewis-hamilton-battle/10845241/",
+      "json": "c:\\Task_MP_NEWS\\20260809_autosport_otmar_szafnauer_tells_ferrari_to_leave_charles_leclerc_alone_amid_lewis_hamilton_battle_b0a3fef969.ingest.json",
+      "img_count": 1,
+      "p_count": 12
+    },
+    {
+      "url": "https://www.motorsport.com/f1/news/mika-hakkinen-urges-mclaren-not-to-rock-the-boat-with-max-verstappen-move/10845218/",
+      "json": "c:\\Task_MP_NEWS\\20260809_autosport_mika_hakkinen_urges_mclaren_not_to_rock_the_boat_with_max_verstappen_move_2c85720af9.ingest.json",
+      "img_count": 1,
+      "p_count": 11
+    },
+    {
+      "url": "https://www.motorsport.com/f1/news/toto-wolff-reveals-parenting-challenge-as-son-jack-leads-karting-championship/10845205/",
+      "json": "c:\\Task_MP_NEWS\\20260809_autosport_toto_wolff_reveals_parenting_challenge_as_son_jack_leads_karting_championship_69855573fd.ingest.json",
+      "img_count": 1,
+      "p_count": 12
+    },
+    {
+      "url": "https://www.motorsport.com/f1/news/f1-2026-mid-season-grades-audi-gets-off-to-solid-start-on-works-debut/10845164/",
+      "json": "c:\\Task_MP_NEWS\\20260809_autosport_f1_2026_mid_season_grades_audi_gets_off_to_solid_start_on_works_debut_21509a4128.ingest.json",
+      "img_count": 2,
+      "p_count": 13
+    },
+    {
+      "url": "https://www.motorsport.com/f1/news/oliver-bearman-reveals-new-business-venture-away-from-f1/10845198/",
+      "json": "c:\\Task_MP_NEWS\\20260809_autosport_oliver_bearman_reveals_new_business_venture_away_from_f1_f5743058e1.ingest.json",
+      "img_count": 1,
+      "p_count": 11
+    },
+    {
+      "url": "https://www.motorsport.com/f1/news/gabriel-bortoleto-refutes-idea-of-f1-2026-cars-clashing-with-driving-styles/10844776/",
+      "json": "c:\\Task_MP_NEWS\\20260809_autosport_gabriel_bortoleto_refutes_idea_of_f1_2026_cars_clashing_with_driving_styles_10330e9862.ingest.json",
+      "img_count": 1,
+      "p_count": 17
+    },
+    {
+      "url": "https://www.motorsport.com/f1/news/lewis-hamilton-shares-first-photos-with-new-puppy-halo/10845015/",
+      "json": "c:\\Task_MP_NEWS\\20260808_autosport_lewis_hamilton_shares_first_photos_with_new_puppy_halo_11584dbb25.ingest.json",
+      "img_count": 1,
+      "p_count": 10
+    },
+    {
+      "url": "https://www.motorsport.com/f1/news/isack-hadjar-explains-red-bull-culture-shock-after-racing-bulls-move/10845005/",
+      "json": "c:\\Task_MP_NEWS\\20260808_autosport_isack_hadjar_explains_red_bull_culture_shock_after_racing_bulls_move_0ffa403d08.ingest.json",
+      "img_count": 1,
+      "p_count": 11
+    }
+  ],
+  "repost": [
+    {
+      "file": "c:\\Task_MP_NEWS\\20260809_autosport_former_f1_driver_reveals_he_offered_london_pub_to_jeremy_clarkson_in_unusual_deal_4697160def.ingest.json",
+      "status_code": 200,
+      "ok": true,
+      "response": "{\"ok\":true,\"id\":\"n_autosport_20260809_4697160def\"}"
+    },
+    {
+      "file": "c:\\Task_MP_NEWS\\20260809_autosport_george_russell_announces_engagement_to_long_term_partner_carmen_montero_mundt_49af61fd87.ingest.json",
+      "status_code": 200,
+      "ok": true,
+      "response": "{\"ok\":true,\"id\":\"n_autosport_20260809_49af61fd87\"}"
+    },
+    {
+      "file": "c:\\Task_MP_NEWS\\20260809_autosport_otmar_szafnauer_tells_ferrari_to_leave_charles_leclerc_alone_amid_lewis_hamilton_battle_b0a3fef969.ingest.json",
+      "status_code": 200,
+      "ok": true,
+      "response": "{\"ok\":true,\"id\":\"n_autosport_20260809_b0a3fef969\"}"
+    },
+    {
+      "file": "c:\\Task_MP_NEWS\\20260809_autosport_mika_hakkinen_urges_mclaren_not_to_rock_the_boat_with_max_verstappen_move_2c85720af9.ingest.json",
+      "status_code": 200,
+      "ok": true,
+      "response": "{\"ok\":true,\"id\":\"n_autosport_20260809_2c85720af9\"}"
+    },
+    {
+      "file": "c:\\Task_MP_NEWS\\20260809_autosport_toto_wolff_reveals_parenting_challenge_as_son_jack_leads_karting_championship_69855573fd.ingest.json",
+      "status_code": 200,
+      "ok": true,
+      "response": "{\"ok\":true,\"id\":\"n_autosport_20260809_69855573fd\"}"
+    },
+    {
+      "file": "c:\\Task_MP_NEWS\\20260809_autosport_f1_2026_mid_season_grades_audi_gets_off_to_solid_start_on_works_debut_21509a4128.ingest.json",
+      "status_code": 200,
+      "ok": true,
+      "response": "{\"ok\":true,\"id\":\"n_autosport_20260809_21509a4128\"}"
+    },
+    {
+      "file": "c:\\Task_MP_NEWS\\20260809_autosport_oliver_bearman_reveals_new_business_venture_away_from_f1_f5743058e1.ingest.json",
+      "status_code": 200,
+      "ok": true,
+      "response": "{\"ok\":true,\"id\":\"n_autosport_20260809_f5743058e1\"}"
+    },
+    {
+      "file": "c:\\Task_MP_NEWS\\20260809_autosport_gabriel_bortoleto_refutes_idea_of_f1_2026_cars_clashing_with_driving_styles_10330e9862.ingest.json",
+      "status_code": 200,
+      "ok": true,
+      "response": "{\"ok\":true,\"id\":\"n_autosport_20260809_10330e9862\"}"
+    },
+    {
+      "file": "c:\\Task_MP_NEWS\\20260808_autosport_lewis_hamilton_shares_first_photos_with_new_puppy_halo_11584dbb25.ingest.json",
+      "status_code": 200,
+      "ok": true,
+      "response": "{\"ok\":true,\"id\":\"n_autosport_20260808_11584dbb25\"}"
+    },
+    {
+      "file": "c:\\Task_MP_NEWS\\20260808_autosport_isack_hadjar_explains_red_bull_culture_shock_after_racing_bulls_move_0ffa403d08.ingest.json",
+      "status_code": 200,
+      "ok": true,
+      "response": "{\"ok\":true,\"id\":\"n_autosport_20260808_0ffa403d08\"}"
+    }
+  ]
+}

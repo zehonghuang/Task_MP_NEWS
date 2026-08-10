@@ -4,8 +4,6 @@
 - 原文链接：https://www.motorsport.com/f1/news/toto-wolff-reveals-parenting-challenge-as-son-jack-leads-karting-championship/10845205/  
 - 发布时间：2026-08-09T11:09:00Z  
 
-![](https://cdn-9.motorsport.com/images/amp/Y9lNLpG2/s6/toto-wolff-mercedes.jpg)
-
 梅赛德斯一级方程式车队负责人托托·沃尔夫（ Toto Wolff ）已经开始寻找 他儿子杰克的享受之间的平衡 和雄心壮志，因为这位9岁的孩子最近在意大利赢得了卡丁车比赛的胜利。
 
 参加IAME卡丁车系列赛， 杰克·沃尔夫最近赢得了一场比赛的胜利，提升了他 在本赛季总决赛之前登上总冠军榜首。
@@ -17,6 +15,8 @@
 谈到儿子的评论， 沃尔夫承认在尝试时管理情感参与的困难 为年轻的赛车手创造一个健康的环境。
 
 我 認為 這 很 重要 ， 找到正确的平衡，因为显然作为父母，你在情感上 参与进来。 这是完全正常的， ”沃尔夫解释说。 “但他九岁，有这么多小孩，你需要 找到正确的平衡点，我们会尝试。 有时候我们会弄错。
+
+![](https://cdn.motorsport.com/images/mgl/27NooQX0/s1000/toto-wolff-mercedes.jpg)
 
 Toto Wolff ，梅赛德斯
 

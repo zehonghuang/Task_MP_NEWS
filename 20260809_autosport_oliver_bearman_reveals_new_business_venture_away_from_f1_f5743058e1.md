@@ -4,8 +4,6 @@
 - 原文链接：https://www.motorsport.com/f1/news/oliver-bearman-reveals-new-business-venture-away-from-f1/10845198/  
 - 发布时间：2026-08-09T10:12:00Z  
 
-![](https://cdn-9.motorsport.com/images/amp/6b8jDpn2/s6/oliver-bearman-haas-f1-team.jpg)
-
 哈斯一级方程式车手奥利弗·贝尔曼透露，他已经开了一家自行车店 和摩纳哥上空的咖啡馆，还有一群朋友。
 
 在F1 Beyond The Grid播客上露面时， 这位21岁的英国人谈到了他对自行车运动日益增长的热情。 将这项运动融入了他2026年F1竞选的训练中， Bearman现在已经将这种兴趣转化为一家位于 公国以外的丘陵。
@@ -19,6 +17,8 @@
 这家商店兼作咖啡馆， 作为骑自行车长途登山的停靠站。
 
 “这是我们自己的香蕉面包。这是我们自己的蛋糕。所以很不错。 这很愉快， ”他解释说。
+
+![](https://cdn.motorsport.com/images/mgl/6lmdXN40/s1000/oliver-bearman-haas-f1-team.jpg)
 
 Oliver Bearman ，哈斯F1车队
 

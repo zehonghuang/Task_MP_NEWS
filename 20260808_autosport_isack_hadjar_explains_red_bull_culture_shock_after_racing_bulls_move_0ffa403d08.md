@@ -4,8 +4,6 @@
 - 原文链接：https://www.motorsport.com/f1/news/isack-hadjar-explains-red-bull-culture-shock-after-racing-bulls-move/10845005/  
 - 发布时间：2026-08-08T13:47:00Z  
 
-![](https://cdn-6.motorsport.com/images/amp/6DGqX1DY/s6/6-isack-hadjar-red-bull.jpg)
-
 伊萨克·哈贾尔把自己从小红牛升入红牛一队的经历形容为一种“文化冲击”，不过这位 21 岁车手也强调，自己在青训体系中的多年经历让这次过渡仍然显得顺理成章。
 
 在 2025 年以小红牛新秀身份完成首个赛季之后，哈贾尔于 2026 赛季升入红牛，搭档四届 F1 世界冠军维斯塔潘。尽管两支车队同属一家能量饮料集团，哈贾尔承认，两边的工作环境差异仍然非常大。
@@ -17,6 +15,8 @@
 哈贾尔自 2021 年起就已经纳入红牛培养体系。他表示，自己此前参加过多次青训测试和 FP1 练习赛，包括在 2024 年阿布扎比大奖赛驾驶维斯塔潘的赛车，这些经历让这次升迁远没有一般竞争对手车队之间的转会那样突兀。
 
 他还指出，自己与现任工程师 “Woody”（Richard Wood）的合作，其实早在三年前那些最初的练习赛机会中就已经开始。
+
+![](https://cdn.motorsport.com/images/mgl/6n7bPgw0/s1000/isack-hadjar-red-bull-racing.jpg)
 
 伊萨克·哈贾尔，红牛车队。
 
