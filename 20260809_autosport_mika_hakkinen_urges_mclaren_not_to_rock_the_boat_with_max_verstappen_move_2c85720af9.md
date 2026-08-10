@@ -4,6 +4,8 @@
 - 原文链接：https://www.motorsport.com/f1/news/mika-hakkinen-urges-mclaren-not-to-rock-the-boat-with-max-verstappen-move/10845218/  
 - 发布时间：2026-08-09T11:32:00Z  
 
+![](https://cdn-9.motorsport.com/images/amp/68VWPy82/s6/mika-hakkinen.jpg)
+
 两届F1冠军米卡·哈基宁（ Mika Hakkinen ）警告迈凯轮不要 Max Verstappen ， 建议他的前团队保护其内部团队精神 避免在赛季中期车手市场猜测中“摇船”。
 
 与他的前迈凯轮队友David一起在Up To Speed播客上演讲 Coulthard, 这位芬兰传奇人物谈到了正在进行的F1 “愚蠢赛季” 和持续的谣言将红牛的Verstappen与潜在的举动联系起来 到沃金服装。

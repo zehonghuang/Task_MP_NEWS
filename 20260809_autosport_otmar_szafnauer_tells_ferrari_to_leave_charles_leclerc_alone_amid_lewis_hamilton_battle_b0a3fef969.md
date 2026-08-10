@@ -4,6 +4,8 @@
 - 原文链接：https://www.motorsport.com/f1/news/otmar-szafnauer-tells-ferrari-to-leave-charles-leclerc-alone-amid-lewis-hamilton-battle/10845241/  
 - 发布时间：2026-08-09T12:46:00Z  
 
+![](https://cdn-6.motorsport.com/images/amp/6grQMnVY/s6/charles-leclerc-ferrari.jpg)
+
 前阿尔卑斯车队负责人Otmar Szafnauer曾为法拉利管理层提供建议 反对让查尔斯·勒克莱尔（ Charles Leclerc ）在赛季中期正式坐下来， 坚持认为Maranello的服装应该“让他一个人呆着” ，因为他通过 与刘易斯·汉密尔顿共度充满挑战的时期。
 
 与前法拉利车队一起在高性能赛车播客上演讲 工程师Rob Smedley 和主持人Jake Humphrey ， Szafnauer在2026年的季中回顾中提出了他的见解 冠军

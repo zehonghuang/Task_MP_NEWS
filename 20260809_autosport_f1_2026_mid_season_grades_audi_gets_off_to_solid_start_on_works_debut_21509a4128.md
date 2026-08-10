@@ -4,6 +4,8 @@
 - 原文链接：https://www.motorsport.com/f1/news/f1-2026-mid-season-grades-audi-gets-off-to-solid-start-on-works-debut/10845164/  
 - 发布时间：2026-08-09T11:04:00Z  
 
+![](https://cdn-5.motorsport.com/images/amp/2GdKDEzY/s6/team-report-card-audi.jpg)
+
 去年冬天，当奥迪在柏林展示其F1项目时， 它设定了到2030年赢得世界锦标赛的明确目标。 这家德国巨头习惯于在它进入的任何赛车运动领域取得成功， 无论是耐力赛还是达喀尔拉力赛， 但它也承认要走很长的路才能到达那里。
 
 奥迪以12分的成绩进入暑假第八名 在7月份开始将其节奏转换为积分后。

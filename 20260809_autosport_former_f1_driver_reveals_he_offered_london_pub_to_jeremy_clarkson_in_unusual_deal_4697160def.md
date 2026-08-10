@@ -4,6 +4,8 @@
 - 原文链接：https://www.motorsport.com/f1/news/former-f1-driver-reveals-he-offered-london-pub-to-jeremy-clarkson-in-unusual-deal/10845369/  
 - 发布时间：2026-08-09T22:40:00Z  
 
+![](https://cdn-7.motorsport.com/images/amp/6grBgznY/s6/jeremy-clarkson-enters-the-pad.jpg)
+
 前一级方程式车手David Coulthard透露，他曾经 苦苦挣扎的伦敦西南部酒吧 免费发给前Top Gear主持人Jeremy Clarkson 来挽救这家合资企业。
 
 在与主持人Jodie Kidd的随车采访中， 前威廉姆斯、迈凯轮 红牛车手解释了他是如何联系克拉克森的 酒吧、 棕色的狗，做生意。
