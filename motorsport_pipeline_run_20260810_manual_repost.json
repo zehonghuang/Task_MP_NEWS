@@ -1,0 +1,62 @@
+[
+  {
+    "file": "c:\\Task_MP_NEWS\\20260808_autosport_isack_hadjar_explains_red_bull_culture_shock_after_racing_bulls_move_0ffa403d08.ingest.json",
+    "status_code": 200,
+    "ok": true,
+    "response": "{\"ok\":true,\"id\":\"n_autosport_20260808_0ffa403d08\"}"
+  },
+  {
+    "file": "c:\\Task_MP_NEWS\\20260808_autosport_lewis_hamilton_shares_first_photos_with_new_puppy_halo_11584dbb25.ingest.json",
+    "status_code": 200,
+    "ok": true,
+    "response": "{\"ok\":true,\"id\":\"n_autosport_20260808_11584dbb25\"}"
+  },
+  {
+    "file": "c:\\Task_MP_NEWS\\20260809_autosport_f1_2026_mid_season_grades_audi_gets_off_to_solid_start_on_works_debut_21509a4128.ingest.json",
+    "status_code": 200,
+    "ok": true,
+    "response": "{\"ok\":true,\"id\":\"n_autosport_20260809_21509a4128\"}"
+  },
+  {
+    "file": "c:\\Task_MP_NEWS\\20260809_autosport_former_f1_driver_reveals_he_offered_london_pub_to_jeremy_clarkson_in_unusual_deal_4697160def.ingest.json",
+    "status_code": 200,
+    "ok": true,
+    "response": "{\"ok\":true,\"id\":\"n_autosport_20260809_4697160def\"}"
+  },
+  {
+    "file": "c:\\Task_MP_NEWS\\20260809_autosport_gabriel_bortoleto_refutes_idea_of_f1_2026_cars_clashing_with_driving_styles_10330e9862.ingest.json",
+    "status_code": 200,
+    "ok": true,
+    "response": "{\"ok\":true,\"id\":\"n_autosport_20260809_10330e9862\"}"
+  },
+  {
+    "file": "c:\\Task_MP_NEWS\\20260809_autosport_george_russell_announces_engagement_to_long_term_partner_carmen_montero_mundt_49af61fd87.ingest.json",
+    "status_code": 200,
+    "ok": true,
+    "response": "{\"ok\":true,\"id\":\"n_autosport_20260809_49af61fd87\"}"
+  },
+  {
+    "file": "c:\\Task_MP_NEWS\\20260809_autosport_mika_hakkinen_urges_mclaren_not_to_rock_the_boat_with_max_verstappen_move_2c85720af9.ingest.json",
+    "status_code": 200,
+    "ok": true,
+    "response": "{\"ok\":true,\"id\":\"n_autosport_20260809_2c85720af9\"}"
+  },
+  {
+    "file": "c:\\Task_MP_NEWS\\20260809_autosport_oliver_bearman_reveals_new_business_venture_away_from_f1_f5743058e1.ingest.json",
+    "status_code": 200,
+    "ok": true,
+    "response": "{\"ok\":true,\"id\":\"n_autosport_20260809_f5743058e1\"}"
+  },
+  {
+    "file": "c:\\Task_MP_NEWS\\20260809_autosport_otmar_szafnauer_tells_ferrari_to_leave_charles_leclerc_alone_amid_lewis_hamilton_battle_b0a3fef969.ingest.json",
+    "status_code": 200,
+    "ok": true,
+    "response": "{\"ok\":true,\"id\":\"n_autosport_20260809_b0a3fef969\"}"
+  },
+  {
+    "file": "c:\\Task_MP_NEWS\\20260809_autosport_toto_wolff_reveals_parenting_challenge_as_son_jack_leads_karting_championship_69855573fd.ingest.json",
+    "status_code": 200,
+    "ok": true,
+    "response": "{\"ok\":true,\"id\":\"n_autosport_20260809_69855573fd\"}"
+  }
+]

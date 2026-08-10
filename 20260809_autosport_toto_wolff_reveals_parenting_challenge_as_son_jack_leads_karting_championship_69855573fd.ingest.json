@@ -1,0 +1,141 @@
+{
+  "id": "n_autosport_20260809_69855573fd",
+  "layout_code": "STANDARD",
+  "type_code": "PADDOCK",
+  "tag_text": "Mercedes / 场外",
+  "tags": [
+    "mercedes",
+    "offtrack"
+  ],
+  "title": "托托·沃尔夫（ Toto Wolff ）揭示了儿子杰克（ Jack ）带领卡丁车锦标赛时",
+  "summary": "托托·沃尔夫（ Toto Wolff ）讨论了平衡雄心壮 和他九岁的儿子杰克的享受，因为年轻的卡特领导着IAME 冠军",
+  "cover_url": "https://cdn-9.motorsport.com/images/amp/Y9lNLpG2/s6/toto-wolff-mercedes.jpg",
+  "published_at": "2026-08-09T11:09:00Z",
+  "source": {
+    "name": "Autosport",
+    "url": "https://www.motorsport.com/f1/news/toto-wolff-reveals-parenting-challenge-as-son-jack-leads-karting-championship/10845205/"
+  },
+  "content": {
+    "format_code": "RICH_TEXT_NODES",
+    "text": "梅赛德斯一级方程式车队负责人托托·沃尔夫（ Toto Wolff ）已经开始寻找 他儿子杰克的享受之间的平衡 和雄心壮志，因为这位9岁的孩子最近在意大利赢得了卡丁车比赛的胜利。\n\n参加IAME卡丁车系列赛， 杰克·沃尔夫最近赢得了一场比赛的胜利，提升了他 在本赛季总决赛之前登上总冠军榜首。\n\n在巡回演讲中， 梅赛德斯酋长直接比较了基层 赛车运动 和F1。 “这就是一切开始的地方。 一级方程式基本上是类固醇， ”沃尔夫说。 “同样的赛车和观看孩子们只是一种超级体验。”\n\n在活动的联合采访中， 有人问杰克是否感受到了冠军的压力。 九岁小孩简单的回答道： “是。”\n\n谈到儿子的评论， 沃尔夫承认在尝试时管理情感参与的困难 为年轻的赛车手创造一个健康的环境。\n\n我 認為 這 很 重要 ， 找到正确的平衡，因为显然作为父母，你在情感上 参与进来。 这是完全正常的， ”沃尔夫解释说。 “但他九岁，有这么多小孩，你需要 找到正确的平衡点，我们会尝试。 有时候我们会弄错。\n\nToto Wolff ，梅赛德斯\n\n摄影： Sam Bagnall/Sutton Images via Getty Images\n\n“你有困难的时刻，他今天有一些困难的时刻 最终，一切都会融合在一起， 每一次小小的失败都是对未来的学习， ”他补充道。\n\n当被问及他会给出什么建议时 给其他在竞技初级卡丁车运动中努力的孩子的父母 等级 沃尔夫说： “给他们一点时间。 他们太小了，让他们享受卡丁车，这是最重要的。”\n\n采访很快在社交媒体上传播开来。“杰克会成为一头野兽。 他被天赋抚养长大。 其实很期待看到他进步，天赋已经开始 ”一位粉丝在TikTok上评论道。\n\n“他总有一天会在F1中与费尔南多·阿隆索比赛，”另一个人开玩笑说， 另一位粉丝发帖： “他是苏茜的复制品！”",
+    "nodes": [
+      {
+        "name": "img",
+        "attrs": {
+          "src": "https://cdn-9.motorsport.com/images/amp/Y9lNLpG2/s6/toto-wolff-mercedes.jpg",
+          "mode": "widthFix",
+          "style": "width:100%;display:block;",
+          "alt": ""
+        }
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "梅赛德斯一级方程式车队负责人托托·沃尔夫（ Toto Wolff ）已经开始寻找 他儿子杰克的享受之间的平衡 和雄心壮志，因为这位9岁的孩子最近在意大利赢得了卡丁车比赛的胜利。"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "参加IAME卡丁车系列赛， 杰克·沃尔夫最近赢得了一场比赛的胜利，提升了他 在本赛季总决赛之前登上总冠军榜首。"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "在巡回演讲中， 梅赛德斯酋长直接比较了基层 赛车运动 和F1。 “这就是一切开始的地方。 一级方程式基本上是类固醇， ”沃尔夫说。 “同样的赛车和观看孩子们只是一种超级体验。”"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "在活动的联合采访中， 有人问杰克是否感受到了冠军的压力。 九岁小孩简单的回答道： “是。”"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "谈到儿子的评论， 沃尔夫承认在尝试时管理情感参与的困难 为年轻的赛车手创造一个健康的环境。"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "我 認為 這 很 重要 ， 找到正确的平衡，因为显然作为父母，你在情感上 参与进来。 这是完全正常的， ”沃尔夫解释说。 “但他九岁，有这么多小孩，你需要 找到正确的平衡点，我们会尝试。 有时候我们会弄错。"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "Toto Wolff ，梅赛德斯"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "摄影： Sam Bagnall/Sutton Images via Getty Images"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "“你有困难的时刻，他今天有一些困难的时刻 最终，一切都会融合在一起， 每一次小小的失败都是对未来的学习， ”他补充道。"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "当被问及他会给出什么建议时 给其他在竞技初级卡丁车运动中努力的孩子的父母 等级 沃尔夫说： “给他们一点时间。 他们太小了，让他们享受卡丁车，这是最重要的。”"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "采访很快在社交媒体上传播开来。“杰克会成为一头野兽。 他被天赋抚养长大。 其实很期待看到他进步，天赋已经开始 ”一位粉丝在TikTok上评论道。"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "“他总有一天会在F1中与费尔南多·阿隆索比赛，”另一个人开玩笑说， 另一位粉丝发帖： “他是苏茜的复制品！”"
+          }
+        ]
+      }
+    ]
+  }
+}
