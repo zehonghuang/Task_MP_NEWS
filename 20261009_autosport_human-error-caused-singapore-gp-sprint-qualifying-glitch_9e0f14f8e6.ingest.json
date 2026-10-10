@@ -1,0 +1,108 @@
+{
+  "id": "n_autosport_20261009_9e0f14f8e6",
+  "layout_code": "STANDARD",
+  "type_code": "REGULATION",
+  "tag_text": "FIA / 失误",
+  "tags": [
+    "fia",
+    "error",
+    "singapore",
+    "sprint",
+    "overtakemode"
+  ],
+  "title": "FIA 承认：新加坡站冲刺排位故障源于人为失误",
+  "summary": "FIA 确认，新加坡站冲刺排位 SQ1 红旗后的超车模式没有按流程重新开启，确系比赛控制中的人为失误所致，并已影响到部分赛车的圈速表现。",
+  "cover_url": "https://cdn-1.motorsport.com/images/amp/0rVPvvW0/s6/gabriel-bortoleto-equipe-audi-.jpg",
+  "published_at": "2026-10-09T14:36:22+00:00",
+  "source": {
+    "name": "Autosport",
+    "url": "https://www.motorsport.com/f1/news/human-error-caused-singapore-gp-sprint-qualifying-glitch/10863489/"
+  },
+  "content": {
+    "format_code": "RICH_TEXT_NODES",
+    "text": "FIA 已经承认，在新加坡大奖赛冲刺排位 SQ1 期间，比赛控制中的一次人为失误影响了超车模式的正常运行。\n\n根据官方声明，在因塞尔吉奥·佩雷兹事故引发红旗后，超车模式并没有在比赛重启时恢复可用。等到 FIA 发现系统未被激活时，比赛控制只让这一模式工作了 27 秒，随后又再次将其关闭。\n\nFIA 表示，这一失误确实影响到了部分赛车在 SQ1 中的性能表现，具体影响程度取决于各车当时所处的赛道位置，以及它们是在什么时间点完成自己的飞驰圈。\n\n不过，FIA 同时强调，这一问题并没有影响后续的 SQ2 与 SQ3。官方还特别说明，这次人为失误与 SQ1 中同步发生的另一项计时系统故障并无关联，两者是彼此独立的事件。\n\n在随后公布的完整说明中，FIA 写道：“在冲刺排位第一阶段，比赛控制中出现了一次人为失误，这与 SQ1 中同时发生的计时问题无关。这次失误导致超车模式在红旗阶段结束后并未恢复可用。”\n\n声明继续指出：“当我们意识到重启后超车模式没有被激活时，系统被开启了 27 秒，随后又再次被关闭。”\n\nFIA 还表示：“FIA 承认，这一令人遗憾的人为失误，对某些赛车的表现产生了影响，而影响程度取决于它们完成飞驰圈的时机以及在赛道上的位置。”\n\n最后，FIA 重申：“冲刺排位的第二和第三阶段并未受到影响。”",
+    "nodes": [
+      {
+        "name": "img",
+        "attrs": {
+          "src": "https://cdn-1.motorsport.com/images/amp/0rVPvvW0/s6/gabriel-bortoleto-equipe-audi-.jpg",
+          "mode": "widthFix",
+          "style": "width:100%;display:block;",
+          "alt": "加布里埃尔·博托莱托，奥迪"
+        }
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "FIA 已经承认，在新加坡大奖赛冲刺排位 SQ1 期间，比赛控制中的一次人为失误影响了超车模式的正常运行。"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "根据官方声明，在因塞尔吉奥·佩雷兹事故引发红旗后，超车模式并没有在比赛重启时恢复可用。等到 FIA 发现系统未被激活时，比赛控制只让这一模式工作了 27 秒，随后又再次将其关闭。"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "FIA 表示，这一失误确实影响到了部分赛车在 SQ1 中的性能表现，具体影响程度取决于各车当时所处的赛道位置，以及它们是在什么时间点完成自己的飞驰圈。"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "不过，FIA 同时强调，这一问题并没有影响后续的 SQ2 与 SQ3。官方还特别说明，这次人为失误与 SQ1 中同步发生的另一项计时系统故障并无关联，两者是彼此独立的事件。"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "在随后公布的完整说明中，FIA 写道：“在冲刺排位第一阶段，比赛控制中出现了一次人为失误，这与 SQ1 中同时发生的计时问题无关。这次失误导致超车模式在红旗阶段结束后并未恢复可用。”"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "声明继续指出：“当我们意识到重启后超车模式没有被激活时，系统被开启了 27 秒，随后又再次被关闭。”"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "FIA 还表示：“FIA 承认，这一令人遗憾的人为失误，对某些赛车的表现产生了影响，而影响程度取决于它们完成飞驰圈的时机以及在赛道上的位置。”"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "最后，FIA 重申：“冲刺排位的第二和第三阶段并未受到影响。”"
+          }
+        ]
+      }
+    ]
+  }
+}
