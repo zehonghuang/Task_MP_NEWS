@@ -97,6 +97,14 @@
         ]
       },
       {
+        "name": "img",
+        "attrs": {
+          "src": "https://cdn.motorsport.com/images/mgl/YE9EqeDY/s1000/lando-norris-mclaren.jpg",
+          "mode": "widthFix",
+          "style": "width:100%;display:block;"
+        }
+      },
+      {
         "name": "p",
         "children": [
           {
@@ -158,6 +166,14 @@
             "text": "“我和刘易斯显然都想看看谁能在1号弯刹得更晚。他在1号弯甚至都没刹车，这就意味着我也只能跟着冲出去。那样的话，我本来或许可以对基米形成更好的防守，也许还能争一争领奖台。”"
           }
         ]
+      },
+      {
+        "name": "img",
+        "attrs": {
+          "src": "https://cdn.motorsport.com/images/mgl/0JXRqBoY/s1000/lewis-hamilton-ferrari-lando-n.jpg",
+          "mode": "widthFix",
+          "style": "width:100%;display:block;"
+        }
       },
       {
         "name": "p",

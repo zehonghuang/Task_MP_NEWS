@@ -60,6 +60,14 @@
         ]
       },
       {
+        "name": "img",
+        "attrs": {
+          "src": "https://cdn.motorsport.com/images/mgl/6DGgo3GY/s1000/charles-leclerc-ferrari-max-ve.jpg",
+          "mode": "widthFix",
+          "style": "width:100%;display:block;"
+        }
+      },
+      {
         "name": "p",
         "children": [
           {

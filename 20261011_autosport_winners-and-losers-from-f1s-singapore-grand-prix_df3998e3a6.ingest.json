@@ -51,6 +51,14 @@
         ]
       },
       {
+        "name": "img",
+        "attrs": {
+          "src": "https://cdn.motorsport.com/images/mgl/2Qed4eP2/s1000/max-verstappen-red-bull-racing.jpg",
+          "mode": "widthFix",
+          "style": "width:100%;display:block;"
+        }
+      },
+      {
         "name": "p",
         "children": [
           {
@@ -85,6 +93,14 @@
             "text": "如果这真的是F1历史上最成功的搭档之一的终章，那么维斯塔潘和兰比亚塞无疑是以最漂亮的方式谢幕：横扫整个新加坡冲刺周末，而无线电系统的小故障，又给这个充满情绪的夜晚增添了一丝喜剧色彩。"
           }
         ]
+      },
+      {
+        "name": "img",
+        "attrs": {
+          "src": "https://cdn.motorsport.com/images/mgl/2jEAoXP0/s1000/lewis-hamilton-ferrari-lando-n.jpg",
+          "mode": "widthFix",
+          "style": "width:100%;display:block;"
+        }
       },
       {
         "name": "p",
@@ -132,6 +148,14 @@
         ]
       },
       {
+        "name": "img",
+        "attrs": {
+          "src": "https://cdn.motorsport.com/images/mgl/YpbAGnX0/s1000/lando-norris-mclaren-oscar-pia.jpg",
+          "mode": "widthFix",
+          "style": "width:100%;display:block;"
+        }
+      },
+      {
         "name": "p",
         "children": [
           {
@@ -175,6 +199,14 @@
             "text": "当被问到，维斯塔潘目前在积分榜上并没有比现在更进一步接近自己，他是否会因此感到高兴时，安东内利回答说：“是啊，我知道，因为那会很可怕。那会非常、非常可怕。”"
           }
         ]
+      },
+      {
+        "name": "img",
+        "attrs": {
+          "src": "https://cdn.motorsport.com/images/mgl/6grQoqmY/s1000/andrea-kimi-antonelli-mercedes.jpg",
+          "mode": "widthFix",
+          "style": "width:100%;display:block;"
+        }
       },
       {
         "name": "p",
@@ -238,6 +270,14 @@
             "text": "我们都知道，这里的正确答案其实是阿斯顿·马丁；而经常阅读本专栏的人也会知道，我们并不喜欢在一群努力工作的人已经处于低谷时，还反复补上一脚。不过，这本该是一条适合AMR26与本田引擎组合发挥的赛道，但如果后者没能按应有方式工作，这一点就没有多少意义。"
           }
         ]
+      },
+      {
+        "name": "img",
+        "attrs": {
+          "src": "https://cdn.motorsport.com/images/mgl/0LdeKvg0/s1000/lance-stroll-aston-martin-raci.jpg",
+          "mode": "widthFix",
+          "style": "width:100%;display:block;"
+        }
       },
       {
         "name": "p",

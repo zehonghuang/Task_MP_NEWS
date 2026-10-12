@@ -97,6 +97,14 @@
         ]
       },
       {
+        "name": "img",
+        "attrs": {
+          "src": "https://cdn.motorsport.com/images/mgl/27NogKX0/s1000/frederic-vasseur-ferrari.jpg",
+          "mode": "widthFix",
+          "style": "width:100%;display:block;"
+        }
+      },
+      {
         "name": "p",
         "children": [
           {
@@ -131,6 +139,14 @@
             "text": "“但我认为，这一次对我来说其实是很清楚的。不过我也必须尊重他们在车里的感受。”"
           }
         ]
+      },
+      {
+        "name": "img",
+        "attrs": {
+          "src": "https://cdn.motorsport.com/images/mgl/YBVjKnJY/s1000/lewis-hamilton-ferrari.jpg",
+          "mode": "widthFix",
+          "style": "width:100%;display:block;"
+        }
       },
       {
         "name": "p",

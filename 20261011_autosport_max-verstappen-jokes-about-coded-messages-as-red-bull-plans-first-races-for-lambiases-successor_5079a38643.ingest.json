@@ -96,6 +96,14 @@
         ]
       },
       {
+        "name": "img",
+        "attrs": {
+          "src": "https://cdn.motorsport.com/images/mgl/0mXyoy46/s1000/charles-leclerc-ferrari-max-ve.jpg",
+          "mode": "widthFix",
+          "style": "width:100%;display:block;"
+        }
+      },
+      {
         "name": "p",
         "children": [
           {
@@ -157,6 +165,14 @@
             "text": "“当然，我们会像对待其他所有问题一样严肃对待这件事。我相信我们会拿出一个强有力的解决方案，因为它有可能在关键时刻让你损失决定性的时间。”"
           }
         ]
+      },
+      {
+        "name": "img",
+        "attrs": {
+          "src": "https://cdn.motorsport.com/images/mgl/6lmAom80/s1000/max-verstappen-red-bull-racing.jpg",
+          "mode": "widthFix",
+          "style": "width:100%;display:block;"
+        }
       },
       {
         "name": "p",
