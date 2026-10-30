@@ -1,8 +1,9 @@
 {
   "source": "https://www.motorsport.com/f1/news/",
-  "fetched_at": "2026-10-31T00:55:22+08:00",
+  "fetched_at": "2026-10-31T01:26:32+08:00",
   "count": 10,
   "urls": [
+    "https://www.motorsport.com/f1/news/serio-perez-to-skip-f1-mexico-gp-fan-forum-due-to-illness/10869750/",
     "https://www.motorsport.com/f1/news/lewis-hamilton-on-why-he-is-built-differently-to-stay-in-f1-for-the-foreseeable-future/10869704/",
     "https://www.motorsport.com/f1/news/slippery-as-hell-max-verstappen-and-isack-hadjar-explain-the-extreme-challenge-of-mexico/10869483/",
     "https://www.motorsport.com/f1/news/sergio-perez-praises-colton-herta-impact-but-has-no-say-over-2027-cadillac-team-mate-choice/10869487/",
@@ -11,7 +12,6 @@
     "https://www.motorsport.com/f1/news/why-f1s-new-regulations-make-the-mexican-gp-an-even-bigger-challenge/10869622/",
     "https://www.motorsport.com/f1/news/audi-pays-tribute-as-f1-stalwart-beat-zehnder-set-for-exit/10869594/",
     "https://www.motorsport.com/f1/news/george-russell-predicts-key-ferrari-advantage-at-f1-mexico-gp/10869473/",
-    "https://www.motorsport.com/f1/news/two-steps-forward-one-step-back-piastri-explains-the-route-out-of-mclarens-car-woes/10869477/",
-    "https://www.motorsport.com/f1/news/remembering-sir-patrick-stewarts-unforgettable-moment-on-the-f1-podium-with-daniel-ricciardo/10869481/"
+    "https://www.motorsport.com/f1/news/two-steps-forward-one-step-back-piastri-explains-the-route-out-of-mclarens-car-woes/10869477/"
   ]
 }
