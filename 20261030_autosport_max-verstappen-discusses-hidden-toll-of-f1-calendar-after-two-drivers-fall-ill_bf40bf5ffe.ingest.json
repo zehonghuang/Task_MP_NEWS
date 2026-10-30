@@ -1,0 +1,139 @@
+{
+  "id": "n_autosport_20261030_bf40bf5ffe",
+  "layout_code": "STANDARD",
+  "type_code": "PADDOCK",
+  "pinned": false,
+  "weight": 0,
+  "tag_text": "Verstappen / 发声",
+  "tags": [
+    "verstappen",
+    "3",
+    "antonelli",
+    "12",
+    "bottas",
+    "77"
+  ],
+  "title": "马克斯·维斯塔潘在两位车手病倒后谈及F1赛历带来的消耗",
+  "summary": "马克斯·维斯塔潘强调了F1三连赛对身体的消耗。",
+  "cover_url": "https://cdn-5.motorsport.com/images/amp/6Alv4JEY/s6/motorsport-com-graphics-32.webp",
+  "published_at": "2026-10-30T01:27:00+00:00",
+  "time_text": "",
+  "source": {
+    "name": "Autosport",
+    "url": "https://www.motorsport.com/f1/news/max-verstappen-discusses-hidden-toll-of-f1-calendar-after-two-drivers-fall-ill/10869459/"
+  },
+  "content": {
+    "format_code": "RICH_TEXT_NODES",
+    "text": "四届F1世界冠军马克斯·维斯塔潘表示，在两位车手缺席了墨西哥城周四的媒体日之后，车手和车队成员在这个赛季阶段生病是“很正常”的。\n\n积分榜领跑者基米·安东内利因病毒性不适而免于履行媒体任务，梅赛德斯预计这位意大利车手将在周五练习赛回到赛道。凯迪拉克车队的瓦尔特里·博塔斯同样因病缺席媒体日，这支美国车队表示这是一种预防性安排。\n\n墨西哥是三连赛的第二站：继上周的美国大奖赛之后，接下来是下周的巴西大奖赛。2026赛季的最后九个比赛周末被安排成三个三连赛，彼此之间各有一周的间歇。\n\n在墨西哥接受媒体采访时，维斯塔潘被问到这段连续比赛有多艰难。\n\n“当然，连续三周对你的身体总是相当艰难。有时候，你多少会碰上点不走运，比如某个肠胃小毛病，”这位荷兰人解释道。\n\n马克斯·维斯塔潘，红牛车队，向杆位得主丹尼尔·里卡多（红牛车队）表示祝贺\n\n图片来源：Zak Mauger / LAT Images via Getty Images\n\n“但在一年中的这个时候，通常是不仅车手，连技师和车队里的人都会生病。因为你的身体可以承受很多压力。但到了某个点，它当然也会告诉你：它需要一点恢复的阶段。\n\n“这是你必须始终掌控好的事情。有些年份会比其他年份顺利一些。我想，随着你经历的赛季越多，你也会从中学习、慢慢了解这一点。有时候有些事情是你无法预防的。但可以肯定的是，这永远都非常艰难。\n\n“对我来说，最难熬的部分是，你在两站之间基本上无法回家陪伴家人。如今的对我来说，这是三连赛里我并不真正享受的一点。”",
+    "nodes": [
+      {
+        "name": "img",
+        "attrs": {
+          "src": "https://cdn-5.motorsport.com/images/amp/6Alv4JEY/s6/motorsport-com-graphics-32.webp",
+          "mode": "widthFix",
+          "style": "width:100%;display:block;",
+          "alt": "马克斯·维斯塔潘，红牛车队"
+        }
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "四届F1世界冠军马克斯·维斯塔潘表示，在两位车手缺席了墨西哥城周四的媒体日之后，车手和车队成员在这个赛季阶段生病是“很正常”的。"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "积分榜领跑者基米·安东内利因病毒性不适而免于履行媒体任务，梅赛德斯预计这位意大利车手将在周五练习赛回到赛道。凯迪拉克车队的瓦尔特里·博塔斯同样因病缺席媒体日，这支美国车队表示这是一种预防性安排。"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "墨西哥是三连赛的第二站：继上周的美国大奖赛之后，接下来是下周的巴西大奖赛。2026赛季的最后九个比赛周末被安排成三个三连赛，彼此之间各有一周的间歇。"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "在墨西哥接受媒体采访时，维斯塔潘被问到这段连续比赛有多艰难。"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "“当然，连续三周对你的身体总是相当艰难。有时候，你多少会碰上点不走运，比如某个肠胃小毛病，”这位荷兰人解释道。"
+          }
+        ]
+      },
+      {
+        "name": "img",
+        "attrs": {
+          "src": "https://cdn.motorsport.com/images/mgl/YpbABwX0/s1000/max-verstappen-red-bull-racing.jpg",
+          "mode": "widthFix",
+          "style": "width:100%;display:block;",
+          "alt": "维斯塔潘向杆位得主里卡多祝贺"
+        }
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "马克斯·维斯塔潘，红牛车队，向杆位得主丹尼尔·里卡多（红牛车队）表示祝贺"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "图片来源：Zak Mauger / LAT Images via Getty Images"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "“但在一年中的这个时候，通常是不仅车手，连技师和车队里的人都会生病。因为你的身体可以承受很多压力。但到了某个点，它当然也会告诉你：它需要一点恢复的阶段。"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "“这是你必须始终掌控好的事情。有些年份会比其他年份顺利一些。我想，随着你经历的赛季越多，你也会从中学习、慢慢了解这一点。有时候有些事情是你无法预防的。但可以肯定的是，这永远都非常艰难。"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "“对我来说，最难熬的部分是，你在两站之间基本上无法回家陪伴家人。如今的对我来说，这是三连赛里我并不真正享受的一点。”"
+          }
+        ]
+      }
+    ]
+  }
+}
