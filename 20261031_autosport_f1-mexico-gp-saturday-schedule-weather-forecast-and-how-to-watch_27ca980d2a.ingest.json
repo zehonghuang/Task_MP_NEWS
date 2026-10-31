@@ -1,0 +1,281 @@
+{
+  "id": "n_autosport_20261031_27ca980d2a",
+  "layout_code": "STANDARD",
+  "type_code": "PADDOCK",
+  "pinned": false,
+  "weight": 0,
+  "tag_text": "墨西哥GP / 日程",
+  "tags": [
+    "mexico",
+    "schedule",
+    "weather",
+    "qualifying"
+  ],
+  "title": "F1墨西哥站周六赛程、天气预报与观赛指南",
+  "summary": "F1墨西哥站进入周六：勒克莱尔包揽周五两节练习赛头名，三车队混战一触即发。本文汇总FP3与排位赛时间、全球观赛渠道、周六天气预报与高原赛道数据。",
+  "cover_url": "https://cdn-6.motorsport.com/images/amp/YK15REr0/s6/andrea-kimi-antonelli-mercedes.jpg",
+  "published_at": "2026-10-31T00:11:58+00:00",
+  "time_text": "",
+  "source": {
+    "name": "Autosport",
+    "url": "https://www.motorsport.com/f1/news/f1-mexico-gp-saturday-schedule-weather-forecast-and-how-to-watch/10869882/"
+  },
+  "content": {
+    "format_code": "RICH_TEXT_NODES",
+    "text": "F1将在墨西哥城进入周六的比赛日，夏尔·勒克莱尔在包揽周五两节练习赛后继续领跑节奏榜，赛道为罗德里格斯兄弟赛道。\n\n勒克莱尔在FP2中以0.103秒力压兰多·诺里斯，乔治·拉塞尔仅再慢0.003秒位列第三。积分榜领先者基米·安东内利排在第四，身前是马克斯·维斯塔潘——进入排位赛时三支车队彼此紧咬。\n\n不过法拉利周五并非全然顺利，刘易斯·汉密尔顿在FP2中途失去动力并停在赛道上。\n\n安东内利仍然处在拿下个人首个F1世界冠军的门槛上，而周六排位赛的结果将决定他能否带着有利位置进入周日、完成收官一击。\n\n以下是关于墨西哥站周六赛程你需要了解的全部信息。\n\n【如何观看F1墨西哥站？】\n\n你的观赛方式取决于所在地区。对英国观众而言，Sky Sports依然是该项锦标赛的独家转播方，整个2026赛季全程直播每一节比赛；F1转播也可通过Sky Go或NOW流媒体观看，集锦则在Channel 4免费播出。\n\n在美国，Apple TV是2026赛季的主要转播伙伴，根据多年协议所有环节的比赛都在该平台播出。F1 TV仍是这项系列赛面向全球的订阅流媒体服务。\n\nMotorsport.com将在墨西哥站整个周末持续提供现场报道与实时更新。\n\n【F1墨西哥站周六赛程】\n\n墨西哥城当地时间：\n\n10月31日周六——第三节练习赛（FP3）——11:30（当地时间CST）\n\n10月31日周六——排位赛——15:00（当地时间CST）\n\n英国时间：\n\n10月31日周六——FP3——17:30（GMT）\n\n10月31日周六——排位赛——21:00（GMT）\n\n美国东部时间：\n\n10月31日周六——FP3——13:30（ET）\n\n10月31日周六——排位赛——17:00（ET）\n\n【F1墨西哥站完整周末赛程】\n\n所有时间均为墨西哥城当地时间：\n\n【墨西哥站周六天气预报】\n\n排位赛之前的天气情况相当明朗。周六墨西哥城开局晴朗干燥，FP3时段气温大约在24-26°C。\n\n排位赛时的条件可能变得不那么稳定，气温升至26-27°C，并有短时阵雨的可能，但预计不会有大雨。\n\n目前预测周日正赛日墨西哥大奖赛将是晴朗干燥的天气。\n\n【墨西哥站赛道数据】\n\n罗德里格斯兄弟赛道海拔超过2200米，稀薄的空气给散热、空气动力学和动力单元带来了非同寻常的要求，尽管这条赛道的布局其实相对常规。超长的直路和体育场路段是它最标志性的特征。",
+    "nodes": [
+      {
+        "name": "img",
+        "attrs": {
+          "src": "https://cdn-6.motorsport.com/images/amp/YK15REr0/s6/andrea-kimi-antonelli-mercedes.jpg",
+          "mode": "widthFix",
+          "style": "width:100%;display:block;",
+          "alt": "基米·安东内利，梅赛德斯"
+        }
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "F1将在墨西哥城进入周六的比赛日，夏尔·勒克莱尔在包揽周五两节练习赛后继续领跑节奏榜，赛道为罗德里格斯兄弟赛道。"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "勒克莱尔在FP2中以0.103秒力压兰多·诺里斯，乔治·拉塞尔仅再慢0.003秒位列第三。积分榜领先者基米·安东内利排在第四，身前是马克斯·维斯塔潘——进入排位赛时三支车队彼此紧咬。"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "不过法拉利周五并非全然顺利，刘易斯·汉密尔顿在FP2中途失去动力并停在赛道上。"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "安东内利仍然处在拿下个人首个F1世界冠军的门槛上，而周六排位赛的结果将决定他能否带着有利位置进入周日、完成收官一击。"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "以下是关于墨西哥站周六赛程你需要了解的全部信息。"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "【如何观看F1墨西哥站？】"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "你的观赛方式取决于所在地区。对英国观众而言，Sky Sports依然是该项锦标赛的独家转播方，整个2026赛季全程直播每一节比赛；F1转播也可通过Sky Go或NOW流媒体观看，集锦则在Channel 4免费播出。"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "在美国，Apple TV是2026赛季的主要转播伙伴，根据多年协议所有环节的比赛都在该平台播出。F1 TV仍是这项系列赛面向全球的订阅流媒体服务。"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "Motorsport.com将在墨西哥站整个周末持续提供现场报道与实时更新。"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "【F1墨西哥站周六赛程】"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "墨西哥城当地时间："
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "10月31日周六——第三节练习赛（FP3）——11:30（当地时间CST）"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "10月31日周六——排位赛——15:00（当地时间CST）"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "英国时间："
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "10月31日周六——FP3——17:30（GMT）"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "10月31日周六——排位赛——21:00（GMT）"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "美国东部时间："
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "10月31日周六——FP3——13:30（ET）"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "10月31日周六——排位赛——17:00（ET）"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "【F1墨西哥站完整周末赛程】"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "所有时间均为墨西哥城当地时间："
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "【墨西哥站周六天气预报】"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "排位赛之前的天气情况相当明朗。周六墨西哥城开局晴朗干燥，FP3时段气温大约在24-26°C。"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "排位赛时的条件可能变得不那么稳定，气温升至26-27°C，并有短时阵雨的可能，但预计不会有大雨。"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "目前预测周日正赛日墨西哥大奖赛将是晴朗干燥的天气。"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "【墨西哥站赛道数据】"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "罗德里格斯兄弟赛道海拔超过2200米，稀薄的空气给散热、空气动力学和动力单元带来了非同寻常的要求，尽管这条赛道的布局其实相对常规。超长的直路和体育场路段是它最标志性的特征。"
+          }
+        ]
+      }
+    ]
+  }
+}
