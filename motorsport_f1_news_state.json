@@ -1,8 +1,9 @@
 {
   "source": "https://www.motorsport.com/f1/news/",
-  "fetched_at": "2026-10-31T10:16:40+08:00",
+  "fetched_at": "2026-10-31T11:45:15+08:00",
   "count": 10,
   "urls": [
+    "https://www.motorsport.com/f1/news/max-verstappen-and-liam-lawson-both-handed-grid-penalties-after-clash-in-mexico-f1-practice/10869933/",
     "https://www.motorsport.com/f1/news/mexican-gp-includes-lewis-hamiltons-beloved-roscoe-in-touching-tribute-to-f1-legends/10869899/",
     "https://www.motorsport.com/f1/news/lewis-hamilton-makes-confident-ferrari-statement-despite-mexican-gp-technical-problems/10869895/",
     "https://www.motorsport.com/f1/news/f1-mexico-gp-saturday-schedule-weather-forecast-and-how-to-watch/10869882/",
@@ -11,7 +12,6 @@
     "https://www.motorsport.com/f1/news/oscar-piastri-mclaren-handled-mexico-altitude-better-than-i-was-expecting/10869868/",
     "https://www.motorsport.com/f1/news/colton-hertas-f1-superlicence-confusion-explained-why-hes-still-one-point-short/10869856/",
     "https://www.motorsport.com/f1/news/f1-mexico-gp-fp2-report-10869841/10869841/",
-    "https://www.motorsport.com/f1/news/whats-behind-absolute-nonsense-bearman-contract-rumours/10869831/",
-    "https://www.motorsport.com/f1/news/red-bull-f1-boss-laurent-mekies-hits-back-at-christian-horners-lost-its-mojo-claim/10869825/"
+    "https://www.motorsport.com/f1/news/whats-behind-absolute-nonsense-bearman-contract-rumours/10869831/"
   ]
 }
