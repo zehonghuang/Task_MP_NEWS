@@ -1,8 +1,10 @@
 {
   "source": "https://www.motorsport.com/f1/news/",
-  "fetched_at": "2026-11-01T10:55:02+08:00",
+  "fetched_at": "2026-11-01T19:56:47+08:00",
   "count": 10,
   "urls": [
+    "https://www.motorsport.com/f1/news/f1-2026-qualifying-head-to-head-mexico-gp/10870529/",
+    "https://www.motorsport.com/f1/news/red-bull-drivers-fear-mexico-start-max-verstappen-jokes-a-le-mans-start-would-be-just-as-quick/10870533/",
     "https://www.motorsport.com/f1/news/liam-lawson-disqualified-after-f1-qualifying-in-mexico-heres-why/10870409/",
     "https://www.motorsport.com/f1/news/ferrari-reveals-luxury-4300-fountain-pen-inspired-by-its-bespoke-supercars/10870386/",
     "https://www.motorsport.com/f1/news/max-verstappen-clears-the-air-with-liam-lawson-but-stays-tight-lipped-on-racing-bulls-f1-seat/10870381/",
@@ -10,8 +12,6 @@
     "https://www.motorsport.com/f1/news/ill-bombard-myself-with-melatonin-kimi-antonelli-admits-to-driving-tense-and-tired-on-cusp-of-f1-ti/10870375/",
     "https://www.motorsport.com/f1/news/george-russell-identifies-costly-decision-behind-mexican-gp-qualifying-near-miss/10870370/",
     "https://www.motorsport.com/f1/news/lewis-hamilton-first-ferrari-f1-pole-takes-me-back-to-watching-michael/10870368/",
-    "https://www.motorsport.com/f1/news/isack-hadjar-defends-mexican-gp-paddock-incident-after-fia-warning-not-a-reality-show/10870360/",
-    "https://www.motorsport.com/f1/news/hirakawa-could-have-easily-made-q2-in-f1-mexico-gp-without-late-traffic/10870356/",
-    "https://www.motorsport.com/f1/news/f1-mexico-gp-sunday-schedule-weather-forecast-and-how-to-watch/10870318/"
+    "https://www.motorsport.com/f1/news/isack-hadjar-defends-mexican-gp-paddock-incident-after-fia-warning-not-a-reality-show/10870360/"
   ]
 }
