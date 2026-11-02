@@ -1,8 +1,10 @@
 {
   "source": "https://www.motorsport.com/f1/news/",
-  "fetched_at": "2026-11-02T09:39:13+08:00",
+  "fetched_at": "2026-11-02T11:48:52+08:00",
   "count": 10,
   "urls": [
+    "https://www.motorsport.com/f1/news/penalty-drops-oscar-piastri-out-of-f1-mexico-gp-points/10870856/",
+    "https://www.motorsport.com/f1/news/pierre-gasly-and-franco-colapinto-penalised-post-race-ryo-hirakawa-scores-on-f1-debut/10870860/",
     "https://www.motorsport.com/f1/news/fred-vasseur-reacts-to-lewis-hamilton-charles-leclerc-clash-its-a-matter-of-respect/10870842/",
     "https://www.motorsport.com/f1/news/how-f1-drivers-reacted-to-kimi-antonellis-world-title-hes-made-everyone-else-look-silly/10870828/",
     "https://www.motorsport.com/f1/news/winners-and-losers-from-f1s-historic-mexico-grand-prix/10870803/",
@@ -10,8 +12,6 @@
     "https://www.motorsport.com/f1/news/charles-leclerc-responds-to-lewis-hamiltons-call-for-ferrari-talks-after-mexico-gp/10870814/",
     "https://www.motorsport.com/f1/news/why-charles-leclerc-didnt-yield-mexico-gp-lead-after-cutting-turn-5/10870796/",
     "https://www.motorsport.com/f1/news/f1-ceo-stefano-domenicali-releases-touching-statement-after-kimi-antonellis-title-win/10870790/",
-    "https://www.motorsport.com/f1/news/lando-norris-says-kimi-antonelli-should-celebrate-f1-title-properly-after-breakthrough-season/10870775/",
-    "https://www.motorsport.com/f1/news/lewis-hamilton-demands-serious-talks-at-ferrari-after-charles-leclerc-clash-that-lost-us-the-win-to/10870745/",
-    "https://www.motorsport.com/f1/news/max-verstappen-shares-emotional-message-after-kimi-antonellis-historic-f1-title-win/10870753/"
+    "https://www.motorsport.com/f1/news/lando-norris-says-kimi-antonelli-should-celebrate-f1-title-properly-after-breakthrough-season/10870775/"
   ]
 }
