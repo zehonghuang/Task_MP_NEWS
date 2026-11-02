@@ -1,5 +1,15 @@
 # 昨晚谁睡得最糟：弗雷德里克·瓦塞尔
 
+- id: `n_autosport_20261102_55957eb518`
+- source.name: `Autosport`
+- source.url: https://www.motorsport.com/f1/news/who-slept-worst-last-night-frederic-vasseur-10870909/10870909/
+- published_at: `2026-11-02T06:32:08Z`
+- article.image: https://cdn-6.motorsport.com/images/amp/YBVjyznY/s6/fred-vasseur-ferrari.jpg
+- original_title: Who slept worst last night: Frederic Vasseur
+- 说明: 本中文稿为原文全文逐段忠实翻译（未使用任何翻译平台）。
+
+## 中文正文
+
 刘易斯·汉密尔顿和查尔斯·勒克莱尔之间的争执，恐怕会让这位法拉利领队做噩梦。
 
 墨西哥大奖赛结束后，弗雷德里克·瓦塞尔在接受媒体采访时，至少有那么一刻，这位法拉利领队突然大笑起来。
@@ -16,7 +26,7 @@ Motorsport Network记者罗纳德·沃丁刚刚向他提出了关于明显紧张
 
 “各位，我光是应付自己的两名车手就够忙的了！别问我平川、卡马拉和奥康之间的竞争。”
 
-![查尔斯·勒克莱尔和刘易斯·汉密尔顿，法拉利](https://cdn.motorsport.com/images/mgl/2QedOL32/s1000/charles-leclerc-ferrari-lewis-.jpg)
+![](https://cdn.motorsport.com/images/mgl/2QedOL32/s1000/charles-leclerc-ferrari-lewis-.jpg)
 
 查尔斯·勒克莱尔、刘易斯·汉密尔顿，法拉利。图片：Colin McMaster / LAT Images via Getty Images。
 
@@ -34,7 +44,7 @@ Motorsport Network记者罗纳德·沃丁刚刚向他提出了关于明显紧张
 
 前国际汽联赛事总监尼尔斯·维蒂希在德国天空体育节目中，在这位摩纳哥车手被宣布罚时5秒之前，预料他会受到更严厉的处罚：“我会说是10秒。没有可以援引的减轻处罚的情节。”
 
-![查尔斯·勒克莱尔，法拉利](https://cdn.motorsport.com/images/mgl/0arEVAk2/s1000/charles-leclerc-ferrari.jpg)
+![](https://cdn.motorsport.com/images/mgl/0arEVAk2/s1000/charles-leclerc-ferrari.jpg)
 
 查尔斯·勒克莱尔，法拉利。图片：James Sutton / LAT Images via Getty Images。
 
@@ -52,7 +62,7 @@ Motorsport Network记者罗纳德·沃丁刚刚向他提出了关于明显紧张
 
 最终，墨西哥站考验的或许不是汉密尔顿的脾气，也不是勒克莱尔的判断力，而是瓦塞尔的领导能力。2026年墨西哥站之后的几个小时和几天，可能成为目前这套人员组合下法拉利的决定性转折点。
 
-![刘易斯·汉密尔顿，法拉利](https://cdn.motorsport.com/images/mgl/6grQxelY/s1000/lewis-hamilton-ferrari.jpg)
+![](https://cdn.motorsport.com/images/mgl/6grQxelY/s1000/lewis-hamilton-ferrari.jpg)
 
 刘易斯·汉密尔顿，法拉利。图片：James Sutton / LAT Images via Getty Images。
 
@@ -74,7 +84,7 @@ Motorsport Network记者罗纳德·沃丁刚刚向他提出了关于明显紧张
 
 但无线电另一端一片沉默。
 
-![查尔斯·勒克莱尔和刘易斯·汉密尔顿，法拉利](https://cdn.motorsport.com/images/mgl/63QaE1D2/s1000/charles-leclerc-ferrari-lewis-.jpg)
+![](https://cdn.motorsport.com/images/mgl/63QaE1D2/s1000/charles-leclerc-ferrari-lewis-.jpg)
 
 查尔斯·勒克莱尔、刘易斯·汉密尔顿，法拉利。图片：Yuri Cortez / AFP via Getty Images。
 
@@ -94,7 +104,7 @@ Motorsport Network记者罗纳德·沃丁刚刚向他提出了关于明显紧张
 
 如果说有人知道两位超级巨星队友之间的竞争会多快变得恶劣，那就是托托·沃尔夫。他亲历了汉密尔顿与罗斯伯格的岁月。瓦塞尔或许即将发现，那段经验可能有多么宝贵。
 
-![法拉利领队弗雷德里克·瓦塞尔和梅赛德斯领队托托·沃尔夫出席新闻发布会](https://cdn.motorsport.com/images/mgl/2eAobkm2/s1000/frederic-vasseur-team-principa.jpg)
+![](https://cdn.motorsport.com/images/mgl/2eAobkm2/s1000/frederic-vasseur-team-principa.jpg)
 
 法拉利车队领队兼总经理弗雷德里克·瓦塞尔和梅赛德斯AMG F1车队领队兼首席执行官托托·沃尔夫出席新闻发布会。图片：Zak Mauger / Motorsport Images。
 
