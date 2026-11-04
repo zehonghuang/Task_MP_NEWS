@@ -1,8 +1,9 @@
 {
   "source": "https://www.motorsport.com/f1/news/",
-  "fetched_at": "2026-11-04T22:29:51+08:00",
+  "fetched_at": "2026-11-04T23:36:24+08:00",
   "count": 10,
   "urls": [
+    "https://www.motorsport.com/f1/news/charles-leclerc-welcomes-first-child-with-wife-alexandra-as-couple-shares-baby-news/10871509/",
     "https://www.motorsport.com/f1/news/max-verstappen-needs-a-conversation-with-red-bull-engine-after-random-engine-braking-issues/10871469/",
     "https://www.motorsport.com/f1/news/why-daniel-ricciardo-is-staying-away-from-the-f1-paddock/10871443/",
     "https://www.motorsport.com/f1/news/esteban-ocons-f1-career-may-be-ending-but-his-story-is-one-of-success/10871440/",
@@ -11,7 +12,6 @@
     "https://www.motorsport.com/f1/news/stella-explains-how-a-nightmare-qualifying-destroyed-mclarens-mexico-gp-we-paid-the-price/10871257/",
     "https://www.motorsport.com/f1/news/charles-leclerc-brushes-off-lap-1-clash-with-furious-hamilton-i-could-be-unhappy-too/10871246/",
     "https://www.motorsport.com/f1/news/colton-herta-to-run-cadillac-fp1-in-brazil-as-fia-superlicense-quest-continues/10871403/",
-    "https://www.motorsport.com/f1/news/mercedes-boss-praises-antonellis-masterclass-while-admitting-they-failed-george-russell/10871236/",
-    "https://www.motorsport.com/f1/news/camara-to-debut-in-f1-brazil-gp-as-ocon-out-at-haas/10871372/"
+    "https://www.motorsport.com/f1/news/mercedes-boss-praises-antonellis-masterclass-while-admitting-they-failed-george-russell/10871236/"
   ]
 }
