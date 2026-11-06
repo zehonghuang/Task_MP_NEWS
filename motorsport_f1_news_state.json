@@ -1,8 +1,10 @@
 {
   "source": "https://www.motorsport.com/f1/news/",
-  "fetched_at": "2026-11-06T22:10:37+08:00",
+  "fetched_at": "2026-11-07T00:05:26+08:00",
   "count": 10,
   "urls": [
+    "https://www.motorsport.com/f1/news/george-russell-breaks-silence-on-mexican-gp-media-absence-after-mercedes-fine/10872146/",
+    "https://www.motorsport.com/f1/news/exhausted-george-russell-set-for-brazil-f1-grid-penalty/10872130/",
     "https://www.motorsport.com/f1/news/nico-rosberg-compares-ferraris-clashes-to-his-own-mercedes-f1-rivalry-the-instructions-are-not-clea/10872061/",
     "https://www.motorsport.com/f1/news/carlos-sainz-recalls-charles-leclerc-battles-we-always-managed-to-find-a-solution/10871952/",
     "https://www.motorsport.com/f1/news/ferrari-set-for-crunch-meeting-as-lewis-hamilton-and-charles-leclerc-tension-reaches-brazil/10872021/",
@@ -10,8 +12,6 @@
     "https://www.motorsport.com/f1/news/alan-permane-signs-new-racing-bulls-f1-deal/10871996/",
     "https://www.motorsport.com/f1/news/kimi-antonelli-reveals-the-dark-2025-slump-that-built-a-champion-i-questioned-myself-over-and-over/10871786/",
     "https://www.motorsport.com/f1/news/george-russell-opens-up-on-mental-exhaustion-after-frustrating-2026-f1-season/10871940/",
-    "https://www.motorsport.com/f1/news/kimi-antonelli-admits-george-russell-still-holds-one-massive-advantage-over-him/10871794/",
-    "https://www.motorsport.com/f1/news/kimi-antonelli-opens-up-on-very-emotional-visit-to-ayrton-sennas-family-estate/10871927/",
-    "https://www.motorsport.com/f1/news/kimi-antonelli-reacts-to-verstappen-and-hamilton-hoisting-him-on-the-mexico-podium-i-will-frame-it/10871768/"
+    "https://www.motorsport.com/f1/news/kimi-antonelli-admits-george-russell-still-holds-one-massive-advantage-over-him/10871794/"
   ]
 }
