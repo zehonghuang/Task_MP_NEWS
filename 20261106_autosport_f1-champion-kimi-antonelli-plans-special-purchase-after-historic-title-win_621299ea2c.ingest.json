@@ -1,0 +1,154 @@
+{
+  "id": "n_autosport_20261106_621299ea2c",
+  "layout_code": "STANDARD",
+  "type_code": "DRIVER",
+  "pinned": false,
+  "weight": 0,
+  "tag_text": "安东内利 / 夺冠后的自我奖励",
+  "tags": [
+    "安东内利",
+    "梅赛德斯",
+    "世界冠军"
+  ],
+  "title": "F1冠军基米·安东内利在历史性夺冠后计划一笔特别采购",
+  "summary": "20岁的安东内利在墨西哥站锁定2026年世界冠军后告诉《米兰体育报》，他计划买一辆心仪的车犒劳自己，并称染发剂的罐子已经买好，随时准备兑现染发的承诺。",
+  "cover_url": "https://cdn-8.motorsport.com/images/amp/2QedlWm2/s6/motorsport-com-graphics-65.jpg",
+  "published_at": "2026-11-06T17:06:13+00:00",
+  "time_text": "",
+  "source": {
+    "name": "Autosport",
+    "url": "https://www.motorsport.com/f1/news/f1-champion-kimi-antonelli-plans-special-purchase-after-historic-title-win/10872187/"
+  },
+  "content": {
+    "format_code": "RICH_TEXT_NODES",
+    "text": "基米·安东内利透露了他打算如何为赢得2026年F1世界冠军奖励自己。\n\n尽管父母一直密切关注着他如何花钱，这位意大利车手还是告诉《米兰体育报》，他打算买一辆新车犒劳自己。\n\n这位20岁的小将在上周的墨西哥大奖赛上锁定冠军，成为F1历史上最年轻的世界冠军。\n\n“我父母一直努力教我懂得金钱的价值，现在我赚的钱相当可观，他们就想确保知道我怎么花、花在了哪里。”安东内利对这家意大利媒体说。“不过可以说跟我这事挺好办，因为我不是那种有昂贵爱好的人。”\n\n他说自己的钱大部分花在日常开销上，而最主要的享受是他的赛车模拟器。\n\n“我家里有模拟器，玩那个我就很开心了，”这位梅赛德斯车手解释道。“我不需要去购物。我把钱花在食物、家里用的东西、汽油……然后我会买几条新赛道，在模拟器上开。”\n\n虽然他努力在钱上保持谨慎，但他补充说汽车是他的例外。\n\n“可以说，我父母需要盯着我的地方就是车，因为确实有那么几辆我特别想买。所以我想我会为拿下冠军奖励自己一辆。”他补充道。\n\n安东内利庆祝冠军的方式还有点不太常规——他透露自己仍然打算兑现染发的承诺。\n\n“染发剂我已经买好了！现在只需要决定是这周末染，还是也许等到下周去布莱克利工厂、要在全体员工面前讲话的时候。”他说。“顶着染过的头发出现在那里肯定很有意思。”",
+    "nodes": [
+      {
+        "name": "img",
+        "attrs": {
+          "src": "https://cdn-8.motorsport.com/images/amp/2QedlWm2/s6/motorsport-com-graphics-65.jpg",
+          "mode": "widthFix",
+          "style": "width:100%;display:block;",
+          "alt": "安东内利与他的夺冠计划（新闻配图）"
+        }
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "基米·安东内利透露了他打算如何为赢得2026年F1世界冠军奖励自己。"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "尽管父母一直密切关注着他如何花钱，这位意大利车手还是告诉《米兰体育报》，他打算买一辆新车犒劳自己。"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "这位20岁的小将在上周的墨西哥大奖赛上锁定冠军，成为F1历史上最年轻的世界冠军。"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "“我父母一直努力教我懂得金钱的价值，现在我赚的钱相当可观，他们就想确保知道我怎么花、花在了哪里。”安东内利对这家意大利媒体说。“不过可以说跟我这事挺好办，因为我不是那种有昂贵爱好的人。”"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "他说自己的钱大部分花在日常开销上，而最主要的享受是他的赛车模拟器。"
+          }
+        ]
+      },
+      {
+        "name": "img",
+        "attrs": {
+          "src": "https://cdn.motorsport.com/images/mgl/0rVP8e70/s1000/andrea-kimi-antonelli-mercedes.jpg",
+          "mode": "widthFix",
+          "style": "width:100%;display:block;",
+          "alt": "安德里亚·基米·安东内利（梅赛德斯）"
+        }
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "安德里亚·基米·安东内利（梅赛德斯）"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "图片来源：Michael Potts / LAT images via Getty Images"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "“我家里有模拟器，玩那个我就很开心了，”这位梅赛德斯车手解释道。“我不需要去购物。我把钱花在食物、家里用的东西、汽油……然后我会买几条新赛道，在模拟器上开。”"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "虽然他努力在钱上保持谨慎，但他补充说汽车是他的例外。"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "“可以说，我父母需要盯着我的地方就是车，因为确实有那么几辆我特别想买。所以我想我会为拿下冠军奖励自己一辆。”他补充道。"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "安东内利庆祝冠军的方式还有点不太常规——他透露自己仍然打算兑现染发的承诺。"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "“染发剂我已经买好了！现在只需要决定是这周末染，还是也许等到下周去布莱克利工厂、要在全体员工面前讲话的时候。”他说。“顶着染过的头发出现在那里肯定很有意思。”"
+          }
+        ]
+      }
+    ]
+  }
+}
