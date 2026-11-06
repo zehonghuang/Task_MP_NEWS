@@ -1,0 +1,227 @@
+{
+  "id": "n_autosport_20261105_5a7fd4c520",
+  "layout_code": "STANDARD",
+  "type_code": "OTHER",
+  "pinned": false,
+  "weight": 0,
+  "tag_text": "舒马赫评汉密尔顿 / 「狗在遛主人」",
+  "tags": [
+    "法拉利",
+    "汉密尔顿",
+    "拉尔夫·舒马赫",
+    "墨西哥大奖赛"
+  ],
+  "title": "拉尔夫·舒马赫炮轰汉密尔顿墨西哥站闹剧中的「阿尔·卡彭」做派",
+  "summary": "拉尔夫·舒马赫认为汉密尔顿与勒克莱尔的四号弯肉搏属于正常轮对轮较量，但赛后在无线电里要求处罚队友、并以“我们有、有大麻烦”相威胁越了线：“你不该在无线电里要求罚自己的队友……在我看来，这是狗在遛主人。”他警告马拉内罗的权威秩序正在失衡，“现在迫切需要改变些什么”。",
+  "cover_url": "https://cdn-2.motorsport.com/images/amp/YP74ldo2/s6/motorsport-com-graphics-76-2.jpg",
+  "published_at": "2026-11-05T19:09:14+00:00",
+  "time_text": "",
+  "source": {
+    "name": "Autosport",
+    "url": "https://www.motorsport.com/f1/news/ralf-schumacher-accuses-lewis-hamilton-of-acting-like-al-capone-during-mexico-city-gp-drama/10871637/"
+  },
+  "content": {
+    "format_code": "RICH_TEXT_NODES",
+    "text": "汉密尔顿在墨西哥城大奖赛期间怒不可遏的无线电内容，遭到了前F1车手拉尔夫·舒马赫的猛烈批评。\n\n法拉利两位车手在埃尔曼诺斯·罗德里格斯赛道的冲突被认定为可以接受的强硬轮对轮较量，但随后上演的那出电波里的政治大戏，在这位德国评论员看来越过了底线。\n\n汉密尔顿与勒克莱尔在首组弯短兵相接，最终两辆红色赛车在四号弯完全冲出柏油路面。这位摩纳哥车手没有退让，而是全油门穿过草皮守住位置，也因此被FIA判罚5秒。\n\n舒马赫在接受Sky Sports Germany采访时，对那次身体接触不以为然，认为只是常规操作。\n\n“刘易斯·汉密尔顿已经接受了这样一个事实：如果夏尔·勒克莱尔不压过草地，两人就会撞车，”这位51岁的前车手解释道，并指出那次挤压完全是故意的，“但我对那一点问题都没有，因为那是比赛情景，谁都不想交出位置。”\n\n【汉密尔顿的「阿尔·卡彭」式无线电威胁】\n\n真正让这位六届分站冠军出离愤怒的是随后的闹剧。因为四号弯的那次挤压火冒三丈，这位英国明星立刻在无线电里要求赛会处罚自己的同库队友。\n\n当维修墙试图平息局面时，这位老将进一步升级紧张气氛，给马拉内罗的高层送上了一则毫不掩饰的警告。\n\n“我真正有问题的是随后的那出闹剧，”舒马赫开火，“你不能在无线电里要求处罚自己的队友。”\n\n这位Sky Sports评论员尤其被抱怨的语气激怒，指控这位41岁车手完全无视车队权威。\n\n“然后像阿尔·卡彭一样说话，威胁说「我们有、有大麻烦」——在我看来，这是狗在遛主人。”舒马赫痛批道。\n\n【马拉内罗的领导层危机？】\n\n这句刺耳的「狗在遛主人」，折射出这支意大利车队内部日益升级的权力博弈。超级明星车手在直播中公开叫板维修墙、主动开条件，舒马赫因此认为领队弗雷德·瓦塞尔正在迅速失控于这套星光熠熠的阵容。\n\n随着队内竞争可能冲击车队前往巴西的势头，这位前F1车手要求管理层立即介入、重建清晰的等级秩序。\n\n“现在迫切需要改变些什么。”他警告说。",
+    "nodes": [
+      {
+        "name": "img",
+        "attrs": {
+          "src": "https://cdn-2.motorsport.com/images/amp/YP74ldo2/s6/motorsport-com-graphics-76-2.jpg",
+          "mode": "widthFix",
+          "style": "width:100%;display:block;",
+          "alt": "拉尔夫·舒马赫批评汉密尔顿墨西哥站表现"
+        }
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "汉密尔顿在墨西哥城大奖赛期间怒不可遏的无线电内容，遭到了前F1车手拉尔夫·舒马赫的猛烈批评。"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "法拉利两位车手在埃尔曼诺斯·罗德里格斯赛道的冲突被认定为可以接受的强硬轮对轮较量，但随后上演的那出电波里的政治大戏，在这位德国评论员看来越过了底线。"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "汉密尔顿与勒克莱尔在首组弯短兵相接，最终两辆红色赛车在四号弯完全冲出柏油路面。这位摩纳哥车手没有退让，而是全油门穿过草皮守住位置，也因此被FIA判罚5秒。"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "舒马赫在接受Sky Sports Germany采访时，对那次身体接触不以为然，认为只是常规操作。"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "“刘易斯·汉密尔顿已经接受了这样一个事实：如果夏尔·勒克莱尔不压过草地，两人就会撞车，”这位51岁的前车手解释道，并指出那次挤压完全是故意的，“但我对那一点问题都没有，因为那是比赛情景，谁都不想交出位置。”"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "【汉密尔顿的「阿尔·卡彭」式无线电威胁】"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "真正让这位六届分站冠军出离愤怒的是随后的闹剧。因为四号弯的那次挤压火冒三丈，这位英国明星立刻在无线电里要求赛会处罚自己的同库队友。"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "当维修墙试图平息局面时，这位老将进一步升级紧张气氛，给马拉内罗的高层送上了一则毫不掩饰的警告。"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "“我真正有问题的是随后的那出闹剧，”舒马赫开火，“你不能在无线电里要求处罚自己的队友。”"
+          }
+        ]
+      },
+      {
+        "name": "img",
+        "attrs": {
+          "src": "https://cdn.motorsport.com/images/mgl/2QedOL32/s1000/charles-leclerc-ferrari-lewis-.jpg",
+          "mode": "widthFix",
+          "style": "width:100%;display:block;",
+          "alt": "夏尔·勒克莱尔、刘易斯·汉密尔顿"
+        }
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "夏尔·勒克莱尔（法拉利）、刘易斯·汉密尔顿（法拉利）"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "图片来源：Colin McMaster / LAT Images via Getty Images"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "这位Sky Sports评论员尤其被抱怨的语气激怒，指控这位41岁车手完全无视车队权威。"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "“然后像阿尔·卡彭一样说话，威胁说「我们有、有大麻烦」——在我看来，这是狗在遛主人。”舒马赫痛批道。"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "【马拉内罗的领导层危机？】"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "这句刺耳的「狗在遛主人」，折射出这支意大利车队内部日益升级的权力博弈。超级明星车手在直播中公开叫板维修墙、主动开条件，舒马赫因此认为领队弗雷德·瓦塞尔正在迅速失控于这套星光熠熠的阵容。"
+          }
+        ]
+      },
+      {
+        "name": "img",
+        "attrs": {
+          "src": "https://cdn.motorsport.com/images/mgl/0rVPqbP0/s1000/charles-leclerc-ferrari-lewis-.jpg",
+          "mode": "widthFix",
+          "style": "width:100%;display:block;",
+          "alt": "夏尔·勒克莱尔、刘易斯·汉密尔顿"
+        }
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "夏尔·勒克莱尔（法拉利）、刘易斯·汉密尔顿（法拉利）"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "图片来源：Bryn Lennon / Formula 1 via Getty Images"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "随着队内竞争可能冲击车队前往巴西的势头，这位前F1车手要求管理层立即介入、重建清晰的等级秩序。"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "“现在迫切需要改变些什么。”他警告说。"
+          }
+        ]
+      }
+    ]
+  }
+}
