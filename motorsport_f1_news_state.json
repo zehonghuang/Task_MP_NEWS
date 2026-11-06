@@ -1,8 +1,10 @@
 {
   "source": "https://www.motorsport.com/f1/news/",
-  "fetched_at": "2026-11-06T20:04:10+08:00",
+  "fetched_at": "2026-11-06T22:10:37+08:00",
   "count": 10,
   "urls": [
+    "https://www.motorsport.com/f1/news/nico-rosberg-compares-ferraris-clashes-to-his-own-mercedes-f1-rivalry-the-instructions-are-not-clea/10872061/",
+    "https://www.motorsport.com/f1/news/carlos-sainz-recalls-charles-leclerc-battles-we-always-managed-to-find-a-solution/10871952/",
     "https://www.motorsport.com/f1/news/ferrari-set-for-crunch-meeting-as-lewis-hamilton-and-charles-leclerc-tension-reaches-brazil/10872021/",
     "https://www.motorsport.com/f1/news/kimi-antonelli-my-2027-preparation-starts-now-after-f1-title-triumph/10871954/",
     "https://www.motorsport.com/f1/news/alan-permane-signs-new-racing-bulls-f1-deal/10871996/",
@@ -10,8 +12,6 @@
     "https://www.motorsport.com/f1/news/george-russell-opens-up-on-mental-exhaustion-after-frustrating-2026-f1-season/10871940/",
     "https://www.motorsport.com/f1/news/kimi-antonelli-admits-george-russell-still-holds-one-massive-advantage-over-him/10871794/",
     "https://www.motorsport.com/f1/news/kimi-antonelli-opens-up-on-very-emotional-visit-to-ayrton-sennas-family-estate/10871927/",
-    "https://www.motorsport.com/f1/news/kimi-antonelli-reacts-to-verstappen-and-hamilton-hoisting-him-on-the-mexico-podium-i-will-frame-it/10871768/",
-    "https://www.motorsport.com/f1/news/max-verstappen-responds-to-toto-wolffs-claim-that-era-of-ruthless-f1-drivers-is-over/10871913/",
-    "https://www.motorsport.com/f1/news/kimi-antonelli-admits-he-questioned-himself-throughout-his-rookie-campaign/10871901/"
+    "https://www.motorsport.com/f1/news/kimi-antonelli-reacts-to-verstappen-and-hamilton-hoisting-him-on-the-mexico-podium-i-will-frame-it/10871768/"
   ]
 }
