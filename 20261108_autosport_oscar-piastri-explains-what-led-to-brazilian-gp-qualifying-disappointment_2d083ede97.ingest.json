@@ -1,0 +1,173 @@
+{
+  "id": "n_autosport_20261108_2d083ede97",
+  "layout_code": "STANDARD",
+  "type_code": "DRIVER",
+  "pinned": false,
+  "weight": 0,
+  "tag_text": "皮亚斯特里 / 排位赛",
+  "tags": [
+    "皮亚斯特里",
+    "81",
+    "迈凯伦",
+    "排位赛"
+  ],
+  "title": "皮亚斯特里解释巴西大奖赛排位赛失意的缘由",
+  "summary": "皮亚斯特里认为迈凯伦在 Q2 换上中性胎的时机偏晚，胎温没做起来，排位仅列第 12、罚退后方从第 10 位发车。他表示要在正确的时间用正确的胎，雨战正赛将非常艰难，队友诺里斯则为车队拿下杆位。",
+  "cover_url": "https://cdn-1.motorsport.com/images/amp/6x7Lz7mY/s1200/motorsport-com-graphics.webp",
+  "published_at": "2026-11-08T05:00:00+00:00",
+  "time_text": "",
+  "source": {
+    "name": "Autosport",
+    "url": "https://www.motorsport.com/f1/news/oscar-piastri-explains-what-led-to-brazilian-gp-qualifying-disappointment/10872735/"
+  },
+  "content": {
+    "format_code": "RICH_TEXT_NODES",
+    "text": "奥斯卡·皮亚斯特里认为，迈凯伦在巴西大奖赛排位赛里换上中性胎的时机太晚了。\n\n这位澳大利亚车手在英特拉格斯这场因雨延宕的排位赛中仅列第 12，不过由于法拉利的夏尔·勒克莱尔与刘易斯·汉密尔顿因动力单元更换受罚，他实际将从第 10 位发车。\n\n皮亚斯特里凭借全雨胎闯过 Q1，而到了 Q2，赛道条件已好转至各车队可以换用中性胎的程度。\n\n“我刚跑完一圈，但我觉得我们换上中性胎可能稍微晚了一点，还需要多一圈或两圈才能真正把胎温做起来，”皮亚斯特里赛后对媒体解释道。\n\n“有些我在全雨胎上用的走线在中性胎上根本行不通，所以当然有值得复盘的地方。但我认为，只要再多一圈、加上稍好一些的决策，我们本可以跻身其中。”\n\n当被要求澄清他是否在怪红旗延误害他丢了那一圈时，这位迈凯伦车手补充道：“我肯定还能再跑进一圈，但这对所有人都一样。”\n\n“大家都会再多一圈，所以我也说不准。我觉得场上确实还有大把时间，但你必须在正确的时间用正确的胎。”\n\n展望正赛，皮亚斯特里解释说，如果雨再来，比赛将充满挑战。\n\n“我们先看会遇上什么天气，再随机应变。我觉得在雨里会非常艰难，所以走着瞧吧，”他说。\n\n皮亚斯特里的队友兰多·诺里斯为巴西大奖赛拿下杆位。诺里斯与皮亚斯特里目前在车手积分榜上分列第六与第七，积分分别为 221 分与 144 分。",
+    "nodes": [
+      {
+        "name": "img",
+        "attrs": {
+          "src": "https://cdn-1.motorsport.com/images/amp/6x7Lz7mY/s1200/motorsport-com-graphics.webp",
+          "mode": "widthFix",
+          "style": "width:100%;display:block;",
+          "alt": "奥斯卡·皮亚斯特里（迈凯伦）"
+        }
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "奥斯卡·皮亚斯特里（迈凯伦）"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "图片来源：Sam Bloxham / LAT Images via Getty Images"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "奥斯卡·皮亚斯特里认为，迈凯伦在巴西大奖赛排位赛里换上中性胎的时机太晚了。"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "这位澳大利亚车手在英特拉格斯这场因雨延宕的排位赛中仅列第 12，不过由于法拉利的夏尔·勒克莱尔与刘易斯·汉密尔顿因动力单元更换受罚，他实际将从第 10 位发车。"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "皮亚斯特里凭借全雨胎闯过 Q1，而到了 Q2，赛道条件已好转至各车队可以换用中性胎的程度。"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "“我刚跑完一圈，但我觉得我们换上中性胎可能稍微晚了一点，还需要多一圈或两圈才能真正把胎温做起来，”皮亚斯特里赛后对媒体解释道。"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "“有些我在全雨胎上用的走线在中性胎上根本行不通，所以当然有值得复盘的地方。但我认为，只要再多一圈、加上稍好一些的决策，我们本可以跻身其中。”"
+          }
+        ]
+      },
+      {
+        "name": "img",
+        "attrs": {
+          "src": "https://cdn.motorsport.com/images/mgl/0kZX9xK6/s1100/lando-norris-mclaren-oscar-pia.webp",
+          "mode": "widthFix",
+          "style": "width:100%;display:block;",
+          "alt": "兰多·诺里斯（迈凯伦）、奥斯卡·皮亚斯特里（迈凯伦）"
+        }
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "兰多·诺里斯（迈凯伦）、奥斯卡·皮亚斯特里（迈凯伦）"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "图片来源：Colin McMaster / LAT Images via Getty Images"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "当被要求澄清他是否在怪红旗延误害他丢了那一圈时，这位迈凯伦车手补充道：“我肯定还能再跑进一圈，但这对所有人都一样。”"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "“大家都会再多一圈，所以我也说不准。我觉得场上确实还有大把时间，但你必须在正确的时间用正确的胎。”"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "展望正赛，皮亚斯特里解释说，如果雨再来，比赛将充满挑战。"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "“我们先看会遇上什么天气，再随机应变。我觉得在雨里会非常艰难，所以走着瞧吧，”他说。"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "皮亚斯特里的队友兰多·诺里斯为巴西大奖赛拿下杆位。诺里斯与皮亚斯特里目前在车手积分榜上分列第六与第七，积分分别为 221 分与 144 分。"
+          }
+        ]
+      }
+    ]
+  }
+}
