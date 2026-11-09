@@ -1,0 +1,9 @@
+;/*FB_PKG_DELIM*/
+
+__d("VisualCompletionConstants",[],(function(t,n,r,o,a,i){"use strict";var e={ATTRIBUTE_NAME:"data-visualcompletion",HERO_TRACING_HOLD:"HeroTracing",HERO_LATE_PLACEHOLDER_DETECTION:"HeroLatePlaceholderDetection",INTERACTION_TRACING_HOLD:"InteractionTracing",IGNORE:"ignore",IGNORE_DYNAMIC:"ignore-dynamic",IGNORE_LATE_MUTATION:"ignore-late-mutation",LOADING_STATE:"loading-state",MEDIA_VC_IMAGE:"media-vc-image",CSS_IMG:"css-img"};i.default=e}),66);
+__d("VisualCompletionAttributes",["VisualCompletionConstants"],(function(t,n,r,o,a,i,l){"use strict";var e,s,u,c,d,m,p,_={IGNORE:(e={},e[(p||(p=r("VisualCompletionConstants"))).ATTRIBUTE_NAME]=p.IGNORE,e),IGNORE_DYNAMIC:(s={},s[p.ATTRIBUTE_NAME]=p.IGNORE_DYNAMIC,s),IGNORE_LATE_MUTATION:(u={},u[p.ATTRIBUTE_NAME]=p.IGNORE_LATE_MUTATION,u),LOADING_STATE:(c={},c[p.ATTRIBUTE_NAME]=p.LOADING_STATE,c),MEDIA_VC_IMAGE:(d={},d[p.ATTRIBUTE_NAME]=p.MEDIA_VC_IMAGE,d),CSS_IMG:(m={},m[p.ATTRIBUTE_NAME]=p.CSS_IMG,m)};l.default=_}),98);
+__d("cancelAnimationFramePolyfill",[],(function(t,n,r,o,a,i){"use strict";var e=t.__fbNativeCancelAnimationFrame||t.cancelAnimationFrame||t.webkitCancelAnimationFrame||t.mozCancelAnimationFrame||t.oCancelAnimationFrame||t.msCancelAnimationFrame||t.clearTimeout,l=e;i.default=l}),66);
+__d("cancelAnimationFrame",["cancelAnimationFramePolyfill"],(function(t,n,r,o,a,i,l){function e(e){r("cancelAnimationFramePolyfill")(e)}l.default=e}),98);
+__d("setInterval",["cr:7388"],(function(t,n,r,o,a,i,l){l.default=n("cr:7388")}),98);
+__d("setIntervalBlue",["TimerStorage","setIntervalAcrossTransitions"],(function(t,n,r,o,a,i,l){function e(e,t){for(var n=arguments.length,o=new Array(n>2?n-2:0),a=2;a<n;a++)o[a-2]=arguments[a];var i=r("setIntervalAcrossTransitions").apply(void 0,[e,t].concat(o));return r("TimerStorage").set(r("TimerStorage").INTERVAL,i),i}l.default=e}),98);
+__d("setIntervalWWW",["cr:896461"],(function(t,n,r,o,a,i,l){l.default=n("cr:896461")}),98);
