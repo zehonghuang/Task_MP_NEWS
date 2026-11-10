@@ -1,8 +1,9 @@
 {
   "source": "https://www.motorsport.com/f1/news/",
-  "fetched_at": "2026-11-10T21:36:51+08:00",
+  "fetched_at": "2026-11-10T23:13:28+08:00",
   "count": 10,
   "urls": [
+    "https://www.motorsport.com/f1/news/f1-2026-calendar-update-imola-gp-off-the-table-no-plan-b-if-war-escalates/10873637/",
     "https://www.motorsport.com/f1/news/fia-reveals-latest-aduo-results-in-final-review-of-2026-f1-season/10873562/",
     "https://www.motorsport.com/f1/news/honda-struggling-to-explain-lance-strolls-13th-dnf-of-the-season/10873412/",
     "https://www.motorsport.com/f1/news/laurent-mekies-liam-lawsons-fate-has-nothing-to-do-with-me/10873368/",
@@ -11,7 +12,6 @@
     "https://www.motorsport.com/f1/news/george-russell-keeps-getting-kicked-as-f1-pundit-addresses-2026-struggles/10873477/",
     "https://www.motorsport.com/f1/news/george-russell-teases-imminent-karting-announcement-as-f1-fans-spot-major-clue/10873459/",
     "https://www.motorsport.com/f1/news/apple-tv-confirms-free-f1-las-vegas-grand-prix-coverage-how-to-watch-in-the-us/10873443/",
-    "https://www.motorsport.com/f1/news/what-the-split-with-mark-webber-says-about-the-next-phase-of-oscar-piastris-f1-career/10873385/",
-    "https://www.motorsport.com/f1/news/why-mercedes-says-a-repeat-of-its-2014-2021-dominance-is-impossible/10873407/"
+    "https://www.motorsport.com/f1/news/what-the-split-with-mark-webber-says-about-the-next-phase-of-oscar-piastris-f1-career/10873385/"
   ]
 }
