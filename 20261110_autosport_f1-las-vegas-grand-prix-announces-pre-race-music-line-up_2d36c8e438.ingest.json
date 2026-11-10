@@ -1,0 +1,174 @@
+{
+  "id": "n_autosport_20261110_2d36c8e438",
+  "layout_code": "STANDARD",
+  "type_code": "PADDOCK",
+  "pinned": false,
+  "weight": 0,
+  "tag_text": "维加斯 / 赛前演出",
+  "tags": [
+    "维加斯",
+    "Steve Aoki",
+    "国歌",
+    "出发格",
+    "娱乐阵容"
+  ],
+  "title": "F1维加斯大奖赛公布赛前音乐阵容",
+  "summary": "维加斯大奖赛公布赛前音乐阵容：Steve Aoki将在11月21日正赛前的出发格献演，MORTEN现身车手介绍环节，美国偶像冠军Jordin Sparks演唱国歌。组委会同时说明哪些持票区域能看到出发格演出，并披露Sphere与喜力舞台的其余娱乐安排。",
+  "cover_url": "https://cdn-4.motorsport.com/images/amp/6n7b5XR0/s1200/motorsport-com-graphics-84.webp",
+  "published_at": "2026-11-09T23:57:29+00:00",
+  "time_text": "",
+  "source": {
+    "name": "Autosport",
+    "url": "https://www.motorsport.com/f1/news/f1-las-vegas-grand-prix-announces-pre-race-music-line-up/10873488/"
+  },
+  "content": {
+    "format_code": "RICH_TEXT_NODES",
+    "text": "美国DJ Steve Aoki今年将重返维加斯大奖赛的出发格，在11月21日正赛开始前献演。与他同台的还有DJ MORTEN和歌手Jordin Sparks，三人共同构成本届赛事的赛前演出阵容。\n\nMORTEN的演出排在车手介绍环节之前。自从塞尔吉奥·佩雷兹与布鲁斯·巴弗那场火遍全网的名场面之后，车手介绍早已成为维加斯大奖赛周末最受车迷喜爱的环节之一。\n\n在这之后，Sparks将在正赛开始前演唱美国国歌。这位《美国偶像》第六季冠军以《No Air》和《Tattoo》为人熟知，今年的印第安纳波利斯500大赛同样邀请她演唱国歌。\n\n维加斯大奖赛总裁兼首席执行官艾米丽·普雷泽解释说，音乐本该是这项赛事的一部分，而不是额外搭起来的看点。\n\n“我们希望维加斯大奖赛的每一个环节都带着鲜明的维加斯气质——从出发格上的那份期待，一直到赛车起跑的那一刻，”她说。\n\n“把世界级的音乐才华与一级方程式的刺激感放在一起，我们营造的是一种能够承载这座城市精神的气场。车迷可以期待一场难忘的娱乐盛宴，让这一天的每一刻都像是整场演出的一部分。”\n\n哪些持票观众能看到维加斯大奖赛的出发格演出？\n\n并非每一位持票观众都能看到赛前出发格演出。组委会表示，喜力银牌主看台、Skybox包厢和Trackside Tavern赛道旁酒馆的视野可以覆盖其中几组表演，围场俱乐部、Wynn Grid Club以及F1 Garage里的戈登·拉姆齐餐厅同样在列。\n\n2026年维加斯大奖赛的其他娱乐演出\n\n围场俱乐部还将安排通灵师Colin Cloud，以及《Now You See Me Live》剧组的表演——这出魔术秀的灵感来自同名电影系列。Wynn Grid Club方面，美国版《Love Island》第八季出演者Bryce Alakai将在正赛之夜带来一段DJ演出。\n\nSphere场馆T-Mobile舞台的阵容包括Sean Paul、Disclosure、Two Friends、Natasha Bedingfield、Gorgon City和Ja Rule。后街男孩将在这里演出首届F1 Afterparty。\n\n喜力舞台的阵容则包括Disco Dom、Icona Pop和澳洲比吉斯秀。",
+    "nodes": [
+      {
+        "name": "img",
+        "attrs": {
+          "src": "https://cdn-4.motorsport.com/images/amp/6n7b5XR0/s1200/motorsport-com-graphics-84.webp",
+          "mode": "widthFix",
+          "style": "width:100%;display:block;",
+          "alt": "F1维加斯大奖赛公布赛前音乐阵容"
+        }
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "美国DJ Steve Aoki今年将重返维加斯大奖赛的出发格，在11月21日正赛开始前献演。与他同台的还有DJ MORTEN和歌手Jordin Sparks，三人共同构成本届赛事的赛前演出阵容。"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "MORTEN的演出排在车手介绍环节之前。自从塞尔吉奥·佩雷兹与布鲁斯·巴弗那场火遍全网的名场面之后，车手介绍早已成为维加斯大奖赛周末最受车迷喜爱的环节之一。"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "在这之后，Sparks将在正赛开始前演唱美国国歌。这位《美国偶像》第六季冠军以《No Air》和《Tattoo》为人熟知，今年的印第安纳波利斯500大赛同样邀请她演唱国歌。"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "维加斯大奖赛总裁兼首席执行官艾米丽·普雷泽解释说，音乐本该是这项赛事的一部分，而不是额外搭起来的看点。"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "“我们希望维加斯大奖赛的每一个环节都带着鲜明的维加斯气质——从出发格上的那份期待，一直到赛车起跑的那一刻，”她说。"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "“把世界级的音乐才华与一级方程式的刺激感放在一起，我们营造的是一种能够承载这座城市精神的气场。车迷可以期待一场难忘的娱乐盛宴，让这一天的每一刻都像是整场演出的一部分。”"
+          }
+        ]
+      },
+      {
+        "name": "img",
+        "attrs": {
+          "src": "https://cdn.motorsport.com/images/mgl/2y7AZ9g6/s1200/a-rainbow-above-the-welcome-to.webp",
+          "mode": "widthFix",
+          "style": "width:100%;display:block;",
+          "alt": "一道彩虹横跨“欢迎来到维加斯”标志上方"
+        }
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "一道彩虹横跨“欢迎来到维加斯”标志上方"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "图片来源：Clive Mason / Getty Images"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "哪些持票观众能看到维加斯大奖赛的出发格演出？"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "并非每一位持票观众都能看到赛前出发格演出。组委会表示，喜力银牌主看台、Skybox包厢和Trackside Tavern赛道旁酒馆的视野可以覆盖其中几组表演，围场俱乐部、Wynn Grid Club以及F1 Garage里的戈登·拉姆齐餐厅同样在列。"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "2026年维加斯大奖赛的其他娱乐演出"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "围场俱乐部还将安排通灵师Colin Cloud，以及《Now You See Me Live》剧组的表演——这出魔术秀的灵感来自同名电影系列。Wynn Grid Club方面，美国版《Love Island》第八季出演者Bryce Alakai将在正赛之夜带来一段DJ演出。"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "Sphere场馆T-Mobile舞台的阵容包括Sean Paul、Disclosure、Two Friends、Natasha Bedingfield、Gorgon City和Ja Rule。后街男孩将在这里演出首届F1 Afterparty。"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "喜力舞台的阵容则包括Disco Dom、Icona Pop和澳洲比吉斯秀。"
+          }
+        ]
+      }
+    ]
+  }
+}
