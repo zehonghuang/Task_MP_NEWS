@@ -1,0 +1,82 @@
+# La Tavolata：当巴里拉在蒙扎的发车格上办了一场意大利晚宴
+
+- **id**：n_f1_20260918_efd8033386
+- **来源**：Formula1.com（Lifestyle & Culture）
+- **规范 URL**：https://www.formula1.com/en/latest/article/la-tavolata-when-barilla-hosted-an-italian-dinner-party-on-the-monza-starting-grid.7EXnyQM7FhQiro3h9xDSrP
+- **英文标题**：La Tavolata: When Barilla hosted an Italian dinner party on the Monza starting grid
+- **作者**：Junior Staff Writer Katy Roberts
+- **发布时间**：Sep 18, 2026 1:04pm UTC（JSON-LD datePublished：2026-09-18T13:04:47.634Z；北京时间 2026-09-18T21:04:47.634+08:00）
+- **栏目**：FEATURE / PADDOCK（tag_text：巴里拉蒙扎晚宴 / 发车格上的意式长桌）
+- **封面**：https://media.formula1.com/image/upload/c_lfill,w_3392/q_auto/v1740000001/fom-website/2026/Miscellaneous/La%20Tavolata%20by%20Barilla_Aerial.webp
+
+**抽取备注**：
+
+- hero 图（`2026/Miscellaneous/La%20Tavolata%20by%20Barilla_Hero.webp`，`t_16by9North` 裁切）原文 alt 为空，且封面取自正文首图（body_first），hero 不入 json 节点；
+- 两张正文图（Aerial、Table）原文 alt 均为空，img 节点 alt 如实记为“（原文 alt 为空）”，图注存在、正常输出；封面图（Aerial）在 json 中仅作为 nodes[0] 的 img 节点出现一次，其图注以独立段落落在原位；
+- 正文图 src 位于 `fom-website/2026/Miscellaneous/` 目录（非 Lifestyle/ADHOC），路径与 `%20` 编码照原样保留；
+- video_slot ×1（位于正文第 3、4 段之间）不入库；
+- skip_promo ×2（“From Ascari to Antonelli – Monza's most magical home wins”“Michelin-starred chef Massimo Bottura reveals his F1 heroes”，均为站内链接推广卡）不入库；
+- Instagram 嵌入 ×2 以括注形式入正文，URL 参数照原样——第二处保留 `?img_index=1` 查询参数；
+- card_article_type=Feature，属深度特稿，layout_code 定为 FEATURE；跨界（美食品牌 × F1）围场文化内容，type_code 定为 PADDOCK；
+- intro 导语已人工译文并入 content.text 首段与 nodes[1]；
+- 菜品名（Fusilloni Al Bronzo al Pesto、Gran Ruote、Lap Two、L'essenza del Sole Siciliano、cacio e pepe、Parmigiano Reggiano、al dente）、活动名 La Tavolata 与歌曲名（Mambo Italiano、Sarà Perché Ti Amo）、赛事系列名 Formula Fiat Abarth 按惯例保留原文并附中文说明；
+- 全文无现役车手，tags 仅收中文实体词（巴里拉、蒙扎、意大利大奖赛及人物译名）；
+- url_failures 为空。
+
+---
+
+在意大利大奖赛的激烈角逐鸣枪之前，主厨马西莫·博图鲁与巴里拉邀请数百位宾客，赴一场独一无二的晚宴。
+
+F1 的世界热情高涨、能量爆棚、脚步从不停歇，所以一个真正慢下来、把一切看进眼里的机会，不该被错过。巴里拉在意大利大奖赛开始前的片刻安宁里，看到了正是这样一个难得的契机。
+
+一群幸运儿——有现役车手，也有退役车手，还有车队成员、记者和车迷——受邀品尝米其林星级主厨马西莫·博图鲁亲手烹制的三道式佳肴。博图鲁坦言，要为几百个人把意面煮到恰到好处的弹牙（al dente），这任务多少让人有些发怵。
+
+在那个时刻到来之前，我先壮着胆子走进了安静得有些诡异的维修通道——平日里，这里是被气动扳手的声响和机修工的喧闹点缀的地方——来到发车格入口。巴里拉的工作人员在那里递给我一张印着“La Tavolata”的通行证，还有一把来得正是时候的手持小风扇。
+
+彼时夜色已深，但柏油路面仍执拗地散发着它白天吸收的热量，所以我无比感激这份小礼物。风扇上也印着活动名称——这是一个意大利词，指的正是许多人围坐在同一张长桌旁共享一餐。
+
+而发车格上摆开的，恰恰就是这样一幅画面。我忍不住端详起那张长得惊人的餐桌：白色桌布上点缀着深蓝色，酒杯在一天中最后的阳光里闪闪发亮。看台是空的，但一面法拉利旗帜提醒着人们，好戏即将开场。
+
+（原文此处嵌入 Instagram 帖子：https://www.instagram.com/p/Dc3Fs35ij-B/）
+
+当我朝着标志性的五盏红灯走去时，这个 F1 微缩世界里的谈笑声愈发热闹。红灯之下，小圆桌旁围着一处处摊位，供应着布鲁斯基塔烤面包、腌肉、奶酪、香槟和面包棒，所有摊位的顶棚都是同样的白蓝配色。
+
+一支由四人组成的流动乐队各展所长，奏起披头士那些人见人爱的曲子，挨个造访每一小群宾客，让人几乎不可能不微笑——当他们转而奏响《Mambo Italiano》《Sarà Perché Ti Amo》这类不可抗拒的意大利经典时，更是如此。
+
+在吃掉多到近乎难为情的开胃小点后，我们被引导入座，查看菜单。对一个同样热爱 F1 和美食的人来说，这番经历的滋味，就像一只狗听见了“散步”或“零食”这两个词。
+
+巴里拉意面、青酱、甜点、蒙扎、发车格……我的兴奋已经越来越藏不住了，而我远不是一个人——每个人眼里都带着一种神情，那是对整个夜晚心怀感激又难以置信的复杂目光。
+
+![（原文 alt 为空）](https://media.formula1.com/image/upload/c_lfill,w_3392/q_auto/v1740000001/fom-website/2026/Miscellaneous/La%20Tavolata%20by%20Barilla_Aerial.webp)
+图注：数百位嘉宾出席了这场巴里拉晚宴。（原图注：Hundreds of people attended the Barilla dinner）
+
+第一道登场的是 Fusilloni Al Bronzo al Pesto，菜单称它是“对传统利古里亚青酱的重新诠释”，配以豌豆奶油和烤面包屑，构成一曲“非凡风味的证言”。
+
+“我有点紧张，因为我在想那 35 公斤意面——至少得全部煮到弹牙，这并不容易，我手都在出汗，”博图鲁在欢迎致辞中坦言。“心里像有蝴蝶在飞，不过没关系，这是挑战的一部分，所以我会做下去。
+
+“这就是经典意大利 Tavolata 的最好例子。你知道，我们坐在一起，我们分享在一起。这就是意大利料理，意大利料理被联合国教科文组织列为遗产的原因也正在于此。不是因为意大利料理是一种料理。意大利有十万种料理。
+
+“那是人们围坐桌旁共享一餐的仪式，无论是在修道院的长餐厅，还是在一家米其林三星餐厅，都一样。烹饪是一种爱的行为，就是这样。而当你下厨时，你是为朋友做、为家人做，或者为 F1 这个大家庭做。”
+
+接着，他描述了那些新鲜芳香的香草如何调和出我见过的最鲜活的绿色青酱——这是展示巴里拉意面的两道菜中的第一道。下一道是主菜，还亲切地取名“Lap Two”（第二圈），与我们所在的场地更添几分呼应。
+
+![（原文 alt 为空）](https://media.formula1.com/image/upload/c_lfill,w_3392/q_auto/v1740000001/fom-website/2026/Miscellaneous/La%20Tavolata%20by%20Barilla_Table.webp)
+图注：到场的重要人物包括 F1 总裁兼首席执行官斯特法诺·多梅尼卡利与保罗·巴里拉。（原图注：Key figures in attendance included President and CEO of Formula 1 Stefano Domenicali and Paolo Barilla）
+
+作为 F1 官方合作伙伴，巴里拉做得远远超出了本分，特地制作了一款名为 Gran Ruote 的限定意面。它的灵感来自车轮的形状，辐条的位置恰到好处，能把酱汁尽数收纳——而这次的酱汁，是用帕马森雷贾诺奶酪（Parmigiano Reggiano）和胡椒做成的、简单却迷人的 cacio e pepe（奶酪胡椒酱）。
+
+最后是这顿晚餐的最后一圈：“L'essenza del Sole Siciliano”（西西里太阳的精髓）。博图鲁把这道作品称作“一个关于太阳之力、关于意大利之美的美妙想法”。
+
+“对我而言，当我想到意大利、想到太阳，我想到的是西西里，”他解释道。“整个甜点就像西西里的力量，装满了柑橘、杏仁、酸豆、咖啡，还有西西里的水果。”
+
+这是一个令人神清气爽的收尾。我愿意相信，这一晚我达成了 La Tavolata 的初衷——与来自 F1 各个角落的人交谈，聚在一起，沉浸在一个独一无二的社群之中。保罗·巴里拉本人也曾是车手，他用一段童年往事为这种感觉做了最好的总结。
+
+（原文此处嵌入 Instagram 帖子：https://www.instagram.com/p/Dc4Mi8njTCL/?img_index=1）
+
+“1974 年，我就在那里，”他向满座宾客回忆道，一边指向不远处的看台。“我想非常近距离地看 F1，但太远了。两辆法拉利领跑——克莱·雷加佐尼和尼基·劳达——结果他们双双退赛。
+
+“我那时 13 岁。我绝望了。灾难！我的第一场大奖赛，我的心为法拉利而跳，却眼看着两辆法拉利在维修通道起点停下。到了 1975 年，法拉利由克莱·雷加佐尼拿了第一，尼基拿了第三，他们赢得了总冠军。
+
+“然后来到 1980 年，我开着 Formula Fiat Abarth 赛车在这里跑了第一圈。开到第一个减速弯时，我感到这个地方的浩瀚，历史压在我的肩上，我被自己体会到的情绪震住了。我会说，蒙扎在高潮与低谷之间，是一个充满情感的地方。
+
+“今天你们所有人围坐在这张桌旁，而我们正希望人们在这里聚拢、分享情感，然后到了周日，他们要去战斗。战斗是生活的一部分，但餐桌旁的友谊非常重要。”
