@@ -1,0 +1,203 @@
+{
+  "id": "n_autosport_20261112_670cad16ec",
+  "layout_code": "STANDARD",
+  "type_code": "DRIVER",
+  "pinned": false,
+  "weight": 0,
+  "tag_text": "拉塞尔 / 动态",
+  "tags": [
+    "russell",
+    "63",
+    "mercedes",
+    "silverstone",
+    "karting",
+    "coulthard"
+  ],
+  "title": "乔治·拉塞尔创立卡丁车学院",
+  "summary": "这位梅赛德斯F1车手希望与银石合作，让赛车运动在更年幼的阶段变得更触手可及。",
+  "cover_url": "https://cdn-3.motorsport.com/images/amp/YvKB3V16/s1200/gr63-academy-unveil-2.webp",
+  "published_at": "2026-11-12T12:19:36+00:00",
+  "time_text": "",
+  "timezone_name": "Asia/Shanghai",
+  "source": {
+    "name": "Autosport",
+    "url": "https://www.motorsport.com/f1/news/george-russell-launches-karting-academy/10874105/"
+  },
+  "content": {
+    "format_code": "RICH_TEXT_NODES",
+    "text": "F1明星乔治·拉塞尔与银石合作创办了一所卡丁车学院，旨在让赛车运动更加普惠，并发掘下一位年轻超级新星。\n\n这位八场大奖赛获胜者在周四正式启动了他的GR63卡丁车学院，学院面向8至9岁的男孩和女孩，基地设在银石卡丁车场。\n\n学院设有“通往巅峰的四阶段路径”，将于12月启动，采用开放报名形式邀请所有符合条件的车手来到银石，其中80人将入选第二阶段。\n\n这80名车手将在1月31日的“GR63 Shootout（选拔对决）”中角逐，决出25个名额，参加2027年3月至11月在银石举行的八回合锦标赛。\n\n该锦标赛为每位参赛车手提供全额资助，排名前五的车手将于明年12月在第四阶段中直接对决，优胜者将获得一套全额资助的2028赛季卡丁车征战计划。\n\n“卡丁车是我一切开始的地方，”拉塞尔说。他在进入方程式赛车领域之前，曾在国家级和国际级赛事中夺得冠军。\n\n“它教会了我整个职业生涯所依赖的一切。我深知，有天赋的年轻车手想要获得第一个机会有多艰难，尤其是在预算紧张的时候。\n\n乔治·拉塞尔，梅赛德斯\n\n图片来源：Michael Potts / LAT images via Getty Images\n\n“通过GR63卡丁车学院，我想回馈这项运动：去发现那些被埋没的天赋，为他们提供兑现潜力所需的支持与平台。\n\n“我非常感谢银石和英国赛车手俱乐部（BRDC），是他们的帮助让这一切成为现实。”\n\n学院专为那些“可能没有足够预算在这项运动中继续晋升”的孩子设计——无论草根层面还是顶尖层面，赛车运动的成本都在不断攀升。\n\n因此，参加学院第一阶段的报名费为25英镑，到“GR63 Shootout”时升至75英镑，而从第三阶段起费用全部由学院承担。\n\nBRDC主席大卫·库特哈德表示：“作为银石的所有者和英国赛车运动的守护者，BRDC一直致力于回馈这项运动、培养本土人才。\n\n“这份承诺是英国在赛车运动中长期取得成功的重要原因，也是俱乐部及其会员的一大骄傲来源。\n\n“GR63学院完美体现了这一理念，我们非常高兴能与乔治合作，在银石支持下一代车手。”\n\n所有参赛车手必须是英联邦国家公民；欲预订第一阶段的“到店即驾”环节，请点击此处前往银石官网。",
+    "nodes": [
+      {
+        "name": "img",
+        "attrs": {
+          "src": "https://cdn-3.motorsport.com/images/amp/YvKB3V16/s1200/gr63-academy-unveil-2.webp",
+          "alt": "Motorsport.com配图",
+          "mode": "widthFix",
+          "style": "width:100%;display:block;"
+        }
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "F1明星乔治·拉塞尔与银石合作创办了一所卡丁车学院，旨在让赛车运动更加普惠，并发掘下一位年轻超级新星。"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "这位八场大奖赛获胜者在周四正式启动了他的GR63卡丁车学院，学院面向8至9岁的男孩和女孩，基地设在银石卡丁车场。"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "学院设有“通往巅峰的四阶段路径”，将于12月启动，采用开放报名形式邀请所有符合条件的车手来到银石，其中80人将入选第二阶段。"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "这80名车手将在1月31日的“GR63 Shootout（选拔对决）”中角逐，决出25个名额，参加2027年3月至11月在银石举行的八回合锦标赛。"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "该锦标赛为每位参赛车手提供全额资助，排名前五的车手将于明年12月在第四阶段中直接对决，优胜者将获得一套全额资助的2028赛季卡丁车征战计划。"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "“卡丁车是我一切开始的地方，”拉塞尔说。他在进入方程式赛车领域之前，曾在国家级和国际级赛事中夺得冠军。"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "“它教会了我整个职业生涯所依赖的一切。我深知，有天赋的年轻车手想要获得第一个机会有多艰难，尤其是在预算紧张的时候。"
+          }
+        ]
+      },
+      {
+        "name": "img",
+        "attrs": {
+          "src": "https://cdn.motorsport.com/images/mgl/0o5AeBjY/s1200/george-russell-mercedes.webp",
+          "alt": "乔治·拉塞尔（梅赛德斯）",
+          "mode": "widthFix",
+          "style": "width:100%;display:block;"
+        }
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "乔治·拉塞尔，梅赛德斯"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "图片来源：Michael Potts / LAT images via Getty Images"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "“通过GR63卡丁车学院，我想回馈这项运动：去发现那些被埋没的天赋，为他们提供兑现潜力所需的支持与平台。"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "“我非常感谢银石和英国赛车手俱乐部（BRDC），是他们的帮助让这一切成为现实。”"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "学院专为那些“可能没有足够预算在这项运动中继续晋升”的孩子设计——无论草根层面还是顶尖层面，赛车运动的成本都在不断攀升。"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "因此，参加学院第一阶段的报名费为25英镑，到“GR63 Shootout”时升至75英镑，而从第三阶段起费用全部由学院承担。"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "BRDC主席大卫·库特哈德表示：“作为银石的所有者和英国赛车运动的守护者，BRDC一直致力于回馈这项运动、培养本土人才。"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "“这份承诺是英国在赛车运动中长期取得成功的重要原因，也是俱乐部及其会员的一大骄傲来源。"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "“GR63学院完美体现了这一理念，我们非常高兴能与乔治合作，在银石支持下一代车手。”"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "所有参赛车手必须是英联邦国家公民；欲预订第一阶段的“到店即驾”环节，请点击此处前往银石官网。"
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,177 @@
+{
+  "id": "n_autosport_20261112_028c933c49",
+  "layout_code": "STANDARD",
+  "type_code": "PADDOCK",
+  "pinned": false,
+  "weight": 0,
+  "tag_text": "梅赛德斯 / 观点",
+  "tags": [
+    "mercedes",
+    "verstappen",
+    "3",
+    "hamilton",
+    "44",
+    "ralf-schumacher",
+    "ferrari"
+  ],
+  "title": "拉尔夫·舒马赫质疑汉密尔顿的领导力，并向维斯塔潘发出警告",
+  "summary": "拉尔夫·舒马赫认为维斯塔潘难以融入梅赛德斯，并批评汉密尔顿不具备带领车队的能力。",
+  "cover_url": "https://cdn-8.motorsport.com/images/amp/6Alv9e9Y/s1200/motorsport-com-graphics-90.webp",
+  "published_at": "2026-11-12T12:38:07+00:00",
+  "time_text": "",
+  "timezone_name": "Asia/Shanghai",
+  "source": {
+    "name": "Autosport",
+    "url": "https://www.motorsport.com/f1/news/ralf-schumacher-questions-lewis-hamiltons-leadership-as-he-issues-max-verstappen-warning/10874111/"
+  },
+  "content": {
+    "format_code": "RICH_TEXT_NODES",
+    "text": "前F1车手拉尔夫·舒马赫认为，马克斯·维斯塔潘如果去了梅赛德斯，会发现那里的日子“非常难熬”，他还表示刘易斯·汉密尔顿从未学会如何运营一支车队。\n\n在Sky Sports Germany的《Backstage Boxengasse》播客节目中，舒马赫表示，维斯塔潘对红牛技术层面的深度参与，恐怕很难复制到梅赛德斯这样的另一家车队。\n\n“我觉得那会非常困难，”这位德国人说。“马克斯习惯的是[另一种模式]……他的技术头脑那么敏锐，他想知道每一处到底在发生什么。\n\n“他基本上一坐进赛车就想马上知道变速箱、差速器是怎么回事，比如减振器是怎么工作的。就算别无目的，他也有兴趣去钻研这些东西。”\n\n舒马赫把这一点归因于维斯塔潘在父亲——前F1车手约斯·维斯塔潘——身边的成长经历，并将其与自己从小在哥哥、七届世界冠军迈克尔·舒马赫身旁长大的经历相类比。\n\n“马克斯也属于那种在亲自动手修车的父亲身边长大的那一代人，就像当年我和我哥哥一样，”他补充道。“我认为这就是最大的区别。”\n\n夏尔·勒克莱尔，法拉利；刘易斯·汉密尔顿，法拉利\n\n图片来源：Alastair Staley / LAT Images via Getty Images\n\n他怀疑梅赛德斯不会欢迎这种影响力的到来，并认为法拉利反而更适合维斯塔潘。\n\n“他到底是和谁一起成长起来的？是和红牛一起。梅赛德斯已经是一家大车队了。如果像马克斯这样的人现在过去，我不觉得他们会太乐意。\n\n“在法拉利，我觉得他们早就习惯了车手可以提出要求，但依我看来，那份传统其实还是迈克尔[·舒马赫]留下的，来自他在那里留下的一切。”\n\n最近几场比赛，法拉利的车手组合格局受到审视，舒马赫对效力于这家马拉内罗车队的汉密尔顿评价毫不留情。\n\n“汉密尔顿从来没有学会如何带领一支车队，在托托·沃尔夫手下没有，在罗恩·丹尼斯手下也没有，”这位前车手说。“那本来就不是他的职责，他只需要坐进赛车，跑得越快越好。\n\n“我觉得大家都能看出这一点，而且我认为这也让他变得相当自我。”",
+    "nodes": [
+      {
+        "name": "img",
+        "attrs": {
+          "src": "https://cdn-8.motorsport.com/images/amp/6Alv9e9Y/s1200/motorsport-com-graphics-90.webp",
+          "alt": "Motorsport.com配图",
+          "mode": "widthFix",
+          "style": "width:100%;display:block;"
+        }
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "前F1车手拉尔夫·舒马赫认为，马克斯·维斯塔潘如果去了梅赛德斯，会发现那里的日子“非常难熬”，他还表示刘易斯·汉密尔顿从未学会如何运营一支车队。"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "在Sky Sports Germany的《Backstage Boxengasse》播客节目中，舒马赫表示，维斯塔潘对红牛技术层面的深度参与，恐怕很难复制到梅赛德斯这样的另一家车队。"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "“我觉得那会非常困难，”这位德国人说。“马克斯习惯的是[另一种模式]……他的技术头脑那么敏锐，他想知道每一处到底在发生什么。"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "“他基本上一坐进赛车就想马上知道变速箱、差速器是怎么回事，比如减振器是怎么工作的。就算别无目的，他也有兴趣去钻研这些东西。”"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "舒马赫把这一点归因于维斯塔潘在父亲——前F1车手约斯·维斯塔潘——身边的成长经历，并将其与自己从小在哥哥、七届世界冠军迈克尔·舒马赫身旁长大的经历相类比。"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "“马克斯也属于那种在亲自动手修车的父亲身边长大的那一代人，就像当年我和我哥哥一样，”他补充道。“我认为这就是最大的区别。”"
+          }
+        ]
+      },
+      {
+        "name": "img",
+        "attrs": {
+          "src": "https://cdn.motorsport.com/images/mgl/0rVP8mG0/s1200/charles-leclerc-ferrari-lewis-.webp",
+          "alt": "夏尔·勒克莱尔（法拉利）、刘易斯·汉密尔顿（法拉利）",
+          "mode": "widthFix",
+          "style": "width:100%;display:block;"
+        }
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "夏尔·勒克莱尔，法拉利；刘易斯·汉密尔顿，法拉利"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "图片来源：Alastair Staley / LAT Images via Getty Images"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "他怀疑梅赛德斯不会欢迎这种影响力的到来，并认为法拉利反而更适合维斯塔潘。"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "“他到底是和谁一起成长起来的？是和红牛一起。梅赛德斯已经是一家大车队了。如果像马克斯这样的人现在过去，我不觉得他们会太乐意。"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "“在法拉利，我觉得他们早就习惯了车手可以提出要求，但依我看来，那份传统其实还是迈克尔[·舒马赫]留下的，来自他在那里留下的一切。”"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "最近几场比赛，法拉利的车手组合格局受到审视，舒马赫对效力于这家马拉内罗车队的汉密尔顿评价毫不留情。"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "“汉密尔顿从来没有学会如何带领一支车队，在托托·沃尔夫手下没有，在罗恩·丹尼斯手下也没有，”这位前车手说。“那本来就不是他的职责，他只需要坐进赛车，跑得越快越好。"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "“我觉得大家都能看出这一点，而且我认为这也让他变得相当自我。”"
+          }
+        ]
+      }
+    ]
+  }
+}
