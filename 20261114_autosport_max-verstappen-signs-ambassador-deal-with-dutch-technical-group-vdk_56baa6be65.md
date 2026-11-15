@@ -24,7 +24,7 @@ VDK成立于2013年，最初是一个荷兰技术企业团体，如今业务已�
 
 “它由许多技术企业和专业人士组成，人人各有所长，但在一起时更强大。VDK是一家富有创新精神的公司，也有着远大的国际抱负。我很期待未来几年成为其中的一部分。”
 
-![马克斯·维斯塔潘（红牛车队）](https://cdn.motorsport.com/images/mgl/YE9EVNGY/s1200/max-verstappen-red-bull-racing.webp)
+![](https://cdn.motorsport.com/images/mgl/YE9EVNGY/s1200/max-verstappen-red-bull-racing.webp)
 
 马克斯·维斯塔潘（红牛车队）
 

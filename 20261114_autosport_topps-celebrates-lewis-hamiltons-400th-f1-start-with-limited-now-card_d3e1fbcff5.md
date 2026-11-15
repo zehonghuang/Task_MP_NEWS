@@ -20,7 +20,7 @@ Topps周五在Instagram上公布了这张卡牌，写道：“刘易斯·汉密�
 
 Topps NOW卡牌是按订单印制而非固定发行量。每张卡在其纪念的比赛结束后只短暂发售一个窗口期，而Topps要等窗口期关闭后才会公布实际印量。
 
-![刘易斯·汉密尔顿（法拉利）](https://cdn.motorsport.com/images/mgl/68VwM4l2/s1200/lewis-hamilton-ferrari.webp)
+![](https://cdn.motorsport.com/images/mgl/68VwM4l2/s1200/lewis-hamilton-ferrari.webp)
 
 刘易斯·汉密尔顿（法拉利）
 

@@ -22,7 +22,7 @@
 
 “我所知道的是，按照新规则，赛车的下压力会损失一些——可不止一点。”艾利森解释道。
 
-![乔治·拉塞尔（梅赛德斯）、安德烈亚·基米·安东内利（梅赛德斯）](https://cdn.motorsport.com/images/mgl/24QGZ1eY/s1200/george-russell-mercedes-andrea.webp)
+![](https://cdn.motorsport.com/images/mgl/24QGZ1eY/s1200/george-russell-mercedes-andrea.webp)
 
 乔治·拉塞尔（梅赛德斯）、安德烈亚·基米·安东内利（梅赛德斯）
 

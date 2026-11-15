@@ -16,7 +16,7 @@
 
 在谈论与竞争对手之间不断缩小的差距时，艾利森点到了车队最新一套大型空气动力学组件。
 
-![乔治·拉塞尔（梅赛德斯）、安德烈亚·基米·安东内利（梅赛德斯）](https://cdn.motorsport.com/images/mgl/0o5AgXoY/s1200/george-russell-mercedes-andrea.webp)
+![](https://cdn.motorsport.com/images/mgl/0o5AgXoY/s1200/george-russell-mercedes-andrea.webp)
 
 乔治·拉塞尔（梅赛德斯）、安德烈亚·基米·安东内利（梅赛德斯）
 
@@ -34,7 +34,7 @@
 
 在2026年规则下，国际汽联强制要求全场大幅减重30公斤，将最低车重降至仅768公斤。当其他制造商还在为削掉多余重量而挣扎时，梅赛德斯一开始就精准达成了这项工程指标。
 
-![安德烈亚·基米·安东内利（梅赛德斯）](https://cdn.motorsport.com/images/mgl/0mXyjx56/s1200/andrea-kimi-antonelli-mercedes.webp)
+![](https://cdn.motorsport.com/images/mgl/0mXyjx56/s1200/andrea-kimi-antonelli-mercedes.webp)
 
 安德烈亚·基米·安东内利（梅赛德斯）
 

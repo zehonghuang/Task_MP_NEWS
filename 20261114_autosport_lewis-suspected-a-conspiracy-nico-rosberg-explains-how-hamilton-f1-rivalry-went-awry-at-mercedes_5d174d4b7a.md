@@ -22,7 +22,7 @@
 
 “然后全世界都在争论这件事，一切铺天盖地地砸过来，刘易斯的粉丝们开始嘘我。那也非常难以承受——从斯帕开始，大量嘘声冲着你来。这在心理上真的很难消化，面对如此多的仇恨，很艰难。”
 
-![尼科·罗斯伯格、刘易斯·汉密尔顿（梅赛德斯）](https://cdn.motorsport.com/images/mgl/YN7wDQ46/s1200/nico-rosberg-lewis-hamilton-me.webp)
+![](https://cdn.motorsport.com/images/mgl/YN7wDQ46/s1200/nico-rosberg-lewis-hamilton-me.webp)
 
 尼科·罗斯伯格、刘易斯·汉密尔顿（梅赛德斯）
 
@@ -42,7 +42,7 @@
 
 有意思的是，罗斯伯格赢得了2015赛季最后三场大奖赛，而这次人员大调整并没有妨碍他拿下2016赛季前四连胜——由此成就的七连胜，连汉密尔顿职业生涯都未曾做到。
 
-![尼科·罗斯伯格（梅赛德斯）](https://cdn.motorsport.com/images/mgl/Y9lNzdq2/s1200/nico-rosberg-mercedes.webp)
+![](https://cdn.motorsport.com/images/mgl/Y9lNzdq2/s1200/nico-rosberg-mercedes.webp)
 
 尼科·罗斯伯格（梅赛德斯）
 

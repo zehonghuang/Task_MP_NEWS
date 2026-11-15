@@ -18,7 +18,7 @@
 
 会晤在罗马奎里纳莱宫举行，安东内利把自己的一顶正式比赛头盔赠予总统，并在面罩上写下一行题词。
 
-![塞尔焦·马塔雷拉总统与F1世界冠军基米·安东内利在一起](https://cdn.motorsport.com/images/mgl/Y9lNzeZ2/s1200/il-presidente-sergio-mattarell.webp)
+![](https://cdn.motorsport.com/images/mgl/Y9lNzeZ2/s1200/il-presidente-sergio-mattarell.webp)
 
 塞尔焦·马塔雷拉总统与F1世界冠军基米·安东内利在一起
 
@@ -32,7 +32,7 @@
 
 “开卡丁车还好一些。”安东内利答道，“人露天得多。方程式赛车里你是包在其中的。不过F2的比赛时间短一些，身体负荷也小一些。F1一场比赛平均要跑一个半小时。那您明年会来看几场比赛吗？比如在蒙扎？您能来，我们会非常荣幸。”
 
-![基米·安东内利赠送给意大利总统塞尔焦·马塔雷拉的头盔](https://cdn.motorsport.com/images/mgl/6VyK9aNY/s1200/il-casco-donato-da-andrea-kimi.webp)
+![](https://cdn.motorsport.com/images/mgl/6VyK9aNY/s1200/il-casco-donato-da-andrea-kimi.webp)
 
 基米·安东内利赠送给意大利总统塞尔焦·马塔雷拉的头盔
 
@@ -44,7 +44,7 @@
 
 接下来，安东内利将飞回美国，这一次是内华达州，参加2026赛季F1倒数第三站——拉斯维加斯大奖赛。
 
-![塞尔焦·马塔雷拉总统与F1世界冠军基米·安东内利在一起](https://cdn.motorsport.com/images/mgl/2y7QrXp6/s1200/il-presidente-sergio-mattarell.webp)
+![](https://cdn.motorsport.com/images/mgl/2y7QrXp6/s1200/il-presidente-sergio-mattarell.webp)
 
 塞尔焦·马塔雷拉总统与F1世界冠军基米·安东内利在一起
 

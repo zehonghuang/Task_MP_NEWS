@@ -22,7 +22,7 @@
 
 皮亚斯特里认为，只要能够解锁，这台车其实拥有真正的速度，但他补充说，难就难在找到它的极限。
 
-![奥斯卡·皮亚斯特里（迈凯伦）](https://cdn.motorsport.com/images/mgl/0Lde3Aj0/s1200/oscar-piastri-mclaren.webp)
+![](https://cdn.motorsport.com/images/mgl/0Lde3Aj0/s1200/oscar-piastri-mclaren.webp)
 
 奥斯卡·皮亚斯特里（迈凯伦）
 

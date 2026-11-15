@@ -22,7 +22,7 @@
 
 拉斯维加斯从来不是这支木瓜车队的快乐猎场。早在2023年，迈凯伦已经跻身稳定的领奖台竞争者行列，但两辆赛车都在第一节排位赛即遭淘汰；奥斯卡·皮亚斯特里只拿到一个积分，兰多·诺里斯则在第三圈打滑失控并严重撞车。
 
-![兰多·诺里斯（迈凯伦）](https://cdn.motorsport.com/images/mgl/0o5AwWwY/s1200/lando-norris-mclaren.webp)
+![](https://cdn.motorsport.com/images/mgl/0o5AwWwY/s1200/lando-norris-mclaren.webp)
 
 兰多·诺里斯（迈凯伦）
 

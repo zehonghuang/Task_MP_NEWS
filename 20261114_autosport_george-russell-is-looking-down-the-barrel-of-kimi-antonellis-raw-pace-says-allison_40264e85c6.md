@@ -22,7 +22,7 @@
 
 安东内利的驾驶风格——尤其是他在弯中幅度极其夸张的刹车迁移调节——让这位意大利人得以保住后胎，并在每段用胎的末段掏出惊人的节奏。而拉塞尔的看家本领传统上在于出弯时更常规、更凶猛的油门控制，他发现在好几种轮胎衰减的场景里自己被甩在了身后。
 
-![乔治·拉塞尔（梅赛德斯）](https://cdn.motorsport.com/images/mgl/68VwMp42/s1200/george-russell-mercedes.webp)
+![](https://cdn.motorsport.com/images/mgl/68VwMp42/s1200/george-russell-mercedes.webp)
 
 乔治·拉塞尔（梅赛德斯）
 
