@@ -1,0 +1,219 @@
+{
+  "id": "n_autosport_20261114_329560cd1c",
+  "layout_code": "STANDARD",
+  "type_code": "DRIVER",
+  "pinned": false,
+  "weight": 0,
+  "tag_text": "安东内利 / 会晤",
+  "tags": [
+    "安东内利",
+    "马塔雷拉",
+    "梅赛德斯",
+    "意大利",
+    "奎里纳莱宫"
+  ],
+  "title": "安东内利会晤意大利总统塞尔焦·马塔雷拉",
+  "summary": "新科世界冠军安东内利携父母与妹妹在罗马奎里纳莱宫受到意大利总统马塔雷拉接见，并赠送写有题词的头盔。他向总统讲述驾驶F1的身体负荷与降温方式，总统则笑称被“新气象”吸引、希望明年去蒙扎看比赛；会晤前后他还观看了意大利队3比1胜法国的足球赛并回圣马力诺庆祝，随即奔赴拉斯维加斯站。",
+  "cover_url": "https://cdn-2.motorsport.com/images/amp/0R7BEaE2/s6/il-presidente-sergio-mattarell.jpg",
+  "published_at": "2026-11-14T10:37:42+00:00",
+  "time_text": "",
+  "source": {
+    "name": "Autosport",
+    "url": "https://www.motorsport.com/f1/news/kimi-antonelli-meets-italian-president-sergio-mattarella/10874471/"
+  },
+  "content": {
+    "format_code": "RICH_TEXT_NODES",
+    "text": "“谨向马塔雷拉总统致以崇高敬意。”基米·安东内利在题词中写道。\n\n这位新科F1世界冠军正沉浸在会晤、活动与庆祝的旋风之中——两周前他在墨西哥大奖赛上夺得世界冠军，为意大利车手终结了自1953年以来无缘世界锦标赛冠军的漫长等待。\n\n上周五，安东内利与父母马尔科、维罗妮卡以及妹妹玛吉一同受到意大利总统塞尔焦·马塔雷拉的接见。\n\n会晤在罗马奎里纳莱宫举行，安东内利把自己的一顶正式比赛头盔赠予总统，并在面罩上写下一行题词。\n\n![塞尔焦·马塔雷拉总统与F1世界冠军基米·安东内利在一起](https://cdn.motorsport.com/images/mgl/Y9lNzeZ2/s1200/il-presidente-sergio-mattarell.webp)\n\n塞尔焦·马塔雷拉总统与F1世界冠军基米·安东内利在一起\n\n图片来源：Presidenza della Repubblica Italiana\n\n安东内利向这位意大利国家最高领导人讲述了戴着头盔比赛时的感受，也谈到驾驶一辆F1方程式赛车在身体层面意味着什么。\n\n“一场比赛大概会瘦两公斤左右。”他说，“我们穿着防火赛服，那身衣服很热。我们训练，尽可能做好准备、扛住驾驶时承受的高温。但训练结束后要整个人跳进一缸冷水里……”\n\n总统接着问道：“在二级方程式里也是这样吗？开卡丁车的时候呢？”\n\n“开卡丁车还好一些。”安东内利答道，“人露天得多。方程式赛车里你是包在其中的。不过F2的比赛时间短一些，身体负荷也小一些。F1一场比赛平均要跑一个半小时。那您明年会来看几场比赛吗？比如在蒙扎？您能来，我们会非常荣幸。”\n\n![基米·安东内利赠送给意大利总统塞尔焦·马塔雷拉的头盔](https://cdn.motorsport.com/images/mgl/6VyK9aNY/s1200/il-casco-donato-da-andrea-kimi.webp)\n\n基米·安东内利赠送给意大利总统塞尔焦·马塔雷拉的头盔\n\n图片来源：Presidenza della Repubblica Italiana\n\n马塔雷拉微笑着回答：“我很希望如此。现在一级方程式让我很感兴趣！我上次现场看还是很多年前了。总是不太方便，因为我的出行安排很复杂……但如今这个新气象（指安东内利的争冠实力）让我十分期待。”\n\n总统府的会晤只是安东内利密集行程的最新一站。就在几小时前，他还到场观看了意大利国家男子足球队对阵法国的比赛——意大利3比1取胜；而前一天，他回到目前居住的圣马力诺，庆祝了这座世界冠军。\n\n接下来，安东内利将飞回美国，这一次是内华达州，参加2026赛季F1倒数第三站——拉斯维加斯大奖赛。\n\n![塞尔焦·马塔雷拉总统与F1世界冠军基米·安东内利在一起](https://cdn.motorsport.com/images/mgl/2y7QrXp6/s1200/il-presidente-sergio-mattarell.webp)\n\n塞尔焦·马塔雷拉总统与F1世界冠军基米·安东内利在一起\n\n图片来源：Presidenza della Repubblica Italiana",
+    "nodes": [
+      {
+        "name": "img",
+        "attrs": {
+          "src": "https://cdn-2.motorsport.com/images/amp/0R7BEaE2/s6/il-presidente-sergio-mattarell.jpg",
+          "mode": "widthFix",
+          "style": "width:100%;display:block;",
+          "alt": "安东内利会晤意大利总统塞尔焦·马塔雷拉"
+        }
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "“谨向马塔雷拉总统致以崇高敬意。”基米·安东内利在题词中写道。"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "这位新科F1世界冠军正沉浸在会晤、活动与庆祝的旋风之中——两周前他在墨西哥大奖赛上夺得世界冠军，为意大利车手终结了自1953年以来无缘世界锦标赛冠军的漫长等待。"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "上周五，安东内利与父母马尔科、维罗妮卡以及妹妹玛吉一同受到意大利总统塞尔焦·马塔雷拉的接见。"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "会晤在罗马奎里纳莱宫举行，安东内利把自己的一顶正式比赛头盔赠予总统，并在面罩上写下一行题词。"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "![塞尔焦·马塔雷拉总统与F1世界冠军基米·安东内利在一起](https://cdn.motorsport.com/images/mgl/Y9lNzeZ2/s1200/il-presidente-sergio-mattarell.webp)"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "塞尔焦·马塔雷拉总统与F1世界冠军基米·安东内利在一起"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "图片来源：Presidenza della Repubblica Italiana"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "安东内利向这位意大利国家最高领导人讲述了戴着头盔比赛时的感受，也谈到驾驶一辆F1方程式赛车在身体层面意味着什么。"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "“一场比赛大概会瘦两公斤左右。”他说，“我们穿着防火赛服，那身衣服很热。我们训练，尽可能做好准备、扛住驾驶时承受的高温。但训练结束后要整个人跳进一缸冷水里……”"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "总统接着问道：“在二级方程式里也是这样吗？开卡丁车的时候呢？”"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "“开卡丁车还好一些。”安东内利答道，“人露天得多。方程式赛车里你是包在其中的。不过F2的比赛时间短一些，身体负荷也小一些。F1一场比赛平均要跑一个半小时。那您明年会来看几场比赛吗？比如在蒙扎？您能来，我们会非常荣幸。”"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "![基米·安东内利赠送给意大利总统塞尔焦·马塔雷拉的头盔](https://cdn.motorsport.com/images/mgl/6VyK9aNY/s1200/il-casco-donato-da-andrea-kimi.webp)"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "基米·安东内利赠送给意大利总统塞尔焦·马塔雷拉的头盔"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "图片来源：Presidenza della Repubblica Italiana"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "马塔雷拉微笑着回答：“我很希望如此。现在一级方程式让我很感兴趣！我上次现场看还是很多年前了。总是不太方便，因为我的出行安排很复杂……但如今这个新气象（指安东内利的争冠实力）让我十分期待。”"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "总统府的会晤只是安东内利密集行程的最新一站。就在几小时前，他还到场观看了意大利国家男子足球队对阵法国的比赛——意大利3比1取胜；而前一天，他回到目前居住的圣马力诺，庆祝了这座世界冠军。"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "接下来，安东内利将飞回美国，这一次是内华达州，参加2026赛季F1倒数第三站——拉斯维加斯大奖赛。"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "![塞尔焦·马塔雷拉总统与F1世界冠军基米·安东内利在一起](https://cdn.motorsport.com/images/mgl/2y7QrXp6/s1200/il-presidente-sergio-mattarell.webp)"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "塞尔焦·马塔雷拉总统与F1世界冠军基米·安东内利在一起"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "图片来源：Presidenza della Repubblica Italiana"
+          }
+        ]
+      }
+    ]
+  }
+}
