@@ -1,0 +1,143 @@
+{
+  "id": "n_autosport_20261115_03eace3868",
+  "layout_code": "STANDARD",
+  "type_code": "DRIVER",
+  "pinned": false,
+  "weight": 0,
+  "tag_text": "汉密尔顿 / 访谈",
+  "tags": [
+    "hamilton",
+    "44",
+    "ferrari",
+    "antonelli",
+    "12",
+    "mercedes",
+    "hadjar",
+    "6",
+    "red-bull"
+  ],
+  "title": "刘易斯·汉密尔顿批评F1前车手对年轻新星“喷垃圾话”",
+  "summary": "这位法拉利车手表示，他为F1中不断涌现的年轻人才感到骄傲。",
+  "cover_url": "https://cdn-1.motorsport.com/images/amp/01QNXVQ0/s1200/motorsport-com-graphics-2026-1.webp",
+  "published_at": "2026-11-15T22:11:44+00:00",
+  "time_text": "",
+  "timezone_name": "Asia/Shanghai",
+  "source": {
+    "name": "Autosport",
+    "url": "https://www.motorsport.com/f1/news/lewis-hamilton-criticises-ex-f1-drivers-for-talking-smack-and-young-stars/10874726/"
+  },
+  "content": {
+    "format_code": "RICH_TEXT_NODES",
+    "text": "七届F1世界冠军刘易斯·汉密尔顿批评了一些前车手总是对这项赛事的年轻新星“喷垃圾话”，并表示自己从一开始就下定决心不要成为“那种车手”。\n\n在英特拉格斯赛道，有人问这位英国车手：金米·安东内利夺得总冠军是否让他反思了自己的职业生涯。2025年汉密尔顿决定转投法拉利之后，梅赛德斯签下了安东内利。而这只是这位意大利车手参加F1的第二个赛季，他就成为了史上最年轻的世界冠军。\n\n“看到不断有新面孔冒出来、看到年轻车手成长，我真的非常自豪。可我总看到那些前F1车手、那些年纪更大的退役车手，整天都在对年轻人喷垃圾话。”汉密尔顿说。\n\n他补充说，尽管这些前辈自己当年也经历过同样的阶段，却“毫无共情之心”，并表示：“我一直提醒自己要确保不会变成那种车手。”\n\n刘易斯·汉密尔顿，法拉利车队\n\n图片来源：Joe Portlock / Getty Images\n\n这位41岁的法拉利车手在圣保罗迎来了个人第400场大奖赛首发，他说从积分榜头部到尾部的年轻车手都让他印象深刻。\n\n“他们每周都带着各自巨大的压力登场。当然，作为赛车车手我们已经非常幸运，但要来到这个级别还能抬起头、不断失败又不断站起来，是巨大的挑战。”他说。\n\n“这是赛车运动的顶峰，是最难做出成绩的平台，犯错太容易了。”他说，并补充道，他敬佩这些年轻人每一次“摔倒后爬起来、振作精神、继续向前冲”的方式。\n\n安东内利是本赛季多位表现抢眼的年轻车手之一。他在夺冠之路上赢下九场大奖赛，还拿到了16个领奖台席位；而红牛队22岁的伊萨克·哈贾尔在自己的第二个赛季也已经三次登上领奖台。",
+    "nodes": [
+      {
+        "name": "img",
+        "attrs": {
+          "src": "https://cdn-1.motorsport.com/images/amp/01QNXVQ0/s1200/motorsport-com-graphics-2026-1.webp",
+          "alt": "Motorsport.com配图",
+          "mode": "widthFix",
+          "style": "width:100%;display:block;"
+        }
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "七届F1世界冠军刘易斯·汉密尔顿批评了一些前车手总是对这项赛事的年轻新星“喷垃圾话”，并表示自己从一开始就下定决心不要成为“那种车手”。"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "在英特拉格斯赛道，有人问这位英国车手：金米·安东内利夺得总冠军是否让他反思了自己的职业生涯。2025年汉密尔顿决定转投法拉利之后，梅赛德斯签下了安东内利。而这只是这位意大利车手参加F1的第二个赛季，他就成为了史上最年轻的世界冠军。"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "“看到不断有新面孔冒出来、看到年轻车手成长，我真的非常自豪。可我总看到那些前F1车手、那些年纪更大的退役车手，整天都在对年轻人喷垃圾话。”汉密尔顿说。"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "他补充说，尽管这些前辈自己当年也经历过同样的阶段，却“毫无共情之心”，并表示：“我一直提醒自己要确保不会变成那种车手。”"
+          }
+        ]
+      },
+      {
+        "name": "img",
+        "attrs": {
+          "src": "https://cdn.motorsport.com/images/mgl/6DGgjMGY/s1200/lewis-hamilton-ferrari.webp",
+          "alt": "刘易斯·汉密尔顿（法拉利车队）",
+          "mode": "widthFix",
+          "style": "width:100%;display:block;"
+        }
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "刘易斯·汉密尔顿，法拉利车队"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "图片来源：Joe Portlock / Getty Images"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "这位41岁的法拉利车手在圣保罗迎来了个人第400场大奖赛首发，他说从积分榜头部到尾部的年轻车手都让他印象深刻。"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "“他们每周都带着各自巨大的压力登场。当然，作为赛车车手我们已经非常幸运，但要来到这个级别还能抬起头、不断失败又不断站起来，是巨大的挑战。”他说。"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "“这是赛车运动的顶峰，是最难做出成绩的平台，犯错太容易了。”他说，并补充道，他敬佩这些年轻人每一次“摔倒后爬起来、振作精神、继续向前冲”的方式。"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "安东内利是本赛季多位表现抢眼的年轻车手之一。他在夺冠之路上赢下九场大奖赛，还拿到了16个领奖台席位；而红牛队22岁的伊萨克·哈贾尔在自己的第二个赛季也已经三次登上领奖台。"
+          }
+        ]
+      }
+    ]
+  }
+}

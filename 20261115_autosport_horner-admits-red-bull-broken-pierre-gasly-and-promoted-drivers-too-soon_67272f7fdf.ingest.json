@@ -1,0 +1,162 @@
+{
+  "id": "n_autosport_20261115_67272f7fdf",
+  "layout_code": "STANDARD",
+  "type_code": "PADDOCK",
+  "pinned": false,
+  "weight": 0,
+  "tag_text": "红牛 / 访谈",
+  "tags": [
+    "horner",
+    "gasly",
+    "10",
+    "verstappen",
+    "3",
+    "albon",
+    "23",
+    "lawson",
+    "30",
+    "red-bull"
+  ],
+  "title": "霍纳承认红牛把皮埃尔·加斯利等提拔车手太早扔给了维斯塔潘",
+  "summary": "红牛前领队霍纳表示，球队“残酷”的提拔体系在2019年从心理上击垮了皮埃尔·加斯利。",
+  "cover_url": "https://cdn-5.motorsport.com/images/amp/YpbAXRj0/s1200/motorsport-com-graphics-2026-1-2.webp",
+  "published_at": "2026-11-15T23:30:04+00:00",
+  "time_text": "",
+  "timezone_name": "Asia/Shanghai",
+  "source": {
+    "name": "Autosport",
+    "url": "https://www.motorsport.com/f1/news/horner-admits-red-bull-broken-pierre-gasly-and-promoted-drivers-too-soon/10874627/"
+  },
+  "content": {
+    "format_code": "RICH_TEXT_NODES",
+    "text": "红牛车队的二号席位长期以来被视为F1压力最大的环境之一。尽管这支米尔顿凯恩斯阵营的队伍不断轮换高评级的潜力新秀，试图为马克斯·维斯塔潘寻找匹配之人，前车队负责人克里斯蒂安·霍纳如今公开质疑了这条无情车手通道的逻辑。\n\n霍纳在High Performance播客节目中回顾了自己执掌车队的岁月，承认他经常不同意那些车手被如此仓促地扔去对抗一位划时代天才的做法。\n\n“有些车手来得太早了，我并不完全认同他们进入红牛车队的速度，但管理层执意要从红牛青训营里提拔他们。”霍纳透露。\n\n霍纳点名皮埃尔·加斯利、亚历克斯·阿尔本和利亚姆·劳森，称他们是在还没准备好时就被匆匆提拔进一队席位的典型例子。\n\n这种培养失败的例子之一，就是皮埃尔·加斯利2019年短暂的一队生涯。在姊妹车队红牛二队（现Racing Bulls）仅仅跑完一个完整赛季后就被提拔，加斯利难以适应极其敏感的红牛赛车底盘，也扛不住维斯塔潘惊人单圈速度带来的巨大压力。\n\n霍纳回忆起车队亲眼目睹这位法国车手信心崩塌的确切时刻。那一年在奥地利大奖赛和匈牙利大奖赛上，维斯塔潘的速度快得离谱，直接在赛道上一圈圈套了加斯利。\n\n皮埃尔·加斯利，红牛车队\n\n图片来源：Jerry Andre / Motorsport Images\n\n“你能明显看到他们承受着那种压力。不管是皮埃尔——我记得他在奥地利和匈牙利大奖赛连续两站被套圈，就是在那两场比赛里，他被击垮了。”霍纳说道。\n\n匈牙利大奖赛结束后不久，红牛突然将加斯利降回红牛二队直至赛季结束，由阿尔本顶替他的位置。\n\n霍纳指出，红牛体系通常会提供一顶“降落伞”——让车手回到青训车队，而不是彻底开除——但他也不讳言这一环境的残酷现实。\n\n“一方面，红牛做的事情非常慷慨；但另一方面，它的执行方式又相当残酷——你是当红宠儿，直到某天不再是。”霍纳总结道。",
+    "nodes": [
+      {
+        "name": "img",
+        "attrs": {
+          "src": "https://cdn-5.motorsport.com/images/amp/YpbAXRj0/s1200/motorsport-com-graphics-2026-1-2.webp",
+          "alt": "Motorsport.com配图",
+          "mode": "widthFix",
+          "style": "width:100%;display:block;"
+        }
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "红牛车队的二号席位长期以来被视为F1压力最大的环境之一。尽管这支米尔顿凯恩斯阵营的队伍不断轮换高评级的潜力新秀，试图为马克斯·维斯塔潘寻找匹配之人，前车队负责人克里斯蒂安·霍纳如今公开质疑了这条无情车手通道的逻辑。"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "霍纳在High Performance播客节目中回顾了自己执掌车队的岁月，承认他经常不同意那些车手被如此仓促地扔去对抗一位划时代天才的做法。"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "“有些车手来得太早了，我并不完全认同他们进入红牛车队的速度，但管理层执意要从红牛青训营里提拔他们。”霍纳透露。"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "霍纳点名皮埃尔·加斯利、亚历克斯·阿尔本和利亚姆·劳森，称他们是在还没准备好时就被匆匆提拔进一队席位的典型例子。"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "这种培养失败的例子之一，就是皮埃尔·加斯利2019年短暂的一队生涯。在姊妹车队红牛二队（现Racing Bulls）仅仅跑完一个完整赛季后就被提拔，加斯利难以适应极其敏感的红牛赛车底盘，也扛不住维斯塔潘惊人单圈速度带来的巨大压力。"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "霍纳回忆起车队亲眼目睹这位法国车手信心崩塌的确切时刻。那一年在奥地利大奖赛和匈牙利大奖赛上，维斯塔潘的速度快得离谱，直接在赛道上一圈圈套了加斯利。"
+          }
+        ]
+      },
+      {
+        "name": "img",
+        "attrs": {
+          "src": "https://cdn.motorsport.com/images/mgl/6n9exmlY/s1200/pierre-gasly-red-bull-racing-1.webp",
+          "alt": "皮埃尔·加斯利（红牛车队）",
+          "mode": "widthFix",
+          "style": "width:100%;display:block;"
+        }
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "皮埃尔·加斯利，红牛车队"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "图片来源：Jerry Andre / Motorsport Images"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "“你能明显看到他们承受着那种压力。不管是皮埃尔——我记得他在奥地利和匈牙利大奖赛连续两站被套圈，就是在那两场比赛里，他被击垮了。”霍纳说道。"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "匈牙利大奖赛结束后不久，红牛突然将加斯利降回红牛二队直至赛季结束，由阿尔本顶替他的位置。"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "霍纳指出，红牛体系通常会提供一顶“降落伞”——让车手回到青训车队，而不是彻底开除——但他也不讳言这一环境的残酷现实。"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "“一方面，红牛做的事情非常慷慨；但另一方面，它的执行方式又相当残酷——你是当红宠儿，直到某天不再是。”霍纳总结道。"
+          }
+        ]
+      }
+    ]
+  }
+}
