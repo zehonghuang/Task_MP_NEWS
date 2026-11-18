@@ -1,0 +1,136 @@
+{
+  "id": "n_autosport_20261117_a66cbf5f40",
+  "layout_code": "STANDARD",
+  "type_code": "PADDOCK",
+  "pinned": false,
+  "weight": 0,
+  "tag_text": "Racing Bulls / 访谈",
+  "tags": [
+    "permane",
+    "lawson",
+    "30",
+    "tsolov",
+    "lindblad",
+    "41",
+    "racing-bulls",
+    "red-bull",
+    "alpine",
+    "mintzlaff",
+    "mekies"
+  ],
+  "title": "“他凭一己之力压过阿尔品”——Racing Bulls谈为何留用劳森",
+  "summary": "Racing Bulls车队负责人艾伦·珀曼首次受访，谈他为何在佐洛夫与劳森之间选择支持后者出战2027年。",
+  "cover_url": "https://cdn-7.motorsport.com/images/amp/YXyKl5x6/s1200/liam-lawson-racing-bulls.webp",
+  "published_at": "2026-11-17T18:28:07+00:00",
+  "time_text": "",
+  "timezone_name": "Asia/Shanghai",
+  "source": {
+    "name": "Autosport",
+    "url": "https://www.motorsport.com/f1/news/alan-permane-liam-lawson-has-been-a-revelation-as-he-earned-2027-racing-bulls-f1-deal/10875104/"
+  },
+  "content": {
+    "format_code": "RICH_TEXT_NODES",
+    "text": "Racing Bulls的F1负责人艾伦·珀曼表示，利亚姆·劳森在2026年的状态提升堪称“惊喜”，并回应了红牛内部存在分歧的说法。\n\n在接受Motorsport.com的深度专访时，珀曼解释了在劳森与红牛青训车手尼古拉·佐洛夫之间、为阿维德·林德布拉德挑选队友的决定为何拖了这么久，以及为什么留用劳森并不违背车队培养年轻人才的理念。\n\n“有利亚姆对我们车队太好了，毫无疑问，他表现出色。”珀曼说，“可以说，他凭一己之力压过了阿尔品。但这还不是全部，关键在于培养年轻人才——而说实话，没有参照基准，这件事难得多。\n\n“我知道有声音说想把佐洛夫放进赛车。我们留下劳森的原因之一当然是他的表现，这毋庸置疑；但同样重要的是面向未来的培养。我们非常非常看好阿维德，而这样的组合能让他成长，也能让我们看清他的进步。”\n\n艾伦·珀曼，Racing Bulls车队；利亚姆·劳森，Racing Bulls车队\n\n图片来源：Andy Hone / LAT Images via Getty Images\n\n“利亚姆无疑是大幅进步了，而阿维德拥有全部这些可供研究的素材。我们在两辆车之间共享所有数据——他在做什么、他如何在正赛中把赛车榨到极限。我认为这对阿维德来说极其宝贵。”有强烈迹象表明，决定之所以拖延，是因为参与决策的各方之间存在理念分歧——这不仅包括珀曼本人，还包括更广义的红牛公司，包括珀曼的上级奥利弗·明茨拉夫以及红牛竞速车队负责人洛朗·梅基斯。但珀曼与梅基斯口径一致，坚称这个决定是Racing Bulls做出的。\n\n“洛朗已经在媒体上说得很清楚，决定不是他做的。”珀曼强调，“这是Racing Bulls的决定，而我负责Racing Bulls的竞技事务，这一点很明确。不过，我上面有老板奥利弗·明茨拉夫，我们还有股东。\n\n“这么重要的决定不可能只由我一个人拍板。是我与我的老板和股东共同做出的，要确保大家都满意。而它之所以比你们期望的慢了一点，说实话，只是因为我愿意多花时间，确保我们做出正确的决定。”",
+    "nodes": [
+      {
+        "name": "img",
+        "attrs": {
+          "src": "https://cdn-7.motorsport.com/images/amp/YXyKl5x6/s1200/liam-lawson-racing-bulls.webp",
+          "alt": "Motorsport.com配图",
+          "mode": "widthFix",
+          "style": "width:100%;display:block;"
+        }
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "Racing Bulls的F1负责人艾伦·珀曼表示，利亚姆·劳森在2026年的状态提升堪称“惊喜”，并回应了红牛内部存在分歧的说法。"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "在接受Motorsport.com的深度专访时，珀曼解释了在劳森与红牛青训车手尼古拉·佐洛夫之间、为阿维德·林德布拉德挑选队友的决定为何拖了这么久，以及为什么留用劳森并不违背车队培养年轻人才的理念。"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "“有利亚姆对我们车队太好了，毫无疑问，他表现出色。”珀曼说，“可以说，他凭一己之力压过了阿尔品。但这还不是全部，关键在于培养年轻人才——而说实话，没有参照基准，这件事难得多。"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "“我知道有声音说想把佐洛夫放进赛车。我们留下劳森的原因之一当然是他的表现，这毋庸置疑；但同样重要的是面向未来的培养。我们非常非常看好阿维德，而这样的组合能让他成长，也能让我们看清他的进步。”"
+          }
+        ]
+      },
+      {
+        "name": "img",
+        "attrs": {
+          "src": "https://cdn.motorsport.com/images/mgl/0qgP7aEY/s1200/alan-permane-racing-bulls-liam.webp",
+          "alt": "艾伦·珀曼与利亚姆·劳森（Racing Bulls车队）",
+          "mode": "widthFix",
+          "style": "width:100%;display:block;"
+        }
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "艾伦·珀曼，Racing Bulls车队；利亚姆·劳森，Racing Bulls车队"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "图片来源：Andy Hone / LAT Images via Getty Images"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "“利亚姆无疑是大幅进步了，而阿维德拥有全部这些可供研究的素材。我们在两辆车之间共享所有数据——他在做什么、他如何在正赛中把赛车榨到极限。我认为这对阿维德来说极其宝贵。”有强烈迹象表明，决定之所以拖延，是因为参与决策的各方之间存在理念分歧——这不仅包括珀曼本人，还包括更广义的红牛公司，包括珀曼的上级奥利弗·明茨拉夫以及红牛竞速车队负责人洛朗·梅基斯。但珀曼与梅基斯口径一致，坚称这个决定是Racing Bulls做出的。"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "“洛朗已经在媒体上说得很清楚，决定不是他做的。”珀曼强调，“这是Racing Bulls的决定，而我负责Racing Bulls的竞技事务，这一点很明确。不过，我上面有老板奥利弗·明茨拉夫，我们还有股东。"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "“这么重要的决定不可能只由我一个人拍板。是我与我的老板和股东共同做出的，要确保大家都满意。而它之所以比你们期望的慢了一点，说实话，只是因为我愿意多花时间，确保我们做出正确的决定。”"
+          }
+        ]
+      }
+    ]
+  }
+}

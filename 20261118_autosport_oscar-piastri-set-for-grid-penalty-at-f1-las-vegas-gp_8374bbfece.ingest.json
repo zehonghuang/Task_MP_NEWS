@@ -1,0 +1,155 @@
+{
+  "id": "n_autosport_20261118_8374bbfece",
+  "layout_code": "STANDARD",
+  "type_code": "TECH",
+  "pinned": false,
+  "weight": 0,
+  "tag_text": "迈凯伦 / 技术",
+  "tags": [
+    "piastri",
+    "81",
+    "norris",
+    "1",
+    "mclaren",
+    "mercedes",
+    "antonelli",
+    "12",
+    "russell",
+    "63",
+    "wolff",
+    "las-vegas"
+  ],
+  "title": "皮亚斯特里将在F1拉斯维加斯大奖赛遭发车罚退",
+  "summary": "迈凯伦决定使用一套新的梅赛德斯动力单元，这位澳大利亚车手将在维加斯正赛被罚退10位。",
+  "cover_url": "https://cdn-7.motorsport.com/images/amp/YpbAXoM0/s1200/oscar-piastri-mclaren.webp",
+  "published_at": "2026-11-18T00:21:42+00:00",
+  "time_text": "",
+  "timezone_name": "Asia/Shanghai",
+  "source": {
+    "name": "Autosport",
+    "url": "https://www.motorsport.com/f1/news/oscar-piastri-set-for-grid-penalty-at-f1-las-vegas-gp/10875180/"
+  },
+  "content": {
+    "format_code": "RICH_TEXT_NODES",
+    "text": "迈凯伦车手奥斯卡·皮亚斯特里因超出赛季动力单元配额，将在F1拉斯维加斯大奖赛被罚退10位发车。\n\n皮亚斯特里本赛季已经用满了4台内燃引擎（ICE）的限额，为了完赛2026赛季，他将需要第5台梅赛德斯V6引擎。\n\n由于这是他首次超出ICE配额，这位澳大利亚人将在维加斯发车格上被罚退10位。\n\n“奥斯卡因可靠性问题在拉斯维加斯启用一台新的内燃引擎。由于这是他本赛季的第5台，他将被罚退10位，但他有很大机会在周六的正赛里靠超车追回位置。”迈凯伦在赛前展望中表示。\n\n迈凯伦还确认将启用梅赛德斯升级版涡轮增压器——这款部件是动力单元供应商在FIA所谓的ADUO追赶机制下开发的。\n\n“和其他使用HPP动力单元的车手一样，两台赛车都将换装新的ADUO规格涡轮：预期性能收益相对有限。”迈凯伦指出。\n\n奥斯卡·皮亚斯特里，迈凯伦车队；亚历山大·阿尔本，威廉姆斯车队\n\n图片来源：James Sutton / Formula 1 / Formula Motorsport Ltd via Getty Images\n\n梅赛德斯厂队则将在新科世界冠军金米·安东内利的赛车上试运行这款新涡轮，而乔治·拉塞尔将沿用原规格，以避免罚退——因为拉塞尔此前已用满自己的涡轮配额。\n\n“从本周末起我们将拥有ADUO规格的升级涡轮可用。”梅赛德斯F1负责人托托·沃尔夫说，“这主要是为了在大奖赛周末的环境下验证这次开发，预期的性能收益相对有限。\n\n“我们计划在金米的赛车上使用它；而对乔治，我们的优先事项是保住他的发车位置——因为性能收益可能太小，不值得为此接受罚退。”",
+    "nodes": [
+      {
+        "name": "img",
+        "attrs": {
+          "src": "https://cdn-7.motorsport.com/images/amp/YpbAXoM0/s1200/oscar-piastri-mclaren.webp",
+          "alt": "Motorsport.com配图",
+          "mode": "widthFix",
+          "style": "width:100%;display:block;"
+        }
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "迈凯伦车手奥斯卡·皮亚斯特里因超出赛季动力单元配额，将在F1拉斯维加斯大奖赛被罚退10位发车。"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "皮亚斯特里本赛季已经用满了4台内燃引擎（ICE）的限额，为了完赛2026赛季，他将需要第5台梅赛德斯V6引擎。"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "由于这是他首次超出ICE配额，这位澳大利亚人将在维加斯发车格上被罚退10位。"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "“奥斯卡因可靠性问题在拉斯维加斯启用一台新的内燃引擎。由于这是他本赛季的第5台，他将被罚退10位，但他有很大机会在周六的正赛里靠超车追回位置。”迈凯伦在赛前展望中表示。"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "迈凯伦还确认将启用梅赛德斯升级版涡轮增压器——这款部件是动力单元供应商在FIA所谓的ADUO追赶机制下开发的。"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "“和其他使用HPP动力单元的车手一样，两台赛车都将换装新的ADUO规格涡轮：预期性能收益相对有限。”迈凯伦指出。"
+          }
+        ]
+      },
+      {
+        "name": "img",
+        "attrs": {
+          "src": "https://cdn.motorsport.com/images/mgl/2GdK1lOY/s1200/oscar-piastri-mclaren-alexande.webp",
+          "alt": "奥斯卡·皮亚斯特里（迈凯伦车队）、亚历山大·阿尔本（威廉姆斯车队）",
+          "mode": "widthFix",
+          "style": "width:100%;display:block;"
+        }
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "奥斯卡·皮亚斯特里，迈凯伦车队；亚历山大·阿尔本，威廉姆斯车队"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "图片来源：James Sutton / Formula 1 / Formula Motorsport Ltd via Getty Images"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "梅赛德斯厂队则将在新科世界冠军金米·安东内利的赛车上试运行这款新涡轮，而乔治·拉塞尔将沿用原规格，以避免罚退——因为拉塞尔此前已用满自己的涡轮配额。"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "“从本周末起我们将拥有ADUO规格的升级涡轮可用。”梅赛德斯F1负责人托托·沃尔夫说，“这主要是为了在大奖赛周末的环境下验证这次开发，预期的性能收益相对有限。"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "“我们计划在金米的赛车上使用它；而对乔治，我们的优先事项是保住他的发车位置——因为性能收益可能太小，不值得为此接受罚退。”"
+          }
+        ]
+      }
+    ]
+  }
+}

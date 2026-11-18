@@ -1,0 +1,167 @@
+{
+  "id": "n_autosport_20261118_6f8334a8da",
+  "layout_code": "STANDARD",
+  "type_code": "PADDOCK",
+  "pinned": false,
+  "weight": 0,
+  "tag_text": "梅赛德斯 / 访谈",
+  "tags": [
+    "wolff",
+    "antonelli",
+    "12",
+    "mercedes",
+    "susie-wolff",
+    "f1-academy"
+  ],
+  "title": "沃尔夫回忆少年安东内利住在他家时的暖心往事",
+  "summary": "梅赛德斯领队托托·沃尔夫讲述少年安东内利住在自己家中、在沙发上睡着的暖心故事。",
+  "cover_url": "https://cdn-3.motorsport.com/images/amp/2jEAk7g0/s1200/motorsport-com-graphics-4-2.webp",
+  "published_at": "2026-11-18T01:00:03+00:00",
+  "time_text": "",
+  "timezone_name": "Asia/Shanghai",
+  "source": {
+    "name": "Autosport",
+    "url": "https://www.motorsport.com/f1/news/toto-wolff-reveals-heartwarming-memory-of-a-teenage-kimi-antonelli-living-at-his-house/10874978/"
+  },
+  "content": {
+    "format_code": "RICH_TEXT_NODES",
+    "text": "F1围场向来以尔虞我诈著称，但梅赛德斯车队领队托托·沃尔夫管理车手的方式却带着鲜明的父辈色彩。在把金米·安东内利从卡丁车青训一路带到历史性夺得2026年世界冠军之后，沃尔夫最近透露，这位20岁年轻人早已真正融入了他自己的家庭。\n\n在接受德国媒体《图片报》的最近一次独家专访时，沃尔夫被要求分享他与这位年轻车手之间最美好的私人回忆。\n\n沃尔夫没有提到某场具体比赛或某个卡丁车冠军，而是回忆起安东内利住在他英国家中的一段时光。\n\n“两三年前，只要他来布拉克利工厂，就一直睡在我们家。”沃尔夫解释道。\n\n由于安东内利当时只有17岁，每天还要在梅赛德斯模拟器和工程部门进行漫长而艰苦的工作，沃尔夫觉得自已有责任照顾他的生活。\n\n“他毕竟还是未成年人，我们不可能把他一个人扔在酒店。”沃尔夫说，“所以他实际上成了我和苏茜家里的常客。”\n\n与一家价值数十亿美元的赛车业务掌门人同住一个屋檐下，自然也带来了一些独特的家庭休闲时光。沃尔夫透露，三人晚上常常一起看电影，放松一天工厂工作的疲惫，但观影活动很少按计划进行。\n\n“晚上我们经常一起看电影——虽然其实基本上只是我一个人在看。”沃尔夫开玩笑说。\n\n安德烈亚·金米·安东内利，梅赛德斯车队；托托·沃尔夫，梅赛德斯车队\n\n图片来源：Alex Bierens de Haan / Getty Images\n\n据沃尔夫说，他的妻子、F1学院总经理苏茜·沃尔夫出了名的“开场10分钟必睡着”。而安东内利在布拉克利基地高强度工作一天后也早已筋疲力尽，于是两人秒倒在沙发上。\n\n“然后他俩就肩并肩睡着了，我一个人把电影看完了。”沃尔夫津津乐道地回忆。\n\n如今，距离在老板家沙发上睡着才过去短短几年，安东内利已经成为F1历史上最年轻的车手世界冠军——事实证明，沃尔夫这种贴身、人性化的培养策略收到了最圆满的回报。",
+    "nodes": [
+      {
+        "name": "img",
+        "attrs": {
+          "src": "https://cdn-3.motorsport.com/images/amp/2jEAk7g0/s1200/motorsport-com-graphics-4-2.webp",
+          "alt": "Motorsport.com配图",
+          "mode": "widthFix",
+          "style": "width:100%;display:block;"
+        }
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "F1围场向来以尔虞我诈著称，但梅赛德斯车队领队托托·沃尔夫管理车手的方式却带着鲜明的父辈色彩。在把金米·安东内利从卡丁车青训一路带到历史性夺得2026年世界冠军之后，沃尔夫最近透露，这位20岁年轻人早已真正融入了他自己的家庭。"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "在接受德国媒体《图片报》的最近一次独家专访时，沃尔夫被要求分享他与这位年轻车手之间最美好的私人回忆。"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "沃尔夫没有提到某场具体比赛或某个卡丁车冠军，而是回忆起安东内利住在他英国家中的一段时光。"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "“两三年前，只要他来布拉克利工厂，就一直睡在我们家。”沃尔夫解释道。"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "由于安东内利当时只有17岁，每天还要在梅赛德斯模拟器和工程部门进行漫长而艰苦的工作，沃尔夫觉得自已有责任照顾他的生活。"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "“他毕竟还是未成年人，我们不可能把他一个人扔在酒店。”沃尔夫说，“所以他实际上成了我和苏茜家里的常客。”"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "与一家价值数十亿美元的赛车业务掌门人同住一个屋檐下，自然也带来了一些独特的家庭休闲时光。沃尔夫透露，三人晚上常常一起看电影，放松一天工厂工作的疲惫，但观影活动很少按计划进行。"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "“晚上我们经常一起看电影——虽然其实基本上只是我一个人在看。”沃尔夫开玩笑说。"
+          }
+        ]
+      },
+      {
+        "name": "img",
+        "attrs": {
+          "src": "https://cdn.motorsport.com/images/mgl/Y9lNzxx2/s1200/andrea-kimi-antonelli-mercedes.webp",
+          "alt": "安德烈亚·金米·安东内利（梅赛德斯车队）与托托·沃尔夫（梅赛德斯车队）",
+          "mode": "widthFix",
+          "style": "width:100%;display:block;"
+        }
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "安德烈亚·金米·安东内利，梅赛德斯车队；托托·沃尔夫，梅赛德斯车队"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "图片来源：Alex Bierens de Haan / Getty Images"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "据沃尔夫说，他的妻子、F1学院总经理苏茜·沃尔夫出了名的“开场10分钟必睡着”。而安东内利在布拉克利基地高强度工作一天后也早已筋疲力尽，于是两人秒倒在沙发上。"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "“然后他俩就肩并肩睡着了，我一个人把电影看完了。”沃尔夫津津乐道地回忆。"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "如今，距离在老板家沙发上睡着才过去短短几年，安东内利已经成为F1历史上最年轻的车手世界冠军——事实证明，沃尔夫这种贴身、人性化的培养策略收到了最圆满的回报。"
+          }
+        ]
+      }
+    ]
+  }
+}
