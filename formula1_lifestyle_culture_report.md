@@ -143,3 +143,28 @@
 5. **Git**：本批仍未 commit / push（待用户授权）。
 
 产物：工作区新增 30 组双文件（§7.3 各篇），累计 f1 双文件 39 组；状态快照两份（首批 10 + 本批 30）；验收报告即本文件。
+
+## 8. 增量批验收（新增 1 篇，2026-11-19 完成）
+
+### 8.1 范围与快照
+- 栏目列表重扫（page 1–3，共 181 条）与首批 10 篇 + 往前 30 篇已消费 sha10 逐一比对：真正新增仅 1 篇——2026-11-13 发布的 padel 文章（sha10 `6e5b7ecbc0`，栏目 CMS id `2n2jOtb63TbalovQuHIIUi`），其余条目均为已入库旧档的时间戳刷新。经与用户确认，本批仅抓取该 1 篇，走完整流水线。
+- 状态快照：`formula1_lifestyle_culture_new1_state.json`（本批 1 条）。
+
+### 8.2 逐篇明细
+| # | 标题 | id | published_at | layout/type | nodes | CJK | 状态 |
+|---|------|----|--------------|-------------|-------|-----|------|
+| 1 | 为什么 F1 车手热爱板式网球：阿斯顿·马丁成为最新拥抱这项运动的车队 | `n_f1_20261113_6e5b7ecbc0` | 2026-11-13T22:40:07.211+08:00 | FEATURE / PADDOCK | 61 | 2851 | POST 成功 + 双通道复核通过 |
+
+### 8.3 校验与复核结果
+1. **双文件一致性**：md 正文（滤除图片行）与 json `content.text` 逐字符 MATCH=True。
+2. **validate.py 全量**：`BAD: 0 / 40`（累计 40 组双文件一并复检）。本篇 nodes=61（img 5 + h2 4 + p 52；text 段落 56），cover_url==nodes[0].attrs.src，children 全部带 `"type":"text"`。
+3. **防重 POST**：提交前远端全量扫描 829 id，无一条以 `6e5b7ecbc0` 结尾（确认非重复入库）；POST HTTP 200、`ok=true`、返回 id 一致。结果存 `%TEMP%\f1lifestyle\post_padel_results.json`。
+4. **双通道复核**：详情接口 `/api/v1/mp/news/n_f1_20261113_6e5b7ecbc0` 的 title、published_at（瞬时时刻比对）、tag_text、layout/type、正文 text 与本地零差异；列表通道出现快照缓存时滞（入库后约 9 分钟仍 MISS），延迟复扫后第 2 页命中，在场性确认。处置与 §7.5-1、§6.3 同类现象一致：详情接口 + 延迟列表复扫双通道确认。
+
+### 8.4 偏差与备注
+1. **封面/头图口径（对齐 20261101、20261104 两件最新产物）**：详情页头部横幅 hero 图不入正文流；`cover_url` 取正文第一张图并提升至 `nodes[0]`（原位仅保留其图注段），md 头部已备注。
+2. **非正文内容处理**：CSR 视频占位（`#unruly-configuration`）不进 nodes/text、仅头部备注；拉斯维加斯门票促销卡剔除并备注；2 处 Instagram reel 嵌入以 p 节点括注保留链接。
+3. **标题层级**：4 个 h2 按现行口径保留为 h2 节点（不再降 h3）；图注段格式 `图注：中译（原图注：EN）` 沿用 §7.5-2 定标。
+4. **取值依据**：layout_code=FEATURE 依据栏目卡 `articleType="Feature"`；type_code=PADDOCK；文中车手号经 `session-results?latest=1`（session_key 11412）核实，非现役车手（Crawford/Button/Hawkins/de la Rosa）不配号。
+5. **累计**：f1 双文件 40 组（首批 10 + 往前 30 + 本批 1，含既有汉密尔顿篇）；状态快照三份（10 + 30 + 1）。
+6. **Git**：本批双文件与状态快照尚未 commit / push（待用户授权）。

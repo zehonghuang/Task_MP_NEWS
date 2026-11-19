@@ -1,0 +1,16 @@
+{
+  "source": "https://www.formula1.com/en/latest/tags/lifestyle-culture.4R2e2KAaQF8RBPPy7GeeL7?articleFilters=Articles&page=1..3",
+  "fetched_at": "2026-11-19T10:00:00+08:00",
+  "count": 1,
+  "note": "增量批：栏目列表重扫与首批 10 + 往前 30 已消费 sha10 比对后，唯一真正新增篇（用户确认仅抓取此 1 篇）",
+  "items": [
+    {
+      "sha10": "6e5b7ecbc0",
+      "remote_id": "2n2jOtb63TbalovQuHIIUi",
+      "card_updated": "2026-11-13T14:40:07.211Z",
+      "article_type": "Feature",
+      "title_en": "Why are F1 drivers obsessed with padel?",
+      "url": "https://www.formula1.com/en/latest/article/why-f1-drivers-love-padel-as-aston-martin-become-the-latest-to-embrace-the-sport.2n2jOtb63TbalovQuHIIUi"
+    }
+  ]
+}
