@@ -1,0 +1,252 @@
+{
+  "id": "n_autosport_20261118_31d1b5a3a9",
+  "layout_code": "FEATURE",
+  "type_code": "DRIVER",
+  "pinned": false,
+  "weight": 0,
+  "tag_text": "F1 / 深度访谈",
+  "tags": [
+    "lawson",
+    "30",
+    "racing-bulls",
+    "red-bull",
+    "permane",
+    "tsolov",
+    "hadjar",
+    "6",
+    "tsunoda",
+    "f2"
+  ],
+  "title": "速度、信任、受控的攻击性——真正造就劳森救起职业生涯的2026赛季的是什么",
+  "summary": "Racing Bulls领队艾伦·珀曼接受 Motorsport.com 专访，详解利亚姆·劳森2026赛季状态飙升、赢得新合约的深层原因",
+  "cover_url": "https://cdn-4.motorsport.com/images/amp/6O7zMmO6/s1200/liam-lawson-racing-bulls.webp",
+  "published_at": "2026-11-18T12:22:31+00:00",
+  "time_text": "",
+  "timezone_name": "Asia/Shanghai",
+  "source": {
+    "name": "Autosport",
+    "url": "https://www.motorsport.com/f1/news/speed-trust-controlled-aggression-what-really-led-to-liam-lawsons-career-saving-f1-2026/10875262/"
+  },
+  "content": {
+    "format_code": "RICH_TEXT_NODES",
+    "text": "利亚姆·劳森状态的提升，让Racing Bulls在2027年Formula 1赛季的选择上无法忽视他。但和所有事情一样，这场表现反转的背后绝不止单一因素。\n\n就在一周前，这位24岁车手才正式确认将留在红牛卫星车队征战下赛季——他顶住了青训车手尼古拉·措洛夫的挑战，后者目前正在角逐Formula 2年度冠军。\n\nRacing Bulls领队艾伦·珀曼在接受Motorsport.com采访时解释，选择劳森并不违背车队多年来培养年轻车手的使命。\n\n更不明显的是，劳森如何在如此巨大的压力之下找到最佳状态——他在为Racing Bulls夺得创纪录的车队积分榜第五名一事上居功至伟，今年车队114个积分中有89分来自他。\n\n劳森在20场大奖赛中15次完赛积分区，包括一波当前连续五场前进前九的势头——而这一切恰恰出现在最要命的关头、他席位压力最大的时候。\n\n“我觉得他把自己处理得非常好，”珀曼告诉Motorsport.com。“他就是能把那些噪音关在门外。但公平地说，全程我都在支持他。\n\n“我从没告诉他‘别担心，你有车开’之类的话，因为在决定做出之前，决定就还没有做出。但他确实得到了车队内部的支持。”\n\n利亚姆·劳森（Racing Bulls）、艾伦·珀曼（Racing Bulls）\n\n图片来源：James Sutton / Formula 1 / Formula Motorsport Ltd via Getty Images\n\n当被问及劳森进步的深层原因时，珀曼说，这是学会信任身边的团队、打磨比赛技巧、并收敛其标志性攻击性三者的结合。\n\n“我认为他进步的方面有很多，”他补充道，“但我觉得他的比赛技巧——尤其是一号弯、第一圈——现在已经非常出色。他很少惹上麻烦，还经常能追回位置。\n\n“他的比赛节奏也一直非常好。走下赛车，他给出的反馈非常清晰，而且自带一种信心。\n\n“这一切以正确的方向滚起雪球：他有好成绩，下车时多一点信心，这份信心又带进下一个周末，然后他再次表现出色。\n\n“他是个惊喜。这一切是他自己挣来的，但在我觉得他需要听进去的时候，他也听了，并且把信任交给我、交给车队、交给他的工程师。这是非常健康的比赛方式。”\n\n这波状态上扬，还是在他赛季中段顶替受伤的伊萨克·哈贾尔、为红牛出战三场比赛之后到来的。\n\n利亚姆·劳森，红牛\n\n图片来源：Bryn Lennon / Formula 1 via Getty Images\n\n2025年他在红牛主队经历了残酷的两场比赛便被角田裕毅取代；这次回归也算给了他一个了结。不过珀曼透露，劳森其实宁愿留在原来的位置，继续他在Racing Bulls（这支英意结合的车队）攒起的势头。\n\n“我要是完全跟你坦诚说的话——如果让他自己选，他并不想去那里，”珀曼说。\n\n“这绝不是针对红牛。不是说他不想为他们开车，而是他想把手头我们正在做的漂亮工作继续下去。我们几乎每天都在聊伊萨克手腕的情况，我想他回来的时候多少是松了一口气。\n\n“巴库我们其实竞争力不强，尽管最后拿了个很好的成绩。但在那之后，一切就都非常顺畅地咬合到了一起。”",
+    "nodes": [
+      {
+        "name": "img",
+        "attrs": {
+          "src": "https://cdn-4.motorsport.com/images/amp/6O7zMmO6/s1200/liam-lawson-racing-bulls.webp",
+          "alt": "Motorsport.com配图",
+          "mode": "widthFix",
+          "style": "width:100%;display:block;"
+        }
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "利亚姆·劳森状态的提升，让Racing Bulls在2027年Formula 1赛季的选择上无法忽视他。但和所有事情一样，这场表现反转的背后绝不止单一因素。"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "就在一周前，这位24岁车手才正式确认将留在红牛卫星车队征战下赛季——他顶住了青训车手尼古拉·措洛夫的挑战，后者目前正在角逐Formula 2年度冠军。"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "Racing Bulls领队艾伦·珀曼在接受Motorsport.com采访时解释，选择劳森并不违背车队多年来培养年轻车手的使命。"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "更不明显的是，劳森如何在如此巨大的压力之下找到最佳状态——他在为Racing Bulls夺得创纪录的车队积分榜第五名一事上居功至伟，今年车队114个积分中有89分来自他。"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "劳森在20场大奖赛中15次完赛积分区，包括一波当前连续五场前进前九的势头——而这一切恰恰出现在最要命的关头、他席位压力最大的时候。"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "“我觉得他把自己处理得非常好，”珀曼告诉Motorsport.com。“他就是能把那些噪音关在门外。但公平地说，全程我都在支持他。"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "“我从没告诉他‘别担心，你有车开’之类的话，因为在决定做出之前，决定就还没有做出。但他确实得到了车队内部的支持。”"
+          }
+        ]
+      },
+      {
+        "name": "img",
+        "attrs": {
+          "src": "https://cdn.motorsport.com/images/mgl/YpbPzKA0/s1200/liam-lawson-racing-bulls-alan-.webp",
+          "alt": "利亚姆·劳森与领队艾伦·珀曼（Racing Bulls）",
+          "mode": "widthFix",
+          "style": "width:100%;display:block;"
+        }
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "利亚姆·劳森（Racing Bulls）、艾伦·珀曼（Racing Bulls）"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "图片来源：James Sutton / Formula 1 / Formula Motorsport Ltd via Getty Images"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "当被问及劳森进步的深层原因时，珀曼说，这是学会信任身边的团队、打磨比赛技巧、并收敛其标志性攻击性三者的结合。"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "“我认为他进步的方面有很多，”他补充道，“但我觉得他的比赛技巧——尤其是一号弯、第一圈——现在已经非常出色。他很少惹上麻烦，还经常能追回位置。"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "“他的比赛节奏也一直非常好。走下赛车，他给出的反馈非常清晰，而且自带一种信心。"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "“这一切以正确的方向滚起雪球：他有好成绩，下车时多一点信心，这份信心又带进下一个周末，然后他再次表现出色。"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "“他是个惊喜。这一切是他自己挣来的，但在我觉得他需要听进去的时候，他也听了，并且把信任交给我、交给车队、交给他的工程师。这是非常健康的比赛方式。”"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "这波状态上扬，还是在他赛季中段顶替受伤的伊萨克·哈贾尔、为红牛出战三场比赛之后到来的。"
+          }
+        ]
+      },
+      {
+        "name": "img",
+        "attrs": {
+          "src": "https://cdn.motorsport.com/images/mgl/YpbAe4N0/s1200/liam-lawson-racing-bulls.webp",
+          "alt": "利亚姆·劳森（红牛车队）",
+          "mode": "widthFix",
+          "style": "width:100%;display:block;"
+        }
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "利亚姆·劳森，红牛"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "图片来源：Bryn Lennon / Formula 1 via Getty Images"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "2025年他在红牛主队经历了残酷的两场比赛便被角田裕毅取代；这次回归也算给了他一个了结。不过珀曼透露，劳森其实宁愿留在原来的位置，继续他在Racing Bulls（这支英意结合的车队）攒起的势头。"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "“我要是完全跟你坦诚说的话——如果让他自己选，他并不想去那里，”珀曼说。"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "“这绝不是针对红牛。不是说他不想为他们开车，而是他想把手头我们正在做的漂亮工作继续下去。我们几乎每天都在聊伊萨克手腕的情况，我想他回来的时候多少是松了一口气。"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "“巴库我们其实竞争力不强，尽管最后拿了个很好的成绩。但在那之后，一切就都非常顺畅地咬合到了一起。”"
+          }
+        ]
+      }
+    ]
+  }
+}
