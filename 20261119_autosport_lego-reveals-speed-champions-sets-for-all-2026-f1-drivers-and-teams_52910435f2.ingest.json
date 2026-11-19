@@ -1,0 +1,141 @@
+{
+  "id": "n_autosport_20261119_52910435f2",
+  "layout_code": "STANDARD",
+  "type_code": "PADDOCK",
+  "pinned": false,
+  "weight": 0,
+  "tag_text": "F1 / 围场外",
+  "tags": [
+    "lego",
+    "f1",
+    "speed-champions",
+    "julia-goldin",
+    "las-vegas-gp",
+    "silverstone",
+    "ferrari"
+  ],
+  "title": "乐高公布2026赛季全部F1车手与车队的Speed Champions套装",
+  "summary": "乐高宣布与F1合作的下一阶段：把全部2026赛季赛车和22位车手做成Speed Champions拼装套装与人仔",
+  "cover_url": "https://cdn-4.motorsport.com/images/amp/2jEAkX90/s1200/lego-speed-champions.webp",
+  "published_at": "2026-11-19T02:22:38+00:00",
+  "time_text": "",
+  "timezone_name": "Asia/Shanghai",
+  "source": {
+    "name": "Autosport",
+    "url": "https://www.motorsport.com/f1/news/lego-reveals-speed-champions-sets-for-all-2026-f1-drivers-and-teams/10875401/"
+  },
+  "content": {
+    "format_code": "RICH_TEXT_NODES",
+    "text": "玩具巨头乐高宣布，将把全部2026赛季F1赛车和22位车手以人仔形式制作出来。这一消息是乐高在拉斯维加斯举办其最新一期表演赛期间公布的。\n\n在2025年首次达成合作并于今年扩容的基础上，乐高将于2027年3月推出完整的F1 Speed Champions系列，这意味着每一辆2026赛季赛车和每一位车手都将与粉丝见面。套装还将提供可定制选项，让粉丝自由搭配自己喜欢的车手与车队组合。\n\n法拉利乐高Speed Champions套装\n\n乐高首席产品与营销官朱莉娅·戈尔丁（Julia Goldin）表示，让这项系列赛的粉丝能把每一位车手都收入囊中，对品牌而言至关重要。“F1粉丝关注的不仅仅是车队和赛车，他们会与车手建立起极其深厚的情感联结，”她说。\n\n“首次把全部22位车手带进乐高人仔的世界，给了粉丝一种充满乐趣的全新方式，去致敬这些个性、这些对手戏和这些比赛日的瞬间。”\n\n这些套装将于明年3月1日发售，预购现已开启。\n\n乐高Speed Champions\n\n图片来源：Filip Cleeren\n\n在这次拉斯维加斯发布会上，乐高还宣布其乐高迷你车（minicar）比赛将回归——此前它在银石的暖胎圈首秀一度场面混乱。届时每支车队将有一辆车参加周六赛前仪式上的一圈定胜负比赛，乐高则会在整个赛事周期间通过社交媒体逐步揭晓参赛车手身份。",
+    "nodes": [
+      {
+        "name": "img",
+        "attrs": {
+          "src": "https://cdn-4.motorsport.com/images/amp/2jEAkX90/s1200/lego-speed-champions.webp",
+          "alt": "Motorsport.com配图",
+          "mode": "widthFix",
+          "style": "width:100%;display:block;"
+        }
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "玩具巨头乐高宣布，将把全部2026赛季F1赛车和22位车手以人仔形式制作出来。这一消息是乐高在拉斯维加斯举办其最新一期表演赛期间公布的。"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "在2025年首次达成合作并于今年扩容的基础上，乐高将于2027年3月推出完整的F1 Speed Champions系列，这意味着每一辆2026赛季赛车和每一位车手都将与粉丝见面。套装还将提供可定制选项，让粉丝自由搭配自己喜欢的车手与车队组合。"
+          }
+        ]
+      },
+      {
+        "name": "img",
+        "attrs": {
+          "src": "https://cdn.motorsport.com/static/img/news/2-box-77267.webp",
+          "alt": "法拉利乐高Speed Champions套装",
+          "mode": "widthFix",
+          "style": "width:100%;display:block;"
+        }
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "法拉利乐高Speed Champions套装"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "乐高首席产品与营销官朱莉娅·戈尔丁（Julia Goldin）表示，让这项系列赛的粉丝能把每一位车手都收入囊中，对品牌而言至关重要。“F1粉丝关注的不仅仅是车队和赛车，他们会与车手建立起极其深厚的情感联结，”她说。"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "“首次把全部22位车手带进乐高人仔的世界，给了粉丝一种充满乐趣的全新方式，去致敬这些个性、这些对手戏和这些比赛日的瞬间。”"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "这些套装将于明年3月1日发售，预购现已开启。"
+          }
+        ]
+      },
+      {
+        "name": "img",
+        "attrs": {
+          "src": "https://cdn.motorsport.com/images/mgl/6VyK5RvY/s1200/lego-speed-champions.webp",
+          "alt": "乐高Speed Champions",
+          "mode": "widthFix",
+          "style": "width:100%;display:block;"
+        }
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "乐高Speed Champions"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "图片来源：Filip Cleeren"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "在这次拉斯维加斯发布会上，乐高还宣布其乐高迷你车（minicar）比赛将回归——此前它在银石的暖胎圈首秀一度场面混乱。届时每支车队将有一辆车参加周六赛前仪式上的一圈定胜负比赛，乐高则会在整个赛事周期间通过社交媒体逐步揭晓参赛车手身份。"
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "id": "n_autosport_20261119_fb8a3b5c99",
+  "layout_code": "STANDARD",
+  "type_code": "PADDOCK",
+  "pinned": false,
+  "weight": 0,
+  "tag_text": "F1 / 商业合作",
+  "tags": [
+    "lisa",
+    "blackpink",
+    "f1",
+    "ceremony-of-roses",
+    "pretty-fast",
+    "las-vegas-gp",
+    "prazer"
+  ],
+  "title": "LISA成为首位操刀F1服装系列的艺人，“Pretty Fast”系列今日全球发售",
+  "summary": "BLACKPINK出身的泰国歌手LISA与Ceremony of Roses联合设计F1胶囊服饰系列，含赛车夹克、短款卫衣等，部分单品仅限拉斯维加斯发售",
+  "cover_url": "https://cdn-4.motorsport.com/images/amp/6b8ZA8j2/s1200/motorsport-com-graphics-6.webp",
+  "published_at": "2026-11-19T03:30:24+00:00",
+  "time_text": "",
+  "timezone_name": "Asia/Shanghai",
+  "source": {
+    "name": "Autosport",
+    "url": "https://www.motorsport.com/f1/news/lisa-becomes-first-artist-to-design-f1-clothing-collection/10875419/"
+  },
+  "content": {
+    "format_code": "RICH_TEXT_NODES",
+    "text": "LISA成为首位为Formula 1设计服装系列的音乐人，她的“Pretty Fast”系列从今天起在全球发售。\n\n这位泰国歌手在K-pop组合BLACKPINK成名后单飞，与负责音乐人事业商业开发的创意机构Ceremony of Roses共同设计了这一胶囊系列。F1表示，整个系列在LISA的创意指导下完成，将赛车图形与复古赛车元素和她的个人艺术作品融为一体。\n\n系列收录了赛车夹克、短款帽衫、紧身短袖T恤和超大托特包，另有限量版配饰。其中少量单品只在拉斯维加斯发售——F1本周落地此地，开启赛季最后三场比赛。\n\n车迷可以通过LISA官网和F1官方商店购买，也可以在比赛周末前往F1 Hub以及凯撒宫内的Colosseum大剧院现场入手。\n\n“我一直对Formula 1满怀热情，去看比赛、沉浸在那样的完整体验里。这次我希望从对时装的热爱中汲取灵感，把它和Formula 1的元素混合进这个独家系列。每件单品的初衷都是有趣、有表现力，而且是我自己真的会穿的衣服。”LISA说。\n\nF1首席商务官兼拉斯维加斯大奖赛首席执行官艾米莉·普雷泽补充道：“LISA是第一位担纲Formula 1服装系列创意主导的艺人，这让Pretty Fast对我们来说成为一个里程碑时刻。她是全球最具影响力的文化声音之一，拥有在音乐、时装和娱乐界引领话题讨论的非凡能力。”\n\n她还表示，让LISA“自由地用她自己的视角重新诠释Formula 1”，催生出的作品“新鲜、真实，与我们此前创作过的任何东西都截然不同”。",
+    "nodes": [
+      {
+        "name": "img",
+        "attrs": {
+          "src": "https://cdn-4.motorsport.com/images/amp/6b8ZA8j2/s1200/motorsport-com-graphics-6.webp",
+          "alt": "Motorsport.com配图",
+          "mode": "widthFix",
+          "style": "width:100%;display:block;"
+        }
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "LISA成为首位为Formula 1设计服装系列的音乐人，她的“Pretty Fast”系列从今天起在全球发售。"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "这位泰国歌手在K-pop组合BLACKPINK成名后单飞，与负责音乐人事业商业开发的创意机构Ceremony of Roses共同设计了这一胶囊系列。F1表示，整个系列在LISA的创意指导下完成，将赛车图形与复古赛车元素和她的个人艺术作品融为一体。"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "系列收录了赛车夹克、短款帽衫、紧身短袖T恤和超大托特包，另有限量版配饰。其中少量单品只在拉斯维加斯发售——F1本周落地此地，开启赛季最后三场比赛。"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "车迷可以通过LISA官网和F1官方商店购买，也可以在比赛周末前往F1 Hub以及凯撒宫内的Colosseum大剧院现场入手。"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "“我一直对Formula 1满怀热情，去看比赛、沉浸在那样的完整体验里。这次我希望从对时装的热爱中汲取灵感，把它和Formula 1的元素混合进这个独家系列。每件单品的初衷都是有趣、有表现力，而且是我自己真的会穿的衣服。”LISA说。"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "F1首席商务官兼拉斯维加斯大奖赛首席执行官艾米莉·普雷泽补充道：“LISA是第一位担纲Formula 1服装系列创意主导的艺人，这让Pretty Fast对我们来说成为一个里程碑时刻。她是全球最具影响力的文化声音之一，拥有在音乐、时装和娱乐界引领话题讨论的非凡能力。”"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "她还表示，让LISA“自由地用她自己的视角重新诠释Formula 1”，催生出的作品“新鲜、真实，与我们此前创作过的任何东西都截然不同”。"
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,186 @@
+{
+  "id": "n_autosport_20261119_93a9db1215",
+  "layout_code": "STANDARD",
+  "type_code": "PADDOCK",
+  "pinned": false,
+  "weight": 0,
+  "tag_text": "F1 / 围场花絮",
+  "tags": [
+    "norris",
+    "1",
+    "mclaren",
+    "gta",
+    "rockstar-games",
+    "stroll",
+    "18",
+    "aston-martin",
+    "bottas",
+    "cadillac",
+    "qatar-gp",
+    "abu-dhabi-gp",
+    "las-vegas-gp",
+    "antonelli",
+    "12",
+    "red-bull"
+  ],
+  "title": "诺里斯谈《GTA6》：“我小时候根本不让玩”",
+  "summary": "以直播和重度玩家闻名的诺里斯自曝童年被父母禁止玩《侠盗猎车手》系列，只能在校游时“借”同学的PSP过瘾；他表示赛季收官三连赛期间不会碰新作",
+  "cover_url": "https://cdn-2.motorsport.com/images/amp/YXyKXRP6/s1200/motorsport-com-graphics-97-2.webp",
+  "published_at": "2026-11-19T03:06:56+00:00",
+  "time_text": "",
+  "timezone_name": "Asia/Shanghai",
+  "source": {
+    "name": "Autosport",
+    "url": "https://www.motorsport.com/f1/news/lando-norris-on-gta-6-i-wasnt-allowed-to-play-it-when-i-was-younger/10875412/"
+  },
+  "content": {
+    "format_code": "RICH_TEXT_NODES",
+    "text": "兰多·诺里斯承认，他不会在本赛季最后的三连赛期间玩《侠盗猎车手VI》，并透露自己小时候根本不被允许玩这个人气系列。\n\nRockstar Games备受期待的《侠盗猎车手VI》将于周四登陆PlayStation 5和Xbox Series X|S——距离2013年上一作《侠盗猎车手V》上市，已经等待了十余年。\n\n以比赛周末之余做直播、身为知名游戏玩家的诺里斯表示，如今已成传奇的这个系列并不曾出现在他的成长经历里。\n\n“没有，我想不会。”在被问到是否会在赛季最后几场比赛之间体验新作时他说。“《侠盗猎车手V》我其实基本没怎么玩过，也许碰过几次。我是说，那是款很棒的游戏，我挺喜欢，也会看别人玩什么的。但，嗯，不是我的菜。”诺里斯在拉斯维加斯大奖赛前的车手发布会上说。\n\n这位迈凯伦车手解释说，成长过程中父母不让他玩这款游戏，很可能因为它有较高的年龄分级。\n\n“我做梦都想玩，但我小时候不被允许，就是不让玩。所以每次学校出游，我能‘顺’到别人的PSP什么的，那就是我这辈子最开心的一次出游，因为我终于能玩上了。”他说。\n\n“但我在家里从来不是玩着这个系列长大的，长大以后也很少玩。所以它从来不算我的那杯茶。可我知道现在全世界有无数人都在玩。所以也许哪天我会改主意。但目前，不了。”\n\n兰多·诺里斯，迈凯伦\n\n图片来源：Steven Tee / LAT Images via Getty Images\n\n并非所有车手都和他想法一致。阿斯顿·马丁的兰斯·斯托尔说他“肯定找个时间一定会开玩”，而凯迪拉克的瓦尔特里·博塔斯则表示自己有别的安排。\n\n“不在我的计划里。我觉得外面有更好的事情可做。你知道，外面的世界挺美的，出去走走挺好的。”博塔斯说。\n\n无论如何，诺里斯接下来几周本来也鲜有时间打游戏。F1的收官三连赛将把他从本周末的拉斯维加斯带往卡塔尔，再到阿布扎比。\n\n这位27岁车手有很多要去争取的东西。迈凯伦在车队积分榜上以17分之差落后红牛、争夺第三名，而诺里斯是带着圣保罗夺冠的余威来到拉斯维加斯的。\n\n他目前位列车手积分榜第六，距第三名16分——而在世界冠军基米·安东内利之后，一场五人大混战正在争夺年度亚军的席位。",
+    "nodes": [
+      {
+        "name": "img",
+        "attrs": {
+          "src": "https://cdn-2.motorsport.com/images/amp/YXyKXRP6/s1200/motorsport-com-graphics-97-2.webp",
+          "alt": "Motorsport.com配图",
+          "mode": "widthFix",
+          "style": "width:100%;display:block;"
+        }
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "兰多·诺里斯承认，他不会在本赛季最后的三连赛期间玩《侠盗猎车手VI》，并透露自己小时候根本不被允许玩这个人气系列。"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "Rockstar Games备受期待的《侠盗猎车手VI》将于周四登陆PlayStation 5和Xbox Series X|S——距离2013年上一作《侠盗猎车手V》上市，已经等待了十余年。"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "以比赛周末之余做直播、身为知名游戏玩家的诺里斯表示，如今已成传奇的这个系列并不曾出现在他的成长经历里。"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "“没有，我想不会。”在被问到是否会在赛季最后几场比赛之间体验新作时他说。“《侠盗猎车手V》我其实基本没怎么玩过，也许碰过几次。我是说，那是款很棒的游戏，我挺喜欢，也会看别人玩什么的。但，嗯，不是我的菜。”诺里斯在拉斯维加斯大奖赛前的车手发布会上说。"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "这位迈凯伦车手解释说，成长过程中父母不让他玩这款游戏，很可能因为它有较高的年龄分级。"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "“我做梦都想玩，但我小时候不被允许，就是不让玩。所以每次学校出游，我能‘顺’到别人的PSP什么的，那就是我这辈子最开心的一次出游，因为我终于能玩上了。”他说。"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "“但我在家里从来不是玩着这个系列长大的，长大以后也很少玩。所以它从来不算我的那杯茶。可我知道现在全世界有无数人都在玩。所以也许哪天我会改主意。但目前，不了。”"
+          }
+        ]
+      },
+      {
+        "name": "img",
+        "attrs": {
+          "src": "https://cdn.motorsport.com/images/mgl/YWKAlWDY/s1200/lando-norris-mclaren.webp",
+          "alt": "兰多·诺里斯（迈凯伦）",
+          "mode": "widthFix",
+          "style": "width:100%;display:block;"
+        }
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "兰多·诺里斯，迈凯伦"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "图片来源：Steven Tee / LAT Images via Getty Images"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "并非所有车手都和他想法一致。阿斯顿·马丁的兰斯·斯托尔说他“肯定找个时间一定会开玩”，而凯迪拉克的瓦尔特里·博塔斯则表示自己有别的安排。"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "“不在我的计划里。我觉得外面有更好的事情可做。你知道，外面的世界挺美的，出去走走挺好的。”博塔斯说。"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "无论如何，诺里斯接下来几周本来也鲜有时间打游戏。F1的收官三连赛将把他从本周末的拉斯维加斯带往卡塔尔，再到阿布扎比。"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "这位27岁车手有很多要去争取的东西。迈凯伦在车队积分榜上以17分之差落后红牛、争夺第三名，而诺里斯是带着圣保罗夺冠的余威来到拉斯维加斯的。"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "他目前位列车手积分榜第六，距第三名16分——而在世界冠军基米·安东内利之后，一场五人大混战正在争夺年度亚军的席位。"
+          }
+        ]
+      }
+    ]
+  }
+}
