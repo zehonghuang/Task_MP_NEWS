@@ -167,4 +167,4 @@
 3. **标题层级**：4 个 h2 按现行口径保留为 h2 节点（不再降 h3）；图注段格式 `图注：中译（原图注：EN）` 沿用 §7.5-2 定标。
 4. **取值依据**：layout_code=FEATURE 依据栏目卡 `articleType="Feature"`；type_code=PADDOCK；文中车手号经 `session-results?latest=1`（session_key 11412）核实，非现役车手（Crawford/Button/Hawkins/de la Rosa）不配号。
 5. **累计**：f1 双文件 40 组（首批 10 + 往前 30 + 本批 1，含既有汉密尔顿篇）；状态快照三份（10 + 30 + 1）。
-6. **Git**：本批双文件与状态快照尚未 commit / push（待用户授权）。
+6. **Git**：经用户授权，本批双文件、状态快照与本报告 §8 已于 2026-11-19 commit（`5a60c81`）并 push 至 `origin/feature/f1-lifestyle-culture`。
