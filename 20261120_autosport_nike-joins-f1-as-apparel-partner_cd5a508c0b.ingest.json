@@ -1,0 +1,95 @@
+{
+  "id": "n_autosport_20261120_cd5a508c0b",
+  "layout_code": "STANDARD",
+  "type_code": "PADDOCK",
+  "pinned": false,
+  "weight": 0,
+  "tag_text": "F1 / 围场内幕",
+  "tags": [
+    "nike",
+    "puma",
+    "f1",
+    "f1-academy",
+    "las-vegas-gp",
+    "elliott-hill"
+  ],
+  "title": "Nike成为F1官方服饰合作伙伴",
+  "summary": "Nike将从2027年初起接替彪马成为一级方程式的官方供应商，并推出F1主题系列产品",
+  "cover_url": "https://cdn-1.motorsport.com/images/amp/6O7zEMP6/s1200/nike-x-formula-1.webp",
+  "published_at": "2026-11-20T00:22:25+00:00",
+  "time_text": "",
+  "timezone_name": "Asia/Shanghai",
+  "source": {
+    "name": "Autosport",
+    "url": "https://www.motorsport.com/f1/news/nike-joins-f1-as-apparel-partner/10875754/"
+  },
+  "content": {
+    "format_code": "RICH_TEXT_NODES",
+    "text": "运动服饰巨头耐克已加入F1，成为其官方合作伙伴及服装供应商，并将于2027年初接替彪马的这一角色。\n\n正如外界长期传闻的那样，耐克将从下赛季开始为F1工作人员提供服饰与鞋类产品，这份合作还延伸至F1学院——在今年是最后一次使用前，这两项赛事使用的都是彪马的装备。\n\n这家运动品牌还将推出以F1为灵感的零售系列产品，首个系列将于周五开售，主题围绕拉斯维加斯大奖赛展开。\n\n官宣写道：“耐克将通过聚焦风格、性能与生活方式的胶囊系列，为赛车运动的巅峰注入新能量，产品涵盖鞋类、服饰与配件，同时也包括性能创新，以及面向下一代运动员和车迷的比赛周末体验。”\n\n“车迷将在11月20日率先一睹风采，届时限量的拉斯维加斯大奖赛x耐克胶囊系列将在F1之家和耐克拉斯维加斯门店发售。”\n\n耐克首席执行官埃利奥特·希尔表示：“一级方程式由竞争、速度和永不停歇的创新驱动。这是运动员的心态，也是我们在耐克共有的心态。携手之下，我们拥有绝佳的机会为这项运动注入新能量、服务于它的运动员，并激励全世界的车迷。”",
+    "nodes": [
+      {
+        "name": "img",
+        "attrs": {
+          "src": "https://cdn-1.motorsport.com/images/amp/6O7zEMP6/s1200/nike-x-formula-1.webp",
+          "alt": "Motorsport.com配图",
+          "mode": "widthFix",
+          "style": "width:100%;display:block;"
+        }
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "运动服饰巨头耐克已加入F1，成为其官方合作伙伴及服装供应商，并将于2027年初接替彪马的这一角色。"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "正如外界长期传闻的那样，耐克将从下赛季开始为F1工作人员提供服饰与鞋类产品，这份合作还延伸至F1学院——在今年是最后一次使用前，这两项赛事使用的都是彪马的装备。"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "这家运动品牌还将推出以F1为灵感的零售系列产品，首个系列将于周五开售，主题围绕拉斯维加斯大奖赛展开。"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "官宣写道：“耐克将通过聚焦风格、性能与生活方式的胶囊系列，为赛车运动的巅峰注入新能量，产品涵盖鞋类、服饰与配件，同时也包括性能创新，以及面向下一代运动员和车迷的比赛周末体验。”"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "“车迷将在11月20日率先一睹风采，届时限量的拉斯维加斯大奖赛x耐克胶囊系列将在F1之家和耐克拉斯维加斯门店发售。”"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "耐克首席执行官埃利奥特·希尔表示：“一级方程式由竞争、速度和永不停歇的创新驱动。这是运动员的心态，也是我们在耐克共有的心态。携手之下，我们拥有绝佳的机会为这项运动注入新能量、服务于它的运动员，并激励全世界的车迷。”"
+          }
+        ]
+      }
+    ]
+  }
+}
