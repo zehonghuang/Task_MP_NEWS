@@ -1,0 +1,144 @@
+{
+  "id": "n_autosport_20261120_0525d2065c",
+  "layout_code": "STANDARD",
+  "type_code": "TECH",
+  "pinned": false,
+  "weight": 0,
+  "tag_text": "F1 / 技术解读",
+  "tags": [
+    "las-vegas-gp",
+    "grid-penalties",
+    "antonelli",
+    "12",
+    "piastri",
+    "81",
+    "bearman",
+    "sainz",
+    "stroll",
+    "18",
+    "norris",
+    "1",
+    "russell",
+    "63",
+    "mercedes",
+    "mclaren",
+    "williams",
+    "aston-martin",
+    "aduo"
+  ],
+  "title": "五名车手因引擎更换在F1拉斯维加斯大奖赛吃到发车位罚退",
+  "summary": "基米·安东内利、奥斯卡·皮亚斯特里、奥利弗·贝尔曼、卡洛斯·塞恩斯和兰斯·斯特罗尔都将在拉斯维加斯大奖赛承受一级方程式发车位罚退",
+  "cover_url": "https://cdn-1.motorsport.com/images/amp/6lmAKN80/s1200/andrea-kimi-antonelli-mercedes.webp",
+  "published_at": "2026-11-20T05:18:28+00:00",
+  "time_text": "",
+  "timezone_name": "Asia/Shanghai",
+  "source": {
+    "name": "Autosport",
+    "url": "https://www.motorsport.com/f1/news/five-drivers-set-for-grid-penalties-for-engine-changes-at-f1-las-vegas-gp/10875835/"
+  },
+  "content": {
+    "format_code": "RICH_TEXT_NODES",
+    "text": "将有五名车手在拉斯维加斯大奖赛承受发车位罚退，其中包括新科一级方程式世界冠军基米·安东内利（12号）。\n\n正如梅赛德斯此前所透露的，安东内利将因内燃机更换被罚退五位发车——但他不会因为更换涡轮增压器而追加受罚，因为他仍处于配额之内。\n\n梅赛德斯宣布，这位2026年F1世界冠军将按照ADUO允许的范围启用升级规格的涡轮增压器；而拉塞尔（63号）因为超出配额、需要承受更大额度的发车位罚退，将沿用现行规格。\n\n迈凯伦的奥斯卡·皮亚斯特里（81号）将因更换引擎被罚退10位——车队此前已经预告——而威廉姆斯决定给卡洛斯·塞恩斯换上他本赛季的第五台涡轮增压器，因此他同样要吃下10位罚退。\n\n奥斯卡·皮亚斯特里，迈凯伦\n\n图片来源：Alastair Staley / LAT Images via Getty Images\n\n与安东内利一样，皮亚斯特里和他的队友兰多·诺里斯（1号）也都将换装升级规格的梅赛德斯涡轮增压器。\n\n奥利弗·贝尔曼将因几乎整套动力单元的更换而从队尾发车——包括他的第五台内燃机、第五台涡轮增压器、第五套排气和第五台MGU-K——折算下来合计多达35位罚退。\n\n最后，兰斯·斯特罗尔（18号）将在拉斯维加斯换上第九套能量储存器和第八套控制电子，他的本田动力阿斯顿·马丁赛车在上一站巴西刚刚遭遇又一次与电池相关的退赛。这位加拿大车手将因这两项更换合计被罚退10位。",
+    "nodes": [
+      {
+        "name": "img",
+        "attrs": {
+          "src": "https://cdn-1.motorsport.com/images/amp/6lmAKN80/s1200/andrea-kimi-antonelli-mercedes.webp",
+          "alt": "Motorsport.com配图",
+          "mode": "widthFix",
+          "style": "width:100%;display:block;"
+        }
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "将有五名车手在拉斯维加斯大奖赛承受发车位罚退，其中包括新科一级方程式世界冠军基米·安东内利（12号）。"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "正如梅赛德斯此前所透露的，安东内利将因内燃机更换被罚退五位发车——但他不会因为更换涡轮增压器而追加受罚，因为他仍处于配额之内。"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "梅赛德斯宣布，这位2026年F1世界冠军将按照ADUO允许的范围启用升级规格的涡轮增压器；而拉塞尔（63号）因为超出配额、需要承受更大额度的发车位罚退，将沿用现行规格。"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "迈凯伦的奥斯卡·皮亚斯特里（81号）将因更换引擎被罚退10位——车队此前已经预告——而威廉姆斯决定给卡洛斯·塞恩斯换上他本赛季的第五台涡轮增压器，因此他同样要吃下10位罚退。"
+          }
+        ]
+      },
+      {
+        "name": "img",
+        "attrs": {
+          "src": "https://cdn-1.motorsport.com/images/mgl/0LderBa0/s1200/oscar-piastri-mclaren.webp",
+          "alt": "奥斯卡·皮亚斯特里（迈凯伦）",
+          "mode": "widthFix",
+          "style": "width:100%;display:block;"
+        }
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "奥斯卡·皮亚斯特里，迈凯伦"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "图片来源：Alastair Staley / LAT Images via Getty Images"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "与安东内利一样，皮亚斯特里和他的队友兰多·诺里斯（1号）也都将换装升级规格的梅赛德斯涡轮增压器。"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "奥利弗·贝尔曼将因几乎整套动力单元的更换而从队尾发车——包括他的第五台内燃机、第五台涡轮增压器、第五套排气和第五台MGU-K——折算下来合计多达35位罚退。"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "最后，兰斯·斯特罗尔（18号）将在拉斯维加斯换上第九套能量储存器和第八套控制电子，他的本田动力阿斯顿·马丁赛车在上一站巴西刚刚遭遇又一次与电池相关的退赛。这位加拿大车手将因这两项更换合计被罚退10位。"
+          }
+        ]
+      }
+    ]
+  }
+}
