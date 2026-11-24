@@ -1,0 +1,144 @@
+{
+  "id": "n_autosport_20261123_8dcebc33cf",
+  "layout_code": "STANDARD",
+  "type_code": "DRIVER",
+  "pinned": false,
+  "weight": 0,
+  "tag_text": "F1 / 车手动态",
+  "tags": [
+    "DRIVER"
+  ],
+  "title": "诺里斯拉斯维加斯：「看电池多过看我要去哪里」",
+  "summary": "这一结果让诺里斯以同分身份位列车手积分榜第五，与乔治·拉塞尔持平。",
+  "cover_url": "https://cdn-1.motorsport.com/images/amp/YK15z410/s1200/lando-norris-mclaren-a10877274-b706-2.webp",
+  "published_at": "2026-11-23T17:04:03+00:00",
+  "time_text": "",
+  "timezone_name": "Asia/Shanghai",
+  "source": {
+    "name": "Autosport",
+    "url": "https://www.motorsport.com/f1/news/lando-norris-looking-at-the-battery-more-than-where-im-going-in-las-vegas/10877274/"
+  },
+  "content": {
+    "format_code": "RICH_TEXT_NODES",
+    "text": "麦克拉伦F1车手兰多·诺里斯（1号）表示，他在拉斯维加斯大奖赛的大部分时间里盯着自己的电池多过盯着前方的赛道，因为他从积分区之外一路追回第二名。\n\n这位2025赛季冠军从第三位发车，但到第12圈时已落在第11位，MCL40赛车在拉斯维加斯街道赛道的长直道上大量损失时间。\n\n诺里斯在排位赛后就已经称赛车「在直道上糟糕透顶」，而比赛开局几圈正说明了原因。\n\n「就是在比赛最刚开始的时候，我一直在摸索电池的状况。我似乎总是处在不利的一侧。每次我被超车，都是因为我没有电了，后面的人电量比我多，然后我就一直在往后掉，」他在赛后新闻发布会上解释道。\n\n「整场比赛我全程都在判断电池。我看电池的时间多过我看在这条赛道上要往哪儿开。所以它是最重要的事情。」\n\n兰多·诺里斯（麦克拉伦）\n\n图片来源：Alex Pantling / Getty Images\n\n安全车的出动——起因是塞尔吉奥·佩雷兹与拉斐尔·卡马拉相撞——帮助诺里斯重新回到了竞争行列。\n\n「第一套胎阶段的节奏和第二套胎阶段一样好。只是我们在直道上太容易被攻击了。很多时候都是在想办法把电用在哪儿、不用在哪儿。\n\n我每圈大概要按九个按钮，试图把各项设置调对，让电池按应有的方式工作，给自己创造一点机会。因为我们和别的车相比在直道上太慢了，我们只能做大量的工作来给自己争取任何希望。」\n\n赛季还剩最后两站——卡塔尔和阿布扎比——诺里斯目前以264分位列车手积分榜第五，与梅赛德斯的乔治·拉塞尔（63号）同分，拉塞尔在拉斯维加斯大奖赛后下滑到第四。",
+    "nodes": [
+      {
+        "name": "img",
+        "attrs": {
+          "src": "https://cdn-1.motorsport.com/images/amp/YK15z410/s1200/lando-norris-mclaren-a10877274-b706-2.webp",
+          "alt": "Motorsport.com配图",
+          "mode": "widthFix",
+          "style": "width:100%;display:block;"
+        }
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "麦克拉伦F1车手兰多·诺里斯（1号）表示，他在拉斯维加斯大奖赛的大部分时间里盯着自己的电池多过盯着前方的赛道，因为他从积分区之外一路追回第二名。"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "这位2025赛季冠军从第三位发车，但到第12圈时已落在第11位，MCL40赛车在拉斯维加斯街道赛道的长直道上大量损失时间。"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "诺里斯在排位赛后就已经称赛车「在直道上糟糕透顶」，而比赛开局几圈正说明了原因。"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "「就是在比赛最刚开始的时候，我一直在摸索电池的状况。我似乎总是处在不利的一侧。每次我被超车，都是因为我没有电了，后面的人电量比我多，然后我就一直在往后掉，」他在赛后新闻发布会上解释道。"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "「整场比赛我全程都在判断电池。我看电池的时间多过我看在这条赛道上要往哪儿开。所以它是最重要的事情。」"
+          }
+        ]
+      },
+      {
+        "name": "img",
+        "attrs": {
+          "src": "https://cdn-1.motorsport.com/images/mgl/YE9EblwY/s1200/lando-norris-mclaren.webp",
+          "alt": "Lando Norris, McLaren",
+          "mode": "widthFix",
+          "style": "width:100%;display:block;"
+        }
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "兰多·诺里斯（麦克拉伦）"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "图片来源：Alex Pantling / Getty Images"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "安全车的出动——起因是塞尔吉奥·佩雷兹与拉斐尔·卡马拉相撞——帮助诺里斯重新回到了竞争行列。"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "「第一套胎阶段的节奏和第二套胎阶段一样好。只是我们在直道上太容易被攻击了。很多时候都是在想办法把电用在哪儿、不用在哪儿。"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "我每圈大概要按九个按钮，试图把各项设置调对，让电池按应有的方式工作，给自己创造一点机会。因为我们和别的车相比在直道上太慢了，我们只能做大量的工作来给自己争取任何希望。」"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "赛季还剩最后两站——卡塔尔和阿布扎比——诺里斯目前以264分位列车手积分榜第五，与梅赛德斯的乔治·拉塞尔（63号）同分，拉塞尔在拉斯维加斯大奖赛后下滑到第四。"
+          }
+        ]
+      }
+    ]
+  }
+}
