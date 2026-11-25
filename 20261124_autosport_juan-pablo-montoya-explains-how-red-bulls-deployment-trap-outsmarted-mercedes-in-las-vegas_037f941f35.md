@@ -1,0 +1,47 @@
+# 蒙托亚解析：红牛如何在拉斯维加斯用能量释放套路算计梅赛德斯
+
+- id: `n_autosport_20261124_037f941f35`
+- source.name: `Autosport`
+- source.url: https://www.motorsport.com/f1/news/juan-pablo-montoya-explains-how-red-bulls-deployment-trap-outsmarted-mercedes-in-las-vegas/10877399/
+- published_at: `2026-11-24T12:28:59+00:00`
+- article.image: https://cdn-1.motorsport.com/images/amp/2dEolPnY/s1200/max-verstappen-red-bull-racing-a10877399-b707-2.webp
+- original_title: Juan Pablo Montoya explains how Red Bull outsmarted Mercedes at F1 Las Vegas GP
+- 说明: 本中文稿由模型阅读全文逐段翻译，未使用翻译平台；图片已通过 HTTP 逐张校验可访问，尚未进行浏览器滚动验图。
+
+## 中文正文
+
+![Motorsport.com配图](https://cdn-1.motorsport.com/images/amp/2dEolPnY/s1200/max-verstappen-red-bull-racing-a10877399-b707-2.webp)
+
+梅赛德斯把单圈最快的套装带上了拉斯维加斯大道——新科2026年世界冠军基米·安东内利（12号）夺得杆位，随后因引擎罚退5位跌至第六发车，而乔治·拉塞尔（63号）则与杆位得主马克斯·维斯塔潘（3号）头排并立。
+
+然而在50圈混乱、35次领先交替之后，捧走奖杯的是红牛，两支银箭均未登上领奖台。
+
+在F1 TV的赛后转播中，七届大奖赛冠军得主胡安·巴勃罗·蒙托亚点出了红牛智胜对手的原因。
+
+「不只是马克斯，红牛的策略也好得惊人，」蒙托亚说。「梅赛德斯选择了为最快圈、以及他们心中正常比赛在这条赛道跑最快的策略。我觉得他们没料到我们会每圈互相超车。」
+
+![Andrea Kimi Antonelli, Mercedes, Max Verstappen, Red Bull Racing](https://cdn-1.motorsport.com/images/mgl/27Nojrm0/s1200/andrea-kimi-antonelli-mercedes.webp)
+
+安德烈亚·基米·安东内利（梅赛德斯）、马克斯·维斯塔潘（红牛车队）
+
+图片来源：Lars Baron / LAT Images via Getty Images
+
+在这场以352次超越打破F1超车纪录的较量中，如果赛车在冲线前耗干了电，沿大道纯拼极速意义不大。「红牛总会在直道上牺牲一点，他也总会被超过，但马克斯总能在终点线前追回来，」蒙托亚解释道。
+
+排位赛数据印证了这场豪赌：维斯塔潘通过测速点时极速只排第18——他把电能省下来用在最后一个弯出弯后奔向终点的大直道上。在为西语电视解说比赛的过程中看着这个套路反复上演，蒙托亚明白梅赛德斯没有简单解法。「他们击败马克斯的唯一办法——如果能把两辆车塞在中间的话——是两个人都在长直道上超过他，那样才有机会。如果只有一辆车，马克斯就会赢。而红牛做到了极致。」
+
+在指挥墙上，比赛工程师汤姆·哈特——顶替詹皮耶罗·兰比阿塞后旗开得胜拿下生涯首胜——全程指引维斯塔潘，后者也证实他不断与红牛沟通，以保住那份终点线前的冲刺能力。
+
+「对手们一直在改能量释放方式，我要确保车队跟上了节奏，确保我们到终点的能量释放是最优的——当然不能在其他地方牺牲太多——但要确保如果缠斗到终点线，我们处在正确的释放模式上，」维斯塔潘对F1 TV说。
+
+![Max Verstappen, Red Bull Racing](https://cdn-1.motorsport.com/images/mgl/0Zq8mE46/s1200/max-verstappen-red-bull-racing.webp)
+
+马克斯·维斯塔潘（红牛车队）
+
+图片来源：Lars Baron / LAT Images via Getty Images
+
+蒙托亚仍然单独点名称拉塞尔是「唯一摸清了一点马克斯门道的人」，指出他能量管理得当，即便两次跑宽之后仍能带着领先冲进1号弯。拉塞尔后来承认，沿大道最多能追回1.3秒反而让他在中段赛道暴露短板——第48圈，他在5号弯走脏线进攻安东内利时抱死，滑入护墙，第九名完赛。
+
+紧接着几秒后，安东内利在试图控制维斯塔潘身后位置时于后直道松油再给油，电池彻底耗干，从第二跌至第四、被两辆麦克拉伦双双超越——托托·沃尔夫计划的最后400米强攻就此落空。
+
+维斯塔潘2026年的第4个分站头名、生涯第75胜，让他积分升至304分，在车手积分榜亚军之争中领先刘易斯·汉密尔顿（44号，267分）37分、领先拉塞尔（63号，264分）40分，仅次于安东内利（402分）。梅赛德斯或许带来了内华达最快的单圈赛车，但红牛把这盘棋读得深得多。

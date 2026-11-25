@@ -1,0 +1,35 @@
+# F1评论员呼吁法拉利动真格：「我会让贝尔曼上场一场」
+
+- id: `n_autosport_20261124_9ca1fade53`
+- source.name: `Autosport`
+- source.url: https://www.motorsport.com/f1/news/chuck-bearman-in-for-a-race-james-hinchcliffe-calls-for-real-consequences-after-ferraris-latest-mel/10877438/
+- published_at: `2026-11-24T13:00:03+00:00`
+- article.image: https://cdn-1.motorsport.com/images/amp/6DGgbp7Y/s1200/charles-leclerc-ferrari-lewis-a10877438-b704-2.webp
+- original_title: F1 pundit calls for real consequences at Ferrari: "I'd chuck Ollie Bearman in for a race"
+- 说明: 本中文稿由模型阅读全文逐段翻译，未使用翻译平台；图片已通过 HTTP 逐张校验可访问，尚未进行浏览器滚动验图。
+
+## 中文正文
+
+![Motorsport.com配图](https://cdn-1.motorsport.com/images/amp/6DGgbp7Y/s1200/charles-leclerc-ferrari-lewis-a10877438-b704-2.webp)
+
+2026年拉斯维加斯大奖赛上，夏尔·勒克莱尔（16号）与刘易斯·汉密尔顿（44号）在三场比赛内第二次相撞之后，围场的讨论很快从「谁误判了7号弯」转向一个更难的问题：法拉利到底怎样才能阻止这一切重演？
+
+在F1 TV的赛后节目中，前IndyCar车手詹姆斯·辛克利提出，车队领队弗雷德·瓦瑟可能不得不使出终极威慑——把正赛席位交给法拉利青训车手奥利弗·贝尔曼。
+
+「接下来你怎么办？我的意思是，你不能雪藏他们中的一个——虽然那正是你想做的，」辛克利开场说道，引得联合评论员乔利恩·帕尔默插话：「也许你真能这么干。」
+
+辛克利立刻顺着这个思路说下去：「我的意思是，我会让贝尔曼上场跑一场，让他们其中一个坐板凳，然后说『给你们个教训』——得让他们知道后果很严重。但我不知道弗雷德还能做什么，所以我理解他；我真替他难受。」
+
+在辛克利看来，第38圈这次纠缠之所以令人费解，恰恰因为它发生在一场打破纪录的352次超车大战之中。「这可不是摩纳哥。这不是你唯一的超越机会，所以别冒没必要的险，」他指出。
+
+![Charles Leclerc, Ferrari, Lewis Hamilton, Ferrari](https://cdn-1.motorsport.com/images/mgl/6b8Zy7v2/s1200/charles-leclerc-ferrari-lewis-.webp)
+
+夏尔·勒克莱尔、刘易斯·汉密尔顿（法拉利）
+
+图片来源：Manuel Eletto
+
+即便如此，相比一些批评者，辛克利对赛会干事的裁决给出了更平衡的看法。「我确实认为刘易斯把他往外挤了一点……他右手边还有空间，本可以给得更足一些，也许就能避免碰撞，」辛克利说。「但勒克莱尔非得把车头扎进内线吗？不必。所以两人都有责任。我觉得罚单苛刻了，因为这更接近一次竞赛事故。」
+
+然而同情心在车库内部就消散了。「队内的争斗、责任在队内如何归属——当你听说就在碰撞前五个弯角，[勒克莱尔]刚被要求悠着点、结果还是撞了，风向多少会有些变化，」辛克利补充道。「我无法想象那种沮丧。」
+
+同样参与这档节目的前F1车手胡安·巴勃罗·蒙托亚支持从严处置，坚称「法拉利内部必须为此类事情设立更强硬的后果」。稍后接受F1 TV采访时，勒克莱尔没有对他的10秒罚时提出异议，坦言：「赛车之间相撞仍然不可接受，无论这次事件带来什么处罚，我都会承担责任。」
