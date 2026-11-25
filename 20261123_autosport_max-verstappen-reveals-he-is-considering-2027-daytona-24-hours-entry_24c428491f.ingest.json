@@ -4,9 +4,13 @@
   "type_code": "DRIVER",
   "pinned": false,
   "weight": 0,
-  "tag_text": "F1 / 车手动态",
+  "tag_text": "维斯塔潘 / 参赛意向",
   "tags": [
-    "DRIVER"
+    "verstappen",
+    "3",
+    "daytona-24h",
+    "gt3",
+    "endurance-racing"
   ],
   "title": "维斯塔潘透露正考虑参加2027年代托纳24小时耐力赛",
   "summary": "维斯塔潘表示，他目前正在探索明年参加代托纳24小时耐力赛是否可行。如果他参赛，将驾驶GT3赛车。",

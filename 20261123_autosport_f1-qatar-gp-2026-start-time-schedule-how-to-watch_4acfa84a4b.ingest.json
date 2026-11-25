@@ -4,9 +4,12 @@
   "type_code": "PADDOCK",
   "pinned": false,
   "weight": 0,
-  "tag_text": "F1 / 围场动态",
+  "tag_text": "卡塔尔站 / 美国观赛指南",
   "tags": [
-    "PADDOCK"
+    "qatar-gp",
+    "broadcast",
+    "apple-tv",
+    "schedule"
   ],
   "title": "F1卡塔尔大奖赛2026：发车时间、赛程与观赛指南（美国版）",
   "summary": "2026年F1卡塔尔大奖赛在美国各时区的具体发车时间，完整赛程以及在Apple TV上观看直播的方式。",

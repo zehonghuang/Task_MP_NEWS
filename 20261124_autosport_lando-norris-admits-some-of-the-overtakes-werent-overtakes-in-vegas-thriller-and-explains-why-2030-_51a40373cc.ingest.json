@@ -4,9 +4,14 @@
   "type_code": "DRIVER",
   "pinned": false,
   "weight": 0,
-  "tag_text": "F1 / 车手动态",
+  "tag_text": "诺里斯 / 赛后点评",
   "tags": [
-    "DRIVER"
+    "norris",
+    "1",
+    "mclaren",
+    "overtakes",
+    "las-vegas-gp",
+    "regulations-2030"
   ],
   "title": "诺里斯预计2030年F1比赛会超越拉斯维加斯大奖赛这场大秀",
   "summary": "诺里斯对拉斯维加斯352次超车这一统计数据提出质疑，称在2026年规则下「有些超车根本不是超车」。",

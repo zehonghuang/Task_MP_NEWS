@@ -4,9 +4,11 @@
   "type_code": "PADDOCK",
   "pinned": false,
   "weight": 0,
-  "tag_text": "F1 / 围场动态",
+  "tag_text": "2027发车格 / 阵容盘点",
   "tags": [
-    "PADDOCK"
+    "driver-market",
+    "f1-2027",
+    "grid-lineup"
   ],
   "title": "2027年F1发车格盘点：谁将效力哪支车队？",
   "summary": "明年的发车格阵容正在逐渐成形——但谁会在哪里开车？",

@@ -4,9 +4,13 @@
   "type_code": "DRIVER",
   "pinned": false,
   "weight": 0,
-  "tag_text": "F1 / 车手动态",
+  "tag_text": "诺里斯 / 能量管理",
   "tags": [
-    "DRIVER"
+    "norris",
+    "1",
+    "mclaren",
+    "energy-management",
+    "las-vegas-gp"
   ],
   "title": "诺里斯拉斯维加斯：「看电池多过看我要去哪里」",
   "summary": "这一结果让诺里斯以同分身份位列车手积分榜第五，与乔治·拉塞尔持平。",

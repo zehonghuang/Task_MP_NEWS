@@ -4,9 +4,13 @@
   "type_code": "DRIVER",
   "pinned": false,
   "weight": 0,
-  "tag_text": "F1 / 车手动态",
+  "tag_text": "加斯利 / 赛后复盘",
   "tags": [
-    "DRIVER"
+    "gasly",
+    "10",
+    "alpine",
+    "podium",
+    "las-vegas-gp"
   ],
   "title": "让加斯利在拉斯维加斯痛失「胜利」的那个问题",
   "summary": "Alpine车手加斯利第五名完赛，但比赛过半时他一度高居第三。",
