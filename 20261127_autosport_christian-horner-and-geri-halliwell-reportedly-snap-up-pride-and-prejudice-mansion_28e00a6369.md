@@ -1,0 +1,37 @@
+# 据报道霍纳与哈利韦尔买下《傲慢与偏见》取景庄园
+
+- id: `n_autosport_20261127_28e00a6369`
+- source.name: `Autosport`
+- source.url: https://www.motorsport.com/f1/news/christian-horner-and-geri-halliwell-reportedly-snap-up-pride-and-prejudice-mansion/10878015/
+- published_at: `2026-11-27T00:47:19+00:00`
+- article.image: https://cdn-1.motorsport.com/images/amp/2d1k3zDY/s1200/geri-horner-and-christian-horn-a10878015-b708-2.webp
+- original_title: Christian Horner and Geri Halliwell reportedly snap up "Pride and Prejudice" mansion
+- 说明: 本中文稿由模型阅读全文逐段翻译，未使用翻译平台；图片已通过 HTTP 逐张校验可访问，尚未进行浏览器滚动验图。
+
+## 中文正文
+
+![Motorsport.com配图](https://cdn-1.motorsport.com/images/amp/2d1k3zDY/s1200/geri-horner-and-christian-horn-a10878015-b708-2.webp)
+
+据消息人士了解，前红牛车队领队兼首席执行官克里斯蒂安·霍纳与妻子、「辣妹合唱团」成员杰瑞·哈利韦尔已购下埃奇科特庄园——这座历史悠久的北安普顿郡庄园曾出现在英国广播公司的《傲慢与偏见》中。
+
+据《每日邮报》报道，这对夫妇在击败一笔约 5200 万英镑的竞争报价后拿下了这片 1700 英亩的庄园。今年夏天他们早先给出的 4500 万英镑报价曾被告知不接受，当时另一位买家出了更高的价，随后霍纳夫妇带着更高的报价重返。最终成交价尚未得到确认。
+
+这座被列为一级保护建筑的主宅在 1995 年英国广播公司改编简·奥斯汀同名小说的剧集中被用作内瑟菲尔德庄园；它历史上还曾作为亨利八世与安妮·克莱沃离婚协议的一部分被赐予后者。
+
+庄园内包含两处职业赛马训练场、跑道、围场和一条赛马场，预计将成为他们赛马事业的基地。
+
+![杰瑞·霍纳与克里斯蒂安·霍纳（红牛车队领队）](https://cdn-1.motorsport.com/images/mgl/2wB9xN30/s1200/geri-horner-with-christian-hor.webp)
+
+杰瑞·霍纳与克里斯蒂安·霍纳（红牛车队领队）
+
+图片来源：Getty Images
+
+主宅设有八间卧室，居住面积超过 25000 平方英尺。目前尚不清楚这笔交易是否包含散布在庄园各处的 31 栋小屋与住宅。
+
+这次置业距离霍纳在 2025 年 7 月被红牛解雇已超过一年，此前他执掌这家米尔顿凯恩斯车队长达 20 年。
+
+根据财报披露，据了解他收到了约 8000 万英镑的「离职补偿」。
+
+今年早些时候，这位英国人在银石赛道举行的英国大奖赛上重返 F1 围场，并谈到了重返这项赛事的可能性。「我很享受离开的这段时间。我和红牛那帮人连续干了 20 年。在那之前我显然也在忙别的，所以这是我这辈子头一次有时间从连轴转的循环里脱身。」他告诉天空体育。
+
+「但对我而言，我只会考虑做对的事情——一件说到底真正有机会赢的事情。」

@@ -1,0 +1,145 @@
+{
+  "id": "n_autosport_20261127_8500c610db",
+  "layout_code": "STANDARD",
+  "type_code": "PADDOCK",
+  "pinned": false,
+  "weight": 0,
+  "tag_text": "诺里斯 / 用赛道说话",
+  "tags": [
+    "norris",
+    "1",
+    "russell",
+    "63",
+    "verstappen",
+    "3",
+    "mclaren",
+    "piastri",
+    "81",
+    "qatar",
+    "sky-sports"
+  ],
+  "title": "诺里斯谈拉塞尔与维斯塔潘的恩怨：「你能在赛道上兑现才管用」",
+  "summary": "2025 年世界冠军诺里斯在卡塔尔赛前被问到为何这两位车手合不来，他直言「谁也不需要和所有人都处得好」，并强调可以用话说、也可以用赛道上的话说——维斯塔潘早已证明自己，而拉塞尔还没有；他表示自己依然尊重两人，也期待看到拉塞尔给维斯塔潘制造更激烈的抵抗",
+  "cover_url": "https://cdn-1.motorsport.com/images/amp/YWKAlWDY/s1200/lando-norris-mclaren-a10877909-b706-2.webp",
+  "published_at": "2026-11-27T00:43:15+00:00",
+  "time_text": "",
+  "timezone_name": "Asia/Shanghai",
+  "source": {
+    "name": "Autosport",
+    "url": "https://www.motorsport.com/f1/news/lando-norris-on-george-russell-and-max-verstappen-rivalry-helps-when-you-back-it-up-on-track/10877909/"
+  },
+  "content": {
+    "format_code": "RICH_TEXT_NODES",
+    "text": "2025 年 F1 世界冠军兰多·诺里斯就马克斯·维斯塔潘与乔治·拉塞尔重新燃起的恩怨发表了看法。他认为对手之间不必相处融洽，真正算数的是赛道上的成绩。\n\n维斯塔潘和拉塞尔在拉斯维加斯的第三节练习赛中发生冲突。拉塞尔事后说「总得有人站出来对付那家伙」，而在这位荷兰人于大道之上赢下比赛后，维斯塔潘说拉塞尔「离我的水平差得太远」。\n\n在卡塔尔大奖赛前接受天空体育 F1 频道采访时，诺里斯被问到这两人为什么处不来。\n\n「你不需要和谁相处融洽。你和每个人都处得来吗？其实这个问题我可以替你回答：不能。所以这很正常，生活里就是这样，不会所有人都认同所有事。」这位迈凯伦车手解释道。\n\n兰多·诺里斯（迈凯伦）\n\n图片来源：Mark Sutton / Formula 1 via Getty Images\n\n「你可以选择在赛道上说话，也可以选择在镜头前说话。通常只要你能用赛道上的表现为自己的话背书，事情就会好办得多。而说到底，所有人都只关心这一点。」\n\n诺里斯没有选边站，但对两位车手各自所处的位置说得很清楚。「我依然非常尊重这两位车手。显然，马克斯已经向大家证明了他能做到什么；而乔治，我觉得他还没有证明自己能做到什么。我仍然认为他在自己的 F1 生涯里能取得很多成就，我也期待看到那一天。」\n\n他还补充说，拉塞尔今年过得很艰难，而他期待未来能看到更多这位梅赛德斯车手「与马克斯激烈抗争」的场面。\n\n诺里斯在拉斯维加斯仅次于维斯塔潘获得第二，队友奥斯卡·皮亚斯特里第三，而他本人并未卷入这场纷争。",
+    "nodes": [
+      {
+        "name": "img",
+        "attrs": {
+          "src": "https://cdn-1.motorsport.com/images/amp/YWKAlWDY/s1200/lando-norris-mclaren-a10877909-b706-2.webp",
+          "alt": "Motorsport.com配图",
+          "mode": "widthFix",
+          "style": "width:100%;display:block;"
+        }
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "2025 年 F1 世界冠军兰多·诺里斯就马克斯·维斯塔潘与乔治·拉塞尔重新燃起的恩怨发表了看法。他认为对手之间不必相处融洽，真正算数的是赛道上的成绩。"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "维斯塔潘和拉塞尔在拉斯维加斯的第三节练习赛中发生冲突。拉塞尔事后说「总得有人站出来对付那家伙」，而在这位荷兰人于大道之上赢下比赛后，维斯塔潘说拉塞尔「离我的水平差得太远」。"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "在卡塔尔大奖赛前接受天空体育 F1 频道采访时，诺里斯被问到这两人为什么处不来。"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "「你不需要和谁相处融洽。你和每个人都处得来吗？其实这个问题我可以替你回答：不能。所以这很正常，生活里就是这样，不会所有人都认同所有事。」这位迈凯伦车手解释道。"
+          }
+        ]
+      },
+      {
+        "name": "img",
+        "attrs": {
+          "src": "https://cdn-1.motorsport.com/images/mgl/68VwBjB2/s1200/lando-norris-mclaren.webp",
+          "alt": "兰多·诺里斯（迈凯伦）",
+          "mode": "widthFix",
+          "style": "width:100%;display:block;"
+        }
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "兰多·诺里斯（迈凯伦）"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "图片来源：Mark Sutton / Formula 1 via Getty Images"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "「你可以选择在赛道上说话，也可以选择在镜头前说话。通常只要你能用赛道上的表现为自己的话背书，事情就会好办得多。而说到底，所有人都只关心这一点。」"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "诺里斯没有选边站，但对两位车手各自所处的位置说得很清楚。「我依然非常尊重这两位车手。显然，马克斯已经向大家证明了他能做到什么；而乔治，我觉得他还没有证明自己能做到什么。我仍然认为他在自己的 F1 生涯里能取得很多成就，我也期待看到那一天。」"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "他还补充说，拉塞尔今年过得很艰难，而他期待未来能看到更多这位梅赛德斯车手「与马克斯激烈抗争」的场面。"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "诺里斯在拉斯维加斯仅次于维斯塔潘获得第二，队友奥斯卡·皮亚斯特里第三，而他本人并未卷入这场纷争。"
+          }
+        ]
+      }
+    ]
+  }
+}

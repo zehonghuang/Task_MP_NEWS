@@ -1,0 +1,151 @@
+{
+  "id": "n_autosport_20261126_634a5dd309",
+  "layout_code": "BULLETIN",
+  "type_code": "PADDOCK",
+  "pinned": false,
+  "weight": 0,
+  "tag_text": "阿隆索 / 抱病缺席媒体日",
+  "tags": [
+    "alonso",
+    "14",
+    "aston-martin",
+    "honda",
+    "qatar",
+    "media-day",
+    "las-vegas",
+    "cadillac"
+  ],
+  "title": "阿隆索因病毒感染缺席卡塔尔 F1 媒体日",
+  "summary": "阿斯顿马丁确认阿隆索因在拉斯维加斯周末末段感染的病毒仍在康复中，缺席洛塞尔的传统媒体日，计划周五重回围场并争取参加第一节练习赛；此前他在内华达因引擎故障退赛，本田动力的阿斯顿马丁度过了赛季最艰难的周末之一",
+  "cover_url": "https://cdn-1.motorsport.com/images/amp/6zoD4Ma0/s1200/fernando-alonso-aston-martin-r.webp",
+  "published_at": "2026-11-26T10:57:58+00:00",
+  "time_text": "",
+  "timezone_name": "Asia/Shanghai",
+  "source": {
+    "name": "Autosport",
+    "url": "https://www.motorsport.com/f1/news/fernando-alonso-to-miss-qatar-f1-media-day-with-viral-illness/10877849/"
+  },
+  "content": {
+    "format_code": "RICH_TEXT_NODES",
+    "text": "费尔南多·阿隆索将缺席卡塔尔大奖赛前的 F1 媒体日，他正在从一次「病毒感染」中恢复。\n\n这位两届冠军将错过洛塞尔国际赛道惯例的媒体义务，他的目标是尽快恢复健康，赶上周五的第一节练习赛。\n\n他所在的阿斯顿马丁车队在一份声明中解释：「费尔南多今天将缺席媒体日，因为他仍在从拉斯维加斯大奖赛周末末段感染的一种病毒中康复。\n\n「他恢复得不错，计划于周五回到围场。」\n\n阿隆索在拉斯维加斯未能完赛，原因是他自己所说的引擎在后段故障。考虑到这条大道街道赛道对动力的极高需求，使用本田动力的阿斯顿马丁度过了本赛季最艰难的周末之一。\n\n这意味着这位西班牙人无法在他目前 7 分的成绩上继续增分，而这 7 分已让阿斯顿马丁在车队积分榜上压过新军凯迪拉克。\n\n在中东地区局势紧张、由美国与以色列同伊朗之间的战争所引发的背景下，关于在此比赛是否安全曾拖延许久，最终 F1 还是来到了卡塔尔。\n\n洛塞尔\n\n图片来源：Lars Baron / LAT Images via Getty Images\n\n巴林大奖赛和沙特阿拉伯大奖赛在年初被取消，不过前者此后重新回到赛历，只是比赛场地改到了马来西亚的雪邦赛道。\n\n在安全保障措施落实之后——而且 Liberty Media 旗下的摩托车世锦赛几周前刚刚在洛塞尔完赛——F1 确认卡塔尔站以及下周阿布扎比的赛季收官战将如期举行，从而完成一张 23 场比赛的赛历。",
+    "nodes": [
+      {
+        "name": "img",
+        "attrs": {
+          "src": "https://cdn-1.motorsport.com/images/amp/6zoD4Ma0/s1200/fernando-alonso-aston-martin-r.webp",
+          "alt": "Motorsport.com配图",
+          "mode": "widthFix",
+          "style": "width:100%;display:block;"
+        }
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "费尔南多·阿隆索将缺席卡塔尔大奖赛前的 F1 媒体日，他正在从一次「病毒感染」中恢复。"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "这位两届冠军将错过洛塞尔国际赛道惯例的媒体义务，他的目标是尽快恢复健康，赶上周五的第一节练习赛。"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "他所在的阿斯顿马丁车队在一份声明中解释：「费尔南多今天将缺席媒体日，因为他仍在从拉斯维加斯大奖赛周末末段感染的一种病毒中康复。"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "「他恢复得不错，计划于周五回到围场。」"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "阿隆索在拉斯维加斯未能完赛，原因是他自己所说的引擎在后段故障。考虑到这条大道街道赛道对动力的极高需求，使用本田动力的阿斯顿马丁度过了本赛季最艰难的周末之一。"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "这意味着这位西班牙人无法在他目前 7 分的成绩上继续增分，而这 7 分已让阿斯顿马丁在车队积分榜上压过新军凯迪拉克。"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "在中东地区局势紧张、由美国与以色列同伊朗之间的战争所引发的背景下，关于在此比赛是否安全曾拖延许久，最终 F1 还是来到了卡塔尔。"
+          }
+        ]
+      },
+      {
+        "name": "img",
+        "attrs": {
+          "src": "https://cdn-1.motorsport.com/images/mgl/0kZAZnV6/s1200/lusail-city-qatar-november-30-.webp",
+          "alt": "洛塞尔",
+          "mode": "widthFix",
+          "style": "width:100%;display:block;"
+        }
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "洛塞尔"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "图片来源：Lars Baron / LAT Images via Getty Images"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "巴林大奖赛和沙特阿拉伯大奖赛在年初被取消，不过前者此后重新回到赛历，只是比赛场地改到了马来西亚的雪邦赛道。"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "在安全保障措施落实之后——而且 Liberty Media 旗下的摩托车世锦赛几周前刚刚在洛塞尔完赛——F1 确认卡塔尔站以及下周阿布扎比的赛季收官战将如期举行，从而完成一张 23 场比赛的赛历。"
+          }
+        ]
+      }
+    ]
+  }
+}
